@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">8. Aṭṭhakanipāto</p>
+
+<p rend="subhead">1. Mahākaccāyanattheragāthā</p>
+
+<p rend="hangnum" n="494"><hi rend="paranum">494</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Kammaṃ <pb ed="M" n="0.0295" /><pb ed="V" n="0.0232" /><pb ed="P" n="0.0052" /> bahukaṃ na kāraye, parivajjeyya janaṃ na uyyame;</p>
+
+<p rend="gathalast">So ussukko rasānugiddho, atthaṃ riñcati yo sukhādhivāho.</p>
+
+<p rend="hangnum" n="495"><hi rend="paranum">495</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Paṅkoti hi naṃ avedayuṃ, yāyaṃ vandanapūjanā kulesu;</p>
+
+<p rend="gathalast">Sukhumaṃ sallaṃ durubbahaṃ, sakkāro kāpurisena dujjaho.</p>
+
+<p rend="hangnum" n="496"><hi rend="paranum">496</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Na parassupanidhāya, kammaṃ maccassa pāpakaṃ;</p>
+
+<p rend="gathalast">Attanā taṃ na seveyya, kammabandhūhi mātiyā.</p>
+
+<p rend="hangnum" n="497"><hi rend="paranum">497</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Na pare vacanā coro, na pare vacanā muni;</p>
+
+<p rend="gathalast">Attā ca naṃ yathāvedi <note>yathā vetti (sī.)</note>, devāpi naṃ tathā vidū.</p>
+
+<p rend="hangnum" n="498"><hi rend="paranum">498</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Pare ca na vijānanti, mayamettha yamāmase;</p>
+
+<p rend="gathalast">Ye <pb ed="T" n="0.0342" /> ca tattha vijānanti, tato sammanti medhagā.</p>
+
+<p rend="hangnum" n="499"><hi rend="paranum">499</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Jīvate vāpi sappañño, api vittaparikkhayo;</p>
+
+<p rend="gathalast">Paññāya ca alābhena <note>abhāvena (sī. aṭṭha.)</note>, vittavāpi na jīvati.</p>
+
+<p rend="hangnum" n="500"><hi rend="paranum">500</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Sabbaṃ suṇāti sotena, sabbaṃ passati cakkhunā;</p>
+
+<p rend="gathalast">Na ca diṭṭhaṃ sutaṃ dhīro, sabbaṃ ujjhitumarahati.</p>
+
+<p rend="hangnum" n="501"><hi rend="paranum">501</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Cakkhumāssa yathā andho, sotavā badhiro yathā;</p>
+
+<p rend="gatha2">Paññavāssa yathā mūgo, balavā dubbaloriva;</p>
+
+<p rend="gathalast">Atha atthe samuppanne, sayetha <note>passetha (ka.)</note> matasāyika’’nti.</p>
+
+<p rend="centre">… Mahākaccāyano thero….</p>
+
+<p rend="subhead">2. Sirimittattheragāthā</p>
+
+<p rend="hangnum" n="502"><hi rend="paranum">502</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Akkodhanonupanāhī, amāyo rittapesuṇo;</p>
+
+<p rend="gathalast">Sa ve tādisako bhikkhu, evaṃ pecca na socati.</p>
+
+<p rend="hangnum" n="503"><hi rend="paranum">503</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Akkodhanonupanāhī, amāyo rittapesuṇo;</p>
+
+<p rend="gathalast">Guttadvāro sadā bhikkhu, evaṃ pecca na socati.</p>
+
+<p rend="hangnum" n="504"><hi rend="paranum">504</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Akkodhanonupanāhī <pb ed="M" n="0.0296" /><pb ed="V" n="0.0233" />, amāyo rittapesuṇo;</p>
+
+<p rend="gathalast">Kalyāṇasīlo so <note>yo (syā.)</note> bhikkhu, evaṃ pecca na socati.</p>
+
+<p rend="hangnum" n="505"><hi rend="paranum">505</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Akkodhanonupanāhī, amāyo rittapesuṇo;</p>
+
+<p rend="gathalast">Kalyāṇamitto so bhikkhu, evaṃ pecca na socati.</p>
+
+<p rend="hangnum" n="506"><hi rend="paranum">506</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Akkodhanonupanāhī <pb ed="P" n="0.0053" />, amāyo rittapesuṇo;</p>
+
+<p rend="gathalast">Kalyāṇapañño so bhikkhu, evaṃ pecca na socati.</p>
+
+<p rend="hangnum" n="507"><hi rend="paranum">507</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Yassa saddhā tathāgate, acalā suppatiṭṭhitā;</p>
+
+<p rend="gathalast">Sīlañca <pb ed="T" n="0.0343" /> yassa kalyāṇaṃ, ariyakantaṃ pasaṃsitaṃ.</p>
+
+<p rend="hangnum" n="508"><hi rend="paranum">508</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Saṅghe pasādo yassatthi, ujubhūtañca dassanaṃ;</p>
+
+<p rend="gathalast">‘Adaliddo’ti taṃ āhu, amoghaṃ tassa jīvitaṃ.</p>
+
+<p rend="hangnum" n="509"><hi rend="paranum">509</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Tasmā saddhañca sīlañca, pasādaṃ dhammadassanaṃ;</p>
+
+<p rend="gathalast">Anuyuñjetha medhāvī, saraṃ buddhāna sāsana’’nti.</p>
+
+<p rend="centre">… Sirimitto thero….</p>
+
+<p rend="subhead">3. Mahāpanthakattheragāthā</p>
+
+<p rend="hangnum" n="510"><hi rend="paranum">510</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Yadā paṭhamamaddakkhiṃ, satthāramakutobhayaṃ;</p>
+
+<p rend="gathalast">Tato me ahu saṃvego, passitvā purisuttamaṃ.</p>
+
+<p rend="hangnum" n="511"><hi rend="paranum">511</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Siriṃ hatthehi pādehi, yo paṇāmeyya āgataṃ;</p>
+
+<p rend="gathalast">Etādisaṃ so satthāraṃ, ārādhetvā virādhaye.</p>
+
+<p rend="hangnum" n="512"><hi rend="paranum">512</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Tadāhaṃ puttadārañca, dhanadhaññañca chaḍḍayiṃ;</p>
+
+<p rend="gathalast">Kesamassūni chedetvā, pabbajiṃ anagāriyaṃ.</p>
+
+<p rend="hangnum" n="513"><hi rend="paranum">513</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Sikkhāsājīvasampanno, indriyesu susaṃvuto;</p>
+
+<p rend="gatha2">Namassamāno sambuddhaṃ, vihāsiṃ aparājito.</p>
+
+<p rend="hangnum" n="514"><hi rend="paranum">514</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Tato me paṇidhī āsi, cetaso abhipatthito;</p>
+
+<p rend="gatha2">Na nisīde muhuttampi, taṇhāsalle anūhate.</p>
+
+<p rend="hangnum" n="515"><hi rend="paranum">515</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Tassa mevaṃ viharato, passa vīriyaparakkamaṃ;</p>
+
+<p rend="gatha2">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</p>
+
+<p rend="hangnum" n="516"><hi rend="paranum">516</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Pubbenivāsaṃ <pb ed="M" n="0.0297" /> jānāmi, dibbacakkhu visodhitaṃ;</p>
+
+<p rend="gathalast">Arahā dakkhiṇeyyomhi, vippamutto nirūpadhi.</p>
+
+<p rend="hangnum" n="517"><hi rend="paranum">517</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Tato <pb ed="T" n="0.0344" /><pb ed="V" n="0.0234" /> ratyā vivasāne <note>vivasane (sī. syā.)</note>, sūriyassuggamanaṃ pati;</p>
+
+<p rend="gathalast">Sabbaṃ taṇhaṃ visosetvā, pallaṅkena upāvisi’’nti.</p>
+
+<p rend="centre">… Mahāpanthako thero….</p>
+
+<p rend="centre">Aṭṭhakanipāto niṭṭhito.</p>
+
+<p rend="bodytext">Tatruddānaṃ –</p>
+
+<p rend="gathalast">Mahākaccāyano thero, sirimitto mahāpanthako;</p>
+
+<p rend="gathalast">Ete aṭṭhanipātamhi, gāthāyo catuvīsatīti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

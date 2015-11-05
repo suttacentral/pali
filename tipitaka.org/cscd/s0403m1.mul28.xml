@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">3. Rāgapeyyālaṃ</p>
+
+<p rend="bodytext" n="303"><hi rend="paranum">303</hi><hi rend="dot">.</hi> ‘‘Rāgassa <pb ed="V" n="2.0262" />, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Asubhasaññā, maraṇasaññā, ādīnavasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā <note>sabbatthapi evameva dissati</note> – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti.</p>
+
+<p rend="bodytext" n="304"><hi rend="paranum">304</hi><hi rend="dot">.</hi> ‘‘Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Aniccasaññā, anattasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti.</p>
+
+<p rend="bodytext" n="305"><hi rend="paranum">305</hi><hi rend="dot">.</hi> ‘‘Rāgassa <pb ed="M" n="2.0245" />, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti.</p>
+
+<p rend="bodytext" n="306"><hi rend="paranum">306</hi><hi rend="dot">.</hi> ‘‘Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti.</p>
+
+<p rend="bodytext" n="307"><hi rend="paranum">307</hi><hi rend="dot">.</hi> ‘‘Rāgassa <pb ed="T" n="3.0309" /><pb ed="P" n="3.0278" />, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti.</p>
+
+<p rend="bodytext" n="308-1151"><hi rend="paranum">308-1151</hi><hi rend="dot">.</hi> ‘‘Rāgassa, bhikkhave, pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya pañca dhammā bhāvetabbā. Dosassa… mohassa… kodhassa… upanāhassa… makkhassa… paḷāsassa… issāya… macchariyassa… māyāya… sāṭheyyassa… thambhassa… sārambhassa… mānassa… atimānassa <pb ed="V" n="2.0263" /> … madassa… pamādassa abhiññāya… pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya pañca dhammā bhāvetabbā.</p>
+
+<p rend="bodytext">‘‘Katame pañca? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ – pamādassa, bhikkhave, paṭinissaggāya ime pañca dhammā bhāvetabbā’’ti.</p>
+
+<p rend="centre">Rāgapeyyālaṃ niṭṭhitaṃ.</p>
+
+<p rend="bodytext">Tassuddānaṃ –</p>
+
+<p rend="gatha1">Abhiññāya pariññāya parikkhayāya,</p>
+
+<p rend="gatha2">Pahānāya khayāya vayena ca;</p>
+
+<p rend="gatha3">Virāganirodhā cāgañca,</p>
+
+<p rend="gathalast">Paṭinissaggo ime dasāti.</p>
+
+<p rend="centre">Pañcakanipāto niṭṭhito.</p>
+
+<p rend="bodytext">Tatridaṃ vagguddānaṃ –</p>
+
+<p rend="gatha1">Sekhabalaṃ <pb ed="M" n="2.0246" /> balañceva, pañcaṅgikañca sumanaṃ;</p>
+
+<p rend="gatha2">Muṇḍanīvaraṇañca saññañca, yodhājīvañca aṭṭhamaṃ;</p>
+
+<p rend="gatha3">Theraṃ kakudhaphāsuñca, andhakavindadvādasaṃ;</p>
+
+<p rend="gatha2">Gilānarājatikaṇḍaṃ, saddhammāghātupāsakaṃ;</p>
+
+<p rend="gatha3">Araññabrāhmaṇañceva, kimilakkosakaṃ tathā;</p>
+
+<p rend="gathalast">Dīghācārāvāsikañca, duccaritūpasampadanti.</p>
+
+<p rend="centre">Pañcakanipātapāḷi niṭṭhitā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Aṅguttaranikāyo</p>
+
+<p rend="book">Tikanipātapāḷi</p>
+
+<p rend="title">1. Paṭhamapaṇṇāsakaṃ</p>
+
+<p rend="chapter">1. Bālavaggo</p>
+
+<p rend="subhead">1. Bhayasuttaṃ</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Evaṃ <pb ed="T" n="1.0127" /><pb ed="V" n="1.0123" /><pb ed="P" n="1.0101" /><pb ed="M" n="1.0099" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante <note>bhaddante (ka.)</note>’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</p>
+
+<p rend="bodytext">‘‘Yāni kānici, bhikkhave, bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no <pb ed="V" n="1.0124" /> paṇḍitato. Ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. Ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. Seyyathāpi, bhikkhave, naḷāgārā vā tiṇāgārā vā <note>naḷāgāraṃ vā tiṇāgāraṃ vā (sī.)</note> aggi mutto <note>aggimukko (sī.), aggi mukko (syā. kaṃ. pī.)</note> kūṭāgārānipi ḍahati ullittāvalittāni nivātāni phusitaggaḷāni pihitavātapānāni; evamevaṃ kho, bhikkhave, yāni kānici bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no paṇḍitato. Ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. Ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato.</p>
+
+<p rend="bodytext">‘‘Iti <pb ed="M" n="1.0100" /> kho, bhikkhave, sappaṭibhayo <pb ed="T" n="1.0128" /> bālo, appaṭibhayo paṇḍito. Saupaddavo bālo, anupaddavo paṇḍito. Saupasaggo bālo, anupasaggo paṇḍito. Natthi, bhikkhave, paṇḍitato bhayaṃ, natthi paṇḍitato upaddavo, natthi paṇḍitato upasaggo.</p>
+
+<p rend="bodytext">‘‘Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Paṭhamaṃ.</p>
+
+<p rend="subhead">2. Lakkhaṇasuttaṃ</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> ‘‘Kammalakkhaṇo <pb ed="P" n="1.0102" />, bhikkhave, bālo, kammalakkhaṇo paṇḍito, apadānasobhanī <note>apadāne sobhati (syā. kaṃ. pī.)</note> paññāti <note>paññatti (?)</note>. Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.</p>
+
+<p rend="bodytext">‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Kāyasucaritena, vacīsucaritena, manosucaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.</p>
+
+<p rend="bodytext">‘‘Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘yehi tīhi dhammehi samannāgato bālo veditabbo <pb ed="V" n="1.0125" /> te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Dutiyaṃ.</p>
+
+<p rend="subhead">3. Cintīsuttaṃ</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> ‘‘Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni <pb ed="T" n="1.0129" />. Katamāni tīṇi? Idha, bhikkhave, bālo duccintitacintī ca hoti dubbhāsitabhāsī ca dukkaṭakammakārī ca. No cedaṃ <note>no cetaṃ (syā. kaṃ. ka.)</note>, bhikkhave, bālo duccintitacintī ca abhavissa dubbhāsitabhāsī ca dukkaṭakammakārī ca, kena naṃ paṇḍitā jāneyyuṃ <note>tena naṃ paṇḍitā na jāneyyuṃ (ka.), na naṃ paṇḍitā jāneyyuṃ (?)</note> – ‘bālo ayaṃ bhavaṃ asappuriso’ti? Yasmā <pb ed="M" n="1.0101" /> ca kho, bhikkhave, bālo duccintitacintī ca hoti dubbhāsitabhāsī ca dukkaṭakammakārī ca tasmā naṃ paṇḍitā jānanti – ‘bālo ayaṃ bhavaṃ asappuriso’ti. Imāni kho, bhikkhave, tīṇi bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni.</p>
+
+<p rend="bodytext">‘‘Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. Katamāni tīṇi? Idha, bhikkhave, paṇḍito sucintitacintī ca hoti subhāsitabhāsī ca sukatakammakārī ca. No cedaṃ, bhikkhave, paṇḍito sucintitacintī ca abhavissa subhāsitabhāsī ca sukatakammakārī ca, kena naṃ paṇḍitā jāneyyuṃ – ‘paṇḍito ayaṃ bhavaṃ sappuriso’ti? Yasmā <pb ed="P" n="1.0103" /> ca kho, bhikkhave, paṇḍito sucintitacintī ca hoti subhāsitabhāsī ca sukatakammakārī ca tasmā naṃ paṇḍitā jānanti – ‘paṇḍito ayaṃ bhavaṃ sappuriso’ti. Imāni kho, bhikkhave, tīṇi paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. Tasmātiha…. Tatiyaṃ.</p>
+
+<p rend="subhead">4. Accayasuttaṃ</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> ‘‘Tīhi <pb ed="T" n="1.0130" />, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Accayaṃ accayato na passati, accayaṃ accayato disvā yathādhammaṃ nappaṭikaroti, parassa kho <pb ed="V" n="1.0126" /> pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.</p>
+
+<p rend="bodytext">‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Accayaṃ accayato passati, accayaṃ accayato disvā yathādhammaṃ paṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ paṭiggaṇhāti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo. Tasmātiha…. Catutthaṃ.</p>
+
+<p rend="subhead">5. Ayonisosuttaṃ</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> ‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Ayoniso pañhaṃ kattā hoti, ayoniso pañhaṃ vissajjetā hoti, parassa kho pana yoniso pañhaṃ vissajjitaṃ parimaṇḍalehi <pb ed="M" n="1.0102" /> padabyañjanehi siliṭṭhehi upagatehi nābbhanumoditā hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.</p>
+
+<p rend="bodytext">‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Yoniso pañhaṃ kattā hoti, yoniso pañhaṃ vissajjetā hoti, parassa kho pana yoniso pañhaṃ vissajjitaṃ parimaṇḍalehi padabyañjanehi siliṭṭhehi upagatehi abbhanumoditā hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo. Tasmātiha…. Pañcamaṃ.</p>
+
+<p rend="subhead">6. Akusalasuttaṃ</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> ‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi <pb ed="T" n="1.0131" /> tīhi? Akusalena <pb ed="P" n="1.0104" /> kāyakammena, akusalena vacīkammena, akusalena manokammena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.</p>
+
+<p rend="bodytext">‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Kusalena kāyakammena <pb ed="V" n="1.0127" />, kusalena vacīkammena, kusalena manokammena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo. Tasmātiha…. Chaṭṭhaṃ.</p>
+
+<p rend="subhead">7. Sāvajjasuttaṃ</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> ‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena…pe… anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena…pe…. Sattamaṃ.</p>
+
+<p rend="subhead">8. Sabyābajjhasuttaṃ</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> ‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Sabyābajjhena kāyakammena, sabyābajjhena vacīkammena, sabyābajjhena manokammena…pe… abyābajjhena kāyakammena, abyābajjhena vacīkammena <pb ed="M" n="1.0103" />, abyābajjhena manokammena. Imehi, kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.</p>
+
+<p rend="bodytext">‘‘Tasmātiha, bhikkhave, evaṃ <pb ed="T" n="1.0132" /> sikkhitabbaṃ – ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Aṭṭhamaṃ.</p>
+
+<p rend="subhead">9. Khatasuttaṃ</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> ‘‘Tīhi <pb ed="P" n="1.0105" />, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati. Katamehi tīhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.</p>
+
+<p rend="bodytext">‘‘Tīhi <pb ed="V" n="1.0128" />, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati. Katamehi tīhi? Kāyasucaritena, vacīsucaritena, manosucaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavatī’’ti. Navamaṃ.</p>
+
+<p rend="subhead">10. Malasuttaṃ</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> ‘‘Tīhi, bhikkhave, dhammehi samannāgato tayo male appahāya yathābhataṃ nikkhitto evaṃ niraye. Katamehi tīhi? Dussīlo ca hoti, dussīlyamalañcassa appahīnaṃ <pb ed="T" n="1.0133" /> hoti; issukī ca hoti, issāmalañcassa appahīnaṃ hoti; maccharī ca hoti, maccheramalañcassa appahīnaṃ hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato ime tayo male appahāya yathābhataṃ nikkhitto evaṃ niraye.</p>
+
+<p rend="bodytext">‘‘Tīhi <pb ed="M" n="1.0104" />, bhikkhave, dhammehi samannāgato tayo male pahāya yathābhataṃ nikkhitto evaṃ sagge. Katamehi tīhi? Sīlavā ca hoti, dussīlyamalañcassa pahīnaṃ hoti; anissukī ca hoti, issāmalañcassa pahīnaṃ hoti; amaccharī ca hoti, maccheramalañcassa pahīnaṃ hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato ime tayo male pahāya yathābhataṃ nikkhitto evaṃ sagge’’ti. Dasamaṃ.</p>
+
+<p rend="centre">Bālavaggo paṭhamo.</p>
+
+<p rend="bodytext">Tassuddānaṃ –</p>
+
+<p rend="gatha1">Bhayaṃ lakkhaṇacintī ca, accayañca ayoniso;</p>
+
+<p rend="gathalast">Akusalañca sāvajjaṃ, sabyābajjhakhataṃ malanti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

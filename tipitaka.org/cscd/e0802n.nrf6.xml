@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">6. Ākhyātakappa</p>
+
+<p rend="subhead">Paṭhamakaṇḍa</p>
+
+<p rend="bodytext">(Ka)</p>
+
+<p rend="gatha1">Ākhyātasāgaramathajjatanītaraṅgaṃ <pb ed="M" n="0.0215" />,</p>
+
+<p rend="gatha2">Dhātujjalaṃ vikaraṇāgamakālamīnaṃ;</p>
+
+<p rend="gatha3">Lopānubandhariyamatthavibhāgatīraṃ,</p>
+
+<p rend="gathalast">Dhīrā taranti kavino puthubuddhināvā.</p>
+
+<p rend="bodytext">(Kha)</p>
+
+<p rend="gatha1">Vicittasaṅkhāraparikkhitaṃ imaṃ,</p>
+
+<p rend="gatha2">Ākhyātasaddaṃ vipulaṃ asesato;</p>
+
+<p rend="gatha3">Paṇamya sambuddhamanantagocaraṃ,</p>
+
+<p rend="gathalast">Sugocaraṃ yaṃ vadato suṇātha me.</p>
+
+<p rend="bodytext">(Ga)</p>
+
+<p rend="gatha1">Adhikāre maṅgale ceva, nipphanne cāvadhāraṇe;</p>
+
+<p rend="gathalast">Anantare ca pādāne, <hi rend="bold">atha</hi>saddo pavattati.</p>
+
+<p rend="bodytext" n="416"><hi rend="paranum">416</hi>, 429<hi rend="dot">.</hi><hi rend="bold">Atha pubbāni vibhattīnaṃ cha parassapadāni</hi>.</p>
+
+<p rend="bodytext">Atha sabbāsaṃ vibhattīnaṃ yāni yāni pubbakāni <hi rend="bold">cha</hi> padāni, tāni tāni <hi rend="bold">parassapada</hi>saññāni honti.</p>
+
+<p rend="bodytext">Taṃ yathā? <hi rend="bold">Ti anti, si tha, mi ma</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Parassapada</hi>miccanena kvattho? Kattari parassapadaṃ.</p>
+
+<p rend="bodytext" n="407"><hi rend="paranum">407</hi>, 439<hi rend="dot">.</hi><hi rend="bold">Parāṇyattanopadāni</hi><pb ed="M" n="0.0216" />.</p>
+
+<p rend="bodytext">Sabbāsaṃ vibhattīnaṃ yāni yāni parāni <hi rend="bold">cha</hi> padāni. Tāni tāni <hi rend="bold">attanopada</hi>saññāni honti.</p>
+
+<p rend="bodytext">Taṃ yathā? <hi rend="bold">Te ante, se vhe, e mhe</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Attanopada</hi>miccanena kvattho? Attanopadāni bhāve ca kammani.</p>
+
+<p rend="bodytext" n="408"><hi rend="paranum">408</hi>, 431<hi rend="dot">.</hi><hi rend="bold">Dve dve paṭhama majjhimuttamapurisā</hi>.</p>
+
+<p rend="bodytext">Tāsaṃ sabbāsaṃ vibhattīnaṃ parassapadānaṃ, attanopadānañca <hi rend="bold">dve dve</hi> padāni <hi rend="bold">paṭhamamajjhimuttamapurisa</hi>saññāni honti.</p>
+
+<p rend="bodytext">Taṃ yathā? <hi rend="bold">Ti anti</hi> iti paṭhamapurisā, <hi rend="bold">si tha</hi> iti majjhimapurisā, <hi rend="bold">mi ma</hi> iti uttamapurisā. Attanopadānampi <hi rend="bold">te ante</hi> iti paṭhamapurisā, <hi rend="bold">se vhe</hi> iti majjhimapurisā, <hi rend="bold">e mhe</hi> iti uttamapurisā. Evaṃ sabbattha.</p>
+
+<p rend="bodytext"><hi rend="bold">Paṭhamamajjhimuttamapurisa</hi>miccanena kvattho? Nāmamhi payujjamānepi tulyādhikaraṇe paṭhamo, tumhe majjhimo, amhe uttamo.</p>
+
+<p rend="bodytext" n="409"><hi rend="paranum">409</hi>, 441<hi rend="dot">.</hi><hi rend="bold">Sabbesamekābhidhāne paro puriso</hi>.</p>
+
+<p rend="bodytext">Sabbesaṃ tiṇṇaṃ paṭhamamajjhimuttama purisānaṃ ekābhidhāne <hi rend="bold">paro puriso</hi> gahetabbo.</p>
+
+<p rend="bodytext">So <pb ed="M" n="0.0217" /> ca paṭhati, tvañca paṭhasi, <hi rend="bold">tumhe paṭhatha</hi>. So ca pacati, tvañca pacasi. <hi rend="bold">Tumhe pacatha</hi>. Evaṃ sesāsu vibhattīsu <hi rend="bold">paro puriso</hi> yojetabbo.</p>
+
+<p rend="bodytext" n="410"><hi rend="paranum">410</hi>, 432<hi rend="dot">.</hi><hi rend="bold">Nāmamhi payujjamānepi tulyādhikaraṇe paṭhamo</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Nāma</hi>mhi payujjamānepi appayujjamānepi tulyādhikaraṇe <hi rend="bold">paṭhamapuriso</hi> hoti.</p>
+
+<p rend="bodytext">So gacchati, te gacchanti.</p>
+
+<p rend="bodytext">Appayujjamānepi – gacchati, gacchanti.</p>
+
+<p rend="bodytext"><hi rend="bold">Tulyādhikaraṇe</hi>ti kimatthaṃ? Tena haññase tvaṃ devadattena.</p>
+
+<p rend="bodytext" n="411"><hi rend="paranum">411</hi>, 436<hi rend="dot">.</hi><hi rend="bold">Tumhe majjhimo</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Tumhe</hi> payujjamānepi appayujjamānepi tulyādhikaraṇe <hi rend="bold">majjhimapuriso</hi> hoti.</p>
+
+<p rend="bodytext">Tvaṃ yāsi, tumhe yātha.</p>
+
+<p rend="bodytext">Appayujjamānepi – yāsi, yātha.</p>
+
+<p rend="bodytext"><hi rend="bold">Tulyādhikaraṇe</hi>ti kimatthaṃ? Tayā paccate odano.</p>
+
+<p rend="bodytext" n="412"><hi rend="paranum">412</hi>, 437<hi rend="dot">.</hi><hi rend="bold">Amhe</hi><pb ed="M" n="0.0218" /><hi rend="bold">uttamo</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Amhe</hi> payujjamānepi appayujjamānepi tulyādhikaraṇe <hi rend="bold">uttamapuriso</hi> hoti.</p>
+
+<p rend="bodytext">Ahaṃ yajāmi, mayaṃ yajāma.</p>
+
+<p rend="bodytext">Appayujjamānepi – yajāmi, yajāma.</p>
+
+<p rend="bodytext"><hi rend="bold">Tulyādhikaraṇe</hi>ti kimatthaṃ? Mayā ijjate buddho.</p>
+
+<p rend="bodytext" n="413"><hi rend="paranum">413</hi>, 427<hi rend="dot">.</hi><hi rend="bold">Kāle</hi>.</p>
+
+<p rend="bodytext">‘‘Kāle’’ iccetaṃ adhikāratthaṃ veditabbaṃ.</p>
+
+<p rend="bodytext" n="414"><hi rend="paranum">414</hi>, 428<hi rend="dot">.</hi><hi rend="bold">Vattamānā paccuppanne</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Paccuppanne</hi> kāle <hi rend="bold">vattamānā</hi>vibhatti hoti.</p>
+
+<p rend="bodytext">Pāṭaliputtaṃ gacchati, sāvatthiṃ pavisati.</p>
+
+<p rend="bodytext" n="415"><hi rend="paranum">415</hi>, 451<hi rend="dot">.</hi><hi rend="bold">Āṇatyā siṭṭhe’nuttakāle pañcamī</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Āṇatyatthe</hi> ca <hi rend="bold">āsīsatthe</hi> ca anuttakāle <hi rend="bold">pañcamī</hi> vibhatti hoti.</p>
+
+<p rend="bodytext">Karotu kusalaṃ, sukhaṃ te hotu.</p>
+
+<p rend="bodytext" n="416"><hi rend="paranum">416</hi>, 454<hi rend="dot">.</hi><hi rend="bold">Anumatiparikappatthesu sattamī</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Anumatyatthe</hi> ca <hi rend="bold">parikappatthe</hi> ca anuttakāle <hi rend="bold">sattamī</hi> vibhatti hoti.</p>
+
+<p rend="bodytext">Tvaṃ <pb ed="M" n="0.0219" /> gaccheyyāsi, kimahaṃ kareyyāmi.</p>
+
+<p rend="bodytext" n="417"><hi rend="paranum">417</hi>, 460<hi rend="dot">.</hi><hi rend="bold">Apaccakkhe parokkhātīte</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Apaccakkhe atīte</hi> kāle <hi rend="bold">parokkhā</hi>vibhatti hoti.</p>
+
+<p rend="bodytext">Supine kilamāha, evaṃ kila porāṇāhu.</p>
+
+<p rend="bodytext" n="418"><hi rend="paranum">418</hi>, 456<hi rend="dot">.</hi><hi rend="bold">Hiyyopabhuti paccakkhe hiyyattanī</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Hiyyopabhuti atīte</hi> kāle paccakkhe vā apaccakkhe vā <hi rend="bold">hiyyattanī</hi> vibhatti hoti.</p>
+
+<p rend="bodytext">So agamā maggaṃ, te agamū maggaṃ.</p>
+
+<p rend="bodytext" n="419"><hi rend="paranum">419</hi>, 469<hi rend="dot">.</hi><hi rend="bold">Samīpe’jjatanī</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ajjappabhuti atīte</hi> kāle paccakkhe vā apaccakkhe vā samīpe <hi rend="bold">ajjatanī</hi>vibhatti hoti.</p>
+
+<p rend="bodytext">So maggaṃ agamī, te maggaṃ agamuṃ.</p>
+
+<p rend="bodytext" n="420"><hi rend="paranum">420</hi>, 471<hi rend="dot">.</hi><hi rend="bold">Māyoge sabbakāle ca</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Hiyyattanīajjatanī</hi>iccetā vibhattiyo yadā <hi rend="bold">mā</hi>yogā, tadā <hi rend="bold">sabbakāle</hi> ca honti.</p>
+
+<p rend="bodytext">Mā gamā, mā vacā, mā gamī, mā vacī.</p>
+
+<p rend="bodytext"><hi rend="bold">Caggahaṇena</hi><pb ed="M" n="0.0220" /> pañcamīvibhattipi hoti. Mā gacchāhi.</p>
+
+<p rend="bodytext" n="421"><hi rend="paranum">421</hi>, 473<hi rend="dot">.</hi><hi rend="bold">Anāgate bhavissantī</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Anāgate</hi> kāle <hi rend="bold">bhavissantī vibhatti</hi> hoti.</p>
+
+<p rend="bodytext">So gacchissati, karissati. Te gacchissanti, karissanti.</p>
+
+<p rend="bodytext" n="422"><hi rend="paranum">422</hi>, 475<hi rend="dot">.</hi><hi rend="bold">Kriyātipanne’tīte kālātipatti</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Kriyātipannamatte atīte</hi> kāle <hi rend="bold">kālātipatti</hi> vibhatti hoti.</p>
+
+<p rend="bodytext">So ce taṃ yānaṃ alabhissā, agacchissā. Te ce taṃ yānaṃ alabhissaṃsu, agacchissaṃsu.</p>
+
+<p rend="bodytext" n="423"><hi rend="paranum">423</hi>, 426<hi rend="dot">.</hi><hi rend="bold">Vattamānā ti anti, si tha, mi ma, te ante, se vhe, e mhe</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Vattamānā</hi> iccesā saññā hoti ti anti, si tha, mi ma, te ante, se vhe, e mhe iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Vattamānā</hi> iccanena kvattho? Vattamānā paccuppanne.</p>
+
+<p rend="bodytext" n="424"><hi rend="paranum">424</hi>, 450<hi rend="dot">.</hi><hi rend="bold">Pañcamī tu antu, hitha, mima, taṃ antaṃ, ssu vho, e āmase</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Pañcamī</hi>iccesā <pb ed="M" n="0.0221" /> saññā hoti tu antu, hi tha, mima, taṃ antaṃ, ssu vho, e āmase iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Pañcamī</hi>iccanena kvattho? Āṇatyāsiṭṭhe, nuttakāle pañcamī.</p>
+
+<p rend="bodytext" n="425"><hi rend="paranum">425</hi>, 453<hi rend="dot">.</hi><hi rend="bold">Sattamī eyya eyyuṃ, eyyā si eyyā tha, eyyāmi eyyāma, etha eraṃ, etho eyyāvho, eyyaṃ eyyāmhe</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Sattamī</hi> iccesā saññā hoti eyya eyyuṃ, eyyāsi eyyātha, eyyāmi eyyāma, etha eraṃ, etho, eyyāvho, eyyaṃ eyyāmhe iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Sattamī</hi> iccanena kvattho? Anumatiparikappatthesu sattamī.</p>
+
+<p rend="bodytext" n="426"><hi rend="paranum">426</hi>, 459<hi rend="dot">.</hi><hi rend="bold">Parokkhā au ettha, aṃmha, tthare, ttho vho, iṃ mhe</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Parokkhā</hi> iccesā saññā hoti a u, ettha, aṃ mha, ttha re ttho vho, iṃ mhe iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Parokkhā</hi> iccanena kvattho? Apaccakkhe parokkhātīte.</p>
+
+<p rend="bodytext" n="427"><hi rend="paranum">427</hi>, 455<hi rend="dot">.</hi><hi rend="bold">Hiyyattanī</hi><pb ed="M" n="0.0222" /><hi rend="bold">āū, ottha, aṃmhā, tthatthuṃ, se vhaṃ, iṃ mhase</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Hiyyattanī</hi> iccesā saññā hoti ā ū, o ttha, aṃ mhā, ttha tthuṃ, se vhaṃ, iṃ mhase iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Hiyyattanī</hi> iccanena kvattho? Hiyyopabhuti paccakkhe hiyyattanī.</p>
+
+<p rend="bodytext" n="428"><hi rend="paranum">428</hi>, 468<hi rend="dot">.</hi><hi rend="bold">Ajjatanī ī uṃ, o ttha, iṃ mhā, ā ū, se vhaṃ, aṃ mhe</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ajjatanī</hi> iccesā saññā hoti ī uṃ, o ttha, iṃmhā, ā ū, sevhaṃ, aṃ mhe iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Ajjatanī</hi> iccanena kvattho? Samīpejjatanī.</p>
+
+<p rend="bodytext" n="429"><hi rend="paranum">429</hi>, 472<hi rend="dot">.</hi><hi rend="bold">Bhavissantī ssati ssanti, ssasi ssatha, ssāmi ssāma, ssate ssante, ssase ssavhe, ssaṃ ssāmhe</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Bhavissantī</hi> iccesā saññā hoti ssati ssanti, ssasi ssatha, ssāmi ssāma, ssate ssante, ssase ssavhe, ssaṃ ssāmhe iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Bhavissantī</hi> iccanena kvattho? Anāgate bhavissantī.</p>
+
+<p rend="bodytext" n="430"><hi rend="paranum">430</hi>, 373<hi rend="dot">.</hi><hi rend="bold">Kālātipatti</hi><pb ed="M" n="0.0223" /><hi rend="bold">ssā ssaṃsu, sse ssatha, ssaṃ ssāmhā, ssatha sissu, ssase ssavhe, ssiṃ ssāmhase</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Kālātipatti</hi> iccesā saññā hoti ssā ssaṃsu, sse ssatha, ssaṃ ssāmhā, ssatha ssisu, ssase ssavhe, ssiṃ ssāmhase iccetesaṃ <hi rend="bold">dvādasannaṃ</hi> padānaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Kālātipatti</hi> iccanena kvattho? Kriyātipanne’ tīte kālātipatti.</p>
+
+<p rend="bodytext" n="431"><hi rend="paranum">431</hi>, 458<hi rend="dot">.</hi><hi rend="bold">Hiyyattanī sattamī pañcamī vattamānā sabbadhātukaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Hiyyattanādayo catasso</hi> vibhattiyo <hi rend="bold">sabbadhātuka</hi> saññā honti.</p>
+
+<p rend="bodytext">Agamā, gaccheyya, gacchatu, gacchati.</p>
+
+<p rend="bodytext"><hi rend="bold">Sabbadhātuka</hi> iccanena kvattho? Ikārāgamo asabbadhātukamhi.</p>
+
+<p rend="centre">Iti ākhyātakappe paṭhamo kaṇḍo.</p>
+
+<p rend="subhead">Dutiyakaṇḍa</p>
+
+<p rend="bodytext" n="432"><hi rend="paranum">432</hi>, 362<hi rend="dot">.</hi><hi rend="bold">Dhātuliṅgehi</hi><pb ed="M" n="0.0224" /><hi rend="bold">parā paccayā</hi>.</p>
+
+<p rend="bodytext">Dhātuliṅgaiccetehi parā paccayā honti.</p>
+
+<p rend="bodytext">Karoti, gacchati. Yo koci karoti, taṃ añño ‘‘karohi karohi’’ iccevaṃ bravīti, atha vā karontaṃ payojayati = kāreti. Saṅgho pabbatamiva attānamācarati = pabbatāyati. Taḷākaṃ samuddamiva attānamācarati = samuddāyati, saddo cicciṭamiva attānamācarati = cicciṭāyati, vasiṭṭhassa apaccaṃ vāsiṭṭho. Evamaññepi yojetabbā.</p>
+
+<p rend="bodytext" n="433"><hi rend="paranum">433</hi>, 528<hi rend="dot">.</hi><hi rend="bold">Tija gupa kita māne hi kha cha sā vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Tija gupa kita mānu</hi> iccetehi dhātūhi <hi rend="bold">kha cha sa</hi> iccete paccayā honti vā.</p>
+
+<p rend="bodytext">Titikkhati, jigucchati, tikicchati, vīmaṃsati.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Tejati, gopati, māneti.</p>
+
+<p rend="bodytext" n="434"><hi rend="paranum">434</hi>, 534<hi rend="dot">.</hi><hi rend="bold">Bhuja ghasa hara su pādīhi tumicchatthesu</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Bhuja</hi><pb ed="M" n="0.0225" /><hi rend="bold">ghasa hara su pā</hi>iccevamādīhi dhātūhi <hi rend="bold">tumicchatthesu kha cha sa</hi>iccete paccayā honti vā.</p>
+
+<p rend="bodytext">Bhottumicchati=bubhukkhati, ghasitumicchati=jighacchati, haritumicchati=jigīsati, sotumicchati=sussusati, pātumicchati=pivāsati.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Bhottumicchati.</p>
+
+<p rend="bodytext"><hi rend="bold">Tumicchatthesū</hi>ti kimatthaṃ? Bhuñjati.</p>
+
+<p rend="bodytext" n="435"><hi rend="paranum">435</hi>, 536<hi rend="dot">.</hi><hi rend="bold">Āya nāmato kattūpamānādācāre</hi>.</p>
+
+<p rend="bodytext">Nāmato kattūpamānā ācāratthe <hi rend="bold">āya</hi>paccayo hoti.</p>
+
+<p rend="bodytext">Saṅgho pabbatamiva attānamācarati = pabbatāyati, taḷākaṃ samuddamiva attānamācarati = samuddāyati, saddo cicciṭamiva attānamācarati = cicciṭāyati. Evamaññepi yojetabbā.</p>
+
+<p rend="bodytext" n="436"><hi rend="paranum">436</hi>, 537<hi rend="dot">.</hi><hi rend="bold">Īyūpamānā ca</hi>.</p>
+
+<p rend="bodytext">Nāmato upamānā ācāratthe ca <hi rend="bold">īya</hi>paccayo hoti.</p>
+
+<p rend="bodytext">Achattaṃ <pb ed="M" n="0.0226" /> chattamiva ācarati =chattīyati, aputtaṃ puttamiva ācarati=puttīyati.</p>
+
+<p rend="bodytext"><hi rend="bold">Upamānā</hi>ti kimatthaṃ? Dhammaṃ ācarati.</p>
+
+<p rend="bodytext"><hi rend="bold">Ācāre</hi>ti kimatthaṃ? Achattaṃ chattamiva rakkhati. Evamaññepi yojetabbā.</p>
+
+<p rend="bodytext" n="437"><hi rend="paranum">437</hi>, 538<hi rend="dot">.</hi><hi rend="bold">Nāmamhā’tticchatthe</hi>.</p>
+
+<p rend="bodytext">Nāmamhā attano icchatthe <hi rend="bold">īya</hi>paccayo hoti.</p>
+
+<p rend="bodytext">Attano pattamicchati = pattīyati. Evaṃ vatthīyati, parikkhārīyati, cīvarīyati, dhanīyati, ghaṭīyati.</p>
+
+<p rend="bodytext"><hi rend="bold">Atticchatthe</hi>ti kimatthaṃ? Aññassa pattamicchati. Evamaññepi yojetabbā.</p>
+
+<p rend="bodytext" n="438"><hi rend="paranum">438</hi>, 540<hi rend="dot">.</hi><hi rend="bold">Dhātūhi ṇe ṇaya ṇāpe ṇāpayā kāritāni hetvatthe</hi>.</p>
+
+<p rend="bodytext">Sabbehi dhātūhi <hi rend="bold">ṇeṇaya ṇāpe ṇāpaya</hi>iccete paccayā honti <hi rend="bold">kārita</hi>saññā ca hetvatthe.</p>
+
+<p rend="bodytext">Yo koci karoti, taṃ añño ‘‘karohi karohi’’ iccevaṃ bravīti, atha vā karontaṃ payojayati <pb ed="M" n="0.0227" /> = kāreti, kārayati, kārāpeti, kārā payati. Ye keci karonti, te aññe ‘‘karotha karotha’’ iccevaṃ bruvanti = kārenti, kārayanti, kārāpenti, kārāpayanti. Yo koci pacati, taṃ añño ‘‘pacāhi pacāhi’’iccevaṃ bravīti, atha vā pacantaṃ payojayati = pāceti, pācayati, pācāpeti, pācāpayati. Ye keci pacanti, te aññe ‘‘pacatha pacatha’’ iccevaṃ bruvanti = pācenti, pācayanti, pācāpenti. Pācāpayanti. Evaṃ bhaṇeti, bhaṇayati, bhaṇāpeti, bhaṇāpayati. Bhaṇenti, bhaṇayanti, bhaṇāpenti, bhaṇāpayanti. Tathariva aññepi yojetabbā.</p>
+
+<p rend="bodytext"><hi rend="bold">Hetvatthe</hi>ti kimatthaṃ? Karoti, pacati.</p>
+
+<p rend="bodytext"><hi rend="bold">Atthaggahaṇena ala</hi>paccayo hoti, jotalati.</p>
+
+<p rend="bodytext" n="439"><hi rend="paranum">439</hi>, 539<hi rend="dot">.</hi><hi rend="bold">Dhāturūpe nāmasmā ṇayo ca</hi>.</p>
+
+<p rend="bodytext">Tasmā nāmasmā <hi rend="bold">ṇaya</hi>paccayo hoti <hi rend="bold">kārita</hi>sañño ca dhāturūpe sati.</p>
+
+<p rend="bodytext">Hatthinā atikkamati maggaṃ = atihatthayati, vīṇāya upagāyati gītaṃ = upavīṇayati, daḷhaṃ karoti vīriyaṃ <pb ed="M" n="0.0228" /> = daḷhayati, visuddhā hoti ratti = visuddhayati.</p>
+
+<p rend="bodytext"><hi rend="bold">Caggahaṇena āra āla</hi>iccete paccayā honti. Santaṃ karoti = santārati, upakkamaṃ karoti = upakkamālati.</p>
+
+<p rend="bodytext" n="440"><hi rend="paranum">440</hi>, 445<hi rend="dot">.</hi><hi rend="bold">Bhāvakammesu yo</hi>.</p>
+
+<p rend="bodytext">Sabbehi dhātūhi bhāvakammesu <hi rend="bold">ya</hi>paccayo hoti.</p>
+
+<p rend="bodytext">Ṭhīyate, bujjhate, paccate, labbhate, karīyate, yujjate, uccate.</p>
+
+<p rend="bodytext"><hi rend="bold">Bhāvakammesū</hi>ti kimatthaṃ? Karoti, pacati, paṭhati.</p>
+
+<p rend="bodytext" n="441"><hi rend="paranum">441</hi>, 447<hi rend="dot">.</hi><hi rend="bold">Tassa cavaggayakāravakārattaṃ sadhātvantassa</hi>.</p>
+
+<p rend="bodytext">Tassa <hi rend="bold">ya</hi>paccayassa <hi rend="bold">ca</hi>vaggayakāravakārattaṃ hoti dhātūnaṃ antena saha yathāsambhavaṃ.</p>
+
+<p rend="bodytext">Vuccate, vuccante, uccate, uccante, paccate, paccante. Majjate, majjante, yujjate, yujjante. Bujjhate, bujjhante, kujjhate, kujjhante, ujjhate, ujjhante. Haññate, haññante. Kayyate, kayyante. Dibbate, dibbante.</p>
+
+<p rend="bodytext" n="442"><hi rend="paranum">442</hi>, 448<hi rend="dot">.</hi><hi rend="bold">Ivaṇṇāgamo</hi><pb ed="M" n="0.0229" /><hi rend="bold">vā</hi>.</p>
+
+<p rend="bodytext">Sabbehi dhātūhi <hi rend="bold">ya</hi>mhi paccaye, pare ivaṇṇāgamo hoti vā.</p>
+
+<p rend="bodytext">Karīyate, karīyati, gacchīyate, gacchīyati.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Kayyate.</p>
+
+<p rend="bodytext" n="443"><hi rend="paranum">443</hi>, 449<hi rend="dot">.</hi><hi rend="bold">Pubbarūpañca</hi>.</p>
+
+<p rend="bodytext">Sabbehi dhātūhi <hi rend="bold">ya</hi>paccayo pubbarūpamāpajjate vā.</p>
+
+<p rend="bodytext">Vuḍḍhate, phallate, dammate, sakkate, labbhate, dissate.</p>
+
+<p rend="bodytext" n="444"><hi rend="paranum">444</hi>, 501<hi rend="dot">.</hi><hi rend="bold">Tathā kattari ca</hi>.</p>
+
+<p rend="bodytext">Yathā heṭṭhā bhāvakammesu <hi rend="bold">ya</hi>paccayassa ādeso hoti tathā kattaripi <hi rend="bold">ya</hi>paccayassa ādeso kātabbo.</p>
+
+<p rend="bodytext">Bujjhati, vijjhati, maññati, sibbati.</p>
+
+<p rend="bodytext" n="445"><hi rend="paranum">445</hi>, 433<hi rend="dot">.</hi><hi rend="bold">Bhūvādito a</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Bhū</hi>iccevamādito dhātugaṇato <hi rend="bold">a</hi>paccayo hoti kattari.</p>
+
+<p rend="bodytext">Bhavati <pb ed="M" n="0.0230" />, paṭhati, pacati, jayati.</p>
+
+<p rend="bodytext" n="446"><hi rend="paranum">446</hi>, 509<hi rend="dot">.</hi><hi rend="bold">Rudhādito niggahitapubbañca</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Rudha</hi>iccevamādito dhātugaṇato <hi rend="bold">a</hi>paccayo hoti kattari, pubbe niggahitāgamo hoti.</p>
+
+<p rend="bodytext">Rundhati, chindati, bhindati.</p>
+
+<p rend="bodytext"><hi rend="bold">Caggahaṇena i ī e o</hi>iccete paccayā honti niggahitapubbañca.</p>
+
+<p rend="bodytext">Rundhiti, rundhīti, rundheti, rundhoti, sumbhoti, parisumbhoti.</p>
+
+<p rend="bodytext" n="447"><hi rend="paranum">447</hi>, 510<hi rend="dot">.</hi><hi rend="bold">Divādito yo</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Divu</hi>iccevamādito dhātugaṇato <hi rend="bold">ya</hi>paccayo hoti kattari.</p>
+
+<p rend="bodytext">Dibbati, thibbati, yujjhati, vijjhati, bujjhati.</p>
+
+<p rend="bodytext" n="448"><hi rend="paranum">448</hi>, 512<hi rend="dot">.</hi><hi rend="bold">Svādito ṇu ṇā uṇā ca</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Su</hi>iccevamādito dhātugaṇato <hi rend="bold">ṇu ṇā u ṇā</hi>iccete paccayā honti kattari.</p>
+
+<p rend="bodytext">Abhisuṇoti <pb ed="M" n="0.0231" />, abhisuṇāti, saṃvuṇoti, saṃvuṇāti, āvuṇoti, āvuṇāti, pāpuṇoti, pāpuṇāti.</p>
+
+<p rend="bodytext" n="449"><hi rend="paranum">449</hi>, 513<hi rend="dot">.</hi><hi rend="bold">Kiyādito nā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Kī</hi>iccevamādito dhātugaṇato <hi rend="bold">nā</hi>paccayo hoti kattari.</p>
+
+<p rend="bodytext">Kiṇāti, jināti, dhunāti, munāti, lunāti, punāti.</p>
+
+<p rend="bodytext" n="450"><hi rend="paranum">450</hi>, 517<hi rend="dot">.</hi><hi rend="bold">Gahādito ppa ṇhā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Gaha</hi>iccevamādito dhātugaṇato <hi rend="bold">ppaṇhā</hi>iccete paccayā honti kattari.</p>
+
+<p rend="bodytext">Gheppati, gaṇhāti.</p>
+
+<p rend="bodytext" n="451"><hi rend="paranum">451</hi>, 520<hi rend="dot">.</hi><hi rend="bold">Tanādito oyirā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Tanu</hi>iccevamādito dhātugaṇato <hi rend="bold">o yira</hi>iccete paccayā honti kattari.</p>
+
+<p rend="bodytext">Tanoti <pb ed="M" n="0.0232" />, tanohi, karoti, karohi, kayi rati, kayirāhi.</p>
+
+<p rend="bodytext" n="452"><hi rend="paranum">452</hi>, 525<hi rend="dot">.</hi><hi rend="bold">Curādito, ṇe ṇayā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Cura</hi>iccevamādito dhātugaṇato <hi rend="bold">ṇe ṇaya</hi>iccete paccayā honti kattari, kāritasaññā ca.</p>
+
+<p rend="bodytext">Coreti, corayati, cinteti, cintayati, manteti, mantayati.</p>
+
+<p rend="bodytext" n="453"><hi rend="paranum">453</hi>, 444<hi rend="dot">.</hi><hi rend="bold">Attanopadāni bhāve ca kammani</hi>.</p>
+
+<p rend="bodytext">Bhāve ca kammani ca attanopadāni honti.</p>
+
+<p rend="bodytext">Uccate, uccante, majjate, majjante, yujjate, yujjante, kujjhate, kujjhante, labbhate, labbhante, kayyate, kayyante.</p>
+
+<p rend="bodytext" n="454"><hi rend="paranum">454</hi>, 440<hi rend="dot">.</hi><hi rend="bold">Kattari ca</hi>.</p>
+
+<p rend="bodytext">Kattari ca attanopadāni honti.</p>
+
+<p rend="bodytext">Maññate, rocate, socate, bujjhate, jāyate.</p>
+
+<p rend="bodytext" n="455"><hi rend="paranum">455</hi>, 530<hi rend="dot">.</hi><hi rend="bold">Dhātuppaccayehi vibhattiyo</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Dhātuniddiṭṭhehi</hi> paccayehi <hi rend="bold">khādikārita</hi>ntehi vibhattiyo honti.</p>
+
+<p rend="bodytext">Titikkhati <pb ed="M" n="0.0233" />, jigucchati, vīmaṃsati, samuddāyati, puttīyati, kāreti, pāceti.</p>
+
+<p rend="bodytext" n="456"><hi rend="paranum">456</hi>, 430<hi rend="dot">.</hi><hi rend="bold">Kattari parassapadaṃ</hi>.</p>
+
+<p rend="bodytext">Kattari parassapadaṃ hoti.</p>
+
+<p rend="bodytext">Karoti, pacati, paṭhati, gacchati.</p>
+
+<p rend="bodytext" n="457"><hi rend="paranum">457</hi>, 424<hi rend="dot">.</hi><hi rend="bold">Bhūvādayo dhātavo</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Bhū</hi>iccevamādayo ye saddagaṇā, te dhātusaññā honti.</p>
+
+<p rend="bodytext">Bhavati, bhavanti, carati, caranti, pacati, pacanti, cintayati, cintayanti, hoti, honti, gacchati, gacchanti.</p>
+
+<p rend="centre">Iti ākhyātakappe dutiyo kaṇḍo.</p>
+
+<p rend="subhead">Tatiyakaṇḍa</p>
+
+<p rend="bodytext" n="458"><hi rend="paranum">458</hi>, 461<hi rend="dot">.</hi><hi rend="bold">Kvacādivaṇṇānamekassarānaṃ dvebhāvo</hi>.</p>
+
+<p rend="bodytext">Ādibhūtānaṃ vaṇṇānaṃ ekassarānaṃ kvaci dvebhāvo hoti.</p>
+
+<p rend="bodytext">Titikkhati <pb ed="M" n="0.0234" />, jigucchati, tikicchati, vīmaṃsati, bubhukkhati, pivāsati, daddallati, dadāti, jahāti, caṅkamati.</p>
+
+<p rend="bodytext"><hi rend="bold">Kvacī</hi>ti kimatthaṃ? Kampati, calati.</p>
+
+<p rend="bodytext" n="459"><hi rend="paranum">459</hi>, 462<hi rend="dot">.</hi><hi rend="bold">Pubbo’bbhāso</hi>.</p>
+
+<p rend="bodytext">Dvebhūtassa dhātussa yo pubbo, so <hi rend="bold">abbhāsa</hi>sañño hoti.</p>
+
+<p rend="bodytext">Dadhāti, dadāti, babhūva.</p>
+
+<p rend="bodytext" n="460"><hi rend="paranum">460</hi>, 506<hi rend="dot">.</hi><hi rend="bold">Rasso</hi>.</p>
+
+<p rend="bodytext">Abbhāse vattamānassa sarassa rasso hoti. Dadhāti, jahāti.</p>
+
+<p rend="bodytext" n="461"><hi rend="paranum">461</hi>, 464<hi rend="dot">.</hi><hi rend="bold">Dutiyacatutthānaṃ paṭhamatatiyā</hi>.</p>
+
+<p rend="bodytext">Abbhāsagatānaṃ dutiyacatutthānaṃ paṭhamatatiyā honti.</p>
+
+<p rend="bodytext">Ciccheda, bubhukkhati, babhūva, dadhāti.</p>
+
+<p rend="bodytext" n="462"><hi rend="paranum">462</hi>, 476<hi rend="dot">.</hi><hi rend="bold">Kavaggassa cavaggo</hi>.</p>
+
+<p rend="bodytext">Abbhāse vattamānassa <hi rend="bold">ka</hi>vaggassa <hi rend="bold">ca</hi> vaggo hoti.</p>
+
+<p rend="bodytext">Cikicchati <pb ed="M" n="0.0235" />, jigucchati, jighacchati, jigīsati, jaṅgamati, caṅkamati.</p>
+
+<p rend="bodytext" n="463"><hi rend="paranum">463</hi>, 532<hi rend="dot">.</hi><hi rend="bold">Mānakitānaṃ vatattaṃ vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Mānakita</hi>iccetesaṃ dhātūnaṃ abbhāsagatānaṃ <hi rend="bold">va</hi>kāra <hi rend="bold">ta</hi>kārattaṃ hoti vā yathāsaṅkhyaṃ.</p>
+
+<p rend="bodytext">Vīmaṃsati, tikicchati.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Cikicchati.</p>
+
+<p rend="bodytext" n="464"><hi rend="paranum">464</hi>, 504<hi rend="dot">.</hi><hi rend="bold">Hassa jo</hi>.</p>
+
+<p rend="bodytext">Abbhāse vattamānassa <hi rend="bold">ha</hi>kārassa <hi rend="bold">jo</hi> hoti.</p>
+
+<p rend="bodytext">Jahāti, juhvati, juhoti, jahāra.</p>
+
+<p rend="bodytext" n="465"><hi rend="paranum">465</hi>, 463<hi rend="dot">.</hi><hi rend="bold">Antassivaṇṇākāro vā</hi>.</p>
+
+<p rend="bodytext">Abbhāsassa antassa ivaṇṇo hoti, <hi rend="bold">a</hi>kāro vā.</p>
+
+<p rend="bodytext">Jigucchati, pivāsati, vīmaṃsati, jighacchati, babhūva, dadhāti.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Bubhukkhati.</p>
+
+<p rend="bodytext" n="466"><hi rend="paranum">466</hi>, 489<hi rend="dot">.</hi><hi rend="bold">Niggahitañca</hi><pb ed="M" n="0.0236" />.</p>
+
+<p rend="bodytext">Abbhāsassa ante niggahitāgamo hoti vā.</p>
+
+<p rend="bodytext">Caṅkamati, cañcalati, jaṅgamati.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Pivāsati, daddallati.</p>
+
+<p rend="bodytext" n="467"><hi rend="paranum">467</hi>, 533<hi rend="dot">.</hi><hi rend="bold">Tato pāmānānaṃ vā maṃ sesu</hi>.</p>
+
+<p rend="bodytext">Tato abbhāsato <hi rend="bold">pāmāna</hi>iccetesaṃ dhātūnaṃ <hi rend="bold">vāmaṃ</hi>iccete ādesā honti yathāsaṅkhyaṃ <hi rend="bold">sa</hi>paccaye pare.</p>
+
+<p rend="bodytext">Pivāsati, vīmaṃsati.</p>
+
+<p rend="bodytext" n="468"><hi rend="paranum">468</hi>, 462<hi rend="dot">.</hi><hi rend="bold">Ṭhā tiṭṭho</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ṭhā</hi>iccetassa dhātussa <hi rend="bold">tiṭṭhā</hi>deso hoti vā.</p>
+
+<p rend="bodytext">Tiṭṭhati, tiṭṭhatu, tiṭṭheyya, tiṭṭheyyuṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Ṭhāti.</p>
+
+<p rend="bodytext" n="469"><hi rend="paranum">469</hi>, 494<hi rend="dot">.</hi><hi rend="bold">Pā pivo</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Pā</hi>iccetassa dhātussa <hi rend="bold">pi</hi>vādeso hoti vā.</p>
+
+<p rend="bodytext">Pivati, pivatu, piveyya, piveyyuṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Pāti.</p>
+
+<p rend="bodytext" n="470"><hi rend="paranum">470</hi>, 514<hi rend="dot">.</hi><hi rend="bold">Ñāssa</hi><pb ed="M" n="0.0237" /><hi rend="bold">jā jaṃ nā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ñā</hi>iccetassa dhātussa <hi rend="bold">jā jaṃ nā</hi>ādesā honti vā.</p>
+
+<p rend="bodytext">Jānāti, jāneyya, jāniyā, jaññā, nāyati.</p>
+
+<p rend="bodytext" n="471"><hi rend="paranum">471</hi>, 483<hi rend="dot">.</hi><hi rend="bold">Disassa passa dissa dakkhā vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Disa</hi>iccetassa dhātussa <hi rend="bold">passa dissa dakkha</hi>iccete ādesā honti vā.</p>
+
+<p rend="bodytext">Passati, dissati, dakkhati, adakkha.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Addasa.</p>
+
+<p rend="bodytext" n="472"><hi rend="paranum">472</hi>, 531<hi rend="dot">.</hi><hi rend="bold">Byañjanantassa co chapaccayesu ca</hi>.</p>
+
+<p rend="bodytext">Byañjanantassa dhātussa <hi rend="bold">co</hi> hoti <hi rend="bold">cha</hi>paccayesu paresu.</p>
+
+<p rend="bodytext">Jigucchati, tikicchati, jighacchati.</p>
+
+<p rend="bodytext" n="473"><hi rend="paranum">473</hi>, 529<hi rend="dot">.</hi><hi rend="bold">Ko khe ca</hi>.</p>
+
+<p rend="bodytext">Byañjanantassa dhātussa <hi rend="bold">ko</hi> hoti <hi rend="bold">kha</hi>paccaye pare.</p>
+
+<p rend="bodytext">Titikkhati <pb ed="M" n="0.0238" />, bubhukkhati.</p>
+
+<p rend="bodytext" n="474"><hi rend="paranum">474</hi>, 535<hi rend="dot">.</hi><hi rend="bold">Harassa gīse</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Hara</hi>iccetassa dhātussa sabbasseva <hi rend="bold">gī</hi>ādeso hoti <hi rend="bold">sa</hi>paccaye pare.</p>
+
+<p rend="bodytext">Jigīsati.</p>
+
+<p rend="bodytext" n="475"><hi rend="paranum">475</hi>, 565<hi rend="dot">.</hi><hi rend="bold">Brūbhūnamāhabhūvā parokkhāyaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Brūbhū</hi>iccetesaṃ dhātūnaṃ <hi rend="bold">āhabhūva</hi>iccete ādesā honti yathāsaṅkhyaṃ parokkhāyaṃ vibhattiyaṃ.</p>
+
+<p rend="bodytext">Āha, āhu, babhūva, babhūvu.</p>
+
+<p rend="bodytext"><hi rend="bold">Parokkhāya</hi>miti kimatthaṃ? Abracuṃ.</p>
+
+<p rend="bodytext" n="476"><hi rend="paranum">476</hi>, 442<hi rend="dot">.</hi><hi rend="bold">Gamissanto ccho vā sabbāsu</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Gamu</hi>iccetassa dhātussa anto <hi rend="bold">ma</hi>kāro <hi rend="bold">ccho</hi> hoti vā sabbāsu paccayavibhattīsu.</p>
+
+<p rend="bodytext">Gacchamāno, gacchanto. Gacchati, gameti. Gacchatu, gametu. Gaccheyya. Gameyya. Agacchā, agamā. Agacchī, agamī. Gacchissati, gamissati. Agacchissā, agamissā.</p>
+
+<p rend="bodytext"><hi rend="bold">Gamisse</hi>ti <pb ed="M" n="0.0239" /> kimatthaṃ? Icchati.</p>
+
+<p rend="bodytext" n="477"><hi rend="paranum">477</hi>, 479<hi rend="dot">.</hi><hi rend="bold">Vacassajjatanimhi makāro o</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Vaca</hi>iccetassa dhātussa <hi rend="bold">a</hi>kāro <hi rend="bold">o</hi>ttamāpajjate ajjatanimhi vibhattimhi.</p>
+
+<p rend="bodytext">Avoca. Avocuṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Ajjatanimhī</hi>ti kimatthaṃ? Avaca, avacū.</p>
+
+<p rend="bodytext" n="478"><hi rend="paranum">478</hi>, 438<hi rend="dot">.</hi><hi rend="bold">Akāro dīghaṃ hi mi mesu</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">A</hi>kāro dīghamāpajjate <hi rend="bold">himima</hi>iccetesu vibhattīsu.</p>
+
+<p rend="bodytext">Gacchāhi, gacchāmi, gacchāma, gacchāmhe.</p>
+
+<p rend="bodytext"><hi rend="bold">Mikāraggahaṇena</hi> hivibhattimhi <hi rend="bold">a</hi>kāro kvaci na dīghamāpajjate. Gacchahi.</p>
+
+<p rend="bodytext" n="479"><hi rend="paranum">479</hi>, 452<hi rend="dot">.</hi><hi rend="bold">Ha lopaṃ vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Hi</hi>vibhatti lopamāpajjate vā.</p>
+
+<p rend="bodytext">Gaccha, gacchāhi, gama, gamāhi, gamaya, gamayāhi.</p>
+
+<p rend="bodytext"><hi rend="bold">Hī</hi>ti kimatthaṃ? Gacchati, gamayati.</p>
+
+<p rend="bodytext" n="480"><hi rend="paranum">480</hi>, 490<hi rend="dot">.</hi><hi rend="bold">Hotissarehohe bhavissantimhissassa ca</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Hū</hi>iccetassa <pb ed="M" n="0.0240" /> dhātussa saro <hi rend="bold">e ha oha e</hi>ttamāpajja te bhavissantimhi, <hi rend="bold">ssa</hi>ssa ca lopo hoti vā.</p>
+
+<p rend="bodytext">Hehiti, hehinti, hohiti, hohinti, heti, henti, hehissati, hehissanti, hohissati, hohissanti, hessati, hessanti.</p>
+
+<p rend="bodytext"><hi rend="bold">Hū</hi>ti kimatthaṃ? Bhavissati, bhavissanti.</p>
+
+<p rend="bodytext"><hi rend="bold">Bhavissantimhī</hi>ti kimatthaṃ? Hoti.</p>
+
+<p rend="bodytext" n="481"><hi rend="paranum">481</hi>, 524<hi rend="dot">.</hi><hi rend="bold">Karassa sapaccayassa kāho</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Kara</hi>iccetassa dhātussa sapaccayassa <hi rend="bold">kāhā</hi>deso hoti vā bhavissantimhi vibhattimhi, <hi rend="bold">sa</hi>ssa ca niccaṃ lopo hoti.</p>
+
+<p rend="bodytext">Kāhati, kāhiti, kāhasi, kāhisi, kāhāmi, kāhāma.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Karissati, karissanti.</p>
+
+<p rend="bodytext"><hi rend="bold">Sapaccayaggahaṇena</hi> aññehipi bhavissantiyā vibhattiyā <hi rend="bold">khāmi khāma chāmi chāma</hi>iccādayo ādesā honti. Vakkhāmi, vakkhāma, vacchāmi, vacchāma.</p>
+
+<p rend="centre">Iti ākhyātakappe tatiyo kaṇḍo.</p>
+
+<p rend="subhead">Catutthakaṇḍa</p>
+
+<p rend="bodytext" n="482"><hi rend="paranum">482</hi>, 508<hi rend="dot">.</hi><hi rend="bold">Dādantassaṃ</hi><pb ed="M" n="0.0241" /><hi rend="bold">mi mesu</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Dā</hi>iccetassa dhātussa antassa <hi rend="bold">aṃ</hi> hoti <hi rend="bold">mima</hi>iccetesu.</p>
+
+<p rend="bodytext">Dammi, damma.</p>
+
+<p rend="bodytext" n="483"><hi rend="paranum">483</hi>, 527<hi rend="dot">.</hi><hi rend="bold">Asaṃyogantassa vuddhi kārite</hi>.</p>
+
+<p rend="bodytext">Asaṃyogantassa dhātussa kārite vuddhi hoti.</p>
+
+<p rend="bodytext">Kāreti, kārenti, kārayati, kārayanti, kārāpeti, kārāpenti, kārāpayati, kārāpayanti.</p>
+
+<p rend="bodytext"><hi rend="bold">Asaṃyogantasse</hi>ti kimatthaṃ? Cintayati, mantayati.</p>
+
+<p rend="bodytext" n="484"><hi rend="paranum">484</hi>, 542<hi rend="dot">.</hi><hi rend="bold">Ghaṭādīnaṃ vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ghaṭā</hi>dīnaṃ dhātūnaṃ asaṃyogantānaṃ vuddhi hoti vā kārite.</p>
+
+<p rend="bodytext">Ghāṭeti, ghaṭeti, ghāṭayati, ghaṭayati, ghāṭāpeti, ghaṭāpeti, ghāṭāpayati, ghaṭāpayati, gāmeti, gameti, gāmayati, gamayati, gāmāpeti, gamāpeti. Gāmāpayati, gamāpayati.</p>
+
+<p rend="bodytext"><hi rend="bold">Ghaṭādīnami</hi>ti kimatthaṃ? Kāreti.</p>
+
+<p rend="bodytext" n="485"><hi rend="paranum">485</hi>, 434<hi rend="dot">.</hi><hi rend="bold">Aññesu</hi><pb ed="M" n="0.0242" /><hi rend="bold">ca</hi>.</p>
+
+<p rend="bodytext">Aññesu ca paccayesu sabbesaṃ dhātūnaṃ asaṃyogantānaṃ vuddhi hoti.</p>
+
+<p rend="bodytext">Jayati, hoti, bhavati.</p>
+
+<p rend="bodytext"><hi rend="bold">Caggahaṇena</hi> ṇupaccayassāpi vuddhi hoti. Abhisuṇoti.</p>
+
+<p rend="bodytext" n="486"><hi rend="paranum">486</hi>, 543<hi rend="dot">.</hi><hi rend="bold">Guha dusānaṃ dīghaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Guha dusa</hi>iccetesaṃ dhātūnaṃ saro dīghamāpajjate kārite.</p>
+
+<p rend="bodytext">Gūhayati, dūsayati.</p>
+
+<p rend="bodytext" n="487"><hi rend="paranum">487</hi>, 478<hi rend="dot">.</hi><hi rend="bold">Vaca vasa vahādīnamukāro vassa ye</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Vaca vasa vaha</hi>iccevamādīnaṃ dhātūnaṃ vakārassa <hi rend="bold">u</hi>kāro hoti <hi rend="bold">ya</hi>paccaye pare.</p>
+
+<p rend="bodytext">Uccate, vuccati, gussati, vuyhati.</p>
+
+<p rend="bodytext" n="488"><hi rend="paranum">488</hi>, 481<hi rend="dot">.</hi><hi rend="bold">Ha vipariyayo lo vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ha</hi>kārassa vipariyayo hoti <hi rend="bold">ya</hi>paccaye pare, <hi rend="bold">ya</hi>paccayassa ca <hi rend="bold">lo</hi> hoti vā.</p>
+
+<p rend="bodytext">Vulhati, vuyhati.</p>
+
+<p rend="bodytext" n="489"><hi rend="paranum">489</hi>, 519<hi rend="dot">.</hi><hi rend="bold">Gahassa</hi><pb ed="M" n="0.0243" /><hi rend="bold">ghe ppe</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Gaha</hi>iccetassa dhātussa sabbassa <hi rend="bold">ghe</hi>kāro hoti ppapaccaye pare.</p>
+
+<p rend="bodytext">Gheppati.</p>
+
+<p rend="bodytext" n="490"><hi rend="paranum">490</hi>, 518<hi rend="dot">.</hi><hi rend="bold">Halo po ṇhāmhi</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Gaha</hi>iccetassa dhātussa <hi rend="bold">ha</hi>kārassa lopo hoti <hi rend="bold">ṇhā</hi>mhi paccaye pare.</p>
+
+<p rend="bodytext">Gaṇhāti.</p>
+
+<p rend="bodytext" n="491"><hi rend="paranum">491</hi>, 523<hi rend="dot">.</hi><hi rend="bold">Karassa kāsattamajjatanimhi</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Kara</hi>iccetassa dhātussa sabbassa <hi rend="bold">kāsa</hi>ttaṃ hoti vā ajjatanimhi vibhattimhi.</p>
+
+<p rend="bodytext">Akāsi, akāsuṃ. Akari, akaruṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Kāsattamitibhāvaniddesena</hi> aññatthāpi <hi rend="bold">sā</hi>gamo hoti. Ahosi, adāsi.</p>
+
+<p rend="bodytext" n="492"><hi rend="paranum">492</hi>, 499<hi rend="dot">.</hi><hi rend="bold">Asasmā mimānaṃ mhimhā’ ntalopo ca</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Asa</hi>iccetāya dhātuyā <hi rend="bold">mima</hi>iccetesaṃ vibhattīnaṃ <hi rend="bold">mhimhā</hi>desā honti vā, dhātvantassa lopo ca.</p>
+
+<p rend="bodytext">Amhi <pb ed="M" n="0.0244" />, amha, asmi, asma.</p>
+
+<p rend="bodytext" n="493"><hi rend="paranum">493</hi>, 498<hi rend="dot">.</hi><hi rend="bold">Thassa tthattaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Asa</hi>iccetāya dhātuyā <hi rend="bold">tha</hi>ssa vibhattissa <hi rend="bold">ttha</hi>ttaṃ hoti, dhātvantassa lopo ca.</p>
+
+<p rend="bodytext">Attha.</p>
+
+<p rend="bodytext" n="494"><hi rend="paranum">494</hi>, 495<hi rend="dot">.</hi><hi rend="bold">Tissa tthittaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Asa</hi>iccetāya dhātuyā <hi rend="bold">ti</hi>ssa vibhattissa <hi rend="bold">tthi</hi>ttaṃ hoti, dhātvantassa lopo ca.</p>
+
+<p rend="bodytext">Atthi.</p>
+
+<p rend="bodytext" n="495"><hi rend="paranum">495</hi>, 500<hi rend="dot">.</hi><hi rend="bold">Tussa tthuttaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Asa</hi>iccetāya dhātuyā <hi rend="bold">tu</hi>ssa vibhattissa <hi rend="bold">tthu</hi>ttaṃ hoti, dhātvantassa lopo ca.</p>
+
+<p rend="bodytext">Atthu.</p>
+
+<p rend="bodytext" n="496"><hi rend="paranum">496</hi>, 497<hi rend="dot">.</hi><hi rend="bold">Simhi ca</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Asa</hi>sseva dhātussa <hi rend="bold">si</hi>mhi vibhattimhi antassa lopo ca hoti.</p>
+
+<p rend="bodytext">Ko nu tvamasi mārisa.</p>
+
+<p rend="bodytext" n="497"><hi rend="paranum">497</hi>, 477<hi rend="dot">.</hi><hi rend="bold">Labhasmā</hi><pb ed="M" n="0.0245" /><hi rend="bold">ī iṃnaṃ ttha tthaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Labha</hi>iccetāya dhātuyā ī iṃnaṃ vibhattīnaṃ <hi rend="bold">ttha tthaṃ</hi>ādesā honti, dhātvantassa lopo ca.</p>
+
+<p rend="bodytext">Alattha, alatthaṃ.</p>
+
+<p rend="bodytext" n="498"><hi rend="paranum">498</hi>, 480<hi rend="dot">.</hi><hi rend="bold">Kusasmā dī cchi</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Kusa</hi>iccetāya dhātuyā <hi rend="bold">ī</hi>vibhattissa <hi rend="bold">cchi</hi>hoti, dhātvantassa lopo ca.</p>
+
+<p rend="bodytext">Akkocchi.</p>
+
+<p rend="bodytext" n="499"><hi rend="paranum">499</hi>, 507<hi rend="dot">.</hi><hi rend="bold">Dādhātussa dajjaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Dā</hi>iccetassa dhātussa sabbassa <hi rend="bold">dajjā</hi>deso hoti vā.</p>
+
+<p rend="bodytext">Dajjāmi, dajjeyya, dadāmi, dadeyya.</p>
+
+<p rend="bodytext" n="500"><hi rend="paranum">500</hi>, 486<hi rend="dot">.</hi><hi rend="bold">Vadassa vajjaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Vada</hi>iccetassa dhātussa sabbassa <hi rend="bold">vajjā</hi>deso hoti vā.</p>
+
+<p rend="bodytext">Vajjāmi, vajjeyya, vadāmi, vadeyya.</p>
+
+<p rend="bodytext" n="501"><hi rend="paranum">501</hi>, 443<hi rend="dot">.</hi><hi rend="bold">Gamissa</hi><pb ed="M" n="0.0246" /><hi rend="bold">ghammaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Gamu</hi>iccetassa dhātussa sabbassa <hi rend="bold">ghammā</hi>deso hoti vā.</p>
+
+<p rend="bodytext">Ghammatu. Ghammāhi, ghammāmi.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Gacchatu, gacchāhi, gacchāmi.</p>
+
+<p rend="bodytext" n="502"><hi rend="paranum">502</hi>, 493<hi rend="dot">.</hi><hi rend="bold">Yamhi dā dhā mā ṭhā hā pā mahamathādīnamī</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ya</hi>mhi paccaye pare <hi rend="bold">dā dhā mā ṭhā hā pā maha matha</hi> iccevamādīnaṃ dhātūnaṃ anto <hi rend="bold">ī</hi>kāramāpajjate.</p>
+
+<p rend="bodytext">Dīyati, dhīyati, mīyati, ṭhīyati, hīyati, pīyati, mahīyati, mathīyati.</p>
+
+<p rend="bodytext" n="503"><hi rend="paranum">503</hi>, 485<hi rend="dot">.</hi><hi rend="bold">Yajassādissi</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Yaja</hi>iccetassa dhātussa ādissa <hi rend="bold">i</hi>kārādeso hoti <hi rend="bold">ya</hi>paccaye pare.</p>
+
+<p rend="bodytext">Ijjate mayā buddho.</p>
+
+<p rend="bodytext" n="504"><hi rend="paranum">504</hi>, 470<hi rend="dot">.</hi><hi rend="bold">Sabbato uṃ iṃsu</hi>.</p>
+
+<p rend="bodytext">Sabbehi dhātūhi uṃvibhattissa iṃsuādeso hoti.</p>
+
+<p rend="bodytext">Upasaṅkamiṃsu <pb ed="M" n="0.0247" />, nisīdiṃsu.</p>
+
+<p rend="bodytext" n="505"><hi rend="paranum">505</hi>, 482<hi rend="dot">.</hi><hi rend="bold">Jara marānaṃ jīra jiyya miyyā vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Jara mara</hi> iccetesaṃ dhātūnaṃ <hi rend="bold">jīra jiyya miyyā</hi>desā honti vā.</p>
+
+<p rend="bodytext">Jīrati, jīranti, jiyyati, jiyyanti, miyyati, miyyanti, marati, maranti.</p>
+
+<p rend="bodytext" n="506"><hi rend="paranum">506</hi>, 496<hi rend="dot">.</hi><hi rend="bold">Sabbatthā’ sassādilopo ca</hi>.</p>
+
+<p rend="bodytext">Sabbattha vibhattipaccayesu <hi rend="bold">asa</hi>iccetassa dhātussa ādissa lopo hoti vā.</p>
+
+<p rend="bodytext">Siyā, santi, sante, samāno.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Asi.</p>
+
+<p rend="bodytext" n="507"><hi rend="paranum">507</hi>, 501<hi rend="dot">.</hi><hi rend="bold">Asabbadhātuke bhū</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Asa</hi>sseva dhātussa <hi rend="bold">bhū</hi>hoti vā asabbadhātuke.</p>
+
+<p rend="bodytext">Bhavissati. Bhavissanti.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Āsuṃ.</p>
+
+<p rend="bodytext" n="508"><hi rend="paranum">508</hi>, 515<hi rend="dot">.</hi><hi rend="bold">Eyyassa</hi><pb ed="M" n="0.0248" /><hi rend="bold">ñāto iyā ñā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Eyya</hi>ssa vibhattissa <hi rend="bold">ñā</hi>iccetāya dhātuyā parassa <hi rend="bold">iyā ñā</hi>ādesā honti vā.</p>
+
+<p rend="bodytext">Jāniyā, jaññā.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Jāneyya.</p>
+
+<p rend="bodytext" n="509"><hi rend="paranum">509</hi>, 516<hi rend="dot">.</hi><hi rend="bold">Nāssa lopo yakārattaṃ</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Ñā</hi>iccetāya dhātuyā parassa <hi rend="bold">nā</hi>paccayassa lopo hoti vā, <hi rend="bold">ya</hi>kārattañca.</p>
+
+<p rend="bodytext">Jaññā, nāyati.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Jānāti.</p>
+
+<p rend="bodytext" n="510"><hi rend="paranum">510</hi>, 487<hi rend="dot">.</hi><hi rend="bold">Lopañcettamakāro</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">A</hi>kārapaccayo lopamāpajjate, ettañca hoti vā.</p>
+
+<p rend="bodytext">Vajjemi, vademi, vajjāmi, vadāmi.</p>
+
+<p rend="bodytext" n="511"><hi rend="paranum">511</hi>, 521<hi rend="dot">.</hi><hi rend="bold">Uttamokāro</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">O</hi>kārapaccayo uttamāpajjate vā.</p>
+
+<p rend="bodytext">Kurute, karoti.</p>
+
+<p rend="bodytext"><hi rend="bold">Okāro</hi>ti <pb ed="M" n="0.0249" /> kimatthaṃ? Hoti.</p>
+
+<p rend="bodytext" n="512"><hi rend="paranum">512</hi>, 522<hi rend="dot">.</hi><hi rend="bold">Karassākāro ca</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Kara</hi>iccetassa dhātussa <hi rend="bold">a</hi>kāro <hi rend="bold">u</hi>ttamāpajjate vā.</p>
+
+<p rend="bodytext">Kurute, taroti, tubbanti, kayirati.</p>
+
+<p rend="bodytext"><hi rend="bold">Karasse</hi>ti kimatthaṃ? Sarati, marati.</p>
+
+<p rend="bodytext" n="513"><hi rend="paranum">513</hi>, 435<hi rend="dot">.</hi><hi rend="bold">O ava sare</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">O</hi>kārassa dhātvantassa sare pare <hi rend="bold">avā</hi>deso hoti.</p>
+
+<p rend="bodytext">Cavati. Bhavati.</p>
+
+<p rend="bodytext"><hi rend="bold">O</hi>ti kimatthaṃ? Jayati.</p>
+
+<p rend="bodytext" n="514"><hi rend="paranum">514</hi>, 491<hi rend="dot">.</hi><hi rend="bold">E aya</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">E</hi>kārassa dhātvantassa sare pare <hi rend="bold">ayā</hi>deso hoti.</p>
+
+<p rend="bodytext">Nayati, jayati.</p>
+
+<p rend="bodytext" n="515"><hi rend="paranum">515</hi>, 541<hi rend="dot">.</hi><hi rend="bold">Te</hi><pb ed="M" n="0.0250" /><hi rend="bold">āvāyā kārite</hi>.</p>
+
+<p rend="bodytext">Te <hi rend="bold">o e</hi>iccete <hi rend="bold">āva āyā</hi>dese pāpuṇanti kārite.</p>
+
+<p rend="bodytext">Lāveti, nāyeti.</p>
+
+<p rend="bodytext"><hi rend="bold">Yogavibhāgena</hi> aññasmimpi <hi rend="bold">e</hi>kārassa <hi rend="bold">āyā</hi>deso hoti. Gāyati, gāyanti.</p>
+
+<p rend="bodytext" n="516"><hi rend="paranum">516</hi>, 466<hi rend="dot">.</hi><hi rend="bold">Ikārāgamo asabbadhātukamhi</hi>.</p>
+
+<p rend="bodytext">Sabbasmiṃ asabbadhātukamhi <hi rend="bold">i</hi>kārāgamo hoti.</p>
+
+<p rend="bodytext">Gamissati, karissati, labhissati, pacissati.</p>
+
+<p rend="bodytext"><hi rend="bold">Asabbadhātukamhī</hi>ti kimatthaṃ? Gacchati, karoti, labhati, pacati.</p>
+
+<p rend="bodytext" n="517"><hi rend="paranum">517</hi>, 488<hi rend="dot">.</hi><hi rend="bold">Kvaci dhātuvibhattipaccayānaṃ dīgha viparītādesalopāgamā ca</hi>.</p>
+
+<p rend="bodytext">Idha ākhyāte aniddiṭṭhesu sādhanesu kvaci dhātuvibhattipaccayānaṃ dīghaviparītādesalopāgamaiccetāni kāriyāni jinavacanānurūpāni kātabbāni.</p>
+
+<p rend="bodytext">Jāyati <pb ed="M" n="0.0251" />, kareyya, jāniyā, siyā, kare, gacche, jaññā, vakkhetha, dakkhetha, dicchati, agacchi, agacchuṃ, ahosi, ahesuṃ iccevamādīni aññānipi sādhanāni yojetabbāni.</p>
+
+<p rend="bodytext" n="518"><hi rend="paranum">518</hi>, 446<hi rend="dot">.</hi><hi rend="bold">Attanopadāni parassapadattaṃ</hi>.</p>
+
+<p rend="bodytext">Attanopadāni kvaci parassapadattamāpajjante.</p>
+
+<p rend="bodytext">Vuccati, labbhati, paccati.</p>
+
+<p rend="bodytext"><hi rend="bold">Kvacī</hi>ti kimatthaṃ? Karīyate, labbhate, paccate.</p>
+
+<p rend="bodytext" n="519"><hi rend="paranum">519</hi>, 457<hi rend="dot">.</hi><hi rend="bold">Akārāgamo hiyyattanīajjatanīkālātipattīsu</hi>.</p>
+
+<p rend="bodytext">Kvaci <hi rend="bold">a</hi>kārāgamo hoti <hi rend="bold">hiyyattanī ajjatanīkālātipatti</hi>iccetāsu vibhattīsu.</p>
+
+<p rend="bodytext">Agamā, agamī, agamissā.</p>
+
+<p rend="bodytext"><hi rend="bold">Kvacī</hi>ti kimatthaṃ? Gamā, gamī, gamissā.</p>
+
+<p rend="bodytext" n="520"><hi rend="paranum">520</hi>, 502<hi rend="dot">.</hi><hi rend="bold">Brūto ī timhi</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Brū</hi>iccetāya dhātuyā <hi rend="bold">ī</hi>kārāgamo hoti <hi rend="bold">ti</hi>mhi vibhattimhi.</p>
+
+<p rend="bodytext">Bravīti.</p>
+
+<p rend="bodytext" n="521"><hi rend="paranum">521</hi>, 425<hi rend="dot">.</hi><hi rend="bold">Dhātussanto</hi><pb ed="M" n="0.0252" /><hi rend="bold">lopo’nekasarassa</hi>.</p>
+
+<p rend="bodytext">Dhātussa anto kvaci lopo hoti anekasarassa.</p>
+
+<p rend="bodytext">Gacchati, sarati, marati.</p>
+
+<p rend="bodytext"><hi rend="bold">Anekasarasse</hi>ti kimatthaṃ? Pāti, yāti, vāti.</p>
+
+<p rend="bodytext"><hi rend="bold">Kvacī</hi>ti kimatthaṃ? Mahīyati, mathīyati.</p>
+
+<p rend="bodytext" n="522"><hi rend="paranum">522</hi>, 476<hi rend="dot">.</hi><hi rend="bold">Isuyamūnamanto ccho vā</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">Isu yamu i</hi>ccetesaṃ dhātūnaṃ anto <hi rend="bold">ccho</hi> hoti vā. Icchati, niyacchati.</p>
+
+<p rend="bodytext"><hi rend="bold">Vā</hi>ti kimatthaṃ? Esati, niyamati.</p>
+
+<p rend="bodytext" n="523"><hi rend="paranum">523</hi>, 526<hi rend="dot">.</hi><hi rend="bold">Kāritānaṃ ṇo lopaṃ</hi>.</p>
+
+<p rend="bodytext">Kāritaiccetesaṃ paccayānaṃ <hi rend="bold">ṇo</hi> lopamāpajjate.</p>
+
+<p rend="bodytext">Kāreti, kārayati, kārāpeti, kārāpayati.</p>
+
+<p rend="gatha1">Sāsanatthaṃ samuddiṭṭhaṃ, mayākhyātaṃ samāsato;</p>
+
+<p rend="gathalast">Sakaṃ buddhivisesena, cintayantu vicakkhaṇā.</p>
+
+<p rend="centre">Iti ākhyātakappe catuttho kaṇḍo.</p>
+
+<p rend="centre">Ākhyātakappo niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

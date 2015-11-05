@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">3. Dvattiṃsākāro</p>
+
+<p rend="bodytext">Atthi <pb ed="V" n="0.0003" /> imasmiṃ kāye –</p>
+
+<p rend="gatha1">Kesā lomā nakhā dantā taco,</p>
+
+<p rend="gatha2">Maṃsaṃ nhāru <note>nahāru (sī. pī.), nahārū (syā. kaṃ.)</note> aṭṭhi <note>aṭṭhī (syā. kaṃ)</note> aṭṭhimiñjaṃ vakkaṃ,</p>
+
+<p rend="gatha3">Hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ,</p>
+
+<p rend="gatha2">Antaṃ antaguṇaṃ udariyaṃ karīsaṃ matthaluṅgaṃ <note>( ) sabbattha natthi, aṭṭhakathā ca dvattiṃsasaṅkhyā ca manasi kātabbā</note>,</p>
+
+<p rend="gatha3">Pittaṃ semhaṃ pubbo lohitaṃ sedo medo,</p>
+
+<p rend="gathalast">Assu vasā kheḷo siṅghāṇikā lasikā muttanti <note>muttaṃ, matthake matthaluṅganti (syā.)</note>.</p>
+
+<p rend="centre">Dvattiṃsākāro niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

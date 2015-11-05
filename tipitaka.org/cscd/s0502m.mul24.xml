@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">25. Bhikkhuvaggo</p>
+
+<p rend="hangnum" n="360"><hi rend="paranum">360</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro;</p>
+
+<p rend="gathalast">Ghānena saṃvaro sādhu, sādhu jivhāya saṃvaro.</p>
+
+<p rend="hangnum" n="361"><hi rend="paranum">361</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Kāyena saṃvaro sādhu, sādhu vācāya saṃvaro;</p>
+
+<p rend="gatha2">Manasā saṃvaro sādhu, sādhu sabbattha saṃvaro;</p>
+
+<p rend="gathalast">Sabbattha saṃvuto bhikkhu, sabbadukkhā pamuccati.</p>
+
+<p rend="hangnum" n="362"><hi rend="paranum">362</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Hatthasaṃyato pādasaṃyato, vācāsaṃyato saṃyatuttamo;</p>
+
+<p rend="gathalast">Ajjhattarato samāhito, eko santusito tamāhu bhikkhuṃ.</p>
+
+<p rend="hangnum" n="363"><hi rend="paranum">363</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yo <pb ed="V" n="0.0059" /> mukhasaṃyato bhikkhu, mantabhāṇī anuddhato;</p>
+
+<p rend="gathalast">Atthaṃ dhammañca dīpeti, madhuraṃ tassa bhāsitaṃ.</p>
+
+<p rend="hangnum" n="364"><hi rend="paranum">364</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Dhammārāmo <pb ed="M" n="0.0066" /><pb ed="P" n="0.0053" /><pb ed="T" n="0.0065" /> dhammarato, dhammaṃ anuvicintayaṃ;</p>
+
+<p rend="gathalast">Dhammaṃ anussaraṃ bhikkhu, saddhammā na parihāyati.</p>
+
+<p rend="hangnum" n="365"><hi rend="paranum">365</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Salābhaṃ nātimaññeyya, nāññesaṃ pihayaṃ care;</p>
+
+<p rend="gathalast">Aññesaṃ pihayaṃ bhikkhu, samādhiṃ nādhigacchati.</p>
+
+<p rend="hangnum" n="366"><hi rend="paranum">366</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Appalābhopi ce bhikkhu, salābhaṃ nātimaññati;</p>
+
+<p rend="gathalast">Taṃ ve devā pasaṃsanti, suddhājīviṃ atanditaṃ.</p>
+
+<p rend="hangnum" n="367"><hi rend="paranum">367</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sabbaso nāmarūpasmiṃ, yassa natthi mamāyitaṃ;</p>
+
+<p rend="gathalast">Asatā ca na socati, sa ve ‘‘bhikkhū’’ti vuccati.</p>
+
+<p rend="hangnum" n="368"><hi rend="paranum">368</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Mettāvihārī yo bhikkhu, pasanno buddhasāsane;</p>
+
+<p rend="gathalast">Adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.</p>
+
+<p rend="hangnum" n="369"><hi rend="paranum">369</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Siñca bhikkhu imaṃ nāvaṃ, sittā te lahumessati;</p>
+
+<p rend="gathalast">Chetvā rāgañca dosañca, tato nibbānamehisi.</p>
+
+<p rend="hangnum" n="370"><hi rend="paranum">370</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pañca chinde pañca jahe, pañca cuttari bhāvaye;</p>
+
+<p rend="gathalast">Pañca saṅgātigo bhikkhu, ‘‘oghatiṇṇo’’ti vuccati.</p>
+
+<p rend="hangnum" n="371"><hi rend="paranum">371</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Jhāya bhikkhu <note>jhāya tuvaṃ bhikkhu (?)</note> mā pamādo <note>mā ca pamādo (sī. syā. pī.)</note>, mā te kāmaguṇe ramessu <note>bhamassu (sī. pī.), bhavassu (syā.), ramassu (ka.)</note> cittaṃ;</p>
+
+<p rend="gathalast">Mā lohaguḷaṃ gilī pamatto, mā kandi ‘‘dukkhamida’’nti ḍayhamāno.</p>
+
+<p rend="hangnum" n="372"><hi rend="paranum">372</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Natthi jhānaṃ apaññassa, paññā natthi ajhāyato <note>ajjhāyino (ka.)</note>;</p>
+
+<p rend="gathalast">Yamhi jhānañca paññā ca, sa ve nibbānasantike.</p>
+
+<p rend="hangnum" n="373"><hi rend="paranum">373</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Suññāgāraṃ <pb ed="M" n="0.0067" /><pb ed="V" n="0.0060" /><pb ed="P" n="0.0054" /><pb ed="T" n="0.0066" /> paviṭṭhassa, santacittassa bhikkhuno;</p>
+
+<p rend="gathalast">Amānusī rati hoti, sammā dhammaṃ vipassato.</p>
+
+<p rend="hangnum" n="374"><hi rend="paranum">374</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yato yato sammasati, khandhānaṃ udayabbayaṃ;</p>
+
+<p rend="gathalast">Labhatī <note>labhati (pī.), labhate (ka.)</note> pītipāmojjaṃ, amataṃ taṃ vijānataṃ.</p>
+
+<p rend="hangnum" n="375"><hi rend="paranum">375</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tatrāyamādi bhavati, idha paññassa bhikkhuno;</p>
+
+<p rend="gathalast">Indriyagutti santuṭṭhi, pātimokkhe ca saṃvaro.</p>
+
+<p rend="hangnum" n="376"><hi rend="paranum">376</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Mitte bhajassu kalyāṇe, suddhājīve atandite;</p>
+
+<p rend="gatha2">Paṭisanthāravutyassa <note>paṭisandhāravutyassa (ka.)</note>, ācārakusalo siyā;</p>
+
+<p rend="gathalast">Tato pāmojjabahulo, dukkhassantaṃ karissati.</p>
+
+<p rend="hangnum" n="377"><hi rend="paranum">377</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Vassikā viya pupphāni, maddavāni <note>majjavāni (ka. ṭīkā) paccavāni (ka. aṭṭha.)</note> pamuñcati;</p>
+
+<p rend="gathalast">Evaṃ rāgañca dosañca, vippamuñcetha bhikkhavo.</p>
+
+<p rend="hangnum" n="378"><hi rend="paranum">378</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Santakāyo santavāco, santavā susamāhito <note>santamano susamāhito (syā. pī.), santamano samāhito (ka.)</note>;</p>
+
+<p rend="gathalast">Vantalokāmiso bhikkhu, ‘‘upasanto’’ti vuccati.</p>
+
+<p rend="hangnum" n="379"><hi rend="paranum">379</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Attanā codayattānaṃ, paṭimaṃsetha attanā <note>paṭimāse attamattanā (sī. pī.), paṭimaṃse tamattanā (syā.)</note>;</p>
+
+<p rend="gathalast">So attagutto satimā, sukhaṃ bhikkhu vihāhisi.</p>
+
+<p rend="hangnum" n="380"><hi rend="paranum">380</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Attā hi attano nātho, (ko hi nātho paro siyā) <note>( ) videsapotthakesu natthi</note></p>
+
+<p rend="gatha2">Attā hi attano gati;</p>
+
+<p rend="gathalast">Tasmā saṃyamamattānaṃ <note>saṃyamaya’ttānaṃ (sī. pī.)</note>, assaṃ bhadraṃva vāṇijo.</p>
+
+<p rend="hangnum" n="381"><hi rend="paranum">381</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pāmojjabahulo <pb ed="M" n="0.0068" /> bhikkhu, pasanno buddhasāsane;</p>
+
+<p rend="gathalast">Adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.</p>
+
+<p rend="hangnum" n="382"><hi rend="paranum">382</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yo <pb ed="V" n="0.0061" /><pb ed="P" n="0.0055" /> have daharo bhikkhu, yuñjati buddhasāsane;</p>
+
+<p rend="gathalast">Somaṃ <pb ed="T" n="0.0067" /><note>so imaṃ (sī. syā. kaṃ. pī.)</note> lokaṃ pabhāseti, abbhā muttova candimā.</p>
+
+<p rend="centre">Bhikkhuvaggo pañcavīsatimo niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

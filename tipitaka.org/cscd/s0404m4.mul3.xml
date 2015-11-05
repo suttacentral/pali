@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">4. Rāgapeyyālaṃ</p>
+
+<p rend="bodytext" n="502"><hi rend="paranum">502</hi><hi rend="dot">.</hi> ‘‘Rāgassa <pb ed="V" n="3.0325" />, bhikkhave, abhiññāya ekādasa dhammā bhāvetabbā. Katame ekādasa? Paṭhamaṃ jhānaṃ, dutiyaṃ jhānaṃ, tatiyaṃ <pb ed="T" n="5.0393" /> jhānaṃ, catutthaṃ jhānaṃ, mettācetovimutti, karuṇācetovimutti, muditācetovimutti, upekkhācetovimutti, ākāsānañcāyatanaṃ, viññāṇañcāyatanaṃ, ākiñcaññāyatanaṃ – rāgassa, bhikkhave, abhiññāya ime ekādasa dhammā bhāvetabbā.</p>
+
+<p rend="bodytext" n="503-511"><hi rend="paranum">503-511</hi><hi rend="dot">.</hi> ‘‘Rāgassa, bhikkhave, pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya… ime ekādasa dhammā bhāvetabbā.</p>
+
+<p rend="bodytext" n="512-671"><hi rend="paranum">512-671</hi><hi rend="dot">.</hi> ‘‘Dosassa <pb ed="M" n="3.0558" /><pb ed="P" n="5.0361" />…pe… mohassa… kodhassa… upanāhassa… makkhassa… paḷāsassa… issāya… macchariyassa… māyāya… sāṭheyyassa… thambhassa… sārambhassa… mānassa… atimānassa… madassa… pamādassa abhiññāya…pe… pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya ime ekādasa dhammā bhāvetabbā’’ti.</p>
+
+<p rend="bodytext">Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.</p>
+
+<p rend="centre">Rāgapeyyālaṃ niṭṭhitaṃ.</p>
+
+<p rend="gatha1">Nava suttasahassāni, bhiyyo pañcasatāni ca <note>pañca suttasatāni ca (aṭṭha.)</note>;</p>
+
+<p rend="gathalast">Sattapaññāsa suttantā <note>suttāni (aṭṭha.)</note>, aṅguttarasamāyutā <note>honti aṅguttarāgame (aṭṭha.)</note> ti.</p>
+
+<p rend="centre">Ekādasakanipātapāḷi niṭṭhitā.</p>
+
+<p rend="centre">Aṅguttaranikāyo samatto.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

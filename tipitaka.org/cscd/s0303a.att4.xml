@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">5. Uppādasaṃyuttavaṇṇanā</p>
+
+<p rend="bodytext" n="312-321"><hi rend="paranum">312-321</hi><hi rend="dot">.</hi> Uppādasaṃyutte <pb ed="V" n="2.0308" /><pb ed="P" n="2.0347" /><pb ed="M" n="2.0318" /> sabbaṃ pākaṭameva.</p>
+
+<p rend="centre">Uppādasaṃyuttavaṇṇanā niṭṭhitā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

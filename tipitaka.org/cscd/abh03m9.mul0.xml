@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Abhidhammapiṭake</p>
+
+<p rend="book">Paṭṭhānapāḷi</p>
+
+<p rend="subhead">(Tatiyo bhāgo)</p>
+
+<p rend="title">Dhammānulome dukapaṭṭhānaṃ</p>
+
+<p rend="chapter">1. Hetugocchakaṃ</p>
+
+<p rend="title">1. Hetudukaṃ</p>
+
+<p rend="title">1. Paṭiccavāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Hetuṃ <pb ed="T" n="3.0001" /><pb ed="M" n="3.0001" /><pb ed="V" n="3.0001" /> dhammaṃ paṭicca hetu dhammo uppajjati hetupaccayā – alobhaṃ paṭicca adoso amoho, adosaṃ paṭicca alobho amoho, amohaṃ paṭicca alobho adoso, lobhaṃ paṭicca <pb ed="V" n="3.0002" /> moho, mohaṃ paṭicca lobho, dosaṃ paṭicca moho, mohaṃ paṭicca doso; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Hetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā – hetuṃ dhammaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Hetuṃ dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti hetupaccayā – alobhaṃ paṭicca adoso amoho sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṃ (cakkaṃ). Lobhaṃ paṭicca moho sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṃ…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Nahetuṃ <pb ed="M" n="3.0002" /> dhammaṃ <pb ed="T" n="3.0002" /> paṭicca nahetu dhammo uppajjati hetupaccayā – nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Nahetuṃ dhammaṃ paṭicca hetu dhammo uppajjati hetupaccayā – nahetū khandhe paṭicca hetū; paṭisandhikkhaṇe…pe… vatthuṃ paṭicca hetū. (2)</p>
+
+<p rend="bodytext">Nahetuṃ dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti hetupaccayā – nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā hetu ca cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe paṭicca dve khandhā hetu ca cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe… paṭisandhikkhaṇe vatthuṃ paṭicca hetū sampayuttakā ca khandhā. (3)</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> Hetuñca nahetuñca dhammaṃ paṭicca hetu dhammo uppajjati hetupaccayā – alobhañca sampayuttake ca khandhe paṭicca adoso amoho (cakkaṃ). Lobhañca sampayuttake ca khandhe paṭicca moho, dosañca sampayuttake ca khandhe paṭicca moho…pe… paṭisandhikkhaṇe…pe… alobhañca vatthuñca paṭicca adoso amoho…pe…. (1)</p>
+
+<p rend="bodytext">Hetuñca <pb ed="V" n="3.0003" /> nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā – nahetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe ca hetuñca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe… paṭisandhikkhaṇe vatthuñca hetuñca paṭicca sampayuttakā khandhā. (2)</p>
+
+<p rend="bodytext">Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti <pb ed="T" n="3.0003" /> hetupaccayā – nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe ca alobhañca paṭicca dve khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ (cakkaṃ). Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… vatthuñca alobhañca paṭicca adoso amoho sampayuttakā ca khandhā. (3)</p>
+
+<p rend="subhead">Ārammaṇapaccayādi</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> Hetuṃ <pb ed="M" n="3.0003" /> dhammaṃ paṭicca hetu dhammo uppajjati ārammaṇapaccayā (rūpaṃ chaḍḍetvā arūpeyeva nava pañhā)… adhipatipaccayā (paṭisandhi natthi, paripuṇṇaṃ) ekaṃ mahābhūtaṃ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ… (imaṃ nānaṃ) anantarapaccayā… samanantarapaccayā… sahajātapaccayā (sabbe mahābhūtā yāva asaññasattā)… aññamaññapaccayā… nissayapaccayā… upanissayapaccayā… purejātapaccayā… āsevanapaccayā (dvīsupi paṭisandhi natthi)… kammapaccayā… vipākapaccayā (saṃkhittaṃ)… avigatapaccayā.</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> Hetuyā nava, ārammaṇe nava (sabbattha nava), avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Nahetupaccayo</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> Nahetuṃ <pb ed="V" n="3.0004" /> dhammaṃ paṭicca nahetu dhammo uppajjati nahetupaccayā – ahetukaṃ nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca <pb ed="T" n="3.0004" /> rūpaṃ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe….(1)</p>
+
+<p rend="bodytext">Nahetuṃ dhammaṃ paṭicca hetu dhammo uppajjati nahetupaccayā – vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)</p>
+
+<p rend="subhead">Naārammaṇapaccayādi</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> Hetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati naārammaṇapaccayā – hetuṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Nahetuṃ <pb ed="M" n="3.0004" /> dhammaṃ paṭicca nahetu dhammo uppajjati naārammaṇapaccayā – nahetū khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… sabbe mahābhūtā…pe…. (1)</p>
+
+<p rend="bodytext">Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati naārammaṇapaccayā – hetuñca nahetuñca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… naadhipatipaccayā… (paripuṇṇaṃ) naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā.</p>
+
+<p rend="subhead">Napurejātapaccayo</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> Hetuṃ <pb ed="V" n="3.0005" /> dhammaṃ paṭicca hetu dhammo uppajjati napurejātapaccayā – arūpe alobhaṃ paṭicca adoso amoho (cakkaṃ). Lobhaṃ paṭicca moho, mohaṃ paṭicca lobho; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Hetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā – arūpe hetuṃ paṭicca sampayuttakā khandhā, hetuṃ paṭicca cittasamuṭṭhānaṃ <pb ed="T" n="3.0005" /> rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Hetuṃ dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā – arūpe alobhaṃ paṭicca adoso amoho sampayuttakā ca khandhā (cakkaṃ). Lobhaṃ paṭicca moho sampayuttakā ca khandhā (cakkaṃ); paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā – arūpe nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… nahetū khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… ekaṃ mahābhūtaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Nahetuṃ dhammaṃ paṭicca hetu dhammo uppajjati napurejātapaccayā – arūpe nahetū khandhe paṭicca hetū; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Nahetuṃ dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā – arūpe nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā hetu ca…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> Hetuñca nahetuñca dhammaṃ paṭicca hetu dhammo uppajjati napurejātapaccayā – arūpe alobhañca sampayuttake ca khandhe paṭicca adoso amoho <pb ed="M" n="3.0005" /> (cakkaṃ). Arūpe lobhañca sampayuttake ca khandhe paṭicca moho (cakkaṃ); paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Hetuñca <pb ed="V" n="3.0006" /> nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā – arūpe nahetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā…pe… dve khandhe…pe… nahetū khandhe ca hetuñca paṭicca cittasamuṭṭhānaṃ rūpaṃ, hetuñca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ <pb ed="T" n="3.0006" />; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā – arūpe nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca…pe… dve khandhe…pe… (cakkaṃ). Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca (cakkaṃ); paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="subhead">Napacchājātapaccayādi</p>
+
+<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> Hetuṃ dhammaṃ paṭicca hetu dhammo uppajjati napacchājātapaccayā… naāsevanapaccayā.</p>
+
+<p rend="subhead">Nakammapaccayādi</p>
+
+<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> Hetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati nakammapaccayā – hetuṃ paṭicca sampayuttakā cetanā. (1)</p>
+
+<p rend="bodytext">Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati nakammapaccayā – nahetū khandhe paṭicca sampayuttakā cetanā… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati nakammapaccayā – hetuñca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1)</p>
+
+<p rend="bodytext">Hetuṃ dhammaṃ paṭicca hetu dhammo uppajjati navipākapaccayā… nava.</p>
+
+<p rend="subhead">Naāhārapaccayādi</p>
+
+<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati naāhārapaccayā – bāhiraṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe… naindriyapaccayā <pb ed="T" n="3.0007" /> – bāhiraṃ… āhārasamuṭṭhānaṃ <pb ed="M" n="3.0006" />… utusamuṭṭhānaṃ…pe… asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ, najhānapaccayā – pañcaviññāṇaṃ <pb ed="V" n="3.0007" /> …pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe… namaggapaccayā – ahetukaṃ nahetuṃ ekaṃ khandhaṃ paṭicca…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe… nasampayuttapaccayā… navippayuttapaccayā… (napurejātasadisaṃ, arūpapañhāyeva) nonatthipaccayā… novigatapaccayā.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi…pe… naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte tīṇi, navippayutte <pb ed="T" n="3.0008" /> nava, nonatthiyā tīṇi, novigate tīṇi.</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> Nahetupaccayā <pb ed="M" n="3.0007" /><pb ed="V" n="3.0008" /> ārammaṇe dve, anantare dve…pe… kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve…pe… avigate dve.</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="title">2-6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāro</p>
+
+<p rend="bodytext">(Sahajātavāropi paccayavāropi nissayavāropi paṭiccavārasadisāyeva pañhā. Mahābhūtesu niṭṭhitesu ‘‘vatthuṃ paccayā’’ti kātabbā. Pañcāyatanāni anulomepi paccanīyepi yathā labbhanti tathā kātabbā. Saṃsaṭṭhavāropi sampayuttavāropi paripuṇṇo. Rūpaṃ natthi, arūpameva.)</p>
+
+<p rend="title">7. Pañhāvāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa hetupaccayena paccayo – alobho adosassa amohassa hetupaccayena paccayo (cakkaṃ). Lobho mohassa hetupaccayena paccayo, doso mohassa hetupaccayena paccayo; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Hetu <pb ed="V" n="3.0009" /> dhammo nahetussa dhammassa hetupaccayena paccayo – hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Hetu dhammo hetussa ca nahetussa ca dhammassa hetupaccayena paccayo <pb ed="T" n="3.0009" /> – alobho adosassa amohassa sampayuttakānañca khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo (cakkaṃ). Lobho mohassa…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> Hetu <pb ed="M" n="3.0008" /> dhammo hetussa dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha hetū uppajjanti. (1)</p>
+
+<p rend="bodytext">Hetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha nahetū khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext">Hetu dhammo hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3)</p>
+
+<p rend="bodytext" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati. Jhānā vuṭṭhahitvā…pe… ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ…pe… nibbānaṃ…pe… nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā nahetū pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, cakkhuṃ…pe… vatthuṃ, nahetū khandhe aniccato…pe… domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, cetopariyañāṇena nahetucittasamaṅgissa cittaṃ jānāti. Ākāsānañcāyatanaṃ <note>ākāsānañcāyatanakiriyaṃ (syā.) evamuparipi tīsu ṭhānesu</note> viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṃ <pb ed="T" n="3.0010" /> nevasaññānāsaññāyatanassa…pe… rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa <pb ed="V" n="3.0010" /> …pe… nahetū khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā (paṭhamagamanaṃyeva, āvajjanā natthi. Rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassāti idaṃ natthi). (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, taṃ <pb ed="M" n="3.0009" /> ārabbha hetū ca sampayuttakā ca khandhā uppajjanti (tattha tattha ṭhitena imaṃ kātabbaṃ dutiyagamanasadisaṃ). (3)</p>
+
+<p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> Hetu ca nahetu ca dhammā hetussa dhammassa ārammaṇapaccayena paccayo – hetuñca sampayuttake ca khandhe ārabbha hetū uppajjanti. (1)</p>
+
+<p rend="bodytext">Hetu ca nahetu ca dhammā nahetussa dhammassa ārammaṇapaccayena paccayo – hetuñca sampayuttake ca khandhe ārabbha nahetū khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext">Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo – hetuñca sampayuttake ca khandhe ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3)</p>
+
+<p rend="subhead">Adhipatipaccayo</p>
+
+<p rend="bodytext" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – hetuṃ garuṃ katvā hetū <pb ed="T" n="3.0011" /> uppajjanti. <hi rend="bold">Sahajātādhipati</hi> – hetu adhipati sampayuttakānaṃ hetūnaṃ adhipatipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu dhammo nahetussa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati <pb ed="V" n="3.0011" />. <hi rend="bold">Ārammaṇādhipati</hi> – hetuṃ garuṃ katvā nahetū khandhā uppajjanti. <hi rend="bold">Sahajātādhipati</hi> – hetu adhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu dhammo hetussa ca nahetussa ca dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – hetuṃ garuṃ katvā hetū ca sampayuttakā ca khandhā uppajjanti. <hi rend="bold">Sahajātādhipati</hi> – hetu adhipati sampayuttakānaṃ khandhānaṃ hetūnañca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā (vitthāretabbaṃ yāva. Nahetū khandhā). <hi rend="bold">Sahajātādhipati</hi> – nahetu adhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="M" n="3.0010" /> dhammo hetussa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā (saṃkhittaṃ. Yāva vatthu nahetū ca khandhā tāva kātabbaṃ). <hi rend="bold">Sahajātādhipati</hi> nahetu adhipati sampayuttakānaṃ hetūnaṃ adhipatipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati <pb ed="T" n="3.0012" />. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, taṃ garuṃ katvā nahetū khandhā ca hetū ca uppajjanti, pubbe suciṇṇāni (yāva vatthu nahetū khandhā, ca tāva kātabbaṃ). <hi rend="bold">Sahajātādhipati</hi> – nahetu adhipati sampayuttakānaṃ khandhānaṃ hetūnañca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="23"><hi rend="paranum">23</hi><hi rend="dot">.</hi> Hetu ca nahetu ca dhammā hetussa dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi> – hetuñca sampayuttake ca khandhe garuṃ katvā hetū uppajjanti. (1)</p>
+
+<p rend="bodytext">Hetu <pb ed="V" n="3.0012" /> ca nahetu ca dhammā nahetussa dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi> – hetuñca sampayuttake ca khandhe garuṃ katvā nahetū khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext">Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi> – hetuñca sampayuttake ca khandhe garuṃ katvā hetū ca sampayuttakā ca khandhā uppajjanti. (3)</p>
+
+<p rend="subhead">Anantarapaccayo</p>
+
+<p rend="bodytext" n="24"><hi rend="paranum">24</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa anantarapaccayena paccayo – purimā purimā hetū pacchimānaṃ pacchimānaṃ hetūnaṃ anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu dhammo nahetussa dhammassa anantarapaccayena paccayo – purimā purimā hetū pacchimānaṃ pacchimānaṃ nahetūnaṃ khandhānaṃ anantarapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu dhammo hetussa ca nahetussa ca dhammassa anantarapaccayena paccayo – purimā purimā hetū pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="25"><hi rend="paranum">25</hi><hi rend="dot">.</hi> Nahetu <pb ed="M" n="3.0011" /> dhammo <pb ed="T" n="3.0013" /> nahetussa dhammassa anantarapaccayena paccayo – purimā purimā nahetū khandhā pacchimānaṃ pacchimānaṃ nahetūnaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa (saṃkhittaṃ) nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa dhammassa anantarapaccayena paccayo…pe…. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa anantarapaccayena paccayo (nahetumūlakaṃ tīṇipi ekasadisaṃ). (3)</p>
+
+<p rend="bodytext" n="26"><hi rend="paranum">26</hi><hi rend="dot">.</hi> Hetū ca nahetū ca dhammā hetussa dhammassa anantarapaccayena paccayo – purimā purimā <pb ed="V" n="3.0013" /> hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetū ca nahetū ca dhammā nahetussa dhammassa anantarapaccayena paccayo – purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nahetūnaṃ khandhānaṃ anantarapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetū ca nahetū ca dhammā hetussa ca nahetussa ca dhammassa anantarapaccayena paccayo – purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Samanantarapaccayādi</p>
+
+<p rend="bodytext" n="27"><hi rend="paranum">27</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa samanantarapaccayena paccayo (anantarasadisaṃ.)… Sahajātapaccayena paccayo… aññamaññapaccayena paccayo (ime dvepi paṭiccasadisā. Nissayapaccayo paccayavāre nissayapaccayasadiso.)</p>
+
+<p rend="subhead">Upanissayapaccayo</p>
+
+<p rend="bodytext" n="28"><hi rend="paranum">28</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo <pb ed="T" n="3.0014" />, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – hetū hetūnaṃ upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu dhammo nahetussa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – hetū nahetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu <pb ed="M" n="3.0012" /> dhammo hetussa ca nahetussa ca dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo <pb ed="V" n="3.0014" />, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – hetū hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="29"><hi rend="paranum">29</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… pakatūpanissayo – saddhaṃ upanissāya dānaṃ deti…pe… samāpattiṃ uppādeti…pe… diṭṭhiṃ gaṇhāti; sīlaṃ…pe… senāsanaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; saddhā…pe… senāsanaṃ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… pakatūpanissayo – saddhaṃ…pe… senāsanaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; saddhā…pe… senāsanaṃ saddhāya…pe… patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo <pb ed="T" n="3.0015" />, anantarūpanissayo, pakatūpanissayo…pe… pakatūpanissayo (dutiyaupanissayasadisaṃ). (3)</p>
+
+<p rend="bodytext" n="30"><hi rend="paranum">30</hi><hi rend="dot">.</hi> Hetū ca nahetū ca dhammā hetussa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – hetū ca sampayuttakā ca khandhā hetūnaṃ upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetū ca nahetū ca dhammā nahetussa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – hetū ca sampayuttakā ca khandhā nahetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetū ca nahetū ca dhammā hetussa ca nahetussa ca dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo <pb ed="M" n="3.0013" /> …pe…. Pakatūpanissayo <pb ed="V" n="3.0015" /> – hetū ca sampayuttakā ca khandhā hetūnañca sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Purejātapaccayo</p>
+
+<p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe…. <hi rend="bold">Vatthupurejātaṃ</hi> – cakkhāyatanaṃ…pe… kāyāyatanaṃ…pe… <pb ed="T" n="3.0016" /> vatthu nahetūnaṃ khandhānaṃ purejātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. <hi rend="bold">Vatthupurejātaṃ</hi> – vatthu hetūnaṃ purejātapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati. <hi rend="bold">Vatthupurejātaṃ</hi> – vatthu hetūnaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Pacchājātapaccayādi</p>
+
+<p rend="bodytext" n="32"><hi rend="paranum">32</hi><hi rend="dot">.</hi> Hetu dhammo nahetussa dhammassa pacchājātapaccayena paccayo – pacchājātā hetū purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo nahetussa dhammassa pacchājātapaccayena paccayo – pacchājātā nahetū khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetū ca nahetū ca dhammā nahetussa dhammassa pacchājātapaccayena paccayo – pacchājātā hetū ca sampayuttakā ca khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu <pb ed="M" n="3.0014" /><pb ed="V" n="3.0016" /> dhammo hetussa dhammassa āsevanapaccayena paccayo (anantarasadisaṃ) <pb ed="T" n="3.0017" />.</p>
+
+<p rend="subhead">Kammapaccayo</p>
+
+<p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – nahetu cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – nahetu cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – nahetu cetanā sampayuttakānaṃ hetūnaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – nahetu cetanā vipākānaṃ hetūnaṃ kammapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – nahetu cetanā sampayuttakānaṃ khandhānaṃ hetūnaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – nahetu cetanā vipākānaṃ khandhānaṃ hetūnaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Vipākapaccayo</p>
+
+<p rend="bodytext" n="34"><hi rend="paranum">34</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa vipākapaccayena paccayo – vipāko alobho adosassa amohassa vipākapaccayena paccayo (paṭiccavārasadisaṃ. Vipākavibhaṅge nava pañhā).</p>
+
+<p rend="subhead">Āhārapaccayo</p>
+
+<p rend="bodytext" n="35"><hi rend="paranum">35</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa āhārapaccayena paccayo – nahetū āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… kabaḷīkāro āhāro imassa kāyassa <pb ed="T" n="3.0018" /> āhārapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0017" /> dhammo hetussa dhammassa āhārapaccayena paccayo – nahetū āhārā sampayuttakānaṃ hetūnaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Nahetu <pb ed="M" n="3.0015" /> dhammo hetussa ca nahetussa ca dhammassa āhārapaccayena paccayo – nahetū āhārā sampayuttakānaṃ khandhānaṃ hetūnaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="subhead">Indriyapaccayo</p>
+
+<p rend="bodytext" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa indriyapaccayena paccayo…pe… (hetumūlake tīṇi).</p>
+
+<p rend="bodytext">Nahetu dhammo nahetussa dhammassa indriyapaccayena paccayo – nahetū indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe… cakkhundriyaṃ cakkhuviññāṇassa…pe… kāyindriyaṃ kāyaviññāṇassa…pe… rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo (evaṃ indriyapaccayā vitthāretabbā. Nava).</p>
+
+<p rend="subhead">Jhānapaccayādi</p>
+
+<p rend="bodytext" n="37"><hi rend="paranum">37</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa jhānapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Hetu dhammo hetussa dhammassa maggapaccayena paccayo… sampayuttapaccayena paccayo. (Imesu dvīsu nava.)</p>
+
+<p rend="subhead">Vippayuttapaccayo</p>
+
+<p rend="bodytext" n="38"><hi rend="paranum">38</hi><hi rend="dot">.</hi> Hetu dhammo nahetussa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – hetū cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe hetū kaṭattārūpānaṃ vippayuttapaccayena paccayo. Hetū vatthussa vippayuttapaccayena paccayo <pb ed="T" n="3.0019" />. <hi rend="bold">Pacchājātā</hi> – hetū purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0018" /> dhammo nahetussa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – nahetū khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe nahetū khandhā kaṭattārūpānaṃ vippayuttapaccayena paccayo. Khandhā vatthussa…pe… vatthu khandhānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa, vatthu nahetūnaṃ khandhānaṃ vippayuttapaccayena paccayo <pb ed="M" n="3.0016" />. <hi rend="bold">Pacchājātā</hi> – nahetū khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajātaṃ</hi> – paṭisandhikkhaṇe vatthu hetūnaṃ vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – vatthu hetūnaṃ vippayuttapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa vippayuttapaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajātaṃ</hi> – paṭisandhikkhaṇe vatthu hetūnaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – vatthu hetūnaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)</p>
+
+<p rend="bodytext">Hetū ca nahetū ca dhammā nahetussa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – hetū ca sampayuttakā ca khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe hetū <pb ed="T" n="3.0020" /> ca sampayuttakā ca khandhā kaṭattārūpānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – hetū ca sampayuttakā ca khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Atthipaccayādi</p>
+
+<p rend="bodytext" n="39"><hi rend="paranum">39</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa atthipaccayena paccayo – alobho adosassa amohassa atthipaccayena paccayo (cakkaṃ). Lobho mohassa atthipaccayena paccayo (cakkaṃ); paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Hetu dhammo nahetussa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi><pb ed="V" n="3.0019" /> – hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Pacchājātā</hi> – hetū purejātassa imassa kāyassa atthipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu dhammo hetussa ca nahetussa ca dhammassa atthipaccayena paccayo – alobho adosassa amohassa sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ). Lobho mohassa sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ); paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="40"><hi rend="paranum">40</hi><hi rend="dot">.</hi> Nahetu <pb ed="M" n="3.0017" /> dhammo nahetussa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. <hi rend="bold">Sahajāto</hi> – nahetu eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe nahetu eko khandho <pb ed="T" n="3.0021" /> tiṇṇannaṃ khandhānaṃ kaṭattā ca rūpānaṃ…pe… khandhā vatthussa atthipaccayena paccayo; vatthu khandhānaṃ atthipaccayena paccayo; ekaṃ mahābhūtaṃ…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe…. <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ…pe… dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa, cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa, vatthu nahetūnaṃ khandhānaṃ atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – nahetū khandhā purejātassa imassa kāyassa atthipaccayena paccayo. <hi rend="bold">Kabaḷīkāro āhāro</hi> imassa kāyassa atthipaccayena paccayo. <hi rend="bold">Rūpajīvitindriyaṃ</hi> kaṭattārūpānaṃ atthipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajātā</hi> – nahetū khandhā sampayuttakānaṃ hetūnaṃ atthipaccayena paccayo. Paṭisandhikkhaṇe…pe… vatthu hetūnaṃ atthipaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti; vatthu hetūnaṃ atthipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajāto</hi> – nahetu eko khandho tiṇṇannaṃ khandhānaṃ hetūnaṃ cittasamuṭṭhānānañca rūpānaṃ <pb ed="T" n="3.0022" /> atthipaccayena <pb ed="V" n="3.0020" /> paccayo; paṭisandhikkhaṇe…pe… vatthu hetūnaṃ sampayuttakānañca khandhānaṃ atthipaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti; vatthu hetūnaṃ sampayuttakānañca khandhānaṃ atthipaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi> Hetu ca nahetu ca dhammā hetussa dhammassa atthipaccayena paccayo – <hi rend="bold">sahajātaṃ, purejātaṃ. Sahajāto</hi> – alobho ca sampayuttakā ca khandhā adosassa amohassa atthipaccayena paccayo (cakkaṃ) <pb ed="M" n="3.0018" />. Lobho ca sampayuttakā ca khandhā mohassa atthipaccayena paccayo (cakkaṃ); paṭisandhikkhaṇe…pe… alobho ca vatthu ca adosassa amohassa atthipaccayena paccayo (cakkaṃ). (1)</p>
+
+<p rend="bodytext">Hetu ca nahetu ca dhammā nahetussa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. <hi rend="bold">Sahajāto</hi> – nahetu eko khandho ca hetū ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe… paṭisandhikkhaṇe hetū ca vatthu ca nahetūnaṃ khandhānaṃ atthipaccayena paccayo. <hi rend="bold">Sahajātā</hi> – hetū ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – hetū ca kabaḷīkāro āhāro ca imassa kāyassa <hi rend="bold">atthipaccayena</hi> paccayo. <hi rend="bold">Pacchājātā</hi> – hetū ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu ca nahetu ca dhammā hetussa <pb ed="T" n="3.0023" /> ca nahetussa ca dhammassa atthipaccayena paccayo – <hi rend="bold">sahajātaṃ, purejātaṃ. Sahajāto</hi> – nahetu eko khandho ca alobho ca tiṇṇannaṃ khandhānaṃ adosassa amohassa cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ). Nahetu eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ mohassa cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ); paṭisandhikkhaṇe nahetu eko khandho ca alobho ca (cakkaṃ). Paṭisandhikkhaṇe…pe… alobho ca vatthu ca adosassa amohassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo, lobho ca vatthu ca mohassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo….</p>
+
+<p rend="bodytext">Natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo. (3)</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="42"><hi rend="paranum">42</hi><hi rend="dot">.</hi> Hetuyā <pb ed="V" n="3.0021" /> tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge <pb ed="M" n="3.0019" /> nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava (evaṃ anumajjantena gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="subhead">Paccanīyuddhāro</p>
+
+<p rend="bodytext" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi> Hetu dhammo hetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena <pb ed="T" n="3.0024" /> paccayo… upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… pacchājātapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu dhammo hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="44"><hi rend="paranum">44</hi><hi rend="dot">.</hi> Nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… pacchājātapaccayena paccayo… kammapaccayena paccayo… āhārapaccayena paccayo… indriyapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0022" /> dhammo hetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… kammapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu dhammo hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… kammapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="45"><hi rend="paranum">45</hi><hi rend="dot">.</hi> Hetu ca nahetu ca dhammā hetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu ca nahetu ca dhammā nahetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu <pb ed="T" n="3.0025" /><pb ed="M" n="3.0020" /> ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (3)</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="bodytext" n="46"><hi rend="paranum">46</hi><hi rend="dot">.</hi> Nahetuyā nava, naārammaṇe nava…pe… noavigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="47"><hi rend="paranum">47</hi><hi rend="dot">.</hi> Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare <pb ed="V" n="3.0023" /> tīṇi, naaññamaññe ekaṃ, naupanissaye tīṇi…pe… namagge tīṇi, nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="48"><hi rend="paranum">48</hi><hi rend="dot">.</hi> Nahetupaccayā ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā nava, vigate nava, avigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="centre">Hetudukaṃ niṭṭhitaṃ.</p>
+
+<p rend="title">2. Sahetukadukaṃ</p>
+
+<p rend="title">1. Paṭiccavāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="49"><hi rend="paranum">49</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="T" n="3.0026" /><pb ed="M" n="3.0021" /><pb ed="V" n="3.0024" /> dhammaṃ paṭicca sahetuko dhammo uppajjati hetupaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati hetupaccayā – sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="50"><hi rend="paranum">50</hi><hi rend="dot">.</hi> Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati hetupaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ <pb ed="V" n="3.0025" /> dhammaṃ paṭicca sahetuko dhammo uppajjati hetupaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṃ paṭicca sahetukā khandhā. (2)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe vatthuṃ paṭicca <pb ed="T" n="3.0027" /> sahetukā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)</p>
+
+<p rend="bodytext" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi> Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati hetupaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukañca <pb ed="M" n="3.0022" /> ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati hetupaccayā – sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="52"><hi rend="paranum">52</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati ārammaṇapaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ <pb ed="V" n="3.0026" /> dhammaṃ paṭicca ahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā <pb ed="T" n="3.0028" /> – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca…pe… dve khandhe…pe…. (3)</p>
+
+<p rend="bodytext" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi> Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati ārammaṇapaccayā – ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe vatthuṃ paṭicca ahetukā khandhā. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṃ paṭicca sahetukā khandhā. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo <pb ed="M" n="3.0023" /> khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)</p>
+
+<p rend="subhead">Adhipatipaccayo</p>
+
+<p rend="bodytext" n="54"><hi rend="paranum">54</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati adhipatipaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā – sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ <pb ed="V" n="3.0027" /> dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti adhipatipaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe…. (3)</p>
+
+<p rend="bodytext" n="55"><hi rend="paranum">55</hi><hi rend="dot">.</hi> Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā – ekaṃ mahābhūtaṃ…pe… mahābhūte paṭicca <pb ed="T" n="3.0029" /> cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā – sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)</p>
+
+<p rend="subhead">Anantarapaccayādi</p>
+
+<p rend="bodytext" n="56"><hi rend="paranum">56</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati anantarapaccayā… samanantarapaccayā… sahajātapaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati sahajātapaccayā – sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti sahajātapaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe… vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="57"><hi rend="paranum">57</hi><hi rend="dot">.</hi> Ahetukaṃ <pb ed="M" n="3.0024" /> dhammaṃ paṭicca ahetuko dhammo uppajjati sahajātapaccayā – ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… khandhe <pb ed="V" n="3.0028" /> paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ <pb ed="T" n="3.0030" /> ekaṃ mahābhūtaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati sahajātapaccayā (ime pañca pañhā hetusadisā, ninnānaṃ). (2)</p>
+
+<p rend="subhead">Aññamaññapaccayo</p>
+
+<p rend="bodytext" n="58"><hi rend="paranum">58</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati aññamaññapaccayā – sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati aññamaññapaccayā – vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho; paṭisandhikkhaṇe sahetuke khandhe paṭicca vatthu. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti aññamaññapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā vatthu ca…pe… dve khandhe…pe…. (3)</p>
+
+<p rend="bodytext" n="59"><hi rend="paranum">59</hi><hi rend="dot">.</hi> Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati aññamaññapaccayā – ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā vatthu ca…pe… dve khandhe…pe… (saṃkhittaṃ, yāva asaññasattā). (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati aññamaññapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṃ paṭicca sahetukā khandhā. (2)</p>
+
+<p rend="bodytext">Sahetukañca <pb ed="V" n="3.0029" /> ahetukañca dhammaṃ paṭicca <pb ed="T" n="3.0031" /> sahetuko dhammo uppajjati aññamaññapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca <pb ed="M" n="3.0025" /> tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)</p>
+
+<p rend="subhead">Nissayapaccayādi</p>
+
+<p rend="bodytext" n="60"><hi rend="paranum">60</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati nissayapaccayā… upanissayapaccayā… purejātapaccayā… āsevanapaccayā… kammapaccayā… vipākapaccayā… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… (jhānampi maggampi sahajātapaccayasadisā, bāhirā mahābhūtā natthi ) sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā.</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi> Hetuyā nava, ārammaṇe cha, adhipatiyā pañca, anantare cha, samanantare cha, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cha, purejāte cha, āsevane cha, kamme nava, vipāke nava, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte cha, vippayutte nava, atthiyā nava, natthiyā cha, vigate cha, avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Nahetupaccayo</p>
+
+<p rend="bodytext" n="62"><hi rend="paranum">62</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="V" n="3.0030" /> dhammaṃ paṭicca ahetuko dhammo uppajjati nahetupaccayā – vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato <pb ed="T" n="3.0032" /> uddhaccasahagato moho. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati nahetupaccayā – ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1) (Sabbaṃ yāva asaññasattā tāva kātabbaṃ.)</p>
+
+<p rend="subhead">Naārammaṇapaccayādi</p>
+
+<p rend="bodytext" n="63"><hi rend="paranum">63</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="M" n="3.0026" /> dhammaṃ paṭicca ahetuko dhammo uppajjati naārammaṇapaccayā – sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati naārammaṇapaccayā – ahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu; ekaṃ mahābhūtaṃ…pe… asaññasattānaṃ ekaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati naārammaṇapaccayā – sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati naadhipatipaccayā… (anulomasahajātasadisā) <pb ed="V" n="3.0031" /> naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā – arūpe sahetukaṃ ekaṃ khandhaṃ…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext" n="64"><hi rend="paranum">64</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati napurejātapaccayā – arūpe vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho, sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti napurejātapaccayā – arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati <pb ed="T" n="3.0033" /> napurejātapaccayā – arūpe ahetukaṃ ekaṃ khandhaṃ…pe… dve khandhe…pe… ahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… (yāva asaññasattā tāva vitthāro). (1)</p>
+
+<p rend="bodytext">Ahetukaṃ <pb ed="M" n="3.0027" /> dhammaṃ paṭicca sahetuko dhammo uppajjati napurejātapaccayā – arūpe vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṃ paṭicca sahetukā khandhā. (2)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti napurejātapaccayā – paṭisandhikkhaṇe vatthuṃ paṭicca sahetukā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)</p>
+
+<p rend="bodytext" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi> Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati napurejātapaccayā – arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo <pb ed="V" n="3.0032" /> khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve <pb ed="T" n="3.0034" /> khandhe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati napurejātapaccayā – sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti napurejātapaccayā – paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)</p>
+
+<p rend="subhead">Napacchājātapaccayādi</p>
+
+<p rend="bodytext" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati napacchājātapaccayā… naāsevanapaccayā… nakammapaccayā – sahetuke khandhe paṭicca sahetukā cetanā. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati nakammapaccayā – ahetuke khandhe paṭicca ahetukā cetanā… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati nakammapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā cetanā. (2)</p>
+
+<p rend="bodytext">Sahetukañca <pb ed="M" n="3.0028" /> ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati nakammapaccayā – vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca sampayuttakā cetanā… navipākapaccayā (paṭisandhi natthi).</p>
+
+<p rend="subhead">Naāhārapaccayādi</p>
+
+<p rend="bodytext" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi> Ahetukaṃ <pb ed="T" n="3.0035" /><pb ed="V" n="3.0033" /> dhammaṃ paṭicca ahetuko dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā… nasampayuttapaccayā.</p>
+
+<p rend="subhead">Navippayuttapaccayādi</p>
+
+<p rend="bodytext" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā – arūpe sahetukaṃ ekaṃ khandhaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati navippayuttapaccayā – arūpe vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti navippayuttapaccayā – arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca…pe… dve khandhe…pe…. (3)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati navippayuttapaccayā – arūpe ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, dve khandhe…pe…. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā – arūpe vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā – arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe… dve khandhe…pe… nonatthipaccayā… novigatapaccayā. (1)</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi> Nahetuyā <pb ed="V" n="3.0034" /> dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare <pb ed="T" n="3.0036" /> tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi <pb ed="M" n="3.0029" />, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi> Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> Nahetupaccayā <pb ed="V" n="3.0035" /> ārammaṇe dve, anantare dve, samanantare dve (sabbattha dve), vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve…pe… avigate dve (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="title">2. Sahajātavāro</p>
+
+<p rend="centre">(Sahajātavāro paṭiccavārasadiso.)</p>
+
+<p rend="title">3. Paccayavāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="M" n="3.0030" /> dhammaṃ paccayā sahetuko dhammo uppajjati hetupaccayā (sahetukamūlakaṃ paṭiccavārasadisaṃ).</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paccayā ahetuko <pb ed="T" n="3.0037" /> dhammo…pe… (paṭiccavārasadisaṃyeva). (1)</p>
+
+<p rend="bodytext">Ahetukaṃ <pb ed="V" n="3.0036" /> dhammaṃ paccayā sahetuko dhammo uppajjati hetupaccayā – vatthuṃ paccayā sahetukā khandhā, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṃ paccayā sahetukā khandhā. (2)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā – vatthuṃ paccayā sahetukā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe vatthuṃ…pe…. (3)</p>
+
+<p rend="bodytext" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi> Sahetukañca ahetukañca dhammaṃ paccayā sahetuko dhammo uppajjati hetupaccayā – sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati hetupaccayā – sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā – sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca <pb ed="M" n="3.0031" /> paccayā tayo <pb ed="T" n="3.0038" /> khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="V" n="3.0037" /> dhammaṃ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā – sahetukaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paccayā tayo khandhā moho ca…pe… dve khandhe…pe…. (3)</p>
+
+<p rend="bodytext" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi> Ahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā – ahetukaṃ ekaṃ khandhaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe vatthuṃ paccayā khandhā, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe… kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā khandhā. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā – vatthuṃ paccayā sahetukā khandhā, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā – vatthuṃ paccayā vicikicchāsahagatā uddhaccasahagatā khandhā moho ca. (3)</p>
+
+<p rend="bodytext" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi> Sahetukañca ahetukañca dhammaṃ <pb ed="T" n="3.0039" /> paccayā sahetuko dhammo uppajjati ārammaṇapaccayā – sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukañca <pb ed="M" n="3.0032" /><pb ed="V" n="3.0038" /> ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe… dve khandhe…pe…. (3)</p>
+
+<p rend="subhead">Adhipatipaccayo</p>
+
+<p rend="bodytext" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati adhipatipaccayā (adhipatiyā nava pañhā pavatteyeva).</p>
+
+<p rend="subhead">Anantarapaccayādi</p>
+
+<p rend="bodytext" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati anantarapaccayā… samanantarapaccayā… sahajātapaccayā… tīṇi (paṭiccavārasadisā).</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati sahajātapaccayā – ahetukaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… (yāva asaññasattā), cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe… kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā khandhā. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ <pb ed="T" n="3.0040" /> dhammaṃ paccayā sahetuko dhammo uppajjati sahajātapaccayā – vatthuṃ paccayā sahetukā khandhā, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti sahajātapaccayā – vatthuṃ paccayā sahetukā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ <pb ed="V" n="3.0039" /> mohaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe vatthuṃ…pe…. (3)</p>
+
+<p rend="bodytext" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi> Sahetukañca <pb ed="M" n="3.0033" /> ahetukañca dhammaṃ paccayā sahetuko dhammo uppajjati sahajātapaccayā – sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati sahajātapaccayā – sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti sahajātapaccayā – sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca <pb ed="T" n="3.0041" /> vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe… paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)</p>
+
+<p rend="subhead">Aññamaññapaccayādi</p>
+
+<p rend="bodytext" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati aññamaññapaccayā…pe… avigatapaccayā.</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="bodytext" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi> Hetuyā <pb ed="V" n="3.0040" /> nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Nahetupaccayo</p>
+
+<p rend="bodytext" n="82"><hi rend="paranum">82</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="M" n="3.0034" /> dhammaṃ paccayā ahetuko dhammo uppajjati nahetupaccayā – vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati nahetupaccayā – ahetukaṃ ekaṃ khandhaṃ…pe… paṭisandhikkhaṇe…pe… (yāva asaññasattā), cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe… kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā khandhā moho ca. (1)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati nahetupaccayā – vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca <pb ed="T" n="3.0042" /> paccayā vicikicchāsahagato uddhaccasahagato moho (saṃkhittaṃ). (1)</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="83"><hi rend="paranum">83</hi><hi rend="dot">.</hi> Nahetuyā <pb ed="V" n="3.0041" /> tīṇi, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, nanissaye tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="84"><hi rend="paranum">84</hi><hi rend="dot">.</hi> Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte <pb ed="M" n="3.0035" /> nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="85"><hi rend="paranum">85</hi><hi rend="dot">.</hi> Nahetupaccayā <pb ed="V" n="3.0042" /> ārammaṇe tīṇi, anantare tīṇi…pe… magge tīṇi, sampayutte tīṇi…pe… avigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="title">4. Nissayavāro</p>
+
+<p rend="centre">(Nissayavāro paccayavārasadiso.)</p>
+
+<p rend="title">5. Saṃsaṭṭhavāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="86"><hi rend="paranum">86</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="T" n="3.0043" /> dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati hetupaccayā – sahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati hetupaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ saṃsaṭṭhā vicikicchāsahagatā uddhaccasahagatā khandhā. (1)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati hetupaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe…. (1)</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="87"><hi rend="paranum">87</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="M" n="3.0036" /><pb ed="V" n="3.0043" /> dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati ārammaṇapaccayā – sahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (2)</p>
+
+<p rend="bodytext">Sahetukaṃ dhammaṃ saṃsaṭṭho sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā moho ca…pe… dve khandhe…pe…. (3)</p>
+
+<p rend="bodytext" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi> Ahetukaṃ dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati ārammaṇapaccayā – ahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ saṃsaṭṭhā vicikicchāsahagatā uddhaccasahagatā khandhā. (2)</p>
+
+<p rend="bodytext">Sahetukañca ahetukañca dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati ārammaṇapaccayā – vicikicchāsahagataṃ <pb ed="T" n="3.0044" /> uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe…. (1)</p>
+
+<p rend="subhead">Adhipatipaccayo</p>
+
+<p rend="bodytext" n="89"><hi rend="paranum">89</hi><hi rend="dot">.</hi> Sahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati adhipatipaccayā – sahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe…. (1)</p>
+
+<p rend="subhead">Anantarapaccayādi</p>
+
+<p rend="bodytext" n="90"><hi rend="paranum">90</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="V" n="3.0044" /> dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati anantarapaccayā… samanantarapaccayā… sahajātapaccayā…pe… vipākapaccayā – vipākaṃ sahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe….</p>
+
+<p rend="bodytext">Ahetukaṃ <pb ed="M" n="3.0037" /> dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati vipākapaccayā – vipākaṃ ahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… jhānapaccayā…pe… avigatapaccayā.</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="91"><hi rend="paranum">91</hi><hi rend="dot">.</hi> Hetuyā tīṇi, ārammaṇe cha, adhipatiyā ekaṃ, anantare cha, samanantare cha, sahajāte cha, aññamaññe cha, nissaye cha, upanissaye cha, purejāte cha…pe… vipāke dve, āhāre cha, indriye cha, jhāne cha, magge pañca…pe… avigate cha (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Nahetupaccayo</p>
+
+<p rend="bodytext" n="92"><hi rend="paranum">92</hi><hi rend="dot">.</hi> Sahetukaṃ <pb ed="T" n="3.0045" /><pb ed="V" n="3.0045" /> dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati nahetupaccayā – vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)</p>
+
+<p rend="bodytext">Ahetukaṃ dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati nahetupaccayā – ahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… (saṃkhittaṃ). (1)</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="93"><hi rend="paranum">93</hi><hi rend="dot">.</hi> Nahetuyā dve, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṃ, namagge ekaṃ, navippayutte cha (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="94"><hi rend="paranum">94</hi><hi rend="dot">.</hi> Hetupaccayā <pb ed="M" n="3.0038" /> naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi> Nahetupaccayā <pb ed="V" n="3.0046" /> ārammaṇe dve, anantare dve…pe… kamme dve, vipāke ekaṃ, āhāre dve…pe… magge ekaṃ…pe… avigate dve (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="title">6. Sampayuttavāro</p>
+
+<p rend="centre">(Sampayuttavāro saṃsaṭṭhavārasadiso.)</p>
+
+<p rend="title">7. Pañhāvāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="96"><hi rend="paranum">96</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa hetupaccayena paccayo <pb ed="T" n="3.0046" /> – sahetukā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa hetupaccayena paccayo – sahetukā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="M" n="3.0039" /><pb ed="V" n="3.0047" /> dhammo sahetukassa ca ahetukassa ca dhammassa hetupaccayena paccayo – sahetukā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="97"><hi rend="paranum">97</hi><hi rend="dot">.</hi> Ahetuko dhammo ahetukassa dhammassa hetupaccayena paccayo – vicikicchāsahagato uddhaccasahagato moho cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa hetupaccayena paccayo – vicikicchāsahagato uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa hetupaccayena paccayo – vicikicchāsahagato uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ paccavekkhati. Ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti. Pahīne kilese…pe… vikkhambhite kilese…pe… pubbe…pe… sahetuke <pb ed="T" n="3.0047" /> khandhe aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe sahetuko vipāko tadārammaṇatā uppajjati; cetopariyañāṇena sahetukacittasamaṅgissa cittaṃ jānanti. Ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe… sahetukā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo; sahetuke khandhe ārabbha sahetukā khandhā uppajjanti. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa ārammaṇapaccayena paccayo – sahetuke khandhe aniccato <pb ed="V" n="3.0048" /> …pe… domanassaṃ uppajjati, kusalākusale niruddhe ahetuko vipāko tadārammaṇatā uppajjati, sahetuke khandhe ārabbha ahetukā khandhā ca moho ca uppajjanti. (2)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="M" n="3.0040" /> dhammo sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo – sahetuke khandhe ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. (3)</p>
+
+<p rend="bodytext" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi> Ahetuko dhammo ahetukassa dhammassa ārammaṇapaccayena paccayo – nibbānaṃ āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe… vatthuṃ… ahetuke khandhe ca mohañca aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… ahetuke khandhe ca mohañca ārabbha ahetukā khandhā ca moho ca uppajjanti <pb ed="T" n="3.0048" />. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa ārammaṇapaccayena paccayo – ariyā nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa ārammaṇapaccayena paccayo. Ariyā ahetuke pahīne kilese paccavekkhanti, vikkhambhite kilese…pe… pubbe…pe… cakkhuṃ…pe… vatthuṃ…pe… ahetuke khandhe ca mohañca aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, cetopariyañāṇena ahetukacittasamaṅgissa cittaṃ jānanti; ahetukā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo; ahetuke khandhe ca mohañca ārabbha sahetukā khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo – cakkhuṃ ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti; sotaṃ <pb ed="V" n="3.0049" /> …pe… vatthuṃ… ahetuke khandhe ca mohañca ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. (3)</p>
+
+<p rend="bodytext" n="100"><hi rend="paranum">100</hi><hi rend="dot">.</hi> Sahetuko ca ahetuko ca dhammā sahetukassa dhammassa ārammaṇapaccayena paccayo – vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha sahetukā khandhā uppajjanti. (1)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="M" n="3.0041" /> ca ahetuko ca dhammā ahetukassa dhammassa ārammaṇapaccayena paccayo – vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha ahetukā khandhā <pb ed="T" n="3.0049" /> ca moho ca uppajjanti. (2)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo – vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. (3)</p>
+
+<p rend="subhead">Adhipatipaccayo</p>
+
+<p rend="bodytext" n="101"><hi rend="paranum">101</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, jhānā…pe… ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā…pe… phalaṃ…pe… sahetuke khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. <hi rend="bold">Sahajātādhipati</hi> – sahetukādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa adhipatipaccayena paccayo. <hi rend="bold">Sahajātādhipati</hi> – sahetukādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa adhipatipaccayena paccayo. <hi rend="bold">Sahajātādhipati</hi><pb ed="V" n="3.0050" /> – sahetukādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi> – ariyā nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe… vatthuṃ… ahetuke khandhe garuṃ katvā assādeti abhinandati; taṃ <pb ed="T" n="3.0050" /> garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)</p>
+
+<p rend="subhead">Anantarapaccayo</p>
+
+<p rend="bodytext" n="102"><hi rend="paranum">102</hi><hi rend="dot">.</hi> Sahetuko <pb ed="M" n="3.0042" /> dhammo sahetukassa dhammassa anantarapaccayena paccayo – purimā purimā sahetukā khandhā pacchimānaṃ pacchimānaṃ sahetukānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa… anulomaṃ vodānassa… gotrabhu maggassa… vodānaṃ maggassa… maggo phalassa… phalaṃ phalassa… anulomaṃ phalasamāpattiyā… nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa anantarapaccayena paccayo – purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā pacchimassa pacchimassa vicikicchāsahagatassa uddhaccasahagatassa mohassa anantarapaccayena paccayo; sahetukaṃ cuticittaṃ ahetukassa upapatticittassa anantarapaccayena paccayo; sahetukaṃ bhavaṅgaṃ āvajjanāya anantarapaccayena paccayo; sahetukaṃ bhavaṅgaṃ ahetukassa bhavaṅgassa anantarapaccayena paccayo; sahetukā khandhā ahetukassa vuṭṭhānassa anantarapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa anantarapaccayena paccayo – purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="103"><hi rend="paranum">103</hi><hi rend="dot">.</hi> Ahetuko dhammo ahetukassa dhammassa anantarapaccayena paccayo – purimo purimo <pb ed="V" n="3.0051" /> vicikicchāsahagato uddhaccasahagato moho pacchimassa <pb ed="T" n="3.0051" /> pacchimassa vicikicchāsahagatassa uddhaccasahagatassa mohassa anantarapaccayena paccayo; purimā purimā ahetukā khandhā pacchimānaṃ pacchimānaṃ ahetukānaṃ khandhānaṃ anantarapaccayena paccayo; āvajjanā pañcannaṃ viññāṇānaṃ anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa anantarapaccayena paccayo – purimo purimo vicikicchāsahagato uddhaccasahagato moho pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ anantarapaccayena paccayo <pb ed="M" n="3.0043" />; ahetukaṃ cuticittaṃ sahetukassa upapatticittassa anantarapaccayena paccayo; ahetukaṃ bhavaṅgaṃ sahetukassa bhavaṅgassa anantarapaccayena paccayo; āvajjanā sahetukānaṃ khandhānaṃ anantarapaccayena paccayo; ahetukā khandhā sahetukassa vuṭṭhānassa anantarapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa anantarapaccayena paccayo – purimo purimo vicikicchāsahagato uddhaccasahagato moho pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo; āvajjanā vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="104"><hi rend="paranum">104</hi><hi rend="dot">.</hi> Sahetuko ca ahetuko ca dhammā sahetukassa dhammassa anantarapaccayena paccayo – purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ anantarapaccayena <pb ed="T" n="3.0052" /> paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa anantarapaccayena paccayo – purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimassa pacchimassa vicikicchāsahagatassa uddhaccasahagatassa mohassa anantarapaccayena paccayo; vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca ahetukassa vuṭṭhānassa anantarapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="V" n="3.0052" /> ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa anantarapaccayena paccayo – purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Sahajātapaccayādi</p>
+
+<p rend="bodytext" n="105"><hi rend="paranum">105</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa sahajātapaccayena paccayo (paṭiccavāre sahajātasadisaṃ, iha ghaṭanā natthi)… aññamaññapaccayena <pb ed="M" n="3.0044" /> paccayo (paṭiccavārasadisaṃ)… nissayapaccayena paccayo (paṭiccavāre nissayapaccayasadisaṃ, iha ghaṭanā natthi).</p>
+
+<p rend="subhead">Upanissayapaccayo</p>
+
+<p rend="bodytext" n="106"><hi rend="paranum">106</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – sahetukā khandhā sahetukānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – sahetukā khandhā ahetukānaṃ <pb ed="T" n="3.0053" /> khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – sahetukā khandhā vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="107"><hi rend="paranum">107</hi><hi rend="dot">.</hi> Ahetuko dhammo ahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – kāyikaṃ sukhaṃ kāyikassa sukhassa, kāyikassa dukkhassa, mohassa ca upanissayapaccayena paccayo; kāyikaṃ dukkhaṃ… utu… bhojanaṃ… senāsanaṃ kāyikassa sukhassa, kāyikassa dukkhassa, mohassa ca upanissayapaccayena <pb ed="V" n="3.0053" /> paccayo; moho kāyikassa sukhassa, kāyikassa dukkhassa, mohassa ca upanissayapaccayena paccayo; kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utu… bhojanaṃ, senāsanaṃ, moho ca kāyikassa sukhassa, kāyikassa dukkhassa, mohassa ca upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – kāyikaṃ sukhaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; kāyikaṃ dukkhaṃ… utuṃ… bhojanaṃ… senāsanaṃ… mohaṃ upanissāya <pb ed="M" n="3.0045" /> dānaṃ deti…pe… saṅghaṃ bhindati; kāyikaṃ sukhaṃ…pe… moho ca saddhāya…pe… paññāya rāgassa…pe… patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa <pb ed="T" n="3.0054" /> ca dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – kāyikaṃ sukhaṃ moho ca vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="108"><hi rend="paranum">108</hi><hi rend="dot">.</hi> Sahetuko ca ahetuko ca dhammā sahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca sahetukānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca ahetukānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – vicikicchāsahagatā <pb ed="V" n="3.0054" /> uddhaccasahagatā khandhā ca moho ca vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Purejātapaccayo</p>
+
+<p rend="bodytext" n="109"><hi rend="paranum">109</hi><hi rend="dot">.</hi> Ahetuko dhammo ahetukassa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati, kusalākusale niruddhe ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṃ cakkhuviññāṇassa <pb ed="T" n="3.0055" /> …pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo <pb ed="M" n="3.0046" />. <hi rend="bold">Vatthupurejātaṃ</hi> – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa… purejātaṃ vatthu ahetukānaṃ khandhānaṃ mohassa ca purejātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. <hi rend="bold">Vatthupurejātaṃ</hi> – vatthu sahetukānaṃ khandhānaṃ purejātapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. <hi rend="bold">Vatthupurejātaṃ</hi> – vatthu vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca purejātapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Pacchājātapaccayādi</p>
+
+<p rend="bodytext" n="110"><hi rend="paranum">110</hi><hi rend="dot">.</hi> Sahetuko dhammo ahetukassa dhammassa pacchājātapaccayena paccayo – pacchājātā sahetukā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko <pb ed="V" n="3.0055" /> dhammo ahetukassa dhammassa pacchājātapaccayena paccayo – pacchājātā ahetukā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="T" n="3.0056" /> ca ahetuko ca dhammā ahetukassa dhammassa pacchājātapaccayena paccayo – pacchājātā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa dhammassa āsevanapaccayena paccayo (anantarasadisaṃ. Āvajjanampi bhavaṅgampi natthi, āsevanapaccaye vajjetabbā navapi ).</p>
+
+<p rend="subhead">Kammapaccayo</p>
+
+<p rend="bodytext" n="111"><hi rend="paranum">111</hi><hi rend="dot">.</hi> Sahetuko <pb ed="M" n="3.0047" /> dhammo sahetukassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – sahetukā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – sahetukā cetanā vipākānaṃ sahetukānaṃ khandhānaṃ kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – sahetukā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – sahetukā cetanā vipākānaṃ ahetukānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – sahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. <hi rend="bold">Nānākkhaṇikā</hi> – sahetukā cetanā vipākānaṃ sahetukānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena <pb ed="T" n="3.0057" /> paccayo. (3)</p>
+
+<p rend="bodytext">Ahetuko dhammo ahetukassa dhammassa kammapaccayena paccayo – ahetukā cetanā sampayuttakānaṃ <pb ed="V" n="3.0056" /> khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="subhead">Vipākapaccayo</p>
+
+<p rend="bodytext" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa vipākapaccayena paccayo – vipāko sahetuko eko khandho tiṇṇannaṃ khandhānaṃ…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa vipākapaccayena paccayo – vipākā sahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa vipākapaccayena paccayo – vipāko sahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext">Ahetuko <pb ed="M" n="3.0048" /> dhammo ahetukassa dhammassa vipākapaccayena paccayo – vipāko ahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa vipākapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Āhārapaccayo</p>
+
+<p rend="bodytext" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa āhārapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Ahetuko dhammo ahetukassa dhammassa āhārapaccayena paccayo – ahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe… paṭisandhikkhaṇe…pe… kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Indriyapaccayādi</p>
+
+<p rend="bodytext" n="114"><hi rend="paranum">114</hi><hi rend="dot">.</hi> Sahetuko <pb ed="T" n="3.0058" /><pb ed="V" n="3.0057" /> dhammo sahetukassa dhammassa indriyapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Ahetuko dhammo ahetukassa dhammassa indriyapaccayena paccayo – ahetukā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe… paṭisandhikkhaṇe…pe… cakkhundriyaṃ cakkhuviññāṇassa…pe… kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo; rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa dhammassa jhānapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Ahetuko dhammo ahetukassa dhammassa jhānapaccayena paccayo – ahetukāni jhānaṅgāni sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa dhammassa maggapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa dhammassa sampayuttapaccayena paccayo (paṭiccavāre sampayuttasadisā cha pañhā).</p>
+
+<p rend="subhead">Vippayuttapaccayo</p>
+
+<p rend="bodytext" n="115"><hi rend="paranum">115</hi><hi rend="dot">.</hi> Sahetuko <pb ed="M" n="3.0049" /> dhammo ahetukassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – sahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe sahetukā khandhā kaṭattārūpānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – sahetukā khandhā purejātassa imassa kāyassa vippayuttapaccayena <pb ed="T" n="3.0059" /> paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo ahetukassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – ahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe ahetukā khandhā kaṭattārūpānaṃ vippayuttapaccayena paccayo; khandhā vatthussa vippayuttapaccayena <pb ed="V" n="3.0058" /> paccayo; vatthu khandhānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa… vatthu ahetukānaṃ khandhānaṃ mohassa ca vippayuttapaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – ahetukā khandhā ca moho ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajātaṃ</hi> – paṭisandhikkhaṇe vatthu sahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – vatthu sahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – vatthu vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca vippayuttapaccayena paccayo. (3)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – vicikicchāsahagatā uddhaccasahagatā khandhā ca moho <pb ed="T" n="3.0060" /> ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Atthipaccayo</p>
+
+<p rend="bodytext" n="116"><hi rend="paranum">116</hi><hi rend="dot">.</hi> Sahetuko <pb ed="M" n="3.0050" /> dhammo sahetukassa dhammassa atthipaccayena paccayo – sahetuko eko khandho tiṇṇannaṃ khandhānaṃ…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Sahetuko dhammo ahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – sahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; vicikicchāsahagatā uddhaccasahagatā khandhā mohassa ca cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Pacchājātā</hi> – sahetukā khandhā purejātassa imassa kāyassa atthipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="V" n="3.0059" /> dhammo sahetukassa ca ahetukassa ca dhammassa atthipaccayena paccayo – sahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo; vicikicchāsahagato uddhaccasahagato eko khandho tiṇṇannaṃ khandhānaṃ mohassa ca cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe sahetuko…pe…. (3)</p>
+
+<p rend="bodytext" n="117"><hi rend="paranum">117</hi><hi rend="dot">.</hi> Ahetuko dhammo ahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. <hi rend="bold">Sahajāto</hi> – ahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe… vicikicchāsahagato uddhaccasahagato moho cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe… (yāva asaññasattā kātabbaṃ). <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ <pb ed="T" n="3.0061" /> aniccato…pe… domanassaṃ uppajjati, kusalākusale niruddhe ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa atthipaccayena paccayo; vatthu ahetukānaṃ khandhānaṃ mohassa ca atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – ahetukā khandhā ca moho ca purejātassa imassa kāyassa atthipaccayena paccayo; <hi rend="bold">kabaḷīkāro āhāro</hi><pb ed="M" n="3.0051" /> imassa kāyassa atthipaccayena paccayo; <hi rend="bold">rūpajīvitindriyaṃ</hi> kaṭattārūpānaṃ atthipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajāto</hi> – vicikicchāsahagato uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe vatthu sahetukānaṃ khandhānaṃ atthipaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, vatthu sahetukānaṃ khandhānaṃ atthipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajāto</hi> – vicikicchāsahagato uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ <pb ed="V" n="3.0060" /> cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā <pb ed="T" n="3.0062" /> ca moho ca uppajjanti, vatthu vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca atthipaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="118"><hi rend="paranum">118</hi><hi rend="dot">.</hi> Sahetuko ca ahetuko ca dhammā sahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajāto</hi> – vicikicchāsahagato uddhaccasahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe… dve khandhā ca…pe… paṭisandhikkhaṇe sahetuko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe… dve khandhā ca…pe…. <hi rend="bold">Sahajāto</hi> – sahetuko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe… dve khandhā ca…pe…. (1)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. <hi rend="bold">Sahajātā</hi> – sahetukā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe sahetukā khandhā ca mahābhūtā ca kaṭattārūpānaṃ atthipaccayena <pb ed="M" n="3.0052" /> paccayo. <hi rend="bold">Sahajātā</hi> – vicikicchāsahagatā uddhaccasahagatā khandhā ca vatthu ca mohassa atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – sahetukā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – sahetukā <pb ed="T" n="3.0063" /> khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajāto</hi> – vicikicchāsahagato uddhaccasahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…. <hi rend="bold">Sahajāto</hi> – vicikicchāsahagato uddhaccasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ mohassa ca atthipaccayena paccayo…pe… dve khandhā ca…pe…. (3)</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi> Hetuyā <pb ed="V" n="3.0061" /> cha, ārammaṇe nava, adhipatiyā cattāri, anantare nava, samanantare nava, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="subhead">Paccanīyuddhāro</p>
+
+<p rend="bodytext" n="120"><hi rend="paranum">120</hi><hi rend="dot">.</hi> Sahetuko dhammo sahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="M" n="3.0053" /> dhammo ahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena <pb ed="T" n="3.0064" /> paccayo… pacchājātapaccayena paccayo… kammapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… kammapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="121"><hi rend="paranum">121</hi><hi rend="dot">.</hi> Ahetuko dhammo ahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena <pb ed="V" n="3.0062" /> paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… pacchājātapaccayena paccayo… āhārapaccayena paccayo… indriyapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="122"><hi rend="paranum">122</hi><hi rend="dot">.</hi> Sahetuko ca ahetuko ca dhammā sahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… pacchājātapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (3)</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="bodytext" n="123"><hi rend="paranum">123</hi><hi rend="dot">.</hi> Nahetuyā <pb ed="T" n="3.0065" /><pb ed="M" n="3.0054" /> nava…pe… (sabbattha nava) noavigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="124"><hi rend="paranum">124</hi><hi rend="dot">.</hi> Hetupaccayā naārammaṇe cha, naadhipatiyā cha, naanantare cha, nasamanantare cha, naaññamaññe dve, naupanissaye cha…pe… namagge cha, nasampayutte dve, navippayutte dve, nonatthiyā cha, novigate cha (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="125"><hi rend="paranum">125</hi><hi rend="dot">.</hi> Nahetupaccayā ārammaṇe nava, adhipatiyā cattāri, anantare nava, samanantare nava, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="centre">Sahetukadukaṃ niṭṭhitaṃ.</p>
+
+<p rend="title">3. Hetusampayuttadukaṃ</p>
+
+<p rend="title">1. Paṭiccavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="126"><hi rend="paranum">126</hi><hi rend="dot">.</hi> Hetusampayuttaṃ <pb ed="T" n="3.0066" /><pb ed="M" n="3.0055" /><pb ed="V" n="3.0064" /> dhammaṃ paṭicca hetusampayutto dhammo uppajjati hetupaccayā – hetusampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Hetusampayuttaṃ dhammaṃ paṭicca hetuvippayutto dhammo uppajjati hetupaccayā – hetusampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">(Iminā kāraṇena vitthāretabbaṃ yathā sahetukadukaṃ ninnānākaraṇaṃ.)</p>
+
+<p rend="centre">Hetusampayuttadukaṃ niṭṭhitaṃ.</p>
+
+<p rend="title">4. Hetusahetukadukaṃ</p>
+
+<p rend="title">1. Paṭiccavāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="127"><hi rend="paranum">127</hi><hi rend="dot">.</hi> Hetuñceva <pb ed="V" n="3.0065" /> sahetukañca dhammaṃ paṭicca hetu ceva sahetuko ca dhammo uppajjati hetupaccayā – alobhaṃ paṭicca adoso amoho (cakkaṃ). Lobhaṃ paṭicca moho (cakkaṃ); paṭisandhikkhaṇe alobhaṃ paṭicca adoso amoho (cakkaṃ). (1)</p>
+
+<p rend="bodytext">Hetuñceva sahetukañca dhammaṃ paṭicca sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā – hetuṃ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Hetuñceva sahetukañca dhammaṃ paṭicca hetu ceva sahetuko <pb ed="T" n="3.0067" /> ca sahetuko ceva na ca hetu ca dhammā uppajjanti hetupaccayā – alobhaṃ paṭicca adoso amoho sampayuttakā ca khandhā (cakkaṃ). Lobhaṃ paṭicca moho sampayuttakā ca khandhā (cakkaṃ); paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="128"><hi rend="paranum">128</hi><hi rend="dot">.</hi> Sahetukañceva <pb ed="M" n="3.0056" /> na ca hetuṃ dhammaṃ paṭicca sahetuko ceva na ca hetu dhammo uppajjati <pb ed="V" n="3.0066" /> hetupaccayā – sahetukañceva na ca hetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe….(1)</p>
+
+<p rend="bodytext">Sahetukañceva na ca hetuṃ dhammaṃ paṭicca hetu ceva sahetuko ca dhammo uppajjati hetupaccayā – sahetuke ceva na ca hetū khandhe paṭicca hetū; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Sahetukañceva na ca hetuṃ dhammaṃ paṭicca hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā uppajjanti hetupaccayā – sahetukañceva na ca hetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā hetu ca…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi> Hetuñceva sahetukañca sahetukañceva na ca hetuñca dhammaṃ paṭicca hetu ceva sahetuko ca dhammo uppajjati hetupaccayā – alobhañca sampayuttake ca khandhe paṭicca adoso amoho (cakkaṃ). Lobhañca sampayuttake ca khandhe paṭicca moho (cakkaṃ); paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Hetuñceva sahetukañca sahetukañceva na ca hetuñca dhammaṃ paṭicca sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā – sahetukañceva na ca hetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Hetuñceva sahetukañca sahetukañceva na ca hetuñca dhammaṃ <pb ed="T" n="3.0068" /> paṭicca hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā uppajjanti hetupaccayā – sahetukañceva na ca hetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext">(Saṃkhittaṃ. Evaṃ vitthāretabbaṃ.)</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="130"><hi rend="paranum">130</hi><hi rend="dot">.</hi> Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava…pe… (sabbattha nava), avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Naadhipatipaccayādi</p>
+
+<p rend="bodytext" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi> Hetuñceva <pb ed="M" n="3.0057" /><pb ed="V" n="3.0067" /> sahetukañca dhammaṃ paṭicca hetu ceva sahetuko ca dhammo uppajjati naadhipatipaccayā – alobhaṃ paṭicca adoso amoho (cakkaṃ); paṭisandhikkhaṇe…pe… (paripuṇṇaṃ nava), napurejāte nava, napacchājāte nava, naāsevane nava.</p>
+
+<p rend="title">Nakammapaccayādi</p>
+
+<p rend="bodytext" n="132"><hi rend="paranum">132</hi><hi rend="dot">.</hi> Hetuñceva sahetukañca dhammaṃ paṭicca sahetuko ceva na ca hetu dhammo uppajjati nakammapaccayā – hetuṃ paṭicca sampayuttakā cetanā. (1)</p>
+
+<p rend="bodytext">Sahetukañceva na ca hetuṃ dhammaṃ paṭicca sahetuko ceva na ca hetu dhammo uppajjati nakammapaccayā – sahetuke ceva na ca hetū khandhe paṭicca sampayuttakā cetanā; paṭisandhikkhaṇe…pe….</p>
+
+<p rend="bodytext">Hetuñceva sahetukañca sahetukañceva na ca hetuñca dhammaṃ paṭicca sahetuko ceva na ca hetu dhammo uppajjati nakammapaccayā – hetuñca sampayuttake ca khandhe paṭicca sampayuttakā cetanā… navipākapaccayā… navippayuttapaccayā.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="133"><hi rend="paranum">133</hi><hi rend="dot">.</hi> Naadhipatiyā <pb ed="T" n="3.0069" /> nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="134"><hi rend="paranum">134</hi><hi rend="dot">.</hi> Hetupaccayā <pb ed="M" n="3.0058" /><pb ed="V" n="3.0068" /> naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Naadhipatidukaṃ</p>
+
+<p rend="bodytext" n="135"><hi rend="paranum">135</hi><hi rend="dot">.</hi> Naadhipatipaccayā hetuyā nava, ārammaṇe nava, anantare nava…pe… avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="title">2-6. Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāro</p>
+
+<p rend="bodytext">(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā.)</p>
+
+<p rend="title">7. Pañhāvāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="136"><hi rend="paranum">136</hi><hi rend="dot">.</hi> Hetu <pb ed="V" n="3.0069" /> ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa hetupaccayena paccayo – alobho adosassa amohassa hetupaccayena paccayo (yathā paṭiccavārasadisaṃ). (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo sahetukassa ceva na ca hetussa dhammassa hetupaccayena paccayo – hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Hetu <pb ed="M" n="3.0059" /> ceva sahetuko ca dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa <pb ed="T" n="3.0070" /> hetupaccayena paccayo – alobho adosassa amohassa sampayuttakānañca khandhānaṃ hetupaccayena paccayo (vitthāretabbaṃ). (3)</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="137"><hi rend="paranum">137</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha hetū uppajjanti. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo sahetukassa ceva na ca hetussa dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha sahetukā ceva na ca hetū khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa <pb ed="V" n="3.0070" /> ca dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati. Jhānā vuṭṭhahitvā…pe… ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti. Pahīne kilese…pe… vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti. Sahetuke ceva na ca hetū khandhe aniccato…pe… domanassaṃ uppajjati. Cetopariyañāṇena sahetukā ceva na ca hetucittasamaṅgissa cittaṃ jānāti; ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe… sahetukā ceva na ca hetū khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa <pb ed="T" n="3.0071" />, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo hetussa ceva sahetukassa ca dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā… (yathā paṭhamagamanaṃ evaṃ ninnānaṃ). (2)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="M" n="3.0060" /> ceva na ca hetu dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā… (yathā paṭhamagamanaṃ evaṃ ninnānaṃ). (3)</p>
+
+<p rend="bodytext" n="138"><hi rend="paranum">138</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa ārammaṇapaccayena paccayo – hetuñca sampayuttake ca khandhe ārabbha hetū uppajjanti. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā sahetukassa ceva na ca hetussa dhammassa ārammaṇapaccayena paccayo – hetuñca sampayuttake ca khandhe ārabbha sahetukā ceva na ca hetū khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext">Hetu <pb ed="V" n="3.0071" /> ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa ārammaṇapaccayena paccayo – hetuñca sampayuttake ca khandhe ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3)</p>
+
+<p rend="subhead">Adhipatipaccayo</p>
+
+<p rend="bodytext" n="139"><hi rend="paranum">139</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – hetuṃ garuṃ katvā hetū uppajjanti. <hi rend="bold">Sahajātādhipati</hi> – hetu ceva sahetukādhipati sampayuttakānaṃ hetūnaṃ adhipatipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo sahetukassa ceva na ca hetussa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – hetuṃ garuṃ katvā sahetukā ceva na ca hetū khandhā uppajjanti. <hi rend="bold">Sahajātādhipati</hi> – hetu ceva sahetukādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa adhipatipaccayena <pb ed="T" n="3.0072" /> paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – hetuṃ garuṃ katvā <pb ed="M" n="3.0061" /> hetū ca sampayuttakā ca khandhā uppajjanti. <hi rend="bold">Sahajātādhipati</hi> – hetu ceva sahetukādhipati sampayuttakānaṃ khandhānaṃ hetūnañca adhipatipaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, sahetuke ceva na ca hetū khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi <pb ed="V" n="3.0072" /> uppajjati. <hi rend="bold">Sahajātādhipati</hi> – sahetuko ceva na ca hetu adhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo hetussa ceva sahetukassa ca dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā… (paṭhamagamanaṃyeva). <hi rend="bold">Sahajātādhipati</hi> – sahetuko ceva na <pb ed="T" n="3.0073" /> ca hetu adhipati sampayuttakānaṃ hetūnaṃ adhipatipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā… (paṭhamagamanaṃyeva). <hi rend="bold">Sahajātādhipati</hi> – sahetuko ceva na ca hetu adhipati sampayuttakānaṃ khandhānaṃ hetūnañca adhipatipaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="141"><hi rend="paranum">141</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi> – hetū ca sampayuttake ca khandhe garuṃ katvā hetū uppajjanti. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā sahetukassa ceva na ca hetussa dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi><pb ed="M" n="3.0062" /> – hetuñca sampayuttake ca khandhe garuṃ katvā sahetukā ceva na ca hetū khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi> – hetuñca sampayuttake ca khandhe garuṃ katvā hetū ca sampayuttakā ca khandhā uppajjanti. (3)</p>
+
+<p rend="subhead">Anantarapaccayo</p>
+
+<p rend="bodytext" n="142"><hi rend="paranum">142</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa anantarapaccayena <pb ed="V" n="3.0073" /> paccayo – purimā purimā hetū pacchimānaṃ pacchimānaṃ hetūnaṃ anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo sahetukassa ceva na ca hetussa dhammassa anantarapaccayena paccayo – purimā purimā <pb ed="T" n="3.0074" /> hetū pacchimānaṃ pacchimānaṃ sahetukānañceva na ca hetūnaṃ khandhānaṃ anantarapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa anantarapaccayena paccayo – purimā purimā hetū pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="143"><hi rend="paranum">143</hi><hi rend="dot">.</hi> Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa anantarapaccayena paccayo – purimā purimā sahetukā ceva na ca hetū khandhā pacchimānaṃ pacchimānaṃ sahetukānañceva na ca hetūnaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa… anulomaṃ vodānassa…pe… nirodhā vuṭṭhahantassa, nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo hetussa ceva sahetukassa ca dhammassa anantarapaccayena paccayo – purimā purimā sahetukā ceva na ca hetū khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa… (saṃkhittaṃ). (2)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="M" n="3.0063" /> ceva na ca hetu dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa anantarapaccayena paccayo – purimā purimā sahetukā ceva na ca hetū khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe…. (3)</p>
+
+<p rend="bodytext">(Sahetuko ceva na ca hetumūlakaṃ tīṇipi ekasadisā.)</p>
+
+<p rend="bodytext" n="144"><hi rend="paranum">144</hi><hi rend="dot">.</hi> Hetu <pb ed="V" n="3.0074" /> ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa anantarapaccayena paccayo <pb ed="T" n="3.0075" /> – purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā sahetukassa ceva na ca hetussa dhammassa anantarapaccayena paccayo – purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ sahetukānañceva na ca hetūnaṃ khandhānaṃ anantarapaccayena paccayo.(2)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa anantarapaccayena paccayo – purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Sahajātapaccayādi</p>
+
+<p rend="bodytext" n="145"><hi rend="paranum">145</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo (tīṇipi paccayā paṭiccavāre hetusadisā).</p>
+
+<p rend="subhead">Upanissayapaccayo</p>
+
+<p rend="bodytext" n="146"><hi rend="paranum">146</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo – <hi rend="bold">ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – hetū hetūnaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ) hetū sahetukānañceva <pb ed="M" n="3.0064" /> na ca hetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ) hetū hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo (imesaṃ dvinnampi pañhānaṃ mūlāni pucchitabbāni).</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa ca dhammassa <pb ed="T" n="3.0076" /> upanissayapaccayena <pb ed="V" n="3.0075" /> paccayo – <hi rend="bold">ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – saddhaṃ upanissāya dānaṃ deti…pe… samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti, sīlaṃ…pe… patthanaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; saddhā…pe… patthanā saddhāya…pe… patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">(Sahetuko ceva na ca hetumūlake iminākārena vitthāretabbā avasesā dve pañhā.)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo – <hi rend="bold">ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – hetū ca sampayuttakā ca khandhā hetūnaṃ upanissayapaccayena paccayo. (Dve mūlāni pucchitabbāni) hetū ca sampayuttakā ca khandhā sahetukānañceva na ca hetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ pucchitabbaṃ) hetū ca sampayuttakā ca khandhā hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Āsevanapaccayo</p>
+
+<p rend="bodytext" n="147"><hi rend="paranum">147</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa āsevanapaccayena paccayo (anantarasadisaṃ).</p>
+
+<p rend="subhead">Kammapaccayo</p>
+
+<p rend="bodytext" n="148"><hi rend="paranum">148</hi><hi rend="dot">.</hi> Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – sahetukā ceva na ca hetū cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi><pb ed="M" n="3.0065" /> – sahetukā ceva na ca hetū cetanā vipākānaṃ <pb ed="T" n="3.0077" /> sahetukānañceva na ca hetūnaṃ khandhānaṃ kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo hetussa ceva sahetukassa ca dhammassa kammapaccayena paccayo <pb ed="V" n="3.0076" /> – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – sahetukā ceva na ca hetū cetanā sampayuttakānaṃ hetūnaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – sahetukā ceva na ca hetū cetanā vipākānaṃ hetūnaṃ kammapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – sahetukā ceva na ca hetū cetanā sampayuttakānaṃ khandhānaṃ hetūnañca kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – sahetukā ceva na ca hetū cetanā vipākānaṃ khandhānaṃ hetūnañca kammapaccayena paccayo. (3)</p>
+
+<p rend="subhead">Vipākapaccayo</p>
+
+<p rend="bodytext" n="149"><hi rend="paranum">149</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa vipākapaccayena paccayo – vipāko alobho adosassa amohassa ca vipākapaccayena paccayo (cakkaṃ); paṭisandhikkhaṇe alobho (yathā hetupaccayā evaṃ vitthāretabbaṃ, navapi vipākanti niyāmetabbaṃ).</p>
+
+<p rend="subhead">Āhārapaccayādi</p>
+
+<p rend="bodytext" n="150"><hi rend="paranum">150</hi><hi rend="dot">.</hi> Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa āhārapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa indriyapaccayena paccayo (indriyanti niyāmetabbaṃ, navapi paripuṇṇaṃ).</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa <pb ed="T" n="3.0078" /> jhānapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Hetu <pb ed="M" n="3.0066" /> ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa maggapaccayena paccayo <pb ed="V" n="3.0077" />… sampayuttapaccayena paccayo… atthipaccayena paccayo… natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo.</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="151"><hi rend="paranum">151</hi><hi rend="dot">.</hi> Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="subhead">Paccanīyuddhāro</p>
+
+<p rend="bodytext" n="152"><hi rend="paranum">152</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo sahetukassa ceva na ca hetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="153"><hi rend="paranum">153</hi><hi rend="dot">.</hi> Sahetuko ceva na ca hetu dhammo sahetukassa <pb ed="T" n="3.0079" /> ceva na ca hetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Sahetuko <pb ed="M" n="3.0067" /><pb ed="V" n="3.0078" /> ceva na ca hetu dhammo hetussa ceva sahetukassa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… kammapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Sahetuko ceva na ca hetu dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… kammapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="154"><hi rend="paranum">154</hi><hi rend="dot">.</hi> Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā sahetukassa ceva na ca hetussa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (3)</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="bodytext" n="155"><hi rend="paranum">155</hi><hi rend="dot">.</hi> Nahetuyā nava (saṃkhittaṃ. Sabbattha nava, evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="156"><hi rend="paranum">156</hi><hi rend="dot">.</hi> Hetupaccayā <pb ed="V" n="3.0079" /> naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare <pb ed="T" n="3.0080" /> tīṇi, nasamanantare tīṇi, naupanissaye tīṇi (saṃkhittaṃ. Sabbattha tīṇi) <pb ed="M" n="3.0068" />, namagge tīṇi, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="title">Anulomapaccanīyaṃ</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="157"><hi rend="paranum">157</hi><hi rend="dot">.</hi> Nahetupaccayā ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane nava, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, natthiyā nava, vigate nava, avigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="centre">Hetusahetukadukaṃ niṭṭhitaṃ.</p>
+
+<p rend="title">5. Hetuhetusampayuttadukaṃ</p>
+
+<p rend="title">1. Paṭiccavāro</p>
+
+<p rend="bodytext" n="158"><hi rend="paranum">158</hi><hi rend="dot">.</hi> Hetuñceva <pb ed="V" n="3.0080" /> hetusampayuttañca dhammaṃ paṭicca hetu ceva hetusampayutto ca dhammo uppajjati hetupaccayā – alobhaṃ paṭicca adoso amoho (cakkaṃ). Lobhaṃ paṭicca moho (cakkaṃ); paṭisandhikkhaṇe…pe… (yathā hetusahetukadukaṃ evaṃ vitthāretabbaṃ, ninnānākaraṇaṃ).</p>
+
+<p rend="centre">Hetuhetusampayuttadukaṃ niṭṭhitaṃ.</p>
+
+<p rend="title">6. Nahetusahetukadukaṃ</p>
+
+<p rend="title">1. Paṭiccavāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Hetupaccayo</p>
+
+<p rend="bodytext" n="159"><hi rend="paranum">159</hi><hi rend="dot">.</hi> Nahetuṃ <pb ed="T" n="3.0081" /><pb ed="M" n="3.0069" /><pb ed="V" n="3.0081" /> sahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā – nahetuṃ sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā – nahetū sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā – nahetuṃ sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext" n="160"><hi rend="paranum">160</hi><hi rend="dot">.</hi> Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā <pb ed="V" n="3.0082" /> …pe… ekaṃ mahābhūtaṃ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)</p>
+
+<p rend="bodytext">Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā – paṭisandhikkhaṇe vatthuṃ paṭicca nahetū sahetukā khandhā. (2)</p>
+
+<p rend="bodytext">Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā – paṭisandhikkhaṇe vatthuṃ paṭicca nahetū sahetukā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)</p>
+
+<p rend="bodytext" n="161"><hi rend="paranum">161</hi><hi rend="dot">.</hi> Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā – paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca <pb ed="T" n="3.0082" /> vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe…. (1)</p>
+
+<p rend="bodytext">Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā – nahetū sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Nahetuṃ <pb ed="M" n="3.0070" /> sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā – paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… nahetū sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="162"><hi rend="paranum">162</hi><hi rend="dot">.</hi> Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā – nahetuṃ sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Nahetuṃ <pb ed="V" n="3.0083" /> ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati ārammaṇapaccayā – nahetuṃ ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="bodytext">Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā – paṭisandhikkhaṇe vatthuṃ paṭicca nahetū sahetukā khandhā. (3)</p>
+
+<p rend="bodytext">Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā – paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… (saṃkhittaṃ. Evaṃ vibhajitabbaṃ).</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="163"><hi rend="paranum">163</hi><hi rend="dot">.</hi> Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca, anantare <pb ed="T" n="3.0083" /> cattāri, samanantare cattāri, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cattāri, purejāte dve, āsevane dve, kamme nava, vipāke nava, āhāre nava (saṃkhittaṃ. Sabbattha nava), sampayutte cattāri, vippayutte nava, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Nahetupaccayo</p>
+
+<p rend="bodytext" n="164"><hi rend="paranum">164</hi><hi rend="dot">.</hi> Nahetuṃ <pb ed="M" n="3.0071" /> ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati nahetupaccayā <pb ed="V" n="3.0084" /> – nahetuṃ ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe (yāva asaññasattā moho natthi). (1)</p>
+
+<p rend="subhead">Naārammaṇapaccayo</p>
+
+<p rend="bodytext" n="165"><hi rend="paranum">165</hi><hi rend="dot">.</hi> Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā – nahetū sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā – nahetū ahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… (yāva asaññasattā). (1)</p>
+
+<p rend="bodytext">Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā – nahetū sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… (saṃkhittaṃ).</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="166"><hi rend="paranum">166</hi><hi rend="dot">.</hi> Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare <pb ed="T" n="3.0084" /> tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Hetudukaṃ</p>
+
+<p rend="bodytext" n="167"><hi rend="paranum">167</hi><hi rend="dot">.</hi> Hetupaccayā <pb ed="M" n="3.0072" /><pb ed="V" n="3.0085" /> naārammaṇe tīṇi, naadhipatiyā nava, naanantare nava, nasamanantare nava, naaññamaññe nava, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme ekaṃ, navipāke pañca, nasampayutte tīṇi, navippayutte ekaṃ, nonatthiyā tīṇi, novigate tīṇi (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="168"><hi rend="paranum">168</hi><hi rend="dot">.</hi> Nahetupaccayā ārammaṇe ekaṃ…pe… āhāre ekaṃ…pe… jhāne ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ…pe… vigate ekaṃ, avigate ekaṃ (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="title">2. Sahajātavāro</p>
+
+<p rend="centre">(Sahajātavārepi evaṃ gaṇetabbaṃ.)</p>
+
+<p rend="title">3. Paccayavāro</p>
+
+<p rend="subhead">1-4. Paccayānulomādi</p>
+
+<p rend="bodytext" n="169"><hi rend="paranum">169</hi><hi rend="dot">.</hi> Nahetuṃ <pb ed="V" n="3.0086" /> sahetukaṃ dhammaṃ paccayā nahetu sahetuko dhammo uppajjati hetupaccayā… tīṇi.</p>
+
+<p rend="bodytext">Nahetuṃ ahetukaṃ dhammaṃ paccayā nahetu <pb ed="T" n="3.0085" /> ahetuko dhammo uppajjati hetupaccayā – ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ. (1)</p>
+
+<p rend="bodytext">Nahetuṃ <pb ed="M" n="3.0073" /> ahetukaṃ dhammaṃ paccayā nahetu sahetuko dhammo uppajjati hetupaccayā – vatthuṃ paccayā nahetū sahetukā khandhā; paṭisandhikkhaṇe…pe… (2)</p>
+
+<p rend="bodytext">Nahetuṃ ahetukaṃ dhammaṃ paccayā nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā – vatthuṃ paccayā nahetū sahetukā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…(3)</p>
+
+<p rend="bodytext">Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paccayā nahetu sahetuko dhammo uppajjati hetupaccayā (ghaṭanā tīṇi, pavattipaṭisandhi paripuṇṇaṃ. Saṃkhittaṃ).</p>
+
+<p rend="bodytext" n="170"><hi rend="paranum">170</hi><hi rend="dot">.</hi> Hetuyā nava, ārammaṇe cattāri…pe… aññamaññe cha…pe… purejāte āsevane cattāri…pe… avigate nava (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="bodytext" n="171"><hi rend="paranum">171</hi><hi rend="dot">.</hi> Nahetuyā ekaṃ, naārammaṇe tīṇi…pe… novigate tīṇi.</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">4. Nissayavāro</p>
+
+<p rend="centre">(Nissayavāro paccayavārasadiso.)</p>
+
+<p rend="title">5. Saṃsaṭṭhavāro</p>
+
+<p rend="subhead">1-4. Paccayānulomādi</p>
+
+<p rend="bodytext" n="172"><hi rend="paranum">172</hi><hi rend="dot">.</hi> Nahetuṃ <pb ed="V" n="3.0087" /> sahetukaṃ dhammaṃ saṃsaṭṭho nahetu sahetuko dhammo uppajjati hetupaccayā – nahetuṃ sahetukaṃ ekaṃ khandhaṃ…pe… paṭisandhikkhaṇe…pe….</p>
+
+<p rend="bodytext" n="173"><hi rend="paranum">173</hi><hi rend="dot">.</hi> Hetuyā <pb ed="T" n="3.0086" /> ekaṃ, ārammaṇe dve, adhipatiyā ekaṃ, anantare dve (sabbattha dve), magge ekaṃ…pe… avigate dve.</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="bodytext" n="174"><hi rend="paranum">174</hi><hi rend="dot">.</hi> Nahetuṃ <pb ed="M" n="3.0074" /> ahetukaṃ dhammaṃ saṃsaṭṭho nahetu ahetuko dhammo uppajjati nahetupaccayā – nahetuṃ ahetukaṃ ekaṃ khandhaṃ…pe… paṭisandhikkhaṇe…pe….</p>
+
+<p rend="bodytext" n="175"><hi rend="paranum">175</hi><hi rend="dot">.</hi> Nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte dve.</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="centre">(Evaṃ avasesāpi dve gaṇanā gaṇetabbā.)</p>
+
+<p rend="title">6. Sampayuttavāro</p>
+
+<p rend="centre">(Sampayuttavāro saṃsaṭṭhavārasadiso)</p>
+
+<p rend="title">7. Pañhāvāro</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">1. Vibhaṅgavāro</p>
+
+<p rend="subhead">Ārammaṇapaccayo</p>
+
+<p rend="bodytext" n="176"><hi rend="paranum">176</hi><hi rend="dot">.</hi> Nahetu <pb ed="V" n="3.0088" /> sahetuko dhammo nahetusahetukassa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati; jhānaṃ…pe… ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti; pahīne kilese…pe… vikkhambhite kilese…pe… pubbe…pe… nahetū sahetuke khandhe aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe nahetu sahetuko vipāko tadārammaṇatā uppajjati; cetopariyañāṇena nahetusahetukacittasamaṅgissa <pb ed="T" n="3.0087" /> cittaṃ jānāti, ākāsānañcāyatanaṃ…pe… ākiñcaññāyatanaṃ…pe… nahetū sahetukā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, ārammaṇapaccayena paccayo; nahetū sahetuke khandhe ārabbha nahetū sahetukā khandhā uppajjanti. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetuahetukassa dhammassa ārammaṇapaccayena paccayo – nahetū sahetuke khandhe aniccato…pe… domanassaṃ <pb ed="M" n="3.0075" /> uppajjati, kusalākusale niruddhe nahetu ahetuko vipāko tadārammaṇatā uppajjati, nahetū sahetuke khandhe ārabbha nahetū ahetukā khandhā uppajjanti. (2)</p>
+
+<p rend="bodytext" n="177"><hi rend="paranum">177</hi><hi rend="dot">.</hi> Nahetu <pb ed="V" n="3.0089" /> ahetuko dhammo nahetuahetukassa dhammassa ārammaṇapaccayena paccayo – nibbānaṃ āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe… vatthuṃ… nahetū ahetuke khandhe aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe nahetu ahetuko vipāko tadārammaṇatā uppajjati. Rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… nahetū ahetuke khandhe ārabbha nahetū ahetukā khandhā uppajjanti. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetusahetukassa dhammassa ārammaṇapaccayena paccayo – ariyā nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa ārammaṇapaccayena paccayo; cakkhuṃ…pe… vatthuṃ… nahetū ahetuke khandhe aniccato <pb ed="T" n="3.0088" /> …pe… domanassaṃ uppajjati; kusalākusale niruddhe nahetu sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena nahetuahetukacittasamaṅgissa cittaṃ jānāti. Nahetū ahetukā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, ārammaṇapaccayena paccayo; nahetū ahetuke khandhe ārabbha nahetū sahetukā khandhā uppajjanti. (2)</p>
+
+<p rend="subhead">Adhipatipaccayo</p>
+
+<p rend="bodytext" n="178"><hi rend="paranum">178</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. <hi rend="bold">Ārammaṇādhipati</hi> – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānaṃ…pe… ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti. Nahetū sahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. <hi rend="bold">Sahajātādhipati</hi> – nahetusahetukādhipati <pb ed="M" n="3.0076" /> sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetuahetukassa dhammassa adhipatipaccayena paccayo. <hi rend="bold">Sahajātādhipati</hi> – nahetu sahetukādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0090" /> sahetuko dhammo nahetusahetukassa ca nahetuahetukassa ca dhammassa adhipatipaccayena paccayo. <hi rend="bold">Sahajātādhipati</hi> – nahetu sahetukādhipati sampayuttakānaṃ <pb ed="T" n="3.0089" /> khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetusahetukassa dhammassa adhipatipaccayena paccayo. <hi rend="bold">Ārammaṇādhipati</hi> – ariyā nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe… vatthuṃ… nahetū ahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)</p>
+
+<p rend="subhead">Anantarapaccayo</p>
+
+<p rend="bodytext" n="179"><hi rend="paranum">179</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa anantarapaccayena paccayo – purimā purimā nahetū sahetukā khandhā pacchimānaṃ pacchimānaṃ nahetusahetukānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe… nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetuahetukassa dhammassa anantarapaccayena paccayo – nahetu sahetukaṃ cuticittaṃ nahetuahetukassa upapatticittassa anantarapaccayena paccayo; nahetu sahetukaṃ bhavaṅgaṃ āvajjanāya, nahetu sahetukaṃ bhavaṅgaṃ nahetuahetukassa bhavaṅgassa, nahetū sahetukā khandhā nahetuahetukassa vuṭṭhānassa anantarapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa anantarapaccayena paccayo – purimā purimā nahetū ahetukā khandhā pacchimānaṃ pacchimānaṃ <pb ed="M" n="3.0077" /> nahetuahetukānaṃ khandhānaṃ anantarapaccayena paccayo; āvajjanā pañcannaṃ viññāṇānaṃ anantarapaccayena <pb ed="T" n="3.0090" /> paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetusahetukassa dhammassa anantarapaccayena paccayo – nahetu ahetukaṃ cuticittaṃ nahetusahetukassa upapatticittassa anantarapaccayena paccayo; āvajjanā nahetusahetukānaṃ <pb ed="V" n="3.0091" /> khandhānaṃ anantarapaccayena paccayo; nahetū ahetukā khandhā nahetusahetukassa vuṭṭhānassa anantarapaccayena paccayo. (2)</p>
+
+<p rend="subhead">Samanantarapaccayādi</p>
+
+<p rend="bodytext" n="180"><hi rend="paranum">180</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa samanantarapaccayena paccayo… sahajātapaccayena paccayo (iha ghaṭanā natthi, satta pañhā)… aññamaññapaccayena paccayo (cha pañhā)… nissayapaccayena paccayo (pavattipaṭisandhi satta pañhā, iha ghaṭanā natthi).</p>
+
+<p rend="subhead">Upanissayapaccayo</p>
+
+<p rend="bodytext" n="181"><hi rend="paranum">181</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – saddhaṃ upanissāya dānaṃ deti…pe… mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe… patthanaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; saddhā…pe… patthanā saddhāya…pe… patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetuahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – saddhā kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo; sīlaṃ…pe… patthanā kāyikassa sukhassa, kāyikassa <pb ed="T" n="3.0091" /> dukkhassa upanissayapaccayena paccayo; saddhā…pe… patthanā kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. (2)</p>
+
+<p rend="bodytext" n="182"><hi rend="paranum">182</hi><hi rend="dot">.</hi> Nahetu ahetuko dhammo nahetuahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – kāyikaṃ sukhaṃ kāyikassa sukhassa, kāyikassa dukkhassa <pb ed="M" n="3.0078" /> upanissayapaccayena paccayo; kāyikaṃ dukkhaṃ… utu… bhojanaṃ… senāsanaṃ kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo; kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utu… bhojanaṃ… senāsanaṃ kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0092" /> ahetuko dhammo nahetusahetukassa dhammassa upanissayapaccayena paccayo – <hi rend="bold">ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…</hi>. Pakatūpanissayo – kāyikaṃ sukhaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; kāyikaṃ dukkhaṃ… utuṃ… bhojanaṃ… senāsanaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; kāyikaṃ sukhaṃ …pe… senāsanaṃ saddhāya…pe… patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (2)</p>
+
+<p rend="subhead">Purejātapaccayo</p>
+
+<p rend="bodytext" n="183"><hi rend="paranum">183</hi><hi rend="dot">.</hi> Nahetu ahetuko dhammo nahetuahetukassa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe nahetu ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṃ cakkhuviññāṇassa purejātapaccayena paccayo…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena <pb ed="T" n="3.0092" /> paccayo. <hi rend="bold">Vatthupurejātaṃ</hi> – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa… vatthu nahetuahetukānaṃ khandhānaṃ purejātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetusahetukassa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. <hi rend="bold">Ārammaṇapurejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati, kusalākusale niruddhe nahetu sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. <hi rend="bold">Vatthupurejātaṃ</hi> – vatthu nahetusahetukānaṃ khandhānaṃ purejātapaccayena paccayo. (2)</p>
+
+<p rend="subhead">Pacchājātapaccayo</p>
+
+<p rend="bodytext" n="184"><hi rend="paranum">184</hi><hi rend="dot">.</hi> Nahetu <pb ed="M" n="3.0079" /> sahetuko dhammo nahetuahetukassa dhammassa pacchājātapaccayena paccayo – pacchājātā nahetū sahetukā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0093" /> ahetuko dhammo nahetuahetukassa dhammassa pacchājātapaccayena paccayo – pacchājātā nahetū ahetukā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Āsevanapaccayo</p>
+
+<p rend="bodytext" n="185"><hi rend="paranum">185</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa āsevanapaccayena paccayo – purimā purimā nahetū sahetukā khandhā pacchimānaṃ pacchimānaṃ nahetusahetukānaṃ khandhānaṃ āsevanapaccayena paccayo… anulomaṃ gotrabhussa… anulomaṃ vodānassa… gotrabhu maggassa… vodānaṃ maggassa āsevanapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa āsevanapaccayena paccayo – purimā <pb ed="T" n="3.0093" /> purimā nahetū ahetukā khandhā pacchimānaṃ pacchimānaṃ nahetuahetukānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Kammapaccayo</p>
+
+<p rend="bodytext" n="186"><hi rend="paranum">186</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – nahetu sahetukā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – nahetu sahetukā cetanā vipākānaṃ nahetusahetukānaṃ khandhānaṃ kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetuahetukassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – nahetu sahetukā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi> – nahetu sahetukā cetanā vipākānaṃ nahetuahetukānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="M" n="3.0080" /> sahetuko dhammo nahetusahetukassa ca nahetuahetukassa ca dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. <hi rend="bold">Sahajātā</hi> – nahetu sahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Nānākkhaṇikā</hi><pb ed="V" n="3.0094" /> – nahetu sahetukā cetanā vipākānaṃ nahetusahetukānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa kammapaccayena paccayo. <hi rend="bold">Sahajātā</hi> – nahetu ahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe nahetu ahetukā cetanā sampayuttakānaṃ <pb ed="T" n="3.0094" /> khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Vipākapaccayo</p>
+
+<p rend="bodytext" n="187"><hi rend="paranum">187</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa vipākapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa vipākapaccayena paccayo… ekaṃ.</p>
+
+<p rend="subhead">Āhārapaccayo</p>
+
+<p rend="bodytext" n="188"><hi rend="paranum">188</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa āhārapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa āhārapaccayena paccayo – nahetu ahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)</p>
+
+<p rend="subhead">Indriyapaccayo</p>
+
+<p rend="bodytext" n="189"><hi rend="paranum">189</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa indriyapaccayena paccayo… tīṇi.</p>
+
+<p rend="bodytext">Nahetu <pb ed="M" n="3.0081" /> ahetuko dhammo nahetuahetukassa dhammassa indriyapaccayena paccayo – nahetu ahetukā <pb ed="V" n="3.0095" /> indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe… rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo.</p>
+
+<p rend="subhead">Jhānapaccayādi</p>
+
+<p rend="bodytext" n="190"><hi rend="paranum">190</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa jhānapaccayena paccayo…pe… (cattāripi kātabbāni), maggapaccayena paccayo… tīṇi.</p>
+
+<p rend="subhead">Sampayuttapaccayo</p>
+
+<p rend="bodytext" n="191"><hi rend="paranum">191</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa sampayuttapaccayena <pb ed="T" n="3.0095" /> paccayo – nahetu sahetuko eko khandho tiṇṇannaṃ khandhānaṃ…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa sampayuttapaccayena paccayo – nahetu ahetuko eko khandho tiṇṇannaṃ khandhānaṃ…pe… paṭisandhikkhaṇe…pe…. (2)</p>
+
+<p rend="subhead">Vippayuttapaccayo</p>
+
+<p rend="bodytext" n="192"><hi rend="paranum">192</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetuahetukassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – nahetū sahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Pacchājātā</hi> – nahetū sahetukā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ. <hi rend="bold">Sahajātā</hi> – nahetū ahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… khandhā vatthussa vippayuttapaccayena paccayo; vatthu khandhānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa…pe… vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo <pb ed="V" n="3.0096" />. <hi rend="bold">Pacchājātā</hi> – nahetū ahetukā <pb ed="M" n="3.0082" /> khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetusahetukassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajātaṃ</hi> – paṭisandhikkhaṇe vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. <hi rend="bold">Purejātaṃ</hi><pb ed="T" n="3.0096" /> – vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)</p>
+
+<p rend="subhead">Atthipaccayo</p>
+
+<p rend="bodytext" n="193"><hi rend="paranum">193</hi><hi rend="dot">.</hi> Nahetu sahetuko dhammo nahetusahetukassa dhammassa atthipaccayena paccayo – nahetu sahetuko eko khandho tiṇṇannaṃ khandhānaṃ…pe… paṭisandhikkhaṇe…pe…. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetuahetukassa dhammassa atthipaccayena paccayo – <hi rend="bold">sahajātaṃ, pacchājātaṃ…pe…</hi>. (2)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetusahetukassa ca nahetuahetukassa ca dhammassa atthipaccayena paccayo – nahetu sahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… paṭisandhikkhaṇe…pe…. (3)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetuahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. <hi rend="bold">Sahajāto</hi> – nahetu ahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… (yāva asaññasattā). <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati; kusalākusale niruddhe nahetu ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… cakkhāyatanaṃ…pe… kāyāyatanaṃ…pe… vatthu nahetuahetukānaṃ khandhānaṃ atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – nahetū ahetukā khandhā purejātassa…pe… <hi rend="bold">kabaḷīkāro āhāro</hi> imassa kāyassa…pe… <hi rend="bold">rūpajīvitindriyaṃ</hi> kaṭattārūpānaṃ atthipaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0097" /> ahetuko dhammo nahetusahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. <hi rend="bold">Sahajātaṃ</hi> – paṭisandhikkhaṇe vatthu <pb ed="T" n="3.0097" /><pb ed="M" n="3.0083" /> nahetusahetukānaṃ khandhānaṃ atthipaccayena paccayo. <hi rend="bold">Purejātaṃ</hi> – cakkhuṃ…pe… vatthuṃ aniccato…pe… domanassaṃ uppajjati, kusalākusale niruddhe nahetu sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. <hi rend="bold">Vatthupurejātaṃ</hi> – vatthu nahetusahetukānaṃ khandhānaṃ atthipaccayena paccayo. (2)</p>
+
+<p rend="bodytext" n="194"><hi rend="paranum">194</hi><hi rend="dot">.</hi> Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetusahetukassa dhammassa atthipaccayena paccayo – <hi rend="bold">sahajātaṃ, purejātaṃ</hi>. Sahajāto – nahetu sahetuko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ…pe… paṭisandhikkhaṇe…pe… nahetu sahetuko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ…pe…. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. <hi rend="bold">Sahajātā</hi> – nahetū sahetukā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe…. <hi rend="bold">Pacchājātā</hi> – nahetū sahetukā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. <hi rend="bold">Pacchājātā</hi> – nahetū sahetukā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo…pe…. (2)</p>
+
+<p rend="title">1. Paccayānulomaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="195"><hi rend="paranum">195</hi><hi rend="dot">.</hi> Ārammaṇe cattāri, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane dve, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri <pb ed="V" n="3.0098" />, magge tīṇi, sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri, vigate <pb ed="T" n="3.0098" /> cattāri, avigate satta (evaṃ gaṇetabbaṃ)</p>
+
+<p rend="centre">Anulomaṃ.</p>
+
+<p rend="subhead">Paccanīyuddhāro</p>
+
+<p rend="bodytext" n="196"><hi rend="paranum">196</hi><hi rend="dot">.</hi> Nahetu <pb ed="M" n="3.0084" /> sahetuko dhammo nahetusahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… kammapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetuahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… pacchājātapaccayena paccayo… kammapaccayena paccayo. (2)</p>
+
+<p rend="bodytext">Nahetu sahetuko dhammo nahetusahetukassa ca nahetuahetukassa ca dhammassa sahajātapaccayena paccayo… kammapaccayena paccayo. (3)</p>
+
+<p rend="bodytext" n="197"><hi rend="paranum">197</hi><hi rend="dot">.</hi> Nahetu ahetuko dhammo nahetuahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… pacchājātapaccayena paccayo <pb ed="T" n="3.0099" />… āhārapaccayena paccayo… indriyapaccayena paccayo. (1)</p>
+
+<p rend="bodytext">Nahetu ahetuko dhammo nahetusahetukassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo. (2)</p>
+
+<p rend="bodytext" n="198"><hi rend="paranum">198</hi><hi rend="dot">.</hi> Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetusahetukassa dhammassa sahajātaṃ… purejātaṃ. (1)</p>
+
+<p rend="bodytext">Nahetu <pb ed="V" n="3.0099" /> sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa sahajātaṃ… pacchājātaṃ… āhāraṃ… indriyaṃ. (2)</p>
+
+<p rend="title">2. Paccayapaccanīyaṃ</p>
+
+<p rend="title">2. Saṅkhyāvāro</p>
+
+<p rend="subhead">Suddhaṃ</p>
+
+<p rend="bodytext" n="199"><hi rend="paranum">199</hi><hi rend="dot">.</hi> Nahetuyā satta, naārammaṇe satta (saṃkhittaṃ. Sabbattha satta), nasahajāte cha, naaññamaññe cha, nanissaye cha (sabbattha satta), nasampayutte <pb ed="M" n="3.0085" /> cha, navippayutte pañca, noatthiyā pañca, nonatthiyā satta, novigate satta, noavigate pañca (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Paccanīyaṃ.</p>
+
+<p rend="title">3. Paccayānulomapaccanīyaṃ</p>
+
+<p rend="subhead">Ārammaṇadukaṃ</p>
+
+<p rend="bodytext" n="200"><hi rend="paranum">200</hi><hi rend="dot">.</hi> Ārammaṇapaccayā nahetuyā cattāri, naadhipatiyā cattāri, naanantare cattāri (sabbattha cattāri), nonatthiyā cattāri, novigate cattāri, noavigate cattāri (evaṃ gaṇetabbaṃ).</p>
+
+<p rend="centre">Anulomapaccanīyaṃ.</p>
+
+<p rend="title">4. Paccayapaccanīyānulomaṃ</p>
+
+<p rend="subhead">Nahetudukaṃ</p>
+
+<p rend="bodytext" n="201"><hi rend="paranum">201</hi><hi rend="dot">.</hi> Nahetupaccayā <pb ed="V" n="3.0100" /> ārammaṇe cattāri, ādhipatiyā cattāri…pe… avigate satta.</p>
+
+<p rend="centre">Paccanīyānulomaṃ.</p>
+
+<p rend="centre">Nahetusahetukadukaṃ niṭṭhitaṃ.</p>
+
+<p rend="centre">Hetugocchakaṃ niṭṭhitaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Bāhusaccaguṇamakkhanaṃ</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> Punapi dhammānando ācariyassa bāhusaccaguṇaṃ makkhetukāmo evamāha – ‘‘tassa (buddhaghosassa) samayantarakovidasaṅkhātaṃ bāhusaccaṃ na tato uttaritaraṃ hoti, yaṃ ādhunikānaṃ ganthantarakovidānaṃ sīhaḷikabhikkhūnaṃ yaṃ vā ekādasame kharistavassasatake (1001-1100) uppannānaṃ dakkhiṇaindiyaraṭṭhikānaṃ <hi rend="bold">anuruddha-dhammapālā</hi>dīnaṃ bhikkhūna’’nti.</p>
+
+<p rend="bodytext">Taṃ pana sabbathāpi ayuttavacanameva. Yadi hi ādhunikā vā sīhaḷikabhikkhū, porāṇā vā ācariyaanuruddha-dhammapālattherādayo samayantarabāhusaccavasena ācariyabuddhaghosena samānā vā uttaritarā vā bhaveyyuṃ, te ācariyabuddhaghosattherassa aṭṭhakathāhi anāraddhacittā hutvā tato sundaratarā paripuṇṇatarā ca abhinavaṭṭhakathāyo kareyyuṃ, na pana te tathā karonti, na kevalaṃ na karontiyeva, atha <pb ed="M" n="0.0016" /> kho tesaṃ ekopi na evaṃ vadati ‘‘ahaṃ buddhaghosena bāhusaccavasena samasamoti vā uttaritaro’’ti vā, aññadatthu te ācariyassa aṭṭhakathāyoyeva saṃvaṇṇenti ca upatthambhenti ca, ācariyaṭṭhāne ca ṭhapenti. Tenetaṃ ñāyati sabbathāpi ayuttavacananti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

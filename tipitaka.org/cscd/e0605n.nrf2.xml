@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Vatthuvisodhanīgāthā</p>
+
+<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Buddhoti ko buddhaguṇo ti ko so,</p>
+
+<p rend="gatha2">Acintayādittamupāgato yo;</p>
+
+<p rend="gatha3">Anaññasādhāraṇabhūtamatthaṃ,</p>
+
+<p rend="gathalast">Akāsi kiṃ so kimavoca buddho.</p>
+
+<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Visuddhakhandhasantāno buddhoti niyamo kato,</p>
+
+<p rend="gathalast">Khandhasantānasuddhī tu guṇoti niyamo kato.</p>
+
+<p rend="hangnum" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Akāsi kiccāni dinesu pañca,</p>
+
+<p rend="gatha2">Pasādayañciddhibalena sena;</p>
+
+<p rend="gatha3">Janānasesaṃ cariyānukūlaṃ,</p>
+
+<p rend="gathalast">Ñatvānavocānusayappahānaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">5. Pāṭidesanīyakaṇḍaṃ</p>
+
+<p rend="subhead">Pāṭidesanīyasikkhāpadavaṇṇanā</p>
+
+<p rend="bodytext" n="1228"><hi rend="paranum">1228</hi><hi rend="dot">.</hi> Pāṭidesanīyādīsu <pb ed="M" n="2.0081" /><pb ed="V" n="2.0079" /><hi rend="bold">pāḷivinimuttakesū</hi>ti pāḷiyaṃ anāgatesu sappiādīsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Sattādhikaraṇavhayā</hi>ti sattādhikaraṇasamathanāmakā. Taṃ atthavinicchayaṃ tādisaṃyeva yasmā vidū vadantīti attho. Yathā niṭṭhitāti sambandho. <hi rend="bold">Sabbāsavapaha</hi>nti sabbāsavavighātakaṃ arahattamaggaṃ. <hi rend="bold">Passantu nibbuti</hi>nti maggañāṇena nibbānaṃ sacchikarontu, pappontūti vā pāṭho. Tattha <hi rend="bold">nibbuti</hi>nti khandhaparinibbānaṃ gahetabbaṃ.</p>
+
+<p rend="centre">Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ</p>
+
+<p rend="centre">Bhikkhunīvibhaṅgavaṇṇanānayo niṭṭhito.</p>
+
+<p rend="centre">Ubhatovibhaṅgaṭṭhakathāvaṇṇanā niṭṭhitā.</p>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

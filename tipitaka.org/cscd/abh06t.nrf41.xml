@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Ganthārambhakathā</p>
+
+<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Vanditvā <pb ed="M" n="0.0001" /><pb ed="V" n="0.0001" /> vandaneyyānaṃ, uttamaṃ ratanattayaṃ;</p>
+
+<p rend="gathalast">Pavakkhāmi samāsena, paramatthavinicchayaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

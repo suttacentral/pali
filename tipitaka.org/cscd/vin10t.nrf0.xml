@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="chapter">Vinayavinicchayo</p>
+
+<p rend="subsubhead">Ganthārambhakathā</p>
+
+<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Vanditvā <pb ed="M" n="0.0001" /><pb ed="V" n="0.0001" /> sirasā seṭṭhaṃ, buddhamappaṭipuggalaṃ;</p>
+
+<p rend="gathalast">Bhavābhāvakaraṃ dhammaṃ, gaṇañceva niraṅgaṇaṃ.</p>
+
+<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Bhikkhūnaṃ bhikkhunīnañca, hitatthāya samāhito;</p>
+
+<p rend="gathalast">Pavakkhāmi samāsena, vinayassavinicchayaṃ.</p>
+
+<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Anākulamasaṃkiṇṇaṃ, madhuratthapadakkamaṃ;</p>
+
+<p rend="gathalast">Paṭubhāvakaraṃ etaṃ, paramaṃ vinayakkame.</p>
+
+<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Apāraṃ otarantānaṃ, sāraṃ vinayasāgaraṃ;</p>
+
+<p rend="gathalast">Bhikkhūnaṃ bhikkhunīnañca, nāvābhūtaṃ manoramaṃ.</p>
+
+<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tasmā vinayanūpāyaṃ, vinayassavinicchayaṃ;</p>
+
+<p rend="gathalast">Avikkhittena cittena, vadato me nibodhatha.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

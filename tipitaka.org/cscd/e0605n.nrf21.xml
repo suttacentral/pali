@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Mahāpadhānadīpanīgāthā</p>
+
+<p rend="hangnum" n="111"><hi rend="paranum">111</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Orohitotohitapāpadhammo,</p>
+
+<p rend="gatha2">Channena sa channahayena gantvā;</p>
+
+<p rend="gatha3">Anomatīramhi anomasatto,</p>
+
+<p rend="gathalast">Anomapabbajjamupāgato so.</p>
+
+<p rend="hangnum" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Nirāmisaṃ pītisukhaṃ anūpamaṃ,</p>
+
+<p rend="gatha2">Anūpiye ambavane alattha;</p>
+
+<p rend="gatha3">Sarūpasobhāya virūpasobhaṃ,</p>
+
+<p rend="gathalast">Sarājikaṃ rājagahaṃ karittha.</p>
+
+<p rend="hangnum" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tato aḷāra ūdakatāpasānaṃ,</p>
+
+<p rend="gatha2">Jhānenasantuṭṭhamano vihāya;</p>
+
+<p rend="gatha3">Mahāpadhānāya uruvelabhūmiṃ,</p>
+
+<p rend="gathalast">Gato sikhappattamakāsi dukkaraṃ.</p>
+
+<p rend="hangnum" n="114"><hi rend="paranum">114</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Na kāmato nevatidukkaramhi,</p>
+
+<p rend="gatha2">Sabbaññutā sijjhati majjhimāya;</p>
+
+<p rend="gatha3">Ñatvāna taṃ pubbaguṇopaladdhaṃ,</p>
+
+<p rend="gathalast">Dhammaṃ samānetumagā subodhiṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

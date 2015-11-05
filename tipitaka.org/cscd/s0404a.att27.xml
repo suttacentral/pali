@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">(13) 3. Parisuddhavaggavaṇṇanā</p>
+
+<p rend="bodytext" n="123"><hi rend="paranum">123</hi><hi rend="dot">.</hi> Tatiyassa <pb ed="P" n="5.0074" /> paṭhame <hi rend="bold">parisuddhā</hi>ti nimmalā. <hi rend="bold">Pariyodātā</hi>ti pabhassarā. Dutiyādīni uttānatthānevāti.</p>
+
+<p rend="centre">Parisuddhavaggo tatiyo.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

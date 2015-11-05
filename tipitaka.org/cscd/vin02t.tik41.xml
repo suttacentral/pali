@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Saṅgāmadvayavaṇṇanā</p>
+
+<p rend="bodytext" n="365"><hi rend="paranum">365</hi><hi rend="dot">.</hi><hi rend="bold">Ṭhānanisajjavattādinissitā</hi>ti <pb ed="M" n="3.0488" /> ‘‘evaṃ ṭhātabbaṃ, evaṃ nisīditabba’’nti evamādikā. <hi rend="bold">Saññājananattha</hi>nti cuditakacodakānaṃ saññuppādanatthaṃ. <hi rend="bold">Anuyogavattaṃ kathāpetvā</hi>ti ‘‘kiṃ anuyogavattaṃ jānāsī’’ti pucchitvā teneva kathāpetvā.</p>
+
+<p rend="bodytext" n="375"><hi rend="paranum">375</hi><hi rend="dot">.</hi><hi rend="bold">Nīlādivaṇṇāvaṇṇavasenā</hi>ti nīlādivaṇṇavasena ārogyatthādiavaṇṇavasena ca.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="book">Sūrassatīnīti</p>
+
+<p rend="subhead">Paṭhamo bhāgo</p>
+
+<p rend="chapter">Paṇāmagāthā</p>
+
+<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Mukhamhā <pb ed="M" n="1.0001" /> bhagavantassa,</p>
+
+<p rend="gatha2">Sugandhakamalā subhā;</p>
+
+<p rend="gatha3">Sañjātaṃ uttamaṃ vāṇiṃ,</p>
+
+<p rend="gathalast">Vandāmi vittamānasā.</p>
+
+<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Samajjhiṭṭho racissāmi,</p>
+
+<p rend="gatha2">Dakkhena rājamantinā;</p>
+
+<p rend="gatha3">Nāmena santena,</p>
+
+<p rend="gatha2">Nītiṃ lokahitāvahaṃ;</p>
+
+<p rend="gatha3">Sālaṅkāraṃ sopadesaṃ,</p>
+
+<p rend="gathalast">Nāmenāhaṃ svarassatiṃ.</p>
+
+<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pekkhantvimaṃ nītiṃ santā,</p>
+
+<p rend="gatha2">Mañjūsarukkhasannibhaṃ;</p>
+
+<p rend="gatha3">Nānopadesasaṃpuṇṇaṃ,</p>
+
+<p rend="gathalast">Sadatthakusalā sadā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

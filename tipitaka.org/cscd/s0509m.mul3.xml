@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">4. Catukkanipāto</p>
+
+<p rend="subhead">1. Bhaddākāpilānītherīgāthā</p>
+
+<p rend="hangnum" n="63"><hi rend="paranum">63</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Putto <pb ed="M" n="0.0387" /> buddhassa dāyādo, kassapo susamāhito;</p>
+
+<p rend="gathalast">Pubbenivāsaṃ yovedi, saggāpāyañca passati.</p>
+
+<p rend="hangnum" n="64"><hi rend="paranum">64</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Atho <pb ed="T" n="0.0452" /> jātikkhayaṃ patto, abhiññāvosito muni;</p>
+
+<p rend="gathalast">Etāhi tīhi vijjāhi, tevijjo hoti brāhmaṇo.</p>
+
+<p rend="hangnum" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Tatheva bhaddā kāpilānī, tevijjā maccuhāyinī;</p>
+
+<p rend="gathalast">Dhāreti antimaṃ dehaṃ, jetvā māraṃ savāhanaṃ.</p>
+
+<p rend="hangnum" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Disvā ādīnavaṃ loke, ubho pabbajitā mayaṃ;</p>
+
+<p rend="gathalast">Tyamha khīṇāsavā dantā, sītibhūtamha nibbutā’’ti.</p>
+
+<p rend="centre">… Bhaddā kāpilānī therī….</p>
+
+<p rend="centre">Catukkanipāto niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

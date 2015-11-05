@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">2. Dutiyanayo</p>
+
+<p rend="title">2. Saṅgahitenaasaṅgahitapadaniddeso</p>
+
+<p rend="bodytext" n="171"><hi rend="paranum">171</hi><hi rend="dot">.</hi> Cakkhāyatanena <pb ed="P" n="0.0034" /><pb ed="M" n="0.0028" /><pb ed="V" n="0.0029" /> ye dhammā… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye dhammā… phoṭṭhabbadhātuyā ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi asaṅgahitā? Te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.</p>
+
+<p rend="bodytext" n="172"><hi rend="paranum">172</hi><hi rend="dot">.</hi> Cakkhuviññāṇadhātuyā ye dhammā… sotaviññāṇadhātuyā ye dhammā… ghānaviññāṇadhātuyā ye dhammā… jivhāviññāṇadhātuyā ye dhammā… kāyaviññāṇadhātuyā ye dhammā… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena <pb ed="T" n="0.0034" /> asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi ekādasahāyatanehi dvādasahi dhātūhi asaṅgahitā.</p>
+
+<p rend="bodytext" n="173"><hi rend="paranum">173</hi><hi rend="dot">.</hi> Cakkhundriyena ye dhammā… sotindriyena ye dhammā… ghānindriyena ye dhammā… jivhindriyena ye dhammā… kāyindriyena ye dhammā… itthindriyena ye dhammā… purisindriyena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.</p>
+
+<p rend="bodytext" n="174"><hi rend="paranum">174</hi><hi rend="dot">.</hi> Asaññābhavena ye dhammā… ekavokārabhavena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi <pb ed="P" n="0.0035" /> khandhehi tīhāyatanehi navahi dhātūhi asaṅgahitā.</p>
+
+<p rend="bodytext" n="175"><hi rend="paranum">175</hi><hi rend="dot">.</hi> Paridevena ye dhammā… sanidassanasappaṭighehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.</p>
+
+<p rend="bodytext" n="176"><hi rend="paranum">176</hi><hi rend="dot">.</hi> Anidassanasappaṭighehi <pb ed="M" n="0.0029" /> dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.</p>
+
+<p rend="bodytext" n="177"><hi rend="paranum">177</hi><hi rend="dot">.</hi> Sanidassanehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena <pb ed="T" n="0.0035" /> asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.</p>
+
+<p rend="bodytext" n="178"><hi rend="paranum">178</hi><hi rend="dot">.</hi> Sappaṭighehi dhammehi ye dhammā… upādādhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi asaṅgahitā? Te dhammā catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.</p>
+
+<p rend="gatha1">Dasāyatanā sattarasa dhātuyo,</p>
+
+<p rend="gatha2">Sattindriyā asaññābhavo ekavokārabhavo;</p>
+
+<p rend="gatha3">Paridevo sanidassanasappaṭighaṃ,</p>
+
+<p rend="gathalast">Anidassanaṃ punadeva <note>punareva (pī.)</note> sappaṭighaṃ upādāti.</p>
+
+<p rend="centre">Saṅgahitenaasaṅgahitapadaniddeso dutiyo.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

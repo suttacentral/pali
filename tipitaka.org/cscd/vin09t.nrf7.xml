@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Sekhiyakaṇḍaṃ</p>
+
+<p rend="bodytext">Sekhiyesu <pb ed="M" n="0.0107" /><pb ed="V" n="0.0102" /> satipi vītikkame anādariyāpekkhasseva āpattīti dassanatthaṃ kārako na vutto. Ayañhi vinayadhammatā, yadidaṃ sāpekkhe kārakaniddeso, so vuttaniyame vidhi, bhummakaraṇañca. Aṭṭhaṅgulādhikampi otāretvā nivāsetuṃ vaṭṭati. Tato paraṃ otārentassa dukkaṭanti <hi rend="bold">mahāaṭṭhakathāyaṃ</hi> vuttaṃ. <hi rend="bold">Ārāme vā</hi>ti buddhupaṭṭhānādikāle. <hi rend="bold">Pārupitabbanti</hi> uttarāsaṅgakiccavasena vuttaṃ.</p>
+
+<p rend="bodytext"><hi rend="bold">Ṭhatvā</hi>ti ettha gacchantopi parissayābhāvaṃ oloketuṃ labhatiyevāti (vajira. ṭī. pācittiya 582) likhitaṃ. Yathā vāsūpagatassa antaraghare kāyaṃ vivaritvā nisīdituṃ vaṭṭati, tathā tassa santike gantukāmassapi kāyabandhanaṃ abandhitvā saṅghāṭiṃ apārupitvā gāmappavesanamanārocetvā yathākāmaṃ gantuṃ vaṭṭati. Tasmā addhānamaggagamanakāle eko bhikkhu gāmappavesanavattaṃ pūretvā gāmaṃ pavisitvā ekaṃ āvasathaṃ puratova ṭhitaṃ patvā parikkhāraṃ ṭhapetvā vāsūpagato ce hoti, itarehi tassa santikaṃ yathāsukhaṃ gantuṃ vaṭṭati. Ko pana vādo catūhapañcāhaṃ vāsamadhiṭṭhāya vasitabhikkhūnaṃ santikaṃ gantuñca vāsūpagatānaṃ santikaṃ gantuñca vaṭṭatīti. Buddhapūjampi yathāsukhaṃ gantuṃ vaṭṭati. Vuttampi cetaṃ aṭṭhakathāyaṃ ‘‘anāpatti kāraṇaṃ paṭicca tahaṃ tahaṃ oloketī’’ti. Tattha <hi rend="bold">kāraṇaṃ</hi> nāma āmisapūjāti veditabbāti likhitaṃ.</p>
+
+<p rend="centre">Chabbīsatisāruppavaṇṇanā niṭṭhitā.</p>
+
+<p rend="bodytext">Yasmā ‘‘samatittiko piṇḍapāto paṭiggahetabbo’’ti (pāci. 602-603) vacanaṃ piṇḍapāto samapuṇṇo paṭiggahetabboti dīpeti, tasmā attano hatthagate patte piṇḍapāto diyyamāno thūpīkatopi ce hoti, vaṭṭatīti dīpito hoti. Sūpodanaviññattiyaṃ mukhe pakkhipitvā vippaṭisāre uppanne puna uggiritukāmassāpi sahasā ce pavisati, ettha <hi rend="bold">asañcicca</hi><pb ed="V" n="0.0103" /><hi rend="bold">bhuñjati</hi> nāma. Viññattikatañca akatañca ekasmiṃ ṭhāne ṭhitaṃ sahasā anupadhāretvā gahetvā bhuñjati, <hi rend="bold">assatiyā bhuñjati</hi> nāma.</p>
+
+<p rend="gatha1">Sayaṃ <pb ed="M" n="0.0108" /> yānagato hutvā, yathā <hi rend="bold">yānagatassa</hi> ce;</p>
+
+<p rend="gathalast">Alaṃ vatthuṃ tathā nālaṃ, sachatto <hi rend="bold">chattapāṇino</hi>.</p>
+
+<p rend="bodytext"><hi rend="bold">‘‘Sūpodanaviññattisikkhāpadaṃ theyyasatthasamuṭṭhānaṃ, kiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, lokavajjaṃ, kāyakammaṃ, vacīkammaṃ, akusalacittaṃ, dukkhavedana’’</hi>nti pāṭho.</p>
+
+<p rend="centre">Sekhiyavaṇṇanā niṭṭhitā.</p>
+
+<p rend="centre">Bhikkhupātimokkhavaṇṇanā niṭṭhitā.</p>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

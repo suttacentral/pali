@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Aparagāthāsaṅgaṇikaṃ</p>
+
+<p rend="subhead">1. Codanādipucchāvissajjanā</p>
+
+<p rend="hangnum" n="359"><hi rend="paranum">359</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Codanā <pb ed="T" n="0.0392" /><pb ed="P" n="5.0158" /><pb ed="M" n="0.0279" /><pb ed="V" n="0.0301" /> kimatthāya, sāraṇā kissa kāraṇā;</p>
+
+<p rend="gathalast">Saṅgho kimatthāya, matikammaṃ pana kissa kāraṇā.</p>
+
+<p rend="gatha1">Codanā sāraṇatthāya, niggahatthāya sāraṇā;</p>
+
+<p rend="gathalast">Saṅgho pariggahatthāya, matikammaṃ pana pāṭiyekkaṃ.</p>
+
+<p rend="gatha1">Mā kho turito abhaṇi, mā kho caṇḍikato bhaṇi;</p>
+
+<p rend="gathalast">Mā kho paṭighaṃ janayi, sace anuvijjako tuvaṃ.</p>
+
+<p rend="gatha1">Mā kho sahasā abhaṇi, kathaṃ viggāhikaṃ anatthasaṃhitaṃ;</p>
+
+<p rend="gathalast">Sutte vinaye anulome, paññatte anulomike.</p>
+
+<p rend="gatha1">Anuyogavattaṃ nisāmaya, kusalena buddhimatā kataṃ;</p>
+
+<p rend="gatha2">Suvuttaṃ sikkhāpadānulomikaṃ, gatiṃ na nāsento samparāyikaṃ;</p>
+
+<p rend="gathalast">Hitesī anuyuñjassu, kālenatthūpasaṃhitaṃ.</p>
+
+<p rend="gatha1">Cuditassa ca codakassa ca;</p>
+
+<p rend="gatha2">Sahasā vohāraṃ mā padhāresi;</p>
+
+<p rend="gatha3">Codako āha āpannoti;</p>
+
+<p rend="gathalast">Cuditako āha anāpannoti.</p>
+
+<p rend="gatha1">Ubho <pb ed="V" n="0.0302" /> anukkhipanto, paṭiññānusandhitena <pb ed="T" n="0.0393" /> kāraye;</p>
+
+<p rend="gatha2">Paṭiññā lajjīsu katā, alajjīsu evaṃ na vijjati;</p>
+
+<p rend="gathalast">Bahumpi alajjī bhāseyya, vattānusandhitena <note>vuttānusandhitena (sī. syā. ka.)</note> kāraye.</p>
+
+<p rend="gatha1">Alajjī kīdiso hoti, paṭiññā yassa na rūhati;</p>
+
+<p rend="gathalast">Etañca <note>evañca (ka.)</note> tāhaṃ pucchāmi, kīdiso vuccati alajjī puggalo.</p>
+
+<p rend="gatha1">Sañcicca āpattiṃ āpajjati, āpattiṃ parigūhati;</p>
+
+<p rend="gathalast">Agatigamanañca gacchati, ediso vuccati alajjīpuggalo.</p>
+
+<p rend="gatha1">Saccaṃ ahampi jānāmi, ediso vuccati alajjīpuggalo;</p>
+
+<p rend="gathalast">Aññañca tāhaṃ pucchāmi, kīdiso vuccati lajjīpuggalo.</p>
+
+<p rend="gatha1">Sañcicca āpattiṃ nāpajjati, āpattiṃ na parigūhati;</p>
+
+<p rend="gathalast">Agatigamanaṃ <pb ed="T" n="0.0394" /> na gacchati, ediso vuccati lajjīpuggalo.</p>
+
+<p rend="gatha1">Saccaṃ <pb ed="M" n="0.0280" /> ahampi jānāmi, ediso vuccati lajjīpuggalo;</p>
+
+<p rend="gathalast">Aññañca tāhaṃ pucchāmi, kīdiso vuccati adhammacodako.</p>
+
+<p rend="gatha1">Akāle <pb ed="P" n="5.0159" /> codeti abhūtena;</p>
+
+<p rend="gatha2">Pharusena anatthasaṃhitena;</p>
+
+<p rend="gatha3">Dosantaro codeti no mettācitto;</p>
+
+<p rend="gathalast">Ediso vuccati adhammacodako.</p>
+
+<p rend="gatha1">Saccaṃ ahampi jānāmi, ediso vuccati adhammacodako;</p>
+
+<p rend="gathalast">Aññañca tāhaṃ pucchāmi, kīdiso vuccati dhammacodako.</p>
+
+<p rend="gatha1">Kālena codeti bhūtena, saṇhena atthasaṃhitena;</p>
+
+<p rend="gatha2">Mettācitto codeti no dosantaro;</p>
+
+<p rend="gathalast">Ediso vuccati dhammacodako.</p>
+
+<p rend="gatha1">Saccaṃ <pb ed="V" n="0.0303" /> ahampi jānāmi, ediso vuccati dhammacodako;</p>
+
+<p rend="gathalast">Aññañca tāhaṃ pucchāmi, kīdiso vuccati bālacodako.</p>
+
+<p rend="gatha1">Pubbāparaṃ na jānāti, pubbāparassa akovido;</p>
+
+<p rend="gatha2">Anusandhivacanapathaṃ na jānāti;</p>
+
+<p rend="gatha3">Anusandhivacanapathassa akovido;</p>
+
+<p rend="gathalast">Ediso vuccati bālacodako.</p>
+
+<p rend="gatha1">Saccaṃ ahampi jānāmi, ediso vuccati bālacodako;</p>
+
+<p rend="gathalast">Aññañca <pb ed="T" n="0.0395" /> tāhaṃ pucchāmi, kīdiso vuccati paṇḍitacodako.</p>
+
+<p rend="gatha1">Pubbāparampi jānāti, pubbāparassa kovido;</p>
+
+<p rend="gatha2">Anusandhivacanapathaṃ jānāti, anusandhivacanapathassa kovido;</p>
+
+<p rend="gathalast">Ediso vuccati paṇḍitacodako.</p>
+
+<p rend="gatha1">Saccaṃ ahampi jānāmi, ediso vuccati paṇḍitacodako;</p>
+
+<p rend="gathalast">Aññañca tāhaṃ pucchāmi, codanā kinti vuccati.</p>
+
+<p rend="gatha1">Sīlavipattiyā codeti, atho ācāradiṭṭhiyā;</p>
+
+<p rend="gathalast">Ājīvenapi codeti, codanā tena vuccatīti.</p>
+
+<p rend="centre">Aparaṃ gāthāsaṅgaṇikaṃ niṭṭhitaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

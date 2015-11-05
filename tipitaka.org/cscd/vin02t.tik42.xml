@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Kathinabhedavaṇṇanā</p>
+
+<p rend="bodytext" n="404"><hi rend="paranum">404</hi><hi rend="dot">.</hi><hi rend="bold">Purejātapaccaye panesa uddiṭṭhadhammesu ekadhammampi na labhatī</hi>ti esa udakāharaṇādipayogo attano purejātapaccayabhāve pubbakaraṇavasena uddiṭṭhesu dhovanādidhammesu ekadhammampi na labhati attano purejātassa pubbakaraṇasaṅgahitassa dhammassa natthitāya.</p>
+
+<p rend="bodytext" n="412"><hi rend="paranum">412</hi><hi rend="dot">.</hi><hi rend="bold">Rūpādīsu dhammesū</hi>ti vaṇṇagandhādīsu suddhaṭṭhakadhammesu.</p>
+
+<p rend="bodytext" n="416"><hi rend="paranum">416</hi><hi rend="dot">.</hi><hi rend="bold">Purimā dve</hi>ti imasmiṃ adhikāre paṭhamaṃ vuttā antarubbhārasahubbhārā, na pakkamanantikādayo dve uddhārā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">(23) 3. Duccaritavaggo</p>
+
+<p rend="subhead">1. Duccaritasuttaṃ</p>
+
+<p rend="bodytext" n="221"><hi rend="paranum">221</hi><hi rend="dot">.</hi> ‘‘Cattārimāni <pb ed="T" n="2.0311" /><pb ed="V" n="1.0261" />, bhikkhave, vacīduccaritāni. Katamāni cattāri? Musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo – imāni kho, bhikkhave, cattāri vacīduccaritāni. Cattārimāni, bhikkhave, vacīsucaritāni. Katamāni cattāri? Saccavācā, apisuṇā vācā, saṇhā vācā, mantavācā <note>mantā vācā (sī. syā. kaṃ. pī.)</note> – imāni kho, bhikkhave, cattāri vacīsucaritānī’’ti. Paṭhamaṃ.</p>
+
+<p rend="subhead">2. Diṭṭhisuttaṃ</p>
+
+<p rend="bodytext" n="222"><hi rend="paranum">222</hi><hi rend="dot">.</hi> ‘‘Catūhi, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo <pb ed="M" n="1.0551" /> ca viññūnaṃ; bahuñca apuññaṃ pasavati. Katamehi catūhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena, micchādiṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.</p>
+
+<p rend="bodytext">‘‘Catūhi, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ, bahuñca puññaṃ pasavati. Katamehi catūhi? Kāyasucaritena, vacīsucaritena, manosucaritena, sammādiṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ; bahuñca puññaṃ pasavatī’’ti. Dutiyaṃ.</p>
+
+<p rend="subhead">3. Akataññutāsuttaṃ</p>
+
+<p rend="bodytext" n="223"><hi rend="paranum">223</hi><hi rend="dot">.</hi> ‘‘Catūhi <pb ed="T" n="2.0312" /><pb ed="V" n="1.0262" /><pb ed="P" n="2.0229" />, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo viññūnaṃ, bahuñca apuññaṃ pasavati. Katamehi catūhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena, akataññutā akataveditā – imehi…pe… paṇḍito… kāyasucaritena, vacīsucaritena, manosucaritena kataññutākataveditā…pe…. Tatiyaṃ.</p>
+
+<p rend="subhead">4. Pāṇātipātīsuttaṃ</p>
+
+<p rend="bodytext" n="224"><hi rend="paranum">224</hi><hi rend="dot">.</hi> … Pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti…pe… pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti…pe…. Catutthaṃ.</p>
+
+<p rend="subhead">5. Paṭhamamaggasuttaṃ</p>
+
+<p rend="bodytext" n="225"><hi rend="paranum">225</hi><hi rend="dot">.</hi> … Micchādiṭṭhiko hoti, micchāsaṅkappo hoti, micchāvāco hoti, micchākammanto hoti…pe… sammādiṭṭhiko hoti, sammāsaṅkappo hoti, sammāvāco hoti, sammākammanto hoti…pe…. Pañcamaṃ.</p>
+
+<p rend="subhead">6. Dutiyamaggasuttaṃ</p>
+
+<p rend="bodytext" n="226"><hi rend="paranum">226</hi><hi rend="dot">.</hi> … Micchāājīvo <pb ed="M" n="1.0552" /> hoti, micchāvāyāmo hoti, micchāsati hoti, micchāsamādhi hoti…pe… sammāājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti…pe…. Chaṭṭhaṃ.</p>
+
+<p rend="subhead">7. Paṭhamavohārapathasuttaṃ</p>
+
+<p rend="bodytext" n="227"><hi rend="paranum">227</hi><hi rend="dot">.</hi> … <pb ed="V" n="1.0263" /> Adiṭṭhe diṭṭhavādī hoti, asute sutavādī hoti, amute mutavādī hoti, aviññāte viññātavādī hoti…pe… adiṭṭhe adiṭṭhavādī hoti, asute asutavādī hoti, amute amutavādī hoti, aviññāte aviññātavādī hoti…pe…. Sattamaṃ.</p>
+
+<p rend="subhead">8. Dutiyavohārapathasuttaṃ</p>
+
+<p rend="bodytext" n="228"><hi rend="paranum">228</hi><hi rend="dot">.</hi> … Diṭṭhe adiṭṭhavādī hoti, sute asutavādī hoti, mute amutavādī hoti, viññāte aviññātavādī hoti…pe… diṭṭhe <pb ed="T" n="2.0313" /> diṭṭhavādī hoti, sute sutavādī hoti, mute mutavādī hoti, viññāte viññātavādī hoti…pe…. Aṭṭhamaṃ.</p>
+
+<p rend="subhead">9. Ahirikasuttaṃ</p>
+
+<p rend="bodytext" n="229"><hi rend="paranum">229</hi><hi rend="dot">.</hi> … Assaddho hoti, dussīlo hoti, ahiriko hoti, anottappī hoti…pe… saddho hoti, sīlavā hoti, hirimā hoti, ottappī hoti…pe…. Navamaṃ.</p>
+
+<p rend="subhead">10. Duppaññasuttaṃ</p>
+
+<p rend="bodytext" n="230"><hi rend="paranum">230</hi><hi rend="dot">.</hi> … <pb ed="P" n="2.0230" /> Assaddho hoti, dussīlo hoti, kusīto hoti, duppañño hoti…pe… saddho hoti, sīlavā hoti, āraddhavīriyo hoti, paññavā hoti – imehi kho, bhikkhave, catūhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ, bahuñca puññaṃ pasavatī’’ti. Dasamaṃ.</p>
+
+<p rend="subhead">11. Kavisuttaṃ</p>
+
+<p rend="bodytext" n="231"><hi rend="paranum">231</hi><hi rend="dot">.</hi> ‘‘Cattārome <pb ed="V" n="1.0264" /><pb ed="M" n="1.0553" />, bhikkhave, kavī. Katame cattāro? Cintākavi, sutakavi, atthakavi, paṭibhānakavi – ime kho, bhikkhave, cattāro kavī’’ti. Ekādasamaṃ.</p>
+
+<p rend="centre">Duccaritavaggo tatiyo.</p>
+
+<p rend="bodytext">Tassuddānaṃ –</p>
+
+<p rend="gatha1">Duccaritaṃ diṭṭhi akataññū ca, pāṇātipātāpi dve maggā;</p>
+
+<p rend="gathalast">Dve vohārapathā vuttā, ahirikaṃ duppaññakavinā cāti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

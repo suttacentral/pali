@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Dhammapadaṭṭhakathākaraṇaṃ</p>
+
+<p rend="bodytext">Aparāpi tisso aṭṭhakathāyo santi khuddakapāṭhaṭṭhakathā dhammapadaṭṭhakathā suttanipātaṭṭhakathā cāti, yā tāsu dissamānanigamanavasena ācariyabuddhaghoseneva katāti paññāyanti. Tattha pana vuttavacanāni kānici <pb ed="M" n="0.0056" /> kānici āgamaṭṭhakathāsu vuttākārena na honti. Tasmā eke vadanti ‘‘netā ācariyabuddhaghosassā’’ti. Ekacce pana ‘‘ācariyassa upathambhakattherehi paṭhamaṃ katā, pacchā ācariyena osānasodhanavasena pariyosāpitā vā bhaveyyuṃ, abhidhammaṭṭhakathaṃ āyācantena cūḷabuddhaghosena vā katā bhaveyyu’’nti vadanti.</p>
+
+<p rend="bodytext">Taṃ tathā vā hotu aññathā vā, idāni ekantato vinicchinituṃ na sukarameva. Tasmā tāsaṃ nigamanavacanavaseneva ettha pakāsayissāma. Tāsu hi <hi rend="bold">dhammapadaṭṭhakathaṃ kumārakassapattherena</hi> āyācito <hi rend="bold">sirikūṭassa</hi> (sirikuḍḍassa) rañño pāsāde viharanto paramparābhataṃ sīhaḷabhāsāya saṇṭhitaṃ porāṇaṭṭhakathaṃ pāḷibhāsāya āropetvā vitthāragatañca vacanakkamaṃ samāsetvā gāthāsu asaṃvaṇṇitapadabyañjanāni saṃvaṇṇetvā akāsi. Vuttañhi tattha ganthārambhe –</p>
+
+<p rend="gatha1">‘‘Paramparābhatā tassa, nipuṇā atthavaṇṇanā;</p>
+
+<p rend="gathalast">Yā tambapaṇṇidīpamhi, dīpabhāsāya saṇṭhitā…pe…</p>
+
+<p rend="gatha1"><hi rend="bold">Kumārakassapenā</hi>haṃ, therena thiracetasā;</p>
+
+<p rend="gathalast">Saddhammaṭṭhitikāmena, sakkaccaṃ abhiyācito…pe…</p>
+
+<p rend="gatha1">Taṃ bhāsaṃ ativitthāra, gatañca vacanakkamaṃ;</p>
+
+<p rend="gathalast">Pahāyāropayitvāna, tantibhāsaṃ manoramaṃ.</p>
+
+<p rend="gatha1">Gāthānaṃ byañjanapadaṃ, yaṃ tattha na vibhāvitaṃ;</p>
+
+<p rend="gathalast">Kevalaṃ taṃ vibhāvetvā, sesaṃ tameva atthato.</p>
+
+<p rend="bodytext">Bhāsantarena bhāsissa’’nti <note>dha. pa. aṭṭha. 1.ganthārambhakathā</note> –</p>
+
+<p rend="bodytext">Nigamane ca vuttaṃ –</p>
+
+<p rend="gatha1">‘‘Vihāre adhirājena, kāritamhi kataññunā;</p>
+
+<p rend="gathalast">Pāsāde <hi rend="bold">sirikūṭassa,</hi> rañño viharatā mayā’’ti <note>dha. pa. aṭṭha. 2.nigamanakathā</note>.</p>
+
+<p rend="bodytext">Ettha ca <hi rend="bold">sirikūṭo</hi> nāma samantapāsādikānigamane <hi rend="bold">siripālo</hi>ti vutto <hi rend="bold">mahānāmo</hi>yeva rājāti vadanti. Evaṃ sati mahesiyā ānayanaṃ samādāpanamārabbha tena raññā dinne dhūmarakkhapabbatavihāre vasantena sā katāti veditabbā. Vuttañhetaṃ mahāvaṃse –</p>
+
+<p rend="hangnum" n="37-212"><hi rend="paranum">37-212</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> ‘‘Lohadvāra-ralaggāma-koṭipassāvanavhaye;</p>
+
+<p rend="gathalast">Tayo <pb ed="M" n="0.0057" /> vihāre kāretvā, bhikkhūnaṃ abhayuttare.</p>
+
+<p rend="hangnum" n="213"><hi rend="paranum">213</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Vihāraṃ kārayitvāna, dhūmarakkhamhi pabbate;</p>
+
+<p rend="gathalast">Mahesiyā’nayenā’dā, bhikkhūnaṃ theravādina’’nti.</p>
+
+<p rend="bodytext">Tassa pana rañño kāle sā niṭṭhāpitāti na sakkā gahetuṃ. Tassa hi rañño ekavīsatimavasse samantapāsādikaṃ niṭṭhāpesi. So ca rājā dvāvīsatimavasse divaṅgato. Etthantare sādhikaekavassena ‘‘catasso ca āgamaṭṭhakathāyo tisso ca abhidhammaṭṭhakathāyo ayañca dhammapadaṭṭhakathā’’ti sabbā etā na sakkā niṭṭhāpetunti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

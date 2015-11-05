@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Uṇṇālomikanātha vandanā</p>
+
+<p rend="gatha1">Uṇṇālodhikanāthassa <pb ed="M" n="0.0071" />,</p>
+
+<p rend="gatha2">Uṇṇāya bhamukantare;</p>
+
+<p rend="gatha3">Vajirāviya sobhanti,</p>
+
+<p rend="gathalast">Nikkhanti yo supaṇḍarā.</p>
+
+<p rend="gatha1">Vajiragghanakāyassa <pb ed="M" n="0.0072" />,</p>
+
+<p rend="gatha2">Nāthassa dehato subhā;</p>
+
+<p rend="gatha3">Vajireyyā niccharanti;</p>
+
+<p rend="gathalast">Vijjūva gagaṇantare.</p>
+
+<p rend="gatha1">Rinindamandahāsena,</p>
+
+<p rend="gatha2">Dāṭhāya niccharā pabhā;</p>
+
+<p rend="gatha3">Vipphūrisā disāsabbā,</p>
+
+<p rend="gathalast">Vajirāyanti paṇḍarā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="book">Paramatthadīpanī</p>
+
+<p rend="title">Saṅgaha mahāṭīkā pāṭha</p>
+
+<p rend="subsubhead">Ganthārabbhakathā</p>
+
+<p rend="bodytext">[Ka]</p>
+
+<p rend="gatha1">Udayā <pb ed="M" n="0.0001" /> yassa ekassa, saddhammaraṃsi jālino;</p>
+
+<p rend="gathalast">Pabujjhiṃsu janambujā, jātikkhette mahāsare.</p>
+
+<p rend="bodytext">[Kha]</p>
+
+<p rend="gatha1">Vandāmi taṃ mahāsūraṃ, mahāmoha tamonudaṃ;</p>
+
+<p rend="gathalast">Sañjātaṃ so hadaye mayhaṃ, tamokhandhaṃ panūdataṃ.</p>
+
+<p rend="bodytext">[Ga]</p>
+
+<p rend="gatha1">Porāṇakehi viññūhi, vaṇṇitā vaṇṇanā bahū;</p>
+
+<p rend="gathalast">Dissanti idha lokamhi, abhidhammatthasaṅgahe.</p>
+
+<p rend="bodytext">[Gha]</p>
+
+<p rend="gatha1">Na tāhi tuṭṭhiṃ vindanti, ye sāratthā bhimānino;</p>
+
+<p rend="gathalast">Te maṃ saṅgamma yācanti, paramatthassa dīpanaṃ.</p>
+
+<p rend="bodytext">[Ṅa]</p>
+
+<p rend="gatha1">Mahaṇṇave ratanāni, uddharitvā dipavāsinaṃ;</p>
+
+<p rend="gathalast">Yathicchakaṃpi dajjeyyuṃ, na vattabbāva ūnatā.</p>
+
+<p rend="bodytext">[Ca]</p>
+
+<p rend="gatha1">Tathevettha <pb ed="M" n="0.0002" /> vipulatthā, aṇṇave ratanūpamā;</p>
+
+<p rend="gathalast">Satakkhattuṃpi vaṇṇeyyuṃ, pariyādinnā na hessare.</p>
+
+<p rend="bodytext">[Cha]</p>
+
+<p rend="gatha1">Tasmā tāsu vaṇṇanāsu, sāramādāya vaṇṇanaṃ;</p>
+
+<p rend="gathalast">Nānāsārattha sampuṇṇaṃ, uttāna padabyañjanaṃ.</p>
+
+<p rend="bodytext">[Ja]</p>
+
+<p rend="gatha1">Nātisaṅkhepa vitthāraṃ, mandabuddhippabodhanaṃ;</p>
+
+<p rend="gathalast">Karissaṃ taṃ paramatthesu, suṇantu pāṭavatthinoti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

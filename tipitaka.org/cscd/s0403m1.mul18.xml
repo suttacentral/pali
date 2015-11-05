@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">(19) 4. Araññavaggo</p>
+
+<p rend="subhead">1. Āraññikasuttaṃ</p>
+
+<p rend="bodytext" n="181"><hi rend="paranum">181</hi><hi rend="dot">.</hi> ‘‘Pañcime <pb ed="V" n="2.0204" /><pb ed="M" n="2.0193" />, bhikkhave, āraññikā <note>āraññatā (sabbattha) pari. 443 passitabbaṃ</note>. Katame pañca? Mandattā momūhattā āraññiko hoti, pāpiccho icchāpakato āraññiko hoti, ummādā cittakkhepā āraññiko hoti, vaṇṇitaṃ buddhehi buddhasāvakehīti āraññiko hoti, appicchataṃyeva nissāya santuṭṭhiṃyeva nissāya sallekhaṃyeva nissāya pavivekaṃyeva nissāya idamatthitaṃyeva <note>idamaṭṭhitaṃyeva (sī. pī.)</note> nissāya āraññiko hoti. Ime kho, bhikkhave, pañca āraññikā. Imesaṃ kho, bhikkhave, pañcannaṃ āraññikānaṃ yvāyaṃ āraññiko appicchataṃyeva nissāya santuṭṭhiṃyeva nissāya sallekhaṃyeva nissāya pavivekaṃyeva nissāya idamatthitaṃyeva nissāya āraññiko hoti, ayaṃ <pb ed="T" n="3.0246" /> imesaṃ pañcannaṃ āraññikānaṃ aggo ca seṭṭho ca mokkho <note>pāmokkho (a. ni. 4.95; 10.91)</note> ca uttamo ca pavaro ca.</p>
+
+<p rend="bodytext">‘‘Seyyathāpi, bhikkhave, gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo <note>sappimhā sappimaṇḍo (ka.) saṃ. ni. 3.662</note> tattha aggamakkhāyati; evamevaṃ kho, bhikkhave, imesaṃ pañcannaṃ āraññikānaṃ yvāyaṃ āraññiko appicchataṃyeva nissāya santuṭṭhiṃyeva nissāya sallekhaṃyeva nissāya pavivekaṃyeva nissāya idamatthitaṃyeva nissāya āraññiko hoti, ayaṃ imesaṃ pañcannaṃ āraññikānaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā’’ti. Paṭhamaṃ.</p>
+
+<p rend="subhead">2. Cīvarasuttaṃ</p>
+
+<p rend="bodytext" n="182"><hi rend="paranum">182</hi><hi rend="dot">.</hi> ‘‘Pañcime <pb ed="V" n="2.0205" />, bhikkhave, paṃsukūlikā. Katame pañca? Mandattā momūhattā paṃsukūliko hoti…pe… idamatthitaṃyeva nissāya paṃsukūliko hoti. Ime kho, bhikkhave, pañca paṃsukūlikā’’ti. Dutiyaṃ.</p>
+
+<p rend="subhead">3. Rukkhamūlikasuttaṃ</p>
+
+<p rend="bodytext" n="183"><hi rend="paranum">183</hi><hi rend="dot">.</hi> ‘‘Pañcime, bhikkhave, rukkhamūlikā. Katame pañca? Mandattā momūhattā rukkhamūliko hoti…pe… idamatthitaṃyeva nissāya rukkhamūliko hoti. Ime kho, bhikkhave, pañca rukkhamūlikā’’ti. Tatiyaṃ.</p>
+
+<p rend="subhead">4. Sosānikasuttaṃ</p>
+
+<p rend="bodytext" n="184"><hi rend="paranum">184</hi><hi rend="dot">.</hi> ‘‘Pañcime <pb ed="M" n="2.0194" /><pb ed="P" n="3.0220" />, bhikkhave, sosānikā. Katame pañca? Mandattā momūhattā sosāniko hoti…pe… idamatthitaṃyeva nissāya sosāniko hoti. Ime kho, bhikkhave, pañca sosānikā’’ti. Catutthaṃ.</p>
+
+<p rend="subhead">5. Abbhokāsikasuttaṃ</p>
+
+<p rend="bodytext" n="185"><hi rend="paranum">185</hi><hi rend="dot">.</hi> ‘‘Pañcime, bhikkhave, abbhokāsikā…pe…. Pañcamaṃ.</p>
+
+<p rend="subhead">6. Nesajjikasuttaṃ</p>
+
+<p rend="bodytext" n="186"><hi rend="paranum">186</hi><hi rend="dot">.</hi> ‘‘Pañcime, bhikkhave, nesajjikā…pe…. Chaṭṭhaṃ.</p>
+
+<p rend="subhead">7. Yathāsanthatikasuttaṃ</p>
+
+<p rend="bodytext" n="187"><hi rend="paranum">187</hi><hi rend="dot">.</hi> ‘‘Pañcime, bhikkhave, yathāsanthatikā…pe…. Sattamaṃ.</p>
+
+<p rend="subhead">8. Ekāsanikasuttaṃ</p>
+
+<p rend="bodytext" n="188"><hi rend="paranum">188</hi><hi rend="dot">.</hi> ‘‘Pañcime, bhikkhave, ekāsanikā…pe…. Aṭṭhamaṃ.</p>
+
+<p rend="subhead">9. Khalupacchābhattikasuttaṃ</p>
+
+<p rend="bodytext" n="189"><hi rend="paranum">189</hi><hi rend="dot">.</hi> ‘‘Pañcime <pb ed="V" n="2.0206" />, bhikkhave, khalupacchābhattikā…pe…. Navamaṃ.</p>
+
+<p rend="subhead">10. Pattapiṇḍikasuttaṃ</p>
+
+<p rend="bodytext" n="190"><hi rend="paranum">190</hi><hi rend="dot">.</hi> ‘‘Pañcime, bhikkhave, pattapiṇḍikā. Katame pañca? Mandattā momūhattā pattapiṇḍiko hoti, pāpiccho icchāpakato pattapiṇḍiko hoti, ummādā cittakkhepā pattapiṇḍiko hoti, ‘vaṇṇitaṃ buddhehi buddhasāvakehī’ti pattapiṇḍiko hoti, appicchataṃyeva nissāya <pb ed="T" n="3.0247" /> santuṭṭhiṃyeva nissāya sallekhaṃyeva nissāya pavivekaṃyeva nissāya idamatthitaṃyeva nissāya pattapiṇḍiko hoti. Ime kho, bhikkhave, pañca pattapiṇḍikā. Imesaṃ kho, bhikkhave, pañcannaṃ pattapiṇḍikānaṃ yvāyaṃ pattapiṇḍiko appicchataṃyeva nissāya santuṭṭhiṃyeva nissāya sallekhaṃyeva <pb ed="M" n="2.0195" /> nissāya pavivekaṃyeva nissāya idamatthitaṃyeva nissāya pattapiṇḍiko hoti, ayaṃ imesaṃ pañcannaṃ pattapiṇḍikānaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca.</p>
+
+<p rend="bodytext">‘‘Seyyathāpi, bhikkhave, gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo tattha aggamakkhāyati; evamevaṃ kho, bhikkhave, imesaṃ pañcannaṃ pattapiṇḍikānaṃ yvāyaṃ pattapiṇḍiko appicchataṃyeva <pb ed="P" n="3.0221" /> nissāya santuṭṭhiṃyeva nissāya sallekhaṃyeva nissāya pavivekaṃyeva nissāya idamatthitaṃyeva nissāya pattapiṇḍiko hoti, ayaṃ imesaṃ pañcannaṃ pattapiṇḍikānaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā’’ti. Dasamaṃ.</p>
+
+<p rend="centre">Araññavaggo catuttho.</p>
+
+<p rend="bodytext">Tassuddānaṃ –</p>
+
+<p rend="gatha1">Araññaṃ cīvaraṃ rukkha, susānaṃ abbhokāsikaṃ;</p>
+
+<p rend="gathalast">Nesajjaṃ santhataṃ ekāsanikaṃ, khalupacchāpiṇḍikena cāti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

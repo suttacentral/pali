@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">2. Appamādavaggo</p>
+
+<p rend="hangnum" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Appamādo <pb ed="V" n="0.0016" /><pb ed="P" n="0.0004" /><pb ed="T" n="0.0018" /> amatapadaṃ <note>amataṃ padaṃ (ka.)</note>, pamādo maccuno padaṃ;</p>
+
+<p rend="gathalast">Appamattā na mīyanti, ye pamattā yathā matā.</p>
+
+<p rend="hangnum" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Evaṃ <note>etaṃ (sī. syā. kaṃ. pī.)</note> visesato ñatvā, appamādamhi paṇḍitā;</p>
+
+<p rend="gathalast">Appamāde pamodanti, ariyānaṃ gocare ratā.</p>
+
+<p rend="hangnum" n="23"><hi rend="paranum">23</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Te jhāyino sātatikā, niccaṃ daḷhaparakkamā;</p>
+
+<p rend="gathalast">Phusanti dhīrā nibbānaṃ, yogakkhemaṃ anuttaraṃ.</p>
+
+<p rend="hangnum" n="24"><hi rend="paranum">24</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Uṭṭhānavato satīmato <note>satimato (sī. syā. ka.)</note>, sucikammassa nisammakārino;</p>
+
+<p rend="gathalast">Saññatassa dhammajīvino, appamattassa <note>apamattassa (?)</note> yasobhivaḍḍhati.</p>
+
+<p rend="hangnum" n="25"><hi rend="paranum">25</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Uṭṭhānenappamādena <pb ed="M" n="0.0017" />, saṃyamena damena ca;</p>
+
+<p rend="gathalast">Dīpaṃ kayirātha medhāvī, yaṃ ogho nābhikīrati.</p>
+
+<p rend="hangnum" n="26"><hi rend="paranum">26</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pamādamanuyuñjanti, bālā dummedhino janā;</p>
+
+<p rend="gathalast">Appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.</p>
+
+<p rend="hangnum" n="27"><hi rend="paranum">27</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ <note>sandhavaṃ (ka)</note>;</p>
+
+<p rend="gathalast">Appamatto hi jhāyanto, pappoti vipulaṃ sukhaṃ.</p>
+
+<p rend="hangnum" n="28"><hi rend="paranum">28</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pamādaṃ appamādena, yadā nudati paṇḍito;</p>
+
+<p rend="gatha2">Paññāpāsādamāruyha, asoko sokiniṃ pajaṃ;</p>
+
+<p rend="gathalast">Pabbataṭṭhova bhūmaṭṭhe <note>bhummaṭṭhe (sī. syā.)</note>, dhīro bāle avekkhati.</p>
+
+<p rend="hangnum" n="29"><hi rend="paranum">29</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Appamatto <pb ed="V" n="0.0017" /><pb ed="P" n="0.0005" /> pamattesu, suttesu bahujāgaro;</p>
+
+<p rend="gathalast">Abalassaṃva <pb ed="T" n="0.0019" /> sīghasso, hitvā yāti sumedhaso.</p>
+
+<p rend="hangnum" n="30"><hi rend="paranum">30</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Appamādena maghavā, devānaṃ seṭṭhataṃ gato;</p>
+
+<p rend="gathalast">Appamādaṃ pasaṃsanti, pamādo garahito sadā.</p>
+
+<p rend="hangnum" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Appamādarato bhikkhu, pamāde bhayadassi vā;</p>
+
+<p rend="gathalast">Saṃyojanaṃ aṇuṃ thūlaṃ, ḍahaṃ aggīva gacchati.</p>
+
+<p rend="hangnum" n="32"><hi rend="paranum">32</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Appamādarato bhikkhu, pamāde bhayadassi vā;</p>
+
+<p rend="gathalast">Abhabbo parihānāya, nibbānasseva santike.</p>
+
+<p rend="centre">Appamādavaggo dutiyo niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

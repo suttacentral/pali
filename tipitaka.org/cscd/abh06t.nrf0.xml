@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Abhidhammāvatāro</p>
+
+<p rend="chapter">Ganthārambhakathā</p>
+
+<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Anantakaruṇāpaññaṃ <pb ed="P" n="0.0001" /><pb ed="M" n="0.0001" /><pb ed="V" n="0.0001" />, tathāgatamanuttaraṃ;</p>
+
+<p rend="gathalast">Vanditvā sirasā buddhaṃ, dhammaṃ sādhugaṇampi ca.</p>
+
+<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Paṇḍukambalanāmāya, silāyātulavikkamo;</p>
+
+<p rend="gathalast">Nisinno devarājassa, vimale sītale tale.</p>
+
+<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yaṃ devadevo devānaṃ, devadevehi pūjito;</p>
+
+<p rend="gathalast">Desesi devalokasmiṃ, dhammaṃ devapurakkhato.</p>
+
+<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tatthāhaṃ <pb ed="V" n="0.0002" /> pāṭavatthāya, bhikkhūnaṃ piṭakuttame;</p>
+
+<p rend="gathalast">Abhidhammāvatārantu, madhuraṃ mativaḍḍhanaṃ.</p>
+
+<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tāḷaṃ mohakavāṭassa, vighāṭanamanuttaraṃ;</p>
+
+<p rend="gathalast">Bhikkhūnaṃ pavisantānaṃ, abhidhammamahāpuraṃ.</p>
+
+<p rend="hangnum" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Suduttaraṃ tarantānaṃ, abhidhammamahodadhiṃ;</p>
+
+<p rend="gathalast">Suduttaraṃ tarantānaṃ, taraṃva makarākaraṃ.</p>
+
+<p rend="hangnum" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ābhidhammikabhikkhūnaṃ, hatthasāramanuttaraṃ;</p>
+
+<p rend="gathalast">Pavakkhāmi samāsena, taṃ suṇātha samāhitā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

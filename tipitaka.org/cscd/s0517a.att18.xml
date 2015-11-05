@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">5. Cariyākathā</p>
+
+<p rend="subhead">Cariyākathāvaṇṇanā</p>
+
+<p rend="bodytext" n="28-29"><hi rend="paranum">28-29</hi><hi rend="dot">.</hi> Idāni <pb ed="V" n="2.0283" /><pb ed="P" n="3.0692" /> vivekakathānantaraṃ paramavivekabhūtassa nissaraṇavivekasaṅkhātassa nibbānassa sacchikaraṇīyassa sacchikiriyopāyadassanatthaṃ, tathā <pb ed="M" n="2.0309" /> sacchikatanirodhassa lokahitasukhakiriyākaraṇadassanatthañca indriyakathāya niddiṭṭhāpi cariyākathā puna kathitā. Tassā atthavaṇṇanā indriyakathāya kathitāyevāti.</p>
+
+<p rend="centre">Cariyākathāvaṇṇanā niṭṭhitā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

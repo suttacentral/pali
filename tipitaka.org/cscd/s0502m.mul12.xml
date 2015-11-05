@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">13. Lokavaggo</p>
+
+<p rend="hangnum" n="167"><hi rend="paranum">167</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Hīnaṃ dhammaṃ na seveyya, pamādena na saṃvase;</p>
+
+<p rend="gathalast">Micchādiṭṭhiṃ na seveyya, na siyā lokavaḍḍhano.</p>
+
+<p rend="hangnum" n="168"><hi rend="paranum">168</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Uttiṭṭhe nappamajjeyya, dhammaṃ sucaritaṃ care;</p>
+
+<p rend="gathalast">Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.</p>
+
+<p rend="hangnum" n="169"><hi rend="paranum">169</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Dhammaṃ <pb ed="M" n="0.0039" /><pb ed="T" n="0.0038" /> care sucaritaṃ, na naṃ duccaritaṃ care;</p>
+
+<p rend="gathalast">Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.</p>
+
+<p rend="hangnum" n="170"><hi rend="paranum">170</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yathā pubbuḷakaṃ <note>pubbuḷakaṃ (sī. pī.)</note> passe, yathā passe marīcikaṃ;</p>
+
+<p rend="gathalast">Evaṃ lokaṃ avekkhantaṃ, maccurājā na passati.</p>
+
+<p rend="hangnum" n="171"><hi rend="paranum">171</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Etha passathimaṃ lokaṃ, cittaṃ rājarathūpamaṃ;</p>
+
+<p rend="gathalast">Yattha bālā visīdanti, natthi saṅgo vijānataṃ.</p>
+
+<p rend="hangnum" n="172"><hi rend="paranum">172</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yo <pb ed="V" n="0.0035" /><pb ed="P" n="0.0026" /> ca pubbe pamajjitvā, pacchā so nappamajjati;</p>
+
+<p rend="gathalast">Somaṃ lokaṃ pabhāseti, abbhā muttova candimā.</p>
+
+<p rend="hangnum" n="173"><hi rend="paranum">173</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yassa pāpaṃ kataṃ kammaṃ, kusalena pidhīyati <note>pitīyati (sī. syā. pī.)</note>;</p>
+
+<p rend="gathalast">Somaṃ lokaṃ pabhāseti, abbhā muttova candimā.</p>
+
+<p rend="hangnum" n="174"><hi rend="paranum">174</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Andhabhūto <note>andhībhūto (ka.)</note> ayaṃ loko, tanukettha vipassati;</p>
+
+<p rend="gathalast">Sakuṇo jālamuttova, appo saggāya gacchati.</p>
+
+<p rend="hangnum" n="175"><hi rend="paranum">175</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Haṃsādiccapathe yanti, ākāse yanti iddhiyā;</p>
+
+<p rend="gathalast">Nīyanti dhīrā lokamhā, jetvā māraṃ savāhiniṃ <note>savāhanaṃ (syā. ka.)</note>.</p>
+
+<p rend="hangnum" n="176"><hi rend="paranum">176</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ekaṃ dhammaṃ atītassa, musāvādissa jantuno;</p>
+
+<p rend="gathalast">Vitiṇṇaparalokassa, natthi pāpaṃ akāriyaṃ.</p>
+
+<p rend="hangnum" n="177"><hi rend="paranum">177</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Na <pb ed="M" n="0.0040" /> ve kadariyā devalokaṃ vajanti, bālā have nappasaṃsanti dānaṃ;</p>
+
+<p rend="gathalast">Dhīro ca dānaṃ anumodamāno, teneva <pb ed="T" n="0.0039" /> so hoti sukhī parattha.</p>
+
+<p rend="hangnum" n="178"><hi rend="paranum">178</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pathabyā ekarajjena, saggassa gamanena vā;</p>
+
+<p rend="gathalast">Sabbalokādhipaccena, sotāpattiphalaṃ varaṃ.</p>
+
+<p rend="centre">Lokavaggo terasamo niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

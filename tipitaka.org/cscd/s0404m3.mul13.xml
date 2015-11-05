@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">(14) 4. Sādhuvaggo</p>
+
+<p rend="subhead">1. Sādhusuttaṃ</p>
+
+<p rend="bodytext" n="134"><hi rend="paranum">134</hi><hi rend="dot">.</hi><note>a. ni. 10.178</note> ‘‘Sādhuñca <pb ed="M" n="3.0453" /><pb ed="V" n="3.0208" /> vo, bhikkhave, desessāmi asādhuñca. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</p>
+
+<p rend="bodytext">‘‘Katamañca, bhikkhave, asādhu? Micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṃ, micchāvimutti – idaṃ vuccati, bhikkhave, asādhu. Katamañca, bhikkhave, sādhu? Sammādiṭṭhi <pb ed="P" n="5.0241" />, sammāsaṅkappo, sammāvācā sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – idaṃ vuccati, bhikkhave, sādhū’’ti. Paṭhamaṃ.</p>
+
+<p rend="subhead">2. Ariyadhammasuttaṃ</p>
+
+<p rend="bodytext" n="135"><hi rend="paranum">135</hi><hi rend="dot">.</hi> ‘‘Ariyadhammañca vo, bhikkhave, desessāmi anariyadhammañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, anariyo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, anariyo dhammo. Katamo ca, bhikkhave, ariyo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, ariyo dhammo’’ti. Dutiyaṃ.</p>
+
+<p rend="subhead">3. Akusalasuttaṃ</p>
+
+<p rend="bodytext" n="136"><hi rend="paranum">136</hi><hi rend="dot">.</hi> ‘‘Akusalañca vo, bhikkhave, desessāmi kusalañca. Taṃ suṇātha <pb ed="T" n="5.0259" /> …pe… katamañca, bhikkhave, akusalaṃ? Micchādiṭṭhi…pe… micchāvimutti – idaṃ vuccati, bhikkhave <pb ed="V" n="3.0209" />, akusalaṃ. Katamañca, bhikkhave, kusalaṃ? Sammādiṭṭhi…pe… sammāvimutti – idaṃ vuccati, bhikkhave, kusala’’nti. Tatiyaṃ.</p>
+
+<p rend="subhead">4. Atthasuttaṃ</p>
+
+<p rend="bodytext" n="137"><hi rend="paranum">137</hi><hi rend="dot">.</hi> ‘‘Atthañca vo, bhikkhave, desessāmi anatthañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, anattho? Micchādiṭṭhi <pb ed="P" n="5.0242" />…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, anattho. Katamo ca, bhikkhave, attho? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, attho’’ti. Catutthaṃ.</p>
+
+<p rend="subhead">5. Dhammasuttaṃ</p>
+
+<p rend="bodytext" n="138"><hi rend="paranum">138</hi><hi rend="dot">.</hi> ‘‘Dhammañca <pb ed="M" n="3.0454" /> vo, bhikkhave, desessāmi adhammañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, adhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, adhammo. Katamo ca, bhikkhave, dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, dhammo’’ti. Pañcamaṃ.</p>
+
+<p rend="subhead">6. Sāsavasuttaṃ</p>
+
+<p rend="bodytext" n="139"><hi rend="paranum">139</hi><hi rend="dot">.</hi> ‘‘Sāsavañca vo, bhikkhave, dhammaṃ desessāmi anāsavañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, sāsavo <pb ed="T" n="5.0260" /> dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, sāsavo dhammo. Katamo ca, bhikkhave, anāsavo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, anāsavo dhammo’’ti. Chaṭṭhaṃ.</p>
+
+<p rend="subhead">7. Sāvajjasuttaṃ</p>
+
+<p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> ‘‘Sāvajjañca vo, bhikkhave, dhammaṃ desessāmi anavajjañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, sāvajjo dhammo? Micchādiṭṭhi…pe… micchāvimutti <pb ed="V" n="3.0210" /> – ayaṃ vuccati, bhikkhave, sāvajjo dhammo. Katamo ca, bhikkhave, anavajjo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, anavajjo dhammo’’ti. Sattamaṃ.</p>
+
+<p rend="subhead">8. Tapanīyasuttaṃ</p>
+
+<p rend="bodytext" n="141"><hi rend="paranum">141</hi><hi rend="dot">.</hi> ‘‘Tapanīyañca <pb ed="P" n="5.0243" /> vo, bhikkhave, dhammaṃ desessāmi atapanīyañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, tapanīyo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, tapanīyo dhammo. Katamo ca, bhikkhave, atapanīyo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, atapanīyo dhammo’’ti. Aṭṭhamaṃ.</p>
+
+<p rend="subhead">9. Ācayagāmisuttaṃ</p>
+
+<p rend="bodytext" n="142"><hi rend="paranum">142</hi><hi rend="dot">.</hi> ‘‘Ācayagāmiñca vo, bhikkhave, dhammaṃ desessāmi apacayagāmiñca. Taṃ suṇātha…pe… katamo ca, bhikkhave <pb ed="T" n="5.0261" />, ācayagāmī dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, ācayagāmī dhammo. Katamo ca, bhikkhave <pb ed="M" n="3.0455" />, apacayagāmī dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, apacayagāmī dhammo’’ti. Navamaṃ.</p>
+
+<p rend="subhead">10. Dukkhudrayasuttaṃ</p>
+
+<p rend="bodytext" n="143"><hi rend="paranum">143</hi><hi rend="dot">.</hi> ‘‘Dukkhudrayañca vo, bhikkhave, dhammaṃ desessāmi sukhudrayañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, dukkhudrayo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, dukkhudrayo dhammo. Katamo ca, bhikkhave, sukhudrayo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, sukhudrayo dhammo’’ti. Dasamaṃ.</p>
+
+<p rend="subhead">11. Dukkhavipākasuttaṃ</p>
+
+<p rend="bodytext" n="144"><hi rend="paranum">144</hi><hi rend="dot">.</hi> ‘‘Dukkhavipākañca <pb ed="V" n="3.0211" /><pb ed="P" n="5.0244" /> vo, bhikkhave, dhammaṃ desessāmi sukhavipākañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, dukkhavipāko dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, dukkhavipāko dhammo. Katamo ca, bhikkhave, sukhavipāko dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, sukhavipāko dhammo’’ti. Ekādasamaṃ.</p>
+
+<p rend="centre">Sādhuvaggo catuttho.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="book">Naradakkhadīpanī</p>
+
+<p rend="gatha1">Pālito <pb ed="M" n="0.0008" /> yeva saddhammo,</p>
+
+<p rend="gatha2">Pālitena varena ca;</p>
+
+<p rend="gatha3">Pālite suṭṭhu yaṃ sīlaṃ,</p>
+
+<p rend="gathalast">Pālitaṃ dhamma-sundaraṃ.</p>
+
+<p rend="gatha1">Sammā <pb ed="M" n="0.0010" /> āraddhaṃ sabba-sampattīnaṃ,</p>
+
+<p rend="gathalast">Mūlaṃ hotīti daṭṭhabbaṃ.</p>
+
+<p rend="gatha1">Vīriyārabbho <pb ed="M" n="0.0011" /> bhikkhave,</p>
+
+<p rend="gathalast">Mahato atthāya saṃvattatīti.</p>
+
+<p rend="gatha1">Tasmā <pb ed="M" n="0.0012" /> vīriyameva kattabbaṃ,</p>
+
+<p rend="gathalast">Vīriyavato hi acintitaṃpi hoti.</p>
+
+<p rend="gatha1">Yathā <pb ed="M" n="0.0021" /> hi tacchakānaṃ suttaṃ,</p>
+
+<p rend="gatha2">Pamāṇaṃ hoti;</p>
+
+<p rend="gathalast">Eva metampi viññūnaṃ.</p>
+
+<p rend="gatha1">Suvijāno <pb ed="M" n="0.0024" /> bhavaṃ hoti,</p>
+
+<p rend="gatha2">Dubbijāno parābhavo;</p>
+
+<p rend="gatha3">Dhammakāmo bhavaṃ hoti,</p>
+
+<p rend="gathalast">Dhammadessī parābhavo.</p>
+
+<p rend="gatha1">Ayaṃ <pb ed="M" n="0.0026" /> dhammatāti ayaṃ sabhāvo,</p>
+
+<p rend="gathalast">Ayaṃ niyāmoti vuttaṃ hoti.</p>
+
+<p rend="gatha1">Ye <pb ed="M" n="0.0028" /> dhammā hetupabhavā,</p>
+
+<p rend="gathalast">Tesaṃ hetuṃ tathāgato.</p>
+
+<p rend="gatha1">Ratanattayaṃ <pb ed="M" n="0.0035" />, santataṃ, ahaṃ vandāmi;</p>
+
+<p rend="gatha2">Ācariyaṃ, so ahaṃ, niccaṃ namāmi;</p>
+
+<p rend="gathalast">‘‘Hotu sabbaṃ, maṅgalaṃ, mamaṃ sabbadhi’’.</p>
+
+<p rend="title">Naradakkhadīpanī</p>
+
+<p rend="centre">Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="chapter">Paṇāma</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

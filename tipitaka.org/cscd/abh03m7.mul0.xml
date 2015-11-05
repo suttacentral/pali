@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Abhidhammapiṭake</p>
+
+<p rend="book">Paṭṭhānapāḷi</p>
+
+<p rend="subhead">(Paṭhamo bhāgo)</p>
+
+<p rend="title">Dhammānulome</p>
+
+<p rend="title">Tikapaṭṭhānaṃ</p>
+
+<p rend="chapter">(1) Paccayuddeso</p>
+
+<p rend="bodytext">Hetupaccayo <pb ed="T" n="1.0001" /><pb ed="M" n="1.0001" /><pb ed="V" n="1.0001" />, ārammaṇapaccayo, adhipatipaccayo, anantarapaccayo, samanantarapaccayo, sahajātapaccayo, aññamaññapaccayo, nissayapaccayo, upanissayapaccayo, purejātapaccayo, pacchājātapaccayo, āsevanapaccayo, kammapaccayo, vipākapaccayo, āhārapaccayo, indriyapaccayo, jhānapaccayo, maggapaccayo, sampayuttapaccayo, vippayuttapaccayo, atthipaccayo, natthipaccayo, vigatapaccayo, avigatapaccayoti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

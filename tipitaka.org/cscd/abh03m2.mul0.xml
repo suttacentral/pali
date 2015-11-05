@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Abhidhammapiṭake</p>
+
+<p rend="book">Puggalapaññattipāḷi</p>
+
+<p rend="chapter">Mātikā</p>
+
+<p rend="subhead">1. Ekakauddeso</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Cha <pb ed="T" n="0.0129" /><pb ed="P" n="0.0001" /><pb ed="M" n="0.0101" /><pb ed="V" n="0.0103" /> paññattiyo – khandhapaññatti, āyatanapaññatti, dhātupaññatti, saccapaññatti, indriyapaññatti, puggalapaññattīti.</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Kittāvatā khandhānaṃ khandhapaññatti? Yāvatā pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; ettāvatā khandhānaṃ khandhapaññatti.</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> Kittāvatā <pb ed="V" n="0.0104" /> āyatanānaṃ āyatanapaññatti? Yāvatā dvādasāyatanāni – cakkhāyatanaṃ, rūpāyatanaṃ, sotāyatanaṃ, saddāyatanaṃ, ghānāyatanaṃ, gandhāyatanaṃ, jivhāyatanaṃ, rasāyatanaṃ, kāyāyatanaṃ, phoṭṭhabbāyatanaṃ, manāyatanaṃ, dhammāyatanaṃ; ettāvatā āyatanānaṃ āyatanapaññatti.</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> Kittāvatā <pb ed="T" n="0.0130" /> dhātūnaṃ dhātupaññatti? Yāvatā aṭṭhārasa dhātuyo – cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu, sotadhātu, saddadhātu, sotaviññāṇadhātu, ghānadhātu, gandhadhātu, ghānaviññāṇadhātu, jivhādhātu, rasadhātu, jivhāviññāṇadhātu, kāyadhātu, phoṭṭhabbadhātu, kāyaviññāṇadhātu, manodhātu, dhammadhātu, manoviññāṇadhātu; ettāvatā dhātūnaṃ dhātupaññatti.</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> Kittāvatā <pb ed="P" n="0.0002" /><pb ed="M" n="0.0102" /> saccānaṃ saccapaññatti? Yāvatā cattāri saccāni – dukkhasaccaṃ, samudayasaccaṃ, nirodhasaccaṃ, maggasaccaṃ; ettāvatā saccānaṃ saccapaññatti.</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> Kittāvatā indriyānaṃ indriyapaññatti? Yāvatā bāvīsatindriyāni – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, anaññātaññassāmītindriyaṃ, yaṃ, aññātāvindriyaṃ; ettāvatā indriyānaṃ indriyapaññatti.</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi><hi rend="bold">Kittāvatā</hi><pb ed="T" n="0.0131" /><hi rend="bold">puggalānaṃ puggalapaññatti?</hi></p>
+
+<p rend="bodytext">(1) Samayavimutto</p>
+
+<p rend="bodytext">(2) Asamayavimutto</p>
+
+<p rend="bodytext">(3) Kuppadhammo</p>
+
+<p rend="bodytext">(4) Akuppadhammo</p>
+
+<p rend="bodytext">(5) Parihānadhammo</p>
+
+<p rend="bodytext">(6) Aparihānadhammo</p>
+
+<p rend="bodytext">(7) Cetanābhabbo <pb ed="V" n="0.0105" /></p>
+
+<p rend="bodytext">(8) Anurakkhaṇābhabbo</p>
+
+<p rend="bodytext">(9) Puthujjano</p>
+
+<p rend="bodytext">(10) Gotrabhū</p>
+
+<p rend="bodytext">(11) Bhayūparato</p>
+
+<p rend="bodytext">(12) Abhayūparato</p>
+
+<p rend="bodytext">(13) Bhabbāgamano</p>
+
+<p rend="bodytext">(14) Abhabbāgamano</p>
+
+<p rend="bodytext">(15) Niyato</p>
+
+<p rend="bodytext">(16) Aniyato</p>
+
+<p rend="bodytext">(17) Paṭipannako <pb ed="M" n="0.0103" /></p>
+
+<p rend="bodytext">(18) Phaleṭhito</p>
+
+<p rend="bodytext">(19) Samasīsī</p>
+
+<p rend="bodytext">(20) Ṭhitakappī</p>
+
+<p rend="bodytext">(21) Ariyo</p>
+
+<p rend="bodytext">(22) Anariyo</p>
+
+<p rend="bodytext">(23) Sekkho</p>
+
+<p rend="bodytext">(24) Asekkho</p>
+
+<p rend="bodytext">(25) Nevasekkhanāsekkho</p>
+
+<p rend="bodytext">(26) Tevijjo</p>
+
+<p rend="bodytext">(27) Chaḷabhiñño</p>
+
+<p rend="bodytext">(28) Sammāsambuddho <pb ed="P" n="0.0003" /><pb ed="V" n="0.0106" /></p>
+
+<p rend="bodytext">(29) Paccekasambuddho <note>paccekabuddho (sī.)</note></p>
+
+<p rend="bodytext">(30) Ubhatobhāgavimutto</p>
+
+<p rend="bodytext">(31) Paññāvimutto</p>
+
+<p rend="bodytext">(32) Kāyasakkhī</p>
+
+<p rend="bodytext">(33) Diṭṭhippatto</p>
+
+<p rend="bodytext">(34) Saddhāvimutto</p>
+
+<p rend="bodytext">(35) Dhammānusārī</p>
+
+<p rend="bodytext">(36) Saddhānusārī</p>
+
+<p rend="bodytext">(37) Sattakkhattuparamo</p>
+
+<p rend="bodytext">(38) Kolaṅkolo</p>
+
+<p rend="bodytext">(39) Ekabījī</p>
+
+<p rend="bodytext">(40) Sakadāgāmī <pb ed="M" n="0.0104" /></p>
+
+<p rend="bodytext">(41) Anāgāmī</p>
+
+<p rend="bodytext">(42) Antarāparinibbāyī</p>
+
+<p rend="bodytext">(43) Upahaccaparinibbāyī</p>
+
+<p rend="bodytext">(44) Asaṅkhāraparinibbāyī</p>
+
+<p rend="bodytext">(45) Sasaṅkhāraparinibbāyī</p>
+
+<p rend="bodytext">(46) Uddhaṃsotoakaniṭṭhagāmī</p>
+
+<p rend="bodytext">(47) Sotāpanno</p>
+
+<p rend="bodytext">(48) Sotāpattiphalasacchikiriyāya paṭipanno</p>
+
+<p rend="bodytext">(49) Sakadāgāmī <pb ed="V" n="0.0107" /></p>
+
+<p rend="bodytext">(50) Sakadāgāmiphalasacchikiriyāya paṭipanno</p>
+
+<p rend="bodytext">(51) Anāgāmī</p>
+
+<p rend="bodytext">(52) Anāgāmiphalasacchikiriyāya paṭipanno</p>
+
+<p rend="bodytext">(53) Arahā</p>
+
+<p rend="bodytext">(54) Arahattaphalasacchikiriyāya <note>arahattāya (sī.)</note> paṭipanno</p>
+
+<p rend="centre">Ekakaṃ.</p>
+
+<p rend="subhead">2. Dukauddeso</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi><hi rend="bold">Dve</hi><pb ed="T" n="0.0132" /><hi rend="bold">puggalā –</hi></p>
+
+<p rend="bodytext">(1) Kodhano ca, upanāhī ca.</p>
+
+<p rend="bodytext">(2) Makkhī ca, paḷāsī <note>palāsī (syā. ka.)</note> ca.</p>
+
+<p rend="bodytext">(3) Issukī ca, maccharī ca.</p>
+
+<p rend="bodytext">(4) Saṭho ca, māyāvī ca.</p>
+
+<p rend="bodytext">(5) Ahiriko <pb ed="M" n="0.0105" /> ca, anottappī ca.</p>
+
+<p rend="bodytext">(6) Dubbaco ca, pāpamitto ca.</p>
+
+<p rend="bodytext">(7) Indriyesu <pb ed="P" n="0.0004" /> aguttadvāro ca, bhojane amattaññū ca.</p>
+
+<p rend="bodytext">(8) Muṭṭhassati ca, asampajāno ca.</p>
+
+<p rend="bodytext">(9) Sīlavipanno ca, diṭṭhivipanno ca.</p>
+
+<p rend="bodytext">(10) Ajjhattasaṃyojano <pb ed="V" n="0.0108" /> ca, bahiddhāsaṃyojano ca.</p>
+
+<p rend="bodytext">(11) Akkodhano ca, anupanāhī ca.</p>
+
+<p rend="bodytext">(12) Amakkhī ca, apaḷāsī ca.</p>
+
+<p rend="bodytext">(13) Anissukī ca, amaccharī ca.</p>
+
+<p rend="bodytext">(14) Asaṭho ca, amāyāvī ca.</p>
+
+<p rend="bodytext">(15) Hirimā ca, ottappī ca.</p>
+
+<p rend="bodytext">(16) Suvaco ca, kalyāṇamitto ca.</p>
+
+<p rend="bodytext">(17) Indriyesu guttadvāro ca, bhojane mattaññū ca.</p>
+
+<p rend="bodytext">(18) Upaṭṭhitassati ca, sampajāno ca.</p>
+
+<p rend="bodytext">(19) Sīlasampanno ca, diṭṭhisampanno ca.</p>
+
+<p rend="bodytext">(20) Dve puggalā dullabhā lokasmiṃ.</p>
+
+<p rend="bodytext">(21) Dve puggalā duttappayā.</p>
+
+<p rend="bodytext">(22) Dve puggalā sutappayā.</p>
+
+<p rend="bodytext">(23) Dvinnaṃ puggalānaṃ āsavā vaḍḍhanti.</p>
+
+<p rend="bodytext">(24) Dvinnaṃ puggalānaṃ āsavā na vaḍḍhanti.</p>
+
+<p rend="bodytext">(25) Hīnādhimutto ca, paṇītādhimutto ca.</p>
+
+<p rend="bodytext">(26) Titto ca, tappetā ca.</p>
+
+<p rend="centre">Dukaṃ.</p>
+
+<p rend="subhead">3. Tikauddeso</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi><hi rend="bold">Tayo</hi><pb ed="M" n="0.0106" /><pb ed="V" n="0.0109" /><hi rend="bold">puggalā –</hi></p>
+
+<p rend="bodytext">(1) Nirāso, āsaṃso, vigatāso.</p>
+
+<p rend="bodytext">(2) Tayo gilānūpamā puggalā.</p>
+
+<p rend="bodytext">(3) Kāyasakkhī, diṭṭhippatto, saddhāvimutto.</p>
+
+<p rend="bodytext">(4) Gūthabhāṇī, pupphabhāṇī, madhubhāṇī.</p>
+
+<p rend="bodytext">(5) Arukūpamacitto puggalo, vijjūpamacitto puggalo <pb ed="T" n="0.0133" />, vajirūpamacitto puggalo.</p>
+
+<p rend="bodytext">(6) Andho, ekacakkhu, dvicakkhu.</p>
+
+<p rend="bodytext">(7) Avakujjapañño puggalo, ucchaṅgapañño <note>uccaṅgupañño (syā.)</note> puggalo, puthupañño puggalo.</p>
+
+<p rend="bodytext">(8) Atthekacco <pb ed="P" n="0.0005" /> puggalo kāmesu ca bhavesu ca avītarāgo, atthekacco puggalo kāmesu vītarāgo bhavesu avītarāgo, atthekacco puggalo kāmesu ca bhavesu ca vītarāgo.</p>
+
+<p rend="bodytext">(9) Pāsāṇalekhūpamo puggalo, pathavilekhūpamo puggalo, udakalekhūpamo puggalo.</p>
+
+<p rend="bodytext">(10) Tayo potthakūpamā puggalā.</p>
+
+<p rend="bodytext">(11) Tayo kāsikavatthūpamā puggalā.</p>
+
+<p rend="bodytext">(12) Suppameyyo, duppameyyo, appameyyo.</p>
+
+<p rend="bodytext">(13) Atthekacco puggalo na sevitabbo na bhajitabbo na payirupāsitabbo, atthekacco puggalo sevitabbo bhajitabbo payirupāsitabbo, atthekacco puggalo sakkatvā garuṃ katvā <note>garukatvā (sī.)</note> sevitabbo bhajitabbo payirupāsitabbo.</p>
+
+<p rend="bodytext">(14) Atthekacco <pb ed="M" n="0.0107" /> puggalo jigucchitabbo na sevitabbo na bhajitabbo na payirupāsitabbo, atthekacco puggalo ajjhupekkhitabbo na sevitabbo na bhajitabbo na payirupāsitabbo; atthekacco puggalo sevitabbo bhajitabbo payirupāsitabbo.</p>
+
+<p rend="bodytext">(15) Atthekacco puggalo sīlesu paripūrakārī <note>paripūrīkārī (syā.)</note>, samādhismiṃ mattaso kārī, paññāya mattaso <pb ed="V" n="0.0110" /> kārī; atthekacco puggalo sīlesu ca paripūrakārī, samādhismiñca paripūrakārī, paññāya mattaso kārī; atthekacco puggalo sīlesu ca paripūrakārī, samādhismiñca paripūrakārī, paññāya ca paripūrakārī.</p>
+
+<p rend="bodytext">(16) Tayo satthāro.</p>
+
+<p rend="bodytext">(17) Aparepi tayo satthāro.</p>
+
+<p rend="centre">Tikaṃ.</p>
+
+<p rend="subhead">4. Catukkauddeso</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi><hi rend="bold">Cattāro</hi><pb ed="T" n="0.0134" /><hi rend="bold">puggalā –</hi></p>
+
+<p rend="bodytext">(1) Asappuriso, asappurisena asappurisataro, sappuriso, sappurisena sappurisataro.</p>
+
+<p rend="bodytext">(2) Pāpo, pāpena pāpataro, kalyāṇo, kalyāṇena kalyāṇataro.</p>
+
+<p rend="bodytext">(3) Pāpadhammo <pb ed="P" n="0.0006" />, pāpadhammena pāpadhammataro, kalyāṇadhammo, kalyāṇadhammena kalyāṇadhammataro.</p>
+
+<p rend="bodytext">(4) Sāvajjo, vajjabahulo, appavajjo <note>appasāvajjo (syā. ka.) a. ni. 4.135</note>, anavajjo.</p>
+
+<p rend="bodytext">(5) Ugghaṭitaññū, vipañcitaññū <note>vipacitaññū (sī.) a. ni. 4.133</note>, neyyo, padaparamo.</p>
+
+<p rend="bodytext">(6) Yuttappaṭibhāno <pb ed="M" n="0.0108" />, no muttappaṭibhāno, muttappaṭibhāno, no yuttappaṭibhāno, yuttappaṭibhāno ca muttappaṭibhāno ca, neva yuttappaṭibhāno no muttappaṭibhāno.</p>
+
+<p rend="bodytext">(7) Cattāro dhammakathikā puggalā.</p>
+
+<p rend="bodytext">(8) Cattāro valāhakūpamā puggalā.</p>
+
+<p rend="bodytext">(9) Cattāro mūsikūpamā puggalā.</p>
+
+<p rend="bodytext">(10) Cattāro <pb ed="V" n="0.0111" /> ambūpamā puggalā.</p>
+
+<p rend="bodytext">(11) Cattāro kumbhūpamā puggalā.</p>
+
+<p rend="bodytext">(12) Cattāro udakarahadūpamā puggalā.</p>
+
+<p rend="bodytext">(13) Cattāro balībaddūpamā <note>balibaddūpamā (sī.)</note> puggalā.</p>
+
+<p rend="bodytext">(14) Cattāro āsīvisūpamā puggalā.</p>
+
+<p rend="bodytext">(15) Atthekacco puggalo ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsitā hoti, atthekacco puggalo ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsitā hoti, atthekacco puggalo ananuvicca apariyogāhetvā appasādanīye ṭhāne pasādaṃ upadaṃsitā hoti, atthekacco puggalo ananuvicca apariyogāhetvā pasādanīye ṭhāne appasādaṃ upadaṃsitā hoti.</p>
+
+<p rend="bodytext">(16) Atthekacco puggalo anuvicca pariyogāhetvā avaṇṇārahassa <pb ed="T" n="0.0135" /> avaṇṇaṃ bhāsitā hoti, atthekacco puggalo anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsitā hoti, atthekacco puggalo anuvicca pariyogāhetvā appasādanīye ṭhāne appasādaṃ upadaṃsitā hoti, atthekacco puggalo anuvicca pariyogāhetvā pasādanīye ṭhāne pasādaṃ upadaṃsitā hoti.</p>
+
+<p rend="bodytext">(17) Atthekacco puggalo avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca kho vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena; atthekacco puggalo vaṇṇārahassa vaṇṇaṃ bhāsitā <pb ed="M" n="0.0109" /> hoti bhūtaṃ tacchaṃ kālena, no ca kho avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena; atthekacco puggalo avaṇṇārahassa ca avaṇṇaṃ bhāsitā hoti bhūtaṃ <pb ed="P" n="0.0007" /> tacchaṃ kālena; vaṇṇārahassa ca vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, atthekacco puggalo neva avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena.</p>
+
+<p rend="bodytext">(18) Uṭṭhānaphalūpajīvī no puññaphalūpajīvī, puññaphalūpajīvī no uṭṭhānaphalūpajīvī, uṭṭhānaphalūpajīvī ca puññaphalūpajīvī ca, neva uṭṭhānaphalūpajīvī no puññaphalūpajīvī.</p>
+
+<p rend="bodytext">(19) Tamo <pb ed="V" n="0.0112" /> tamaparāyano, tamo jotiparāyano, joti tamaparāyano, joti jotiparāyano.</p>
+
+<p rend="bodytext">(20) Oṇatoṇato, oṇatuṇṇato, uṇṇatoṇato, uṇṇatuṇṇato.</p>
+
+<p rend="bodytext">(21) Cattāro rukkhūpamā puggalā.</p>
+
+<p rend="bodytext">(22) Rūpappamāṇo, rūpappasanno, ghosappamāṇo, ghosappasanno.</p>
+
+<p rend="bodytext">(23) Lūkhappamāṇo, lūkhappasanno <pb ed="T" n="0.0136" />, dhammappamāṇo, dhammappasanno.</p>
+
+<p rend="bodytext">(24) Atthekacco puggalo attahitāya paṭipanno hoti, no parahitāya; atthekacco puggalo parahitāya paṭipanno hoti, no attahitāya; atthekacco puggalo attahitāya ceva paṭipanno hoti parahitāya ca; atthekacco puggalo neva attahitāya paṭipanno hoti no parahitāya.</p>
+
+<p rend="bodytext">(25) Atthekacco puggalo attantapo hoti attaparitāpanānuyogamanuyutto; atthekacco puggalo parantapo hoti paraparitāpanānuyogamanuyutto; atthekacco puggalo attantapo ca hoti attaparitāpanānuyogamanuyutto <pb ed="M" n="0.0110" />, parantapo ca paraparitāpanānuyogamanuyutto; atthekacco puggalo neva attantapo hoti na attaparitāpanānuyogamanuyutto, na parantapo na paraparitāpanānuyogamanuyutto. So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto <note>sītibhūto (sī. ka.)</note> sukhappaṭisaṃvedī brahmabhūtena attanā viharati.</p>
+
+<p rend="bodytext">(26) Sarāgo, sadoso, samoho, samāno.</p>
+
+<p rend="bodytext">(27) Atthekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa, na lābhī adhipaññādhammavipassanāya; atthekacco <pb ed="P" n="0.0008" /> puggalo lābhī hoti adhipaññādhammavipassanāya, na lābhī ajjhattaṃ cetosamathassa; atthekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa, lābhī ca adhipaññādhammavipassanāya; atthekacco puggalo neva lābhī hoti ajjhattaṃ cetosamathassa, na lābhī adhipaññādhammavipassanāya.</p>
+
+<p rend="bodytext">(28) Anusotagāmī <pb ed="V" n="0.0113" /> puggalo, paṭisotagāmī puggalo, ṭhitatto puggalo, tiṇṇo pāraṅgato <note>pāragato (sī. syā.)</note> thale tiṭṭhati brāhmaṇo.</p>
+
+<p rend="bodytext">(29) Appassuto <pb ed="T" n="0.0137" /> sutena anupapanno, appassuto sutena upapanno, bahussuto sutena anupapanno, bahussuto sutena upapanno.</p>
+
+<p rend="bodytext">(30) Samaṇamacalo, samaṇapadumo, samaṇapuṇḍarīko, samaṇesu samaṇasukhumālo.</p>
+
+<p rend="centre">Catukkaṃ.</p>
+
+<p rend="subhead">5. Pañcakauddeso</p>
+
+<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi><hi rend="bold">Pañca puggalā –</hi></p>
+
+<p rend="bodytext">(1) Atthekacco puggalo ārabhati <note>ārambhati (sī. syā.)</note> ca vippaṭisārī ca hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā <pb ed="M" n="0.0111" /> akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo ārabhati na vippaṭisārī ca hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo nārabhati vippaṭisārī ca hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo nārabhati na vippaṭisārī hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo nārabhati na vippaṭisārī hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ pajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā <pb ed="T" n="0.0138" /> nirujjhanti.</p>
+
+<p rend="bodytext">(2) Datvā <pb ed="P" n="0.0009" /><pb ed="V" n="0.0114" /> avajānāti, saṃvāsena avajānāti, ādheyyamukho hoti, lolo hoti, mando momūho hoti.</p>
+
+<p rend="bodytext">(3) Pañca yodhājīvūpamā puggalā.</p>
+
+<p rend="bodytext">(4) Pañca piṇḍapātikā.</p>
+
+<p rend="bodytext">(5) Pañca khalupacchābhattikā.</p>
+
+<p rend="bodytext">(6) Pañca ekāsanikā.</p>
+
+<p rend="bodytext">(7) Pañca paṃsukūlikā.</p>
+
+<p rend="bodytext">(8) Pañca tecīvarikā.</p>
+
+<p rend="bodytext">(9) Pañca āraññikā.</p>
+
+<p rend="bodytext">(10) Pañca rukkhamūlikā.</p>
+
+<p rend="bodytext">(11) Pañca abbhokāsikā.</p>
+
+<p rend="bodytext">(12) Pañca nesajjikā.</p>
+
+<p rend="bodytext">(13) Pañca yathāsanthatikā.</p>
+
+<p rend="bodytext">(14) Pañca sosānikā.</p>
+
+<p rend="centre">Pañcakaṃ.</p>
+
+<p rend="subhead">6. Chakkauddeso</p>
+
+<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi><hi rend="bold">Cha</hi><pb ed="M" n="0.0112" /><hi rend="bold">puggalā –</hi></p>
+
+<p rend="bodytext">(1) Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni abhisambujjhati, tattha ca sabbaññutaṃ pāpuṇāti balesu <note>phalesu (pī.)</note> ca vasībhāvaṃ. Atthekacco puggalo pubbe ananussutesu dhammesu <pb ed="V" n="0.0115" /> sāmaṃ saccāni abhisambujjhati, na ca tattha sabbaññutaṃ pāpuṇāti na ca balesu vasībhāvaṃ. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati, diṭṭhe ceva dhamme dukkhassantakaro hoti sāvakapāramiñca pāpuṇāti. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati <pb ed="T" n="0.0139" />, diṭṭheva dhamme dukkhassantakaro hoti, na ca sāvakapāramiṃ pāpuṇāti. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati, na ca diṭṭheva dhamme dukkhassantakaro hoti, anāgāmī hoti anāgantā <note>anāgantvā (syā. ka.) a. ni. 4.171</note> itthattaṃ. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati, na ca diṭṭheva dhamme dukkhassantakaro hoti, āgāmī <note>sotāpannasakadāgāmī (syā. ka.)</note> hoti āgantā itthattaṃ.</p>
+
+<p rend="centre">Chakkaṃ.</p>
+
+<p rend="subhead">7. Sattakauddeso</p>
+
+<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi><hi rend="bold">Satta puggalā –</hi></p>
+
+<p rend="bodytext">(1) Satta <pb ed="P" n="0.0010" /> udakūpamā puggalā. Sakiṃ nimuggo nimuggova hoti, ummujjitvā nimujjati, ummujjitvā ṭhito hoti, ummujjitvā vipassati viloketi, ummujjitvā patarati, ummujjitvā paṭigādhappatto hoti, ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.</p>
+
+<p rend="bodytext">(2) Ubhatobhāgavimutto <pb ed="M" n="0.0113" />, paññāvimutto, kāyasakkhī, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.</p>
+
+<p rend="centre">Sattakaṃ.</p>
+
+<p rend="subhead">8. Aṭṭhakauddeso</p>
+
+<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi><hi rend="bold">Aṭṭha <pb ed="V" n="0.0116" /> puggalā –</hi></p>
+
+<p rend="bodytext">(1) Cattāro maggasamaṅgino, cattāro phalasamaṅgino puggalā.</p>
+
+<p rend="centre">Aṭṭhakaṃ.</p>
+
+<p rend="subhead">9. Navakauddeso</p>
+
+<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi><hi rend="bold">Nava</hi><pb ed="T" n="0.0140" /><hi rend="bold">puggalā –</hi></p>
+
+<p rend="bodytext">(1) Sammāsambuddho, paccekasambuddho, ubhatobhāgavimutto, paññāvimutto, kāyasakkhī, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.</p>
+
+<p rend="centre">Navakaṃ.</p>
+
+<p rend="subhead">10. Dasakauddeso</p>
+
+<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi><hi rend="bold">Dasa puggalā –</hi></p>
+
+<p rend="bodytext">(1) Pañcannaṃ idha niṭṭhā, pañcannaṃ idha vihāya niṭṭhā.</p>
+
+<p rend="centre">Dasakaṃ.</p>
+
+<p rend="centre">Puggalapaññattimātikā niṭṭhitā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">5. Saccayamakaṃ</p>
+
+<p rend="title">1. Paṇṇattivāro</p>
+
+<p rend="subhead">(Ka) uddeso</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Cattāri <pb ed="T" n="1.0274" /><pb ed="V" n="1.0299" /><pb ed="M" n="1.0205" /> saccāni – dukkhasaccaṃ, samudayasaccaṃ nirodhasaccaṃ, maggasaccaṃ.</p>
+
+<p rend="title">1. Padasodhanavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) dukkhasaccaṃ dukkhaṃ?</p>
+
+<p rend="bodytext">(Ka) samudayo samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) samudayasaccaṃ samudayo?</p>
+
+<p rend="bodytext">(Ka) nirodho nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) nirodhasaccaṃ nirodho?</p>
+
+<p rend="bodytext">(Ka) maggo maggasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) maggasaccaṃ maggo?</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> (Ka) na <pb ed="V" n="1.0300" /> dukkhaṃ na dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na dukkhasaccaṃ na dukkhaṃ?</p>
+
+<p rend="bodytext">(Ka) na samudayo na samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na samudayasaccaṃ na samudayo?</p>
+
+<p rend="bodytext">(Ka) na nirodho na nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na nirodhasaccaṃ na nirodho?</p>
+
+<p rend="bodytext">(Ka) na maggo na maggasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na maggasaccaṃ na maggo?</p>
+
+<p rend="title">2. Padasodhanamūlacakkavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ <pb ed="M" n="1.0206" /> dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) dukkhaṃ dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) dukkhaṃ dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā maggasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) samudayo samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) samudayo samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) samudayo samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā <pb ed="V" n="1.0301" /> maggasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) nirodho nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) nirodho nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) nirodho nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā maggasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) maggo maggasaccaṃ <pb ed="T" n="1.0275" />?</p>
+
+<p rend="bodytext">(Kha) saccā dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) maggo maggasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) maggo maggasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā nirodhasaccaṃ?</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> (Ka) na dukkhaṃ na dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na dukkhaṃ na dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na dukkhaṃ na dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na maggasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na samudayo na samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na samudayo na samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na samudayo na samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na maggasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na <pb ed="V" n="1.0302" /> nirodho na nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na nirodho na nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na nirodho na nirodhasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na maggasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na maggo na maggasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na maggo na maggasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayasaccaṃ?</p>
+
+<p rend="bodytext">(Ka) na maggo na maggasaccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na nirodhasaccaṃ?</p>
+
+<p rend="title">3. Suddhasaccavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ <pb ed="M" n="1.0207" /> saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā dukkhaṃ?</p>
+
+<p rend="bodytext">(Ka) samudayo saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā samudayo?</p>
+
+<p rend="bodytext">(Ka) nirodho saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā nirodho?</p>
+
+<p rend="bodytext">(Ka) maggo saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā maggo?</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> (Ka) na <pb ed="V" n="1.0303" /> dukkhaṃ na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhaṃ?</p>
+
+<p rend="bodytext">(Ka) na samudayo na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayo?</p>
+
+<p rend="bodytext">(Ka) na nirodho na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na nirodho?</p>
+
+<p rend="bodytext">(Ka) na maggo na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na maggo?</p>
+
+<p rend="title">4. Suddhasaccamūlacakkavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā samudayo?</p>
+
+<p rend="bodytext">(Ka) dukkhaṃ saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā nirodho <pb ed="T" n="1.0276" />?</p>
+
+<p rend="bodytext">(Ka) dukkhaṃ saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā maggo?</p>
+
+<p rend="bodytext">Samudayo saccaṃ?</p>
+
+<p rend="bodytext">Saccā dukkhaṃ?…Pe… saccā maggo?</p>
+
+<p rend="bodytext">Nirodho saccaṃ?</p>
+
+<p rend="bodytext">Saccā dukkhaṃ?…Pe… saccā maggo?</p>
+
+<p rend="bodytext">(Ka) maggo saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā dukkhaṃ?</p>
+
+<p rend="bodytext">(Ka) maggo saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā samudayo?</p>
+
+<p rend="bodytext">(Ka) maggo <pb ed="V" n="1.0304" /> saccaṃ?</p>
+
+<p rend="bodytext">(Kha) saccā nirodho?</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> (Ka) na dukkhaṃ na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayo?</p>
+
+<p rend="bodytext">(Ka) na dukkhaṃ na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na nirodho?</p>
+
+<p rend="bodytext">(Ka) na dukkhaṃ na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na maggo?</p>
+
+<p rend="bodytext">Na <pb ed="M" n="1.0208" /> samudayo na saccaṃ?</p>
+
+<p rend="bodytext">Na saccā na dukkhaṃ?…Pe… na saccā na maggo?</p>
+
+<p rend="bodytext">Na nirodho na saccaṃ?</p>
+
+<p rend="bodytext">Na saccā na dukkhaṃ?…Pe… na saccā na maggo?</p>
+
+<p rend="bodytext">(Ka) na maggo na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhaṃ?</p>
+
+<p rend="bodytext">(Ka) na maggo na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayo?</p>
+
+<p rend="bodytext">(Ka) na maggo na saccaṃ?</p>
+
+<p rend="bodytext">(Kha) na saccā na nirodho?</p>
+
+<p rend="centre">Paṇṇattiuddesavāro.</p>
+
+<p rend="title">1. Paṇṇattivāra</p>
+
+<p rend="subhead">(Kha) niddeso</p>
+
+<p rend="title">1. Padasodhanavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ <pb ed="V" n="1.0305" /> dukkhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) dukkhasaccaṃ dukkhanti?</p>
+
+<p rend="bodytext">Kāyikaṃ dukkhaṃ cetasikaṃ dukkhaṃ ṭhapetvā avasesaṃ dukkhasaccaṃ <note>avasesaṃ dukkhasaccaṃ dukkhasaccaṃ (syā.) evamuparipi</note>, na dukkhaṃ. Kāyikaṃ dukkhaṃ cetasikaṃ dukkhaṃ dukkhañceva dukkhasaccañca.</p>
+
+<p rend="bodytext">(Ka) samudayo samudayasaccanti?</p>
+
+<p rend="bodytext">Samudayasaccaṃ ṭhapetvā avaseso samudayo, na samudayasaccaṃ. Samudayasaccaṃ samudayo ceva samudayasaccañca.</p>
+
+<p rend="bodytext">(Kha) samudayasaccaṃ samudayoti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) nirodho nirodhasaccanti?</p>
+
+<p rend="bodytext">Nirodhasaccaṃ ṭhapetvā avaseso nirodho, na nirodhasaccaṃ. Nirodhasaccaṃ <pb ed="T" n="1.0277" /> nirodho ceva nirodhasaccañca.</p>
+
+<p rend="bodytext">(Kha) nirodhasaccaṃ nirodhoti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) maggo maggasaccanti?</p>
+
+<p rend="bodytext">Maggasaccaṃ ṭhapetvā avaseso maggo, na maggasaccaṃ. Maggasaccaṃ maggo ceva maggasaccañca.</p>
+
+<p rend="bodytext">(Kha) maggasaccaṃ maggoti? Āmantā.</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> (Ka) na dukkhaṃ na dukkhasaccanti?</p>
+
+<p rend="bodytext">Kāyikaṃ dukkhaṃ cetasikaṃ dukkhaṃ ṭhapetvā avasesaṃ na dukkhaṃ <note>avasesaṃ dukkhasaccaṃ na dukkhaṃ (sī. syā. ka.) evaṃ avasesesu tīsu saccesu</note> dukkhasaccaṃ. Dukkhañca dukkhasaccañca ṭhapetvā avasesaṃ na ceva dukkhaṃ na ca dukkhasaccaṃ.</p>
+
+<p rend="bodytext">(Kha) na <pb ed="V" n="1.0306" /> dukkhasaccaṃ na dukkhanti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) na <pb ed="M" n="1.0209" /> samudayo na samudayasaccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) na samudayasaccaṃ na samudayoti?</p>
+
+<p rend="bodytext">Samudayasaccaṃ ṭhapetvā avaseso na samudayasaccaṃ, samudayo. Samudayañca samudayasaccañca ṭhapetvā avaseso na ceva samudayo na ca samudayasaccaṃ.</p>
+
+<p rend="bodytext">(Ka) na nirodho na nirodhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) na nirodhasaccaṃ na nirodhoti?</p>
+
+<p rend="bodytext">Nirodhasaccaṃ ṭhapetvā avaseso na nirodhasaccaṃ, nirodho. Nirodhañca nirodhasaccañca ṭhapetvā avaseso na ceva nirodho na ca nirodhasaccaṃ.</p>
+
+<p rend="bodytext">(Ka) na maggo na maggasaccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) na maggasaccaṃ na maggoti?</p>
+
+<p rend="bodytext">Maggasaccaṃ ṭhapetvā avaseso na maggasaccaṃ, maggo. Maggañca maggasaccañca ṭhapetvā avaseso na ceva maggo na ca maggasaccaṃ.</p>
+
+<p rend="title">2. Padasodhanamūlacakkavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ dukkhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) saccā samudayasaccanti?</p>
+
+<p rend="bodytext">Samudayasaccaṃ saccañceva samudayasaccañca. Avasesā saccā <note>avasesā saccā saccā (syā.)</note> na <pb ed="T" n="1.0278" /> samudayasaccaṃ.</p>
+
+<p rend="bodytext">Dukkhaṃ <pb ed="V" n="1.0307" /> dukkhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Saccā nirodhasaccanti?…Pe… saccā maggasaccanti?</p>
+
+<p rend="bodytext">Maggasaccaṃ saccañceva maggasaccañca. Avasesā saccā na maggasaccaṃ.</p>
+
+<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> Samudayo samudayasaccanti?</p>
+
+<p rend="bodytext">Samudayasaccaṃ ṭhapetvā avaseso samudayo, na samudayasaccaṃ. Samudayasaccaṃ samudayo ceva samudayasaccañca. Saccā dukkhasaccanti? …Pe… saccā nirodhasaccanti?…Pe… saccā maggasaccanti?</p>
+
+<p rend="bodytext">Maggasaccaṃ saccañceva maggasaccañca. Avasesā saccā na maggasaccaṃ.</p>
+
+<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> Nirodho nirodhasaccanti?</p>
+
+<p rend="bodytext">Nirodhasaccaṃ ṭhapetvā avaseso nirodho, na nirodhasaccaṃ. Nirodhasaccaṃ nirodho ceva nirodhasaccañca.</p>
+
+<p rend="bodytext">Saccā dukkhasaccanti?…Pe… saccā samudayasaccanti? …Pe… saccā maggasaccanti?</p>
+
+<p rend="bodytext">Maggasaccaṃ saccañceva maggasaccañca. Avasesā saccā na maggasaccaṃ.</p>
+
+<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> Maggo <pb ed="M" n="1.0210" /> maggasaccanti?</p>
+
+<p rend="bodytext">Maggasaccaṃ ṭhapetvā avaseso maggo, na maggasaccaṃ. Maggasaccaṃ maggo ceva maggasaccañca.</p>
+
+<p rend="bodytext">Saccā dukkhasaccanti?…Pe… saccā samudayasaccanti? …Pe… saccā nirodhasaccanti?</p>
+
+<p rend="bodytext">Nirodhasaccaṃ saccañceva nirodhasaccañca. Avasesā saccā na nirodhasaccaṃ.</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> (Ka) na <pb ed="V" n="1.0308" /> dukkhaṃ na dukkhasaccanti?</p>
+
+<p rend="bodytext">Kāyikaṃ dukkhaṃ cetasikaṃ dukkhaṃ ṭhapetvā avasesaṃ na dukkhaṃ, dukkhasaccaṃ. Dukkhañca dukkhasaccañca ṭhapetvā avasesaṃ na ceva dukkhaṃ na ca dukkhasaccaṃ.</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na dukkhaṃ na dukkhasaccanti?</p>
+
+<p rend="bodytext">Kāyikaṃ <pb ed="T" n="1.0279" /> dukkhaṃ cetasikaṃ dukkhaṃ ṭhapetvā avasesaṃ na dukkhaṃ, dukkhasaccaṃ. Dukkhañca dukkhasaccañca ṭhapetvā avasesaṃ na ceva dukkhaṃ na ca dukkhasaccaṃ.</p>
+
+<p rend="bodytext">Na saccā na nirodhasaccanti?…Pe… na saccā na maggasaccanti? Āmantā.</p>
+
+<p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> (Ka) na samudayo na samudayasaccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na samudayo na samudayasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na saccā na nirodhasaccanti?…Pe… na saccā na maggasaccanti? Āmantā.</p>
+
+<p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> Na nirodho na nirodhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na saccā na dukkhasaccanti?…Pe… na saccā na samudayasaccanti?…Pe… na saccā na maggasaccanti? Āmantā.</p>
+
+<p rend="bodytext" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi> (Ka) na maggo na maggasaccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na maggo na maggasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na saccā na samudayasaccanti?…Pe… na saccā na nirodhasaccanti? Āmantā.</p>
+
+<p rend="title">3. Suddhasaccavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ <pb ed="V" n="1.0309" /> saccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) saccā dukkhasaccanti?</p>
+
+<p rend="bodytext">Dukkhasaccaṃ saccañceva dukkhasaccañca. Avasesā saccā na dukkhasaccaṃ.</p>
+
+<p rend="bodytext">Samudayo <pb ed="M" n="1.0211" /> saccanti? Āmantā…pe….</p>
+
+<p rend="bodytext">Nirodho saccanti? Āmantā…pe….</p>
+
+<p rend="bodytext">(Ka) maggo saccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) saccā maggasaccanti?</p>
+
+<p rend="bodytext">Maggasaccaṃ saccañceva maggasaccañca. Avasesā saccā na maggasaccaṃ.</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi> (Ka) na dukkhaṃ na saccanti?</p>
+
+<p rend="bodytext">Dukkhaṃ ṭhapetvā avasesā saccā na dukkhaṃ, saccā. Dukkhañca saccañca ṭhapetvā avasesaṃ na ceva dukkhaṃ na <pb ed="T" n="1.0280" /> ca saccā.</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na samudayo na saccanti?</p>
+
+<p rend="bodytext">Samudayaṃ ṭhapetvā…pe… nirodhaṃ ṭhapetvā…pe….</p>
+
+<p rend="bodytext">(Ka) na maggo na saccanti?</p>
+
+<p rend="bodytext">Maggaṃ ṭhapetvā avasesā saccā na maggo, saccā. Maggañca saccañca ṭhapetvā avasesā na ceva maggo na ca saccā.</p>
+
+<p rend="bodytext">(Kha) na saccā na maggasaccanti? Āmantā.</p>
+
+<p rend="title">4. Suddhasaccamūlacakkavāro</p>
+
+<p rend="subhead">(Ka) anulomaṃ</p>
+
+<p rend="bodytext" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi> (Ka) dukkhaṃ <pb ed="V" n="1.0310" /> saccanti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) saccā samudayasaccanti?</p>
+
+<p rend="bodytext">Samudayasaccaṃ saccañceva samudayasaccañca. Avasesā saccā na samudayasaccaṃ.</p>
+
+<p rend="bodytext">Dukkhaṃ saccanti? Āmantā.</p>
+
+<p rend="bodytext">Saccā nirodhasaccanti?…Pe…. Saccā maggasaccanti?</p>
+
+<p rend="bodytext">Maggasaccaṃ saccañceva maggasaccañca. Avasesā saccā na maggasaccaṃ.</p>
+
+<p rend="bodytext">Samudayo saccanti? Āmantā.…Pe….</p>
+
+<p rend="bodytext">Nirodho saccanti? Āmantā.…Pe….</p>
+
+<p rend="bodytext">Maggo saccanti? Āmantā.</p>
+
+<p rend="bodytext">Saccā dukkhasaccanti?…Pe… saccā samudayasaccanti? …Pe… saccā nirodhasaccanti?</p>
+
+<p rend="bodytext">Nirodhasaccaṃ saccañceva nirodhasaccañca. Avasesā saccā na nirodhasaccaṃ.</p>
+
+<p rend="subhead">(Kha) paccanīkaṃ</p>
+
+<p rend="bodytext" n="23"><hi rend="paranum">23</hi><hi rend="dot">.</hi> (Ka) na <pb ed="M" n="1.0212" /> dukkhaṃ na saccanti?</p>
+
+<p rend="bodytext">Dukkhaṃ ṭhapetvā avasesā saccā na dukkhaṃ, saccā. Dukkhañca saccañca ṭhapetvā avasesā na ceva dukkhaṃ na ca saccā.</p>
+
+<p rend="bodytext">(Kha) na saccā na samudayasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na dukkhaṃ na saccanti?</p>
+
+<p rend="bodytext">Dukkhaṃ <pb ed="V" n="1.0311" /> ṭhapetvā avasesā saccā na dukkhaṃ, saccā. Dukkhañca saccañca ṭhapetvā avasesā na ceva dukkhaṃ na ca saccā.</p>
+
+<p rend="bodytext">Na saccā <pb ed="T" n="1.0281" /> na nirodhasaccanti?…Pe… na saccā na maggasaccanti? Āmantā.</p>
+
+<p rend="bodytext" n="24"><hi rend="paranum">24</hi><hi rend="dot">.</hi> Na samudayo na saccanti?</p>
+
+<p rend="bodytext">Samudayaṃ ṭhapetvā avasesā saccā na samudayo, saccā. Samudayañca saccañca ṭhapetvā avasesā na ceva samudayo na ca saccā.</p>
+
+<p rend="bodytext">Na saccā na dukkhasaccanti?…Pe….</p>
+
+<p rend="bodytext" n="25"><hi rend="paranum">25</hi><hi rend="dot">.</hi> Na nirodho na saccanti?</p>
+
+<p rend="bodytext">Nirodhaṃ ṭhapetvā…pe….</p>
+
+<p rend="bodytext" n="26"><hi rend="paranum">26</hi><hi rend="dot">.</hi> (Ka) na maggo na saccanti?</p>
+
+<p rend="bodytext">Maggaṃ ṭhapetvā avasesā saccā na maggo, saccā. Maggañca saccañca ṭhapetvā avasesā na ceva maggo na ca saccā.</p>
+
+<p rend="bodytext">(Kha) na saccā na dukkhasaccanti? Āmantā.</p>
+
+<p rend="bodytext">Na maggo na saccanti?</p>
+
+<p rend="bodytext">Maggaṃ ṭhapetvā avasesā saccā na maggo, saccā. Maggañca saccañca ṭhapetvā avasesā na ceva maggo na ca saccā.</p>
+
+<p rend="bodytext">Na saccā na samudayasaccanti? Āmantā.…Pe….</p>
+
+<p rend="bodytext">Na saccā na nirodhasaccanti? Āmantā.</p>
+
+<p rend="centre">Paṇṇattiniddesavāro.</p>
+
+<p rend="title">2. Pavattivāro 1. uppādavāro</p>
+
+<p rend="title">(1) Paccuppannavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="27"><hi rend="paranum">27</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0312" /> dukkhasaccaṃ uppajjati tassa samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ upapajjantānaṃ pavatte taṇhāvippayuttacittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati, no ca tesaṃ samudayasaccaṃ uppajjati. Taṇhāya uppādakkhaṇe tesaṃ <pb ed="M" n="1.0213" /> dukkhasaccañca uppajjati samudayasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ uppajjati tassa dukkhasaccaṃ uppajjatīti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ uppajjati tassa maggasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ <pb ed="T" n="1.0282" /> upapajjantānaṃ pavatte maggavippayuttacittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati, no ca tesaṃ maggasaccaṃ uppajjati. Pañcavokāre maggassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati maggasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ uppajjati tassa dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Arūpe maggassa uppādakkhaṇe tesaṃ maggasaccaṃ uppajjati, no ca tesaṃ dukkhasaccaṃ uppajjati. Pañcavokāre maggassa uppādakkhaṇe tesaṃ maggasaccañca uppajjati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext" n="28"><hi rend="paranum">28</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ uppajjati tassa maggasaccaṃ uppajjatīti? No.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ uppajjati tassa samudayasaccaṃ uppajjatīti? No.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="29"><hi rend="paranum">29</hi><hi rend="dot">.</hi> (Ka) yattha <pb ed="V" n="1.0313" /> dukkhasaccaṃ uppajjati tattha samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Asaññasatte tattha dukkhasaccaṃ uppajjati, no ca tattha samudayasaccaṃ uppajjati. Catuvokāre pañcavokāre tattha dukkhasaccañca uppajjati samudayasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Kha) yattha vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yattha dukkhasaccaṃ uppajjati tattha maggasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Apāye asaññasatte tattha dukkhasaccaṃ uppajjati, no ca tattha maggasaccaṃ uppajjati. Avasese catuvokāre pañcavokāre tattha dukkhasaccañca uppajjati maggasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Kha) yattha vā pana maggasaccaṃ <pb ed="T" n="1.0283" /> uppajjati tattha dukkhasaccaṃ uppajjatīti? Āmantā.</p>
+
+<p rend="bodytext" n="30"><hi rend="paranum">30</hi><hi rend="dot">.</hi> (Ka) yattha samudayasaccaṃ uppajjati tattha maggasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Apāye tattha samudayasaccaṃ uppajjati, no ca tattha maggasaccaṃ uppajjati. Avasese catuvokāre pañcavokāre tattha samudayasaccañca uppajjati maggasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Kha) yattha vā pana…pe…? Āmantā.</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> Yassa yattha dukkhasaccaṃ uppajjati tassa tattha samudayasaccaṃ uppajjatīti?…Pe….</p>
+
+<p rend="centre">(Yassakampi yassayatthakampi sadisaṃ vitthāretabbaṃ).</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="32"><hi rend="paranum">32</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0314" /><pb ed="M" n="1.0214" /> dukkhasaccaṃ nuppajjati tassa samudayasaccaṃ nuppajjatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nuppajjati tassa dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ upapajjantānaṃ pavatte taṇhāvippayuttacittassa uppādakkhaṇe tesaṃ samudayasaccaṃ nuppajjati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ samudayasaccañca nuppajjati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nuppajjati tassa maggasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Arūpe maggassa uppādakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe phalassa uppādakkhaṇe tesaṃ dukkhasaccañca nuppajjati maggasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjati tassa <pb ed="T" n="1.0284" /> dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ upapajjantānaṃ pavatte maggavippayuttacittassa uppādakkhaṇe tesaṃ maggasaccaṃ nuppajjati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe phalassa uppādakkhaṇe tesaṃ maggasaccañca nuppajjati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjati tassa maggasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Maggassa uppādakkhaṇe tesaṃ samudayasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ nuppajjati. Sabbesaṃ cittassa bhaṅgakkhaṇe taṇhāvippayuttamaggavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ samudayasaccañca nuppajjati maggasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0315" /> vā pana maggasaccaṃ nuppajjati tassa samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Taṇhāya uppādakkhaṇe tesaṃ maggasaccaṃ nuppajjati, no ca tesaṃ samudayasaccaṃ nuppajjati. Sabbesaṃ cittassa bhaṅgakkhaṇe maggavippayuttataṇhāvippayuttacittassa <note>taṇhāvippayuttamaggavippayuttacittassa (sī.) evaṃ puggalokāsepi nirodhavārepi</note> uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ maggasaccañca nuppajjati samudayasaccañca nuppajjati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="34"><hi rend="paranum">34</hi><hi rend="dot">.</hi> (Ka) yattha dukkhasaccaṃ nuppajjati tattha samudayasaccaṃ nuppajjatīti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yattha vā pana samudayasaccaṃ nuppajjati tattha dukkhasaccaṃ nuppajjatīti? Uppajjati.</p>
+
+<p rend="bodytext">(Ka) yattha <pb ed="M" n="1.0215" /> dukkhasaccaṃ nuppajjati tattha maggasaccaṃ nuppajjatīti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yattha vā pana maggasaccaṃ nuppajjati tattha dukkhasaccaṃ nuppajjatīti <pb ed="T" n="1.0285" />? Uppajjati.</p>
+
+<p rend="bodytext" n="35"><hi rend="paranum">35</hi><hi rend="dot">.</hi> (Ka) yattha samudayasaccaṃ nuppajjati tattha maggasaccaṃ nuppajjatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yattha vā pana maggasaccaṃ nuppajjati tattha samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Apāye tattha maggasaccaṃ nuppajjati, no ca tattha samudayasaccaṃ nuppajjati. Asaññasatte tattha maggasaccañca nuppajjati samudayasaccañca nuppajjati.</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nuppajjati tassa tattha samudayasaccaṃ nuppajjatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ nuppajjati tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ <pb ed="V" n="1.0316" /> upapajjantānaṃ pavatte taṇhāvippayuttacittassa uppādakkhaṇe tesaṃ tattha samudayasaccaṃ nuppajjati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha samudayasaccañca nuppajjati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ nuppajjati tassa tattha maggasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Arūpe maggassa uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe phalassa uppādakkhaṇe tesaṃ tattha dukkhasaccañca nuppajjati maggasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjati tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ upapajjantānaṃ pavatte maggavippayuttacittassa uppādakkhaṇe tesaṃ tattha maggasaccaṃ <pb ed="T" n="1.0286" /> nuppajjati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe phalassa uppādakkhaṇe tesaṃ tattha maggasaccañca nuppajjati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="37"><hi rend="paranum">37</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ nuppajjati tassa tattha maggasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Maggassa uppādakkhaṇe tesaṃ tattha samudayasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ nuppajjati. Sabbesaṃ cittassa bhaṅgakkhaṇe taṇhāvippayuttamaggavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjati tassa tattha samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Taṇhāya uppādakkhaṇe tesaṃ <pb ed="M" n="1.0216" /> tattha maggasaccaṃ nuppajjati, no ca tesaṃ tattha samudayasaccaṃ nuppajjati. Sabbesaṃ cittassa bhaṅgakkhaṇe maggavippayuttataṇhāvippayuttacittassa <pb ed="V" n="1.0317" /> uppādakkhaṇe asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjati samudayasaccañca nuppajjati.</p>
+
+<p rend="title">(2) Atītavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="38"><hi rend="paranum">38</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ uppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ uppajjittha tassa dukkhasaccaṃ uppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ uppajjittha tassa maggasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ tesaṃ dukkhasaccaṃ uppajjittha, no ca tesaṃ maggasaccaṃ uppajjittha <pb ed="T" n="1.0287" />. Abhisametāvīnaṃ tesaṃ dukkhasaccañca uppajjittha maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe… uppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext" n="39"><hi rend="paranum">39</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ uppajjittha tassa maggasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ tesaṃ samudayasaccaṃ uppajjittha, no ca tesaṃ maggasaccaṃ uppajjittha. Abhisametāvīnaṃ tesaṃ samudayasaccañca uppajjittha maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe… uppajjitthāti? Āmantā.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="40"><hi rend="paranum">40</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ uppajjittha…pe….</p>
+
+<p rend="bodytext">(Yatthakampi sabbattha sadisaṃ. Tantinānākaraṇaṃ heṭṭhā yatthakasadisaṃ).</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0318" /> yattha dukkhasaccaṃ uppajjittha tassa tattha samudayasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ uppajjittha, no ca tesaṃ tattha samudayasaccaṃ uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha dukkhasaccañca uppajjittha samudayasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha…pe… uppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="M" n="1.0217" /> yattha dukkhasaccaṃ uppajjittha tassa tattha maggasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ uppajjittha, no ca tesaṃ tattha maggasaccaṃ uppajjittha. Abhisametāvīnaṃ tesaṃ tattha dukkhasaccañca uppajjittha maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha…pe… uppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext" n="42"><hi rend="paranum">42</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="T" n="1.0288" /> yattha samudayasaccaṃ uppajjittha tassa tattha maggasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye akusale citte vattamāne anabhisametāvīnaṃ tesaṃ tattha samudayasaccaṃ uppajjittha, no ca tesaṃ tattha maggasaccaṃ uppajjittha. Abhisametāvīnaṃ tesaṃ tattha samudayasaccañca uppajjittha maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha…pe… uppajjitthāti? Āmantā.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjittha tassa samudayasaccaṃ nuppajjitthāti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe… nuppajjitthāti? Natthi.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="V" n="1.0319" /> dukkhasaccaṃ nuppajjittha tassa maggasaccaṃ nuppajjitthāti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjittha tassa dukkhasaccaṃ nuppajjitthāti? Uppajjittha.</p>
+
+<p rend="bodytext" n="44"><hi rend="paranum">44</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjittha tassa maggasaccaṃ nuppajjitthāti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe… nuppajjitthāti? Uppajjittha.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="45"><hi rend="paranum">45</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nuppajjittha…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="46"><hi rend="paranum">46</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nuppajjittha tassa tattha samudayasaccaṃ nuppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ nuppajjittha tassa tattha dukkhasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccaṃ nuppajjittha, no ca tesaṃ tattha dukkhasaccaṃ nuppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ <pb ed="T" n="1.0289" /> tattha samudayasaccañca nuppajjittha dukkhasaccañca nuppajjittha.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="M" n="1.0218" /> yattha dukkhasaccaṃ nuppajjittha tassa tattha maggasaccaṃ nuppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjittha tassa tattha dukkhasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ asaññasattānaṃ tesaṃ tattha maggasaccaṃ nuppajjittha, no ca tesaṃ tattha dukkhasaccaṃ <pb ed="V" n="1.0320" /> nuppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha maggasaccañca nuppajjittha dukkhasaccañca nuppajjittha.</p>
+
+<p rend="bodytext" n="47"><hi rend="paranum">47</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ nuppajjittha tassa tattha maggasaccaṃ nuppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjittha tassa tattha samudayasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye akusale citte vattamāne anabhisametāvīnaṃ tesaṃ tattha maggasaccaṃ nuppajjittha, no ca tesaṃ tattha samudayasaccaṃ nuppajjittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjittha samudayasaccañca nuppajjittha.</p>
+
+<p rend="title">(3) Anāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="48"><hi rend="paranum">48</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ uppajjissati tassa samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjissati, no ca tesaṃ samudayasaccaṃ uppajjissati. Itaresaṃ tesaṃ dukkhasaccañca uppajjissati samudayasaccañca <pb ed="T" n="1.0290" /> uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ uppajjissati tassa maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjissati, no ca tesaṃ maggasaccaṃ uppajjissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ dukkhasaccañca uppajjissati maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe… uppajjissatīti? Āmantā.</p>
+
+<p rend="bodytext" n="49"><hi rend="paranum">49</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ uppajjissati tassa maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ samudayasaccaṃ uppajjissati <pb ed="V" n="1.0321" />, no ca tesaṃ maggasaccaṃ uppajjissati. Ye maggaṃ paṭilabhissanti tesaṃ samudayasaccañca uppajjissati <pb ed="M" n="1.0219" /> maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ uppajjissati tassa samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ maggasaccaṃ uppajjissati, no ca tesaṃ samudayasaccaṃ uppajjissati. Ye maggaṃ paṭilabhissanti tesaṃ maggasaccañca uppajjissati samudayasaccañca uppajjissati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="50"><hi rend="paranum">50</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ uppajjissati…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ uppajjissati tassa tattha samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ <pb ed="T" n="1.0291" /> paṭilabhissanti asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ uppajjissati, no ca tesaṃ tattha samudayasaccaṃ uppajjissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha dukkhasaccañca uppajjissati samudayasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ uppajjissati…pe… uppajjissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ uppajjissati tassa tattha maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti <pb ed="V" n="1.0322" /> āpāyikānaṃ asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ uppajjissati, no ca tesaṃ tattha maggasaccaṃ uppajjissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti, ye caññe maggaṃ paṭilabhissanti tesaṃ tattha dukkhasaccañca uppajjissati maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjissati tassa tattha dukkhasaccaṃ uppajjissatīti? Āmantā.</p>
+
+<p rend="bodytext" n="52"><hi rend="paranum">52</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ uppajjissati tassa tattha maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ tattha samudayasaccaṃ uppajjissati, no ca tesaṃ tattha maggasaccaṃ uppajjissati. Ye maggaṃ paṭilabhissanti tesaṃ tattha samudayasaccañca uppajjissati maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjissati tassa tattha samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ <pb ed="M" n="1.0220" /> paṭilabhissanti tesaṃ tattha maggasaccaṃ uppajjissati <pb ed="T" n="1.0292" />, no ca tesaṃ tattha samudayasaccaṃ uppajjissati. Ye maggaṃ paṭilabhissanti tesaṃ tattha maggasaccañca uppajjissati samudayasaccañca uppajjissati.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjissati tassa samudayasaccaṃ nuppajjissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nuppajjissati tassa dukkhasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <pb ed="V" n="1.0323" /> tesaṃ samudayasaccaṃ nuppajjissati, no ca tesaṃ dukkhasaccaṃ nuppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ samudayasaccañca nuppajjissati dukkhasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nuppajjissati tassa maggasaccaṃ nuppajjissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjissati tassa dukkhasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ maggasaccaṃ nuppajjissati, no ca tesaṃ dukkhasaccaṃ nuppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ maggasaccañca nuppajjissati dukkhasaccañca nuppajjissati.</p>
+
+<p rend="bodytext" n="54"><hi rend="paranum">54</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjissati tassa maggasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ samudayasaccaṃ nuppajjissati, no ca tesaṃ maggasaccaṃ nuppajjissati. Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ samudayasaccañca nuppajjissati maggasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjissati tassa samudayasaccaṃ <pb ed="T" n="1.0293" /> nuppajjissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ maggasaccaṃ nuppajjissati, no ca tesaṃ samudayasaccaṃ nuppajjissati. Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ maggasaccañca nuppajjissati samudayasaccañca nuppajjissati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="55"><hi rend="paranum">55</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nuppajjissati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="56"><hi rend="paranum">56</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nuppajjissati tassa tattha samudayasaccaṃ nuppajjissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0324" /> vā pana yattha samudayasaccaṃ nuppajjissati tassa <pb ed="M" n="1.0221" /> tattha dukkhasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha samudayasaccaṃ nuppajjissati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ tattha samudayasaccañca nuppajjissati dukkhasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ nuppajjissati tassa tattha maggasaccaṃ nuppajjissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha dukkhasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ asaññasattānaṃ tesaṃ tattha maggasaccaṃ nuppajjissati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ tattha maggasaccañca nuppajjissati dukkhasaccañca nuppajjissati.</p>
+
+<p rend="bodytext" n="57"><hi rend="paranum">57</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ nuppajjissati tassa tattha maggasaccaṃ nuppajjissatīti <pb ed="T" n="1.0294" />?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha samudayasaccaṃ nuppajjissati, no ca tesaṃ tattha maggasaccaṃ nuppajjissati. Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjissati maggasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha samudayasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ tattha maggasaccaṃ nuppajjissati, no ca tesaṃ tattha samudayasaccaṃ nuppajjissati. Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjissati samudayasaccañca nuppajjissati.</p>
+
+<p rend="title">(4) Paccuppannātītavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="58"><hi rend="paranum">58</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0325" /> dukkhasaccaṃ uppajjati tassa samudayasaccaṃ uppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ uppajjittha tassa dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ samudayasaccaṃ uppajjittha, no ca tesaṃ dukkhasaccaṃ uppajjati. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ samudayasaccañca uppajjittha dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="M" n="1.0222" /> dukkhasaccaṃ uppajjati tassa maggasaccaṃ uppajjitthāti? Anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati, no ca tesaṃ maggasaccaṃ uppajjittha. Abhisametāvīnaṃ <pb ed="T" n="1.0295" /> upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ uppajjittha tassa dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ maggasaccaṃ uppajjittha, no ca tesaṃ dukkhasaccaṃ uppajjati. Abhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccañca uppajjittha dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext" n="59"><hi rend="paranum">59</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ uppajjati tassa maggasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ samudayasaccaṃ uppajjati, no ca tesaṃ maggasaccaṃ uppajjittha. Abhisametāvīnaṃ taṇhāya <pb ed="V" n="1.0326" /> uppādakkhaṇe tesaṃ samudayasaccañca uppajjati maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ uppajjittha tassa samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ tesaṃ maggasaccaṃ uppajjittha, no ca tesaṃ samudayasaccaṃ uppajjati. Abhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ maggasaccañca uppajjittha samudayasaccañca uppajjati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="60"><hi rend="paranum">60</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ uppajjati…pe… (yatthakā sadisā sabbe).</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ uppajjati tassa tattha samudayasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa <note>uppatticittassa (syā.)</note> uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccaṃ uppajjati, no ca tesaṃ tattha <pb ed="T" n="1.0296" /> samudayasaccaṃ uppajjittha. Itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha dukkhasaccañca uppajjati samudayasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ uppajjittha tassa tattha dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe <pb ed="M" n="1.0223" /> arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha samudayasaccaṃ uppajjittha, no ca tesaṃ tattha dukkhasaccaṃ uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha samudayasaccañca uppajjittha dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="V" n="1.0327" /> yattha dukkhasaccaṃ uppajjati tassa tattha maggasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa uppādakkhaṇe anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccaṃ uppajjati, no ca tesaṃ tattha maggasaccaṃ uppajjittha. Abhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha dukkhasaccañca uppajjati maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjittha tassa tattha dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha maggasaccaṃ uppajjittha, no ca tesaṃ tattha dukkhasaccaṃ uppajjati. Abhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe <pb ed="T" n="1.0297" /> tesaṃ tattha maggasaccañca uppajjittha dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext" n="62"><hi rend="paranum">62</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ uppajjati tassa tattha maggasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ tattha samudayasaccaṃ uppajjati, no ca tesaṃ tattha maggasaccaṃ uppajjittha. Abhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ tattha samudayasaccañca uppajjati maggasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjittha tassa tattha samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha maggasaccaṃ uppajjittha, no ca tesaṃ tattha samudayasaccaṃ uppajjati. Abhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ tattha maggasaccañca uppajjittha samudayasaccañca uppajjati.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="63"><hi rend="paranum">63</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjati tassa samudayasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Uppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0328" /> vā pana samudayasaccaṃ nuppajjittha tassa dukkhasaccaṃ nuppajjatīti? Natthi.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nuppajjati tassa maggasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca <pb ed="M" n="1.0224" /> uppādakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ nuppajjittha. Anabhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccañca nuppajjati maggasaccañca nuppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjittha tassa dukkhasaccaṃ nuppajjatīti <pb ed="T" n="1.0298" />?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccaṃ nuppajjittha, no ca tesaṃ dukkhasaccaṃ nuppajjati. Anabhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ maggasaccañca nuppajjittha dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="64"><hi rend="paranum">64</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjati tassa maggasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ tesaṃ samudayasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ nuppajjittha. Anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ samudayasaccañca nuppajjati maggasaccañca nuppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjittha tassa samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ maggasaccaṃ nuppajjittha, no ca tesaṃ samudayasaccaṃ nuppajjati. Anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ maggasaccañca nuppajjittha samudayasaccañca nuppajjati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi> Yattha <pb ed="V" n="1.0329" /> dukkhasaccaṃ nuppajjati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nuppajjati tassa tattha samudayasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ nuppajjati, no ca tesaṃ tattha samudayasaccaṃ nuppajjittha. Suddhāvāsānaṃ <pb ed="T" n="1.0299" /> upapatticittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccañca nuppajjati samudayasaccañca nuppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ nuppajjittha tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha samudayasaccaṃ nuppajjittha, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha samudayasaccañca nuppajjittha dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="M" n="1.0225" /> yattha dukkhasaccaṃ nuppajjati tassa tattha maggasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ nuppajjittha. Suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe anabhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccañca nuppajjati maggasaccañca nuppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0330" /> vā pana yattha maggasaccaṃ nuppajjittha tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa uppādakkhaṇe anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha maggasaccaṃ nuppajjittha, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe anabhisametāvīnaṃ <pb ed="T" n="1.0300" /> cavantānaṃ pavatte cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha maggasaccañca nuppajjittha dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ nuppajjati tassa tattha maggasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ nuppajjittha. Suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca nuppajjittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjittha tassa tattha samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ tattha maggasaccaṃ nuppajjittha, no ca tesaṃ tattha samudayasaccaṃ nuppajjati. Suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjittha samudayasaccañca nuppajjati.</p>
+
+<p rend="title">(5) Paccuppannānāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ uppajjati tassa samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati, no ca tesaṃ samudayasaccaṃ <pb ed="T" n="1.0301" /> uppajjissati <pb ed="V" n="1.0331" />. Itaresaṃ upapajjantānaṃ <pb ed="M" n="1.0226" /> pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati samudayasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ uppajjissati tassa dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ samudayasaccaṃ uppajjissati, no ca tesaṃ dukkhasaccaṃ uppajjati. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ samudayasaccañca uppajjissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ uppajjati tassa maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati, no ca tesaṃ maggasaccaṃ uppajjissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ uppajjissati tassa dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ maggasaccaṃ <pb ed="T" n="1.0302" /> uppajjissati, no ca tesaṃ dukkhasaccaṃ uppajjati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccañca uppajjissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0332" /> samudayasaccaṃ uppajjati tassa maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ samudayasaccaṃ uppajjati, no ca tesaṃ maggasaccaṃ uppajjissati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ samudayasaccañca uppajjati maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ uppajjissati tassa samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye <note>paṭilabhissanti tassa cittassa uppādakkhaṇe ye (sī. syā.) puggalokāsavārepi</note> caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ maggasaccaṃ uppajjissati, no ca tesaṃ samudayasaccaṃ uppajjati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya <pb ed="M" n="1.0227" /> uppādakkhaṇe tesaṃ maggasaccañca uppajjissati samudayasaccañca uppajjati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ uppajjati…pe… (yatthakampi yassayatthakasadisaṃ kātabbaṃ).</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ uppajjati tassa tattha samudayasaccaṃ uppajjissatīti <pb ed="T" n="1.0303" />?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccaṃ uppajjati, no ca tesaṃ tattha samudayasaccaṃ uppajjissati. Itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha dukkhasaccañca uppajjati samudayasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0333" /> vā pana yattha samudayasaccaṃ uppajjissati tassa tattha dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha samudayasaccaṃ uppajjissati, no ca tesaṃ tattha dukkhasaccaṃ uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha samudayasaccañca uppajjissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ uppajjati tassa tattha maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccaṃ uppajjati, no ca tesaṃ tattha maggasaccaṃ uppajjissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti <pb ed="T" n="1.0304" /> tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha dukkhasaccañca uppajjati maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjissati tassa tattha dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa <pb ed="M" n="1.0228" /> ca phalassa ca uppādakkhaṇe tesaṃ tattha maggasaccaṃ uppajjissati, no ca tesaṃ tattha dukkhasaccaṃ uppajjati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha maggasaccañca uppajjissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0334" /> yattha samudayasaccaṃ uppajjati tassa tattha maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ tattha samudayasaccaṃ uppajjati, no ca tesaṃ tattha maggasaccaṃ uppajjissati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ tattha samudayasaccañca uppajjati maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjissati tassa tattha samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe <pb ed="T" n="1.0305" /> taṇhāvippayuttacitte vattamāne tesaṃ tattha maggasaccaṃ uppajjissati, no ca tesaṃ tattha samudayasaccaṃ uppajjati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ tattha maggasaccañca uppajjissati samudayasaccañca uppajjati.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjati tassa samudayasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ samudayasaccaṃ nuppajjissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccañca nuppajjati samudayasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nuppajjissati tassa dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ samudayasaccaṃ nuppajjissati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe <pb ed="V" n="1.0335" /> arūpe aggamaggassa ca phalassa ca uppādakkhaṇe tesaṃ samudayasaccañca nuppajjissati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="M" n="1.0229" /> dukkhasaccaṃ nuppajjati tassa maggasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Yassa <pb ed="T" n="1.0306" /> cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ nuppajjissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccañca nuppajjati maggasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjissati tassa dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccaṃ nuppajjissati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe tesaṃ maggasaccañca nuppajjissati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjati tassa maggasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissānti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ <pb ed="T" n="1.0307" /> asaññasattānaṃ tesaṃ samudayasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ nuppajjissati. Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte <pb ed="V" n="1.0336" /> vattamāne tesaṃ samudayasaccañca nuppajjati maggasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjissati tassa samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ maggasaccaṃ nuppajjissati, no ca tesaṃ samudayasaccaṃ nuppajjati. Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ maggasaccañca nuppajjissati samudayasaccañca nuppajjati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nuppajjati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="M" n="1.0230" /> yattha dukkhasaccaṃ nuppajjati tassa tattha samudayasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ nuppajjati, no ca tesaṃ tattha samudayasaccaṃ nuppajjissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ arūpe aggamaggassa ca phalassa ca uppādakkhaṇe tesaṃ <pb ed="T" n="1.0308" /> tattha dukkhasaccañca nuppajjati samudayasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ nuppajjissati tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa <pb ed="V" n="1.0337" /> cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha samudayasaccaṃ nuppajjissati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha samudayasaccañca nuppajjissati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ nuppajjati tassa tattha maggasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ nuppajjissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe asaññattā cavantānaṃ arūpe aggamaggassa ca phalassa ca uppādakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccañca nuppajjati maggasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjissati <pb ed="T" n="1.0309" /> tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha maggasaccaṃ nuppajjissati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa <pb ed="M" n="1.0231" /> bhaṅgakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha maggasaccañca nuppajjissati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0338" /> yattha samudayasaccaṃ nuppajjati tassa tattha maggasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ nuppajjissati. Aggamaggasamaṅgīnaṃ arahantānaṃ, āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ <pb ed="T" n="1.0310" /> tattha maggasaccaṃ nuppajjissati, no ca tesaṃ tattha samudayasaccaṃ nuppajjati. Aggamaggasamaṅgīnaṃ arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjissati samudayasaccañca nuppajjati.</p>
+
+<p rend="title">(6) Atītānāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjittha, no ca tesaṃ samudayasaccaṃ uppajjissati. Itaresaṃ tesaṃ dukkhasaccañca uppajjittha samudayasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ uppajjissati tassa dukkhasaccaṃ uppajjitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ uppajjittha tassa maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjittha, no ca tesaṃ maggasaccaṃ uppajjissati <pb ed="V" n="1.0339" />. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <pb ed="M" n="1.0232" /> ye caññe maggaṃ paṭilabhissanti tesaṃ dukkhasaccañca uppajjittha maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ uppajjittha tassa maggasaccaṃ uppajjissatīti <pb ed="T" n="1.0311" />? Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ samudayasaccaṃ uppajjittha, no ca tesaṃ maggasaccaṃ uppajjissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti, ye caññe maggaṃ paṭilabhissanti tesaṃ samudayasaccañca uppajjittha maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ uppajjittha…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ uppajjittha tassa tattha samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ uppajjittha, no ca tesaṃ tattha samudayasaccaṃ uppajjissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha dukkhasaccañca uppajjittha samudayasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ uppajjissati tassa tattha dukkhasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha samudayasaccaṃ uppajjissati, no <pb ed="V" n="1.0340" /> ca tesaṃ tattha dukkhasaccaṃ uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha samudayasaccañca uppajjissati dukkhasaccañca uppajjittha.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ uppajjittha tassa tattha maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ <pb ed="T" n="1.0312" /> uppajjittha, no ca tesaṃ tattha maggasaccaṃ uppajjissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ tattha dukkhasaccañca uppajjittha maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjissati tassa tattha dukkhasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha maggasaccaṃ uppajjissati, no ca tesaṃ tattha dukkhasaccaṃ uppajjittha. Yassa cittassa <pb ed="M" n="1.0233" /> anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ tattha maggasaccañca uppajjissati dukkhasaccañca uppajjittha.</p>
+
+<p rend="bodytext" n="82"><hi rend="paranum">82</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ uppajjittha tassa tattha maggasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ tesaṃ tattha samudayasaccaṃ uppajjittha, no ca tesaṃ tattha maggasaccaṃ uppajjissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ tattha samudayasaccañca uppajjittha maggasaccañca uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ uppajjissati tassa tattha samudayasaccaṃ uppajjitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha maggasaccaṃ uppajjissati, no ca tesaṃ tattha samudayasaccaṃ uppajjittha. Yassa cittassa <pb ed="V" n="1.0341" /> anantarā aggamaggaṃ <pb ed="T" n="1.0313" /> paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ tattha maggasaccañca uppajjissati samudayasaccañca uppajjittha.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="83"><hi rend="paranum">83</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjittha tassa samudayasaccaṃ nuppajjissatīti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nuppajjissati tassa dukkhasaccaṃ nuppajjitthāti? Uppajjittha.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nuppajjittha tassa maggasaccaṃ nuppajjissatīti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjissati tassa dukkhasaccaṃ nuppajjitthāti? Uppajjittha.</p>
+
+<p rend="bodytext" n="84"><hi rend="paranum">84</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjittha tassa maggasaccaṃ nuppajjissatīti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nuppajjissati tassa samudayasaccaṃ nuppajjitthāti? Uppajjittha.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="85"><hi rend="paranum">85</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nuppajjittha…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="86"><hi rend="paranum">86</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nuppajjittha tassa tattha samudayasaccaṃ nuppajjissatīti? Uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ nuppajjissati tassa tattha dukkhasaccaṃ nuppajjitthāti? Uppajjittha.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="V" n="1.0342" /><pb ed="M" n="1.0234" /> yattha dukkhasaccaṃ nuppajjittha tassa tattha maggasaccaṃ nuppajjissatīti? Uppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha dukkhasaccaṃ nuppajjitthāti? Uppajjittha.</p>
+
+<p rend="bodytext" n="87"><hi rend="paranum">87</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="T" n="1.0314" /> yattha samudayasaccaṃ nuppajjittha tassa tattha maggasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha samudayasaccaṃ nuppajjittha, no ca tesaṃ tattha maggasaccaṃ nuppajjissati. Asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjittha maggasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha samudayasaccaṃ nuppajjitthāti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ tesaṃ tattha maggasaccaṃ nuppajjissati, no ca tesaṃ tattha samudayasaccaṃ nuppajjittha. Asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjissati samudayasaccañca nuppajjittha.</p>
+
+<p rend="centre">Uppādavāro.</p>
+
+<p rend="title">2. Pavatti 2. nirodhavāro</p>
+
+<p rend="title">(1) Paccuppannavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nirujjhati tassa samudayasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte taṇhāvippayuttacittassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ <pb ed="V" n="1.0343" /> nirujjhati, no ca tesaṃ samudayasaccaṃ nirujjhati. Taṇhāya bhaṅgakkhaṇe tesaṃ dukkhasaccañca nirujjhati samudayasaccañca nirujjhati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nirujjhati tassa dukkhasaccaṃ nirujjhatīti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nirujjhati tassa maggasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte maggavippayuttacittassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ nirujjhati, no ca tesaṃ maggasaccaṃ nirujjhati. Pañcavokāre maggassa bhaṅgakkhaṇe tesaṃ dukkhasaccañca nirujjhati maggasaccañca nirujjhati <pb ed="T" n="1.0315" />.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhati tassa dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Arūpe maggassa bhaṅgakkhaṇe tesaṃ maggasaccaṃ nirujjhati, no <pb ed="M" n="1.0235" /> ca tesaṃ dukkhasaccaṃ nirujjhati. Pañcavokāre maggassa bhaṅgakkhaṇe tesaṃ maggasaccañca nirujjhati dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext" n="89"><hi rend="paranum">89</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nirujjhati tassa maggasaccaṃ nirujjhatīti? No.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhati tassa samudayasaccaṃ nirujjhatīti? No.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="90"><hi rend="paranum">90</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nirujjhati tattha samudayasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Asaññasatte tattha dukkhasaccaṃ nirujjhati…pe….</p>
+
+<p rend="bodytext">(Yatthakaṃ uppādepi nirodhepi uppādanirodhepi sadisaṃ, natthi nānākaraṇaṃ).</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="91"><hi rend="paranum">91</hi><hi rend="dot">.</hi> Yassa yattha dukkhasaccaṃ nirujjhati…pe….</p>
+
+<p rend="centre">(Yassayatthakampi sadisaṃ vitthāretabbaṃ).</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="92"><hi rend="paranum">92</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0344" /> dukkhasaccaṃ na nirujjhati tassa samudayasaccaṃ na nirujjhatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ na nirujjhati tassa dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte taṇhāvippayuttacittassa bhaṅgakkhaṇe tesaṃ samudayasaccaṃ na nirujjhati, no ca tesaṃ dukkhasaccaṃ na nirujjhati. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ samudayasaccañca na nirujjhati dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ na nirujjhati tassa maggasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Arūpe <pb ed="T" n="1.0316" /> maggassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ na nirujjhati, no ca tesaṃ maggasaccaṃ na nirujjhati. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe phalassa bhaṅgakkhaṇe tesaṃ dukkhasaccañca na nirujjhati maggasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhati tassa dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte maggavippayuttacittassa bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhati, no ca tesaṃ dukkhasaccaṃ na nirujjhati. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe <pb ed="M" n="1.0236" /> arūpe phalassa bhaṅgakkhaṇe tesaṃ maggasaccañca na nirujjhati dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext" n="93"><hi rend="paranum">93</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ na nirujjhati tassa maggasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Maggassa bhaṅgakkhaṇe tesaṃ samudayasaccaṃ na nirujjhati, no ca tesaṃ maggasaccaṃ na nirujjhati. Sabbesaṃ cittassa uppādakkhaṇe taṇhāvippayuttamaggavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ <pb ed="V" n="1.0345" /> tesaṃ samudayasaccañca na nirujjhati maggasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhati tassa samudayasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhati, no ca tesaṃ samudayasaccaṃ na nirujjhati. Sabbesaṃ cittassa uppādakkhaṇe maggavippayuttataṇhāvippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ maggasaccañca na nirujjhati samudayasaccañca na nirujjhati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="94"><hi rend="paranum">94</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ na nirujjhati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi> Yassa <pb ed="T" n="1.0317" /> yattha dukkhasaccaṃ na nirujjhati…pe….</p>
+
+<p rend="bodytext">(Yassakampi <note>yassakampi yatthakampi (sī. syā.)</note> yassayatthakampi sadisaṃ, yassayatthakepi nirodhasamāpannānanti cetaṃ na kātabbaṃ).</p>
+
+<p rend="title">(2) Atītavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="96"><hi rend="paranum">96</hi><hi rend="dot">.</hi> Yassa dukkhasaccaṃ nirujjhittha tassa samudayasaccaṃ nirujjhitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Yathā uppādavāre atītā pucchā anulomampi paccanīkampi vibhattā evaṃ nirodhepi vibhajitabbā, natthi nānākaraṇaṃ).</p>
+
+<p rend="title">(3) Anāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="97"><hi rend="paranum">97</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0346" /><pb ed="M" n="1.0237" /> dukkhasaccaṃ nirujjhissati tassa samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <note>paṭilabhissanti tassa cittassa uppādakkhaṇe (sī. syā.) uppādavāre pana pāṭhantaraṃ natthi</note> tesaṃ dukkhasaccaṃ nirujjhissati, no ca tesaṃ samudayasaccaṃ nirujjhissati. Itaresaṃ tesaṃ dukkhasaccañca nirujjhissati samudayasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nirujjhissati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ dukkhasaccaṃ nirujjhissati, no ca tesaṃ maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ dukkhasaccañca nirujjhissati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe… <pb ed="T" n="1.0318" />. Āmantā.</p>
+
+<p rend="bodytext" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nirujjhissati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ samudayasaccaṃ nirujjhissati, no ca tesaṃ maggasaccaṃ nirujjhissati. Ye maggaṃ paṭilabhissanti tesaṃ samudayasaccañca nirujjhissati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhissati tassa samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ maggasaccaṃ nirujjhissati, no ca tesaṃ samudayasaccaṃ <pb ed="V" n="1.0347" /> nirujjhissati. Ye maggaṃ paṭilabhissanti tesaṃ maggasaccañca nirujjhissati samudayasaccañca nirujjhissati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nirujjhissati…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="100"><hi rend="paranum">100</hi><hi rend="dot">.</hi> Yassa yattha dukkhasaccaṃ nirujjhissati tassa tattha samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <pb ed="M" n="1.0238" /> asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ nirujjhissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha dukkhasaccañca nirujjhissati samudayasaccañca nirujjhissati…pe….</p>
+
+<p rend="centre">(Yassakampi yassayatthakampi sadisaṃ).</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="101"><hi rend="paranum">101</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ na nirujjhissati tassa samudayasaccaṃ na nirujjhissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ na nirujjhissati tassa dukkhasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa <pb ed="T" n="1.0319" /> anantarā aggamaggaṃ paṭilabhissanti tesaṃ samudayasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe tesaṃ samudayasaccañca na nirujjhissati dukkhasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="V" n="1.0348" /> dukkhasaccaṃ na nirujjhissati tassa maggasaccaṃ na nirujjhissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa dukkhasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe tesaṃ maggasaccañca na nirujjhissati dukkhasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext" n="102"><hi rend="paranum">102</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ na nirujjhissati tassa maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ samudayasaccaṃ na nirujjhissati, no ca tesaṃ maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ samudayasaccañca na nirujjhissati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa samudayasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ samudayasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ maggasaccañca na nirujjhissati samudayasaccañca na nirujjhissati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="103"><hi rend="paranum">103</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ na nirujjhissati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="104"><hi rend="paranum">104</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="T" n="1.0320" /><pb ed="M" n="1.0239" /> yattha dukkhasaccaṃ na nirujjhissati tassa tattha samudayasaccaṃ na nirujjhissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0349" /> vā pana yattha samudayasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha samudayasaccaṃ na nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha samudayasaccañca na nirujjhissati dukkhasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ na nirujjhissati tassa tattha maggasaccaṃ na nirujjhissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ asaññasattānaṃ tesaṃ tattha maggasaccaṃ na nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha maggasaccañca na nirujjhissati dukkhasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext" n="105"><hi rend="paranum">105</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ na nirujjhissati tassa tattha maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha samudayasaccaṃ na nirujjhissati, no ca tesaṃ tattha maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha samudayasaccañca na nirujjhissati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ <pb ed="T" n="1.0321" /> na nirujjhissati tassa tattha samudayasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ tattha maggasaccaṃ na nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca na nirujjhissati.</p>
+
+<p rend="title">(4) Paccuppannātītavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="106"><hi rend="paranum">106</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0350" /> dukkhasaccaṃ nirujjhati tassa samudayasaccaṃ nirujjhitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nirujjhittha tassa dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ <pb ed="M" n="1.0240" /> upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ samudayasaccaṃ nirujjhittha, no ca tesaṃ dukkhasaccaṃ nirujjhati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ samudayasaccañca nirujjhittha dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nirujjhati tassa maggasaccaṃ nirujjhitthāti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ nirujjhati, no ca tesaṃ maggasaccaṃ nirujjhittha. Abhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccañca nirujjhati maggasaccañca nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhittha tassa dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ maggasaccaṃ nirujjhittha, no ca tesaṃ dukkhasaccaṃ nirujjhati. Abhisametāvīnaṃ cavantānaṃ pavatte <pb ed="T" n="1.0322" /> cittassa bhaṅgakkhaṇe tesaṃ maggasaccañca nirujjhittha dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext" n="107"><hi rend="paranum">107</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nirujjhati tassa maggasaccaṃ nirujjhitthāti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ samudayasaccaṃ nirujjhati, no ca tesaṃ maggasaccaṃ nirujjhittha. Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ samudayasaccañca nirujjhati maggasaccañca nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0351" /> vā pana maggasaccaṃ nirujjhittha tassa samudayasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ tesaṃ maggasaccaṃ nirujjhittha, no ca tesaṃ samudayasaccaṃ nirujjhati. Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccañca nirujjhittha samudayasaccañca nirujjhati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="108"><hi rend="paranum">108</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nirujjhati…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="109"><hi rend="paranum">109</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nirujjhati tassa tattha samudayasaccaṃ nirujjhitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccaṃ nirujjhati, no ca tesaṃ tattha samudayasaccaṃ nirujjhittha. Itaresaṃ catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha dukkhasaccañca nirujjhati samudayasaccañca nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā <pb ed="M" n="1.0241" /> pana yattha samudayasaccaṃ nirujjhittha tassa tattha dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca <pb ed="T" n="1.0323" /> phalassa ca bhaṅgakkhaṇe tesaṃ tattha samudayasaccaṃ nirujjhittha, no ca tesaṃ tattha dukkhasaccaṃ nirujjhati. Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha samudayasaccañca nirujjhittha dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ nirujjhati tassa tattha maggasaccaṃ nirujjhitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe anabhisametāvīnaṃ cavantānaṃ <pb ed="V" n="1.0352" /> pavatte cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccaṃ nirujjhati, no ca tesaṃ tattha maggasaccaṃ nirujjhittha. Abhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha dukkhasaccañca nirujjhati maggasaccañca nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nirujjhittha tassa tattha dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha maggasaccaṃ nirujjhittha, no ca tesaṃ tattha dukkhasaccaṃ nirujjhati. Abhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha maggasaccañca nirujjhittha dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext" n="110"><hi rend="paranum">110</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ nirujjhati tassa tattha maggasaccaṃ nirujjhitthāti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha samudayasaccaṃ nirujjhati, no ca tesaṃ tattha maggasaccaṃ nirujjhittha. Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha samudayasaccañca nirujjhati maggasaccañca <pb ed="T" n="1.0324" /> nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nirujjhittha tassa tattha samudayasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha maggasaccaṃ nirujjhittha, no ca tesaṃ tattha samudayasaccaṃ nirujjhati. Abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha maggasaccañca nirujjhittha samudayasaccañca nirujjhati.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="111"><hi rend="paranum">111</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ na nirujjhati tassa samudayasaccaṃ na nirujjhitthāti? Nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ na nirujjhittha tassa dukkhasaccaṃ na nirujjhatīti? Natthi.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="V" n="1.0353" /><pb ed="M" n="1.0242" /> dukkhasaccaṃ na nirujjhati tassa maggasaccaṃ na nirujjhitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ na nirujjhati, no ca tesaṃ maggasaccaṃ na nirujjhittha. Anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca na nirujjhati maggasaccañca na nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhittha tassa dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhittha, no ca tesaṃ dukkhasaccaṃ na nirujjhati. Anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccañca na nirujjhittha dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="T" n="1.0325" /> samudayasaccaṃ na nirujjhati tassa maggasaccaṃ na nirujjhitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ tesaṃ samudayasaccaṃ na nirujjhati, no ca tesaṃ maggasaccaṃ na nirujjhittha. Anabhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ samudayasaccañca na nirujjhati maggasaccañca na nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhittha tassa samudayasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhittha, no ca tesaṃ samudayasaccaṃ na nirujjhati. Anabhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ maggasaccañca na nirujjhittha samudayasaccañca na nirujjhati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi> Yattha <pb ed="V" n="1.0354" /> dukkhasaccaṃ na nirujjhati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="114"><hi rend="paranum">114</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ na nirujjhati tassa tattha samudayasaccaṃ na nirujjhitthāti?</p>
+
+<p rend="bodytext">Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha dukkhasaccaṃ na nirujjhati, no ca tesaṃ tattha samudayasaccaṃ na nirujjhittha. Suddhāvāsānaṃ upapatticittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccañca na nirujjhati samudayasaccañca na nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha <pb ed="M" n="1.0243" /> samudayasaccaṃ na nirujjhittha tassa tattha dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe <pb ed="T" n="1.0326" /> asaññasattā cavantānaṃ tesaṃ tattha samudayasaccaṃ na nirujjhittha, no ca tesaṃ tattha dukkhasaccaṃ na nirujjhati. Suddhāvāsānaṃ upapatticittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha samudayasaccañca na nirujjhittha dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ na nirujjhati tassa tattha maggasaccaṃ na nirujjhitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha dukkhasaccaṃ na nirujjhati, no ca tesaṃ tattha maggasaccaṃ na nirujjhittha. Suddhāvāsānaṃ upapatticittassa uppādakkhaṇe anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa <pb ed="V" n="1.0355" /> uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccañca na nirujjhati maggasaccañca na nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhittha tassa tattha dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe anabhisametāvīnaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha maggasaccaṃ na nirujjhittha, no ca tesaṃ tattha dukkhasaccaṃ na nirujjhati. Suddhāvāsānaṃ upapatticittassa uppādakkhaṇe anabhisametāvīnaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha maggasaccañca na nirujjhittha dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext" n="115"><hi rend="paranum">115</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ na nirujjhati tassa tattha maggasaccaṃ na <pb ed="T" n="1.0327" /> nirujjhitthāti?</p>
+
+<p rend="bodytext">Abhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ na nirujjhati, no ca tesaṃ tattha maggasaccaṃ na nirujjhittha. Suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca na nirujjhati maggasaccañca na nirujjhittha.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhittha tassa tattha samudayasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha maggasaccaṃ na nirujjhittha, no ca tesaṃ tattha samudayasaccaṃ na nirujjhati. Suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhittha samudayasaccañca na nirujjhati.</p>
+
+<p rend="title">(5) Paccuppannānāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="116"><hi rend="paranum">116</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0356" /><pb ed="M" n="1.0244" /> dukkhasaccaṃ nirujjhati tassa samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ nirujjhati, no ca tesaṃ samudayasaccaṃ nirujjhissati. Itaresaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccañca nirujjhati samudayasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nirujjhissati tassa dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ upapajjantānaṃ <pb ed="T" n="1.0328" /> pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ samudayasaccaṃ nirujjhissati, no ca tesaṃ dukkhasaccaṃ nirujjhati. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ samudayasaccañca nirujjhissati dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nirujjhati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ nirujjhati, no ca tesaṃ maggasaccaṃ nirujjhissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccañca nirujjhati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhissati tassa dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <pb ed="V" n="1.0357" /> tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ maggasaccaṃ nirujjhissati, no ca tesaṃ dukkhasaccaṃ nirujjhati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ maggasaccañca nirujjhissati dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext" n="117"><hi rend="paranum">117</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="T" n="1.0329" /> samudayasaccaṃ nirujjhati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ samudayasaccaṃ <pb ed="M" n="1.0245" /> nirujjhati, no ca tesaṃ maggasaccaṃ nirujjhissati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ samudayasaccañca nirujjhati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhissati tassa samudayasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ maggasaccaṃ nirujjhissati, no ca tesaṃ samudayasaccaṃ nirujjhati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccañca nirujjhissati samudayasaccañca nirujjhati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="118"><hi rend="paranum">118</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nirujjhati…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0358" /> yattha dukkhasaccaṃ nirujjhati tassa tattha samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccaṃ nirujjhati, no ca tesaṃ tattha samudayasaccaṃ nirujjhissati. Itaresaṃ catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha dukkhasaccañca nirujjhati samudayasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha <pb ed="T" n="1.0330" /> samudayasaccaṃ nirujjhissati tassa tattha dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha samudayasaccaṃ nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ nirujjhati. Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha samudayasaccañca nirujjhissati dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ nirujjhati tassa tattha maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccaṃ nirujjhati, no ca tesaṃ tattha maggasaccaṃ nirujjhissati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <pb ed="M" n="1.0246" /> tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha dukkhasaccañca nirujjhati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0359" /> vā pana yattha maggasaccaṃ nirujjhissati tassa tattha dukkhasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha maggasaccaṃ nirujjhissati <pb ed="T" n="1.0331" />, no ca tesaṃ tattha dukkhasaccaṃ nirujjhati. Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha maggasaccañca nirujjhissati dukkhasaccañca nirujjhati.</p>
+
+<p rend="bodytext" n="120"><hi rend="paranum">120</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ nirujjhati tassa tattha maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha samudayasaccaṃ nirujjhati, no ca tesaṃ tattha maggasaccaṃ nirujjhissati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha samudayasaccañca nirujjhati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nirujjhissati tassa tattha samudayasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha maggasaccaṃ nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ nirujjhati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha maggasaccañca nirujjhissati samudayasaccañca nirujjhati.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="121"><hi rend="paranum">121</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ na nirujjhati tassa samudayasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe <pb ed="T" n="1.0332" /> maggassa <pb ed="V" n="1.0360" /> ca phalassa ca bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ na nirujjhati, no ca tesaṃ samudayasaccaṃ na nirujjhissati. Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ dukkhasaccañca <pb ed="M" n="1.0247" /> na nirujjhati samudayasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ na nirujjhissati tassa dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ samudayasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ na nirujjhati. Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ samudayasaccañca na nirujjhissati dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ na nirujjhati tassa maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ na nirujjhati, no ca tesaṃ maggasaccaṃ na nirujjhissati. Arahantānaṃ cittassa uppādakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ <pb ed="T" n="1.0333" /> upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ dukkhasaccañca na nirujjhati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe ye ca puthujjanā <pb ed="V" n="1.0361" /> maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ na nirujjhati. Arahantānaṃ cittassa uppādakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ maggasaccañca na nirujjhissati dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext" n="122"><hi rend="paranum">122</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ na nirujjhati tassa maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ samudayasaccaṃ na nirujjhati, no ca tesaṃ maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya <pb ed="M" n="1.0248" /> uppādakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ samudayasaccañca na nirujjhati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa <pb ed="T" n="1.0334" /> samudayasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ samudayasaccaṃ na nirujjhati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne <note>vattamāne, nirodhasamāpannānaṃ asaññasattānaṃ (sī. syā.)</note> tesaṃ maggasaccañca na nirujjhissati samudayasaccañca na nirujjhati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="123"><hi rend="paranum">123</hi><hi rend="dot">.</hi> Yattha <pb ed="V" n="1.0362" /> dukkhasaccaṃ na nirujjhati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="124"><hi rend="paranum">124</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ na nirujjhati tassa tattha samudayasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha dukkhasaccaṃ na nirujjhati, no ca tesaṃ tattha samudayasaccaṃ na nirujjhissati. Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccañca na nirujjhati samudayasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha samudayasaccaṃ na nirujjhissati, no ca tesaṃ tattha <pb ed="T" n="1.0335" /> dukkhasaccaṃ na nirujjhati. Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha samudayasaccañca na nirujjhissati dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ na nirujjhati tassa tattha maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa <pb ed="V" n="1.0363" /> uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa <pb ed="M" n="1.0249" /> cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe maggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha dukkhasaccaṃ na nirujjhati, no ca tesaṃ tattha maggasaccaṃ na nirujjhissati. Arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe tesaṃ tattha dukkhasaccañca na nirujjhati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha maggasaccaṃ na nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ <pb ed="T" n="1.0336" /> na nirujjhati. Arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe aggamaggassa ca phalassa ca bhaṅgakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha maggasaccañca na nirujjhissati dukkhasaccañca na nirujjhati.</p>
+
+<p rend="bodytext" n="125"><hi rend="paranum">125</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ na nirujjhati tassa tattha maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ na nirujjhati, no ca tesaṃ tattha maggasaccaṃ na nirujjhissati. Aggamaggassa <pb ed="V" n="1.0364" /> bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca na nirujjhati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha samudayasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha maggasaccaṃ na nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ na nirujjhati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha <pb ed="T" n="1.0337" /> maggasaccañca na nirujjhissati samudayasaccañca na nirujjhiti.</p>
+
+<p rend="title">(6) Atītānāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="126"><hi rend="paranum">126</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="M" n="1.0250" /> dukkhasaccaṃ nirujjhittha tassa samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ nirujjhittha, no ca tesaṃ samudayasaccaṃ nirujjhissati. Itaresaṃ tesaṃ dukkhasaccañca nirujjhittha samudayasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nirujjhittha tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ dukkhasaccaṃ nirujjhittha, no ca tesaṃ maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ <pb ed="V" n="1.0365" /> paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ dukkhasaccañca nirujjhittha maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext" n="127"><hi rend="paranum">127</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nirujjhittha tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ samudayasaccaṃ nirujjhittha, no ca tesaṃ maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ samudayasaccañca nirujjhittha maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā <pb ed="T" n="1.0338" /> pana…pe…? Āmantā.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="128"><hi rend="paranum">128</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nirujjhittha…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nirujjhittha tassa tattha samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ nirujjhittha, no ca tesaṃ tattha samudayasaccaṃ nirujjhissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha dukkhasaccañca nirujjhittha samudayasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ nirujjhissati tassa tattha dukkhasaccaṃ nirujjhitthāti <pb ed="M" n="1.0251" />?</p>
+
+<p rend="bodytext">Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha samudayasaccaṃ nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ nirujjhittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ <pb ed="V" n="1.0366" /> tesaṃ tattha samudayasaccañca nirujjhissati dukkhasaccañca nirujjhittha.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ nirujjhittha tassa tattha maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ asaññasattānaṃ tesaṃ tattha dukkhasaccaṃ nirujjhittha, no ca tesaṃ tattha maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ tattha dukkhasaccañca nirujjhittha maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nirujjhissati tassa tattha dukkhasaccaṃ nirujjhitthāti?</p>
+
+<p rend="bodytext">Suddhāvāsaṃ upapajjantānaṃ <pb ed="T" n="1.0339" /> tesaṃ tattha maggasaccaṃ nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ nirujjhittha. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ tattha maggasaccañca nirujjhissati dukkhasaccañca nirujjhittha.</p>
+
+<p rend="bodytext" n="130"><hi rend="paranum">130</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ nirujjhittha tassa tattha maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ tesaṃ tattha samudayasaccaṃ nirujjhittha, no ca tesaṃ tattha maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ tattha samudayasaccañca nirujjhittha maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nirujjhissati tassa tattha samudayasaccaṃ nirujjhitthāti.</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha maggasaccaṃ nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ nirujjhittha. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <pb ed="V" n="1.0367" /> ye caññe maggaṃ paṭilabhissanti tesaṃ tattha maggasaccañca nirujjhissati samudayasaccañca nirujjhittha.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ na nirujjhittha tassa samudayasaccaṃ na nirujjhissatīti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ na nirujjhissati tassa dukkhasaccaṃ na nirujjhitthāti? Nirujjhittha.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="M" n="1.0252" /> dukkhasaccaṃ na nirujjhittha tassa maggasaccaṃ na nirujjhissatīti <pb ed="T" n="1.0340" />? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa dukkhasaccaṃ na nirujjhitthāti? Nirujjhittha.</p>
+
+<p rend="bodytext" n="132"><hi rend="paranum">132</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ na nirujjhittha tassa maggasaccaṃ na nirujjhissatīti? Natthi.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa samudayasaccaṃ na nirujjhitthāti? Nirujjhittha.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="133"><hi rend="paranum">133</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ na nirujjhittha…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="134"><hi rend="paranum">134</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ na nirujjhittha tassa tattha samudayasaccaṃ na nirujjhissatīti? Nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ na nirujjhitthāti? Nirujjhittha.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="V" n="1.0368" /> yattha dukkhasaccaṃ na nirujjhittha tassa tattha maggasaccaṃ na nirujjhissatīti? Nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ na nirujjhitthāti? Nirujjhittha.</p>
+
+<p rend="bodytext" n="135"><hi rend="paranum">135</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ na nirujjhittha tassa tattha maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha samudayasaccaṃ na nirujjhittha, no ca tesaṃ tattha maggasaccaṃ na nirujjhissati. Asaññasattānaṃ tesaṃ tattha samudayasaccañca na nirujjhittha maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha samudayasaccaṃ na nirujjhitthāti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ tesaṃ tattha maggasaccaṃ na nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ <pb ed="T" n="1.0341" /> na nirujjhittha. Asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca na nirujjhittha.</p>
+
+<p rend="centre">Nirodhavāro.</p>
+
+<p rend="title">2. Pavatti 3. uppādanirodhavāro</p>
+
+<p rend="title">(1) Paccuppannavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="136"><hi rend="paranum">136</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0369" /><pb ed="M" n="1.0253" /> dukkhasaccaṃ uppajjati tassa samudayasaccaṃ nirujjhatīti? No.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ nirujjhati tassa dukkhasaccaṃ uppajjatīti? No.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ uppajjati tassa maggasaccaṃ nirujjhatīti? No.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhati tassa dukkhasaccaṃ uppajjatīti? No.</p>
+
+<p rend="bodytext" n="137"><hi rend="paranum">137</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ uppajjati tassa maggasaccaṃ nirujjhatīti? No.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhati tassa samudayasaccaṃ uppajjatīti? No.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="138"><hi rend="paranum">138</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ uppajjati tattha samudayasaccaṃ nirujjhatīti?</p>
+
+<p rend="bodytext">Asaññasatte tattha dukkhasaccaṃ uppajjati, no ca tattha samudayasaccaṃ nirujjhati…pe….</p>
+
+<p rend="bodytext">(Yatthakaṃ uppādavārepi nirodhavārepi uppādanirodhavārepi sadisaṃ natthi nānākaraṇaṃ).</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="139"><hi rend="paranum">139</hi><hi rend="dot">.</hi> Yassa <pb ed="V" n="1.0370" /> yattha dukkhasaccaṃ uppajjati tassa tattha samudayasaccaṃ nirujjhatīti? No.</p>
+
+<p rend="centre">(Yassakampi yassayatthakampi sadisaṃ).</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjati tassa samudayasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Taṇhāya bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ samudayasaccaṃ na nirujjhati. Sabbesaṃ cavantānaṃ pavatte taṇhāvippayuttacittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccañca nuppajjati samudayasaccañca <pb ed="M" n="1.0254" /> na nirujjhati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ na nirujjhati tassa dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ <pb ed="T" n="1.0342" /> upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ samudayasaccaṃ na nirujjhati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte taṇhāvippayuttacittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ samudayasaccañca na nirujjhati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nuppajjati tassa maggasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Maggassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ na nirujjhati. Sabbesaṃ cavantānaṃ pavatte maggavippayuttacittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccañca nuppajjati maggasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0371" /> vā pana maggasaccaṃ na nirujjhati tassa dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccaṃ na nirujjhati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Sabbesaṃ cavantānaṃ pavatte maggavippayuttacittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ maggasaccañca na nirujjhati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="141"><hi rend="paranum">141</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjati tassa maggasaccaṃ na nirujjhatīti?</p>
+
+<p rend="bodytext">Maggassa bhaṅgakkhaṇe tesaṃ samudayasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ na nirujjhati. Taṇhāvippayuttacittassa uppādakkhaṇe maggavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ samudayasaccañca nuppajjati maggasaccañca na nirujjhati.</p>
+
+<p rend="bodytext">(Kha) yassa vā <pb ed="T" n="1.0343" /> pana maggasaccaṃ na nirujjhati tassa samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Taṇhāya uppādakkhaṇe tesaṃ maggasaccaṃ na nirujjhati, no ca tesaṃ samudayasaccaṃ nuppajjati. Maggavippayuttacittassa bhaṅgakkhaṇe taṇhāvippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ maggasaccañca na nirujjhati samudayasaccañca nuppajjati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="142"><hi rend="paranum">142</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nuppajjati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="143"><hi rend="paranum">143</hi><hi rend="dot">.</hi> Yassa yattha dukkhasaccaṃ nuppajjati…pe….</p>
+
+<p rend="bodytext">(Yassakampi yassayatthakampi sadisaṃ, yassayatthakepi nirodhasamāpannānanti na kātabbaṃ).</p>
+
+<p rend="title">(2) Atītavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="144"><hi rend="paranum">144</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0372" /><pb ed="M" n="1.0255" /> dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ nirujjhitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Atītā pucchā yathā uppādavāre vibhattā evaṃ uppādanirodhavārepi anulomampi paccanīkampi vibhajitabbaṃ).</p>
+
+<p rend="title">(3) Anāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="145"><hi rend="paranum">145</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ uppajjissati tassa samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjissati, no ca tesaṃ samudayasaccaṃ nirujjhissati. Itaresaṃ tesaṃ dukkhasaccañca uppajjissati samudayasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yassa <pb ed="T" n="1.0344" /> dukkhasaccaṃ uppajjissati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjissati, no ca tesaṃ maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ dukkhasaccañca uppajjissati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext" n="146"><hi rend="paranum">146</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="V" n="1.0373" /> samudayasaccaṃ uppajjissati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ samudayasaccaṃ uppajjissati, no ca tesaṃ maggasaccaṃ nirujjhissati. Ye maggaṃ paṭilabhissanti tesaṃ samudayasaccañca uppajjissati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhissati tassa samudayasaccaṃ uppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ maggasaccaṃ nirujjhissati, no ca tesaṃ samudayasaccaṃ uppajjissati. Ye maggaṃ paṭilabhissanti tesaṃ maggasaccañca nirujjhissati samudayasaccañca uppajjissati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="147"><hi rend="paranum">147</hi><hi rend="dot">.</hi> Yattha <pb ed="M" n="1.0256" /> dukkhasaccaṃ uppajjissati…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="148"><hi rend="paranum">148</hi><hi rend="dot">.</hi> Yassa yattha dukkhasaccaṃ uppajjissati tassa tattha samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha <pb ed="T" n="1.0345" /> …pe… itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha…pe…. (Yassakampi yassayatthakampi sadisaṃ).</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="149"><hi rend="paranum">149</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjissati tassa samudayasaccaṃ na nirujjhissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0374" /> vā pana samudayasaccaṃ na nirujjhissati tassa dukkhasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ samudayasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ nuppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ samudayasaccañca na nirujjhissati dukkhasaccañca nuppajjissati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nuppajjissati tassa maggasaccaṃ na nirujjhissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa dukkhasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ nuppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ maggasaccañca na nirujjhissati dukkhasaccañca nuppajjissati.</p>
+
+<p rend="bodytext" n="150"><hi rend="paranum">150</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjissati tassa maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ samudayasaccaṃ nuppajjissati, no ca tesaṃ maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ samudayasaccañca <pb ed="T" n="1.0346" /> nuppajjissati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa samudayasaccaṃ nuppajjissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ samudayasaccaṃ nuppajjissati. Aggamaggassa bhaṅgakkhaṇe <pb ed="M" n="1.0257" /> arahantānaṃ tesaṃ maggasaccañca na nirujjhissati samudayasaccañca nuppajjissati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="151"><hi rend="paranum">151</hi><hi rend="dot">.</hi> Yattha <pb ed="V" n="1.0375" /> dukkhasaccaṃ nuppajjissati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="152"><hi rend="paranum">152</hi><hi rend="dot">.</hi> Yassa yattha dukkhasaccaṃ nuppajjissati…pe….</p>
+
+<p rend="bodytext">(Yassakampi yassayatthakampi sadisaṃ, samudayasaccaṃ maggasaccaṃ nānākaraṇaṃ, aggamaggassa bhaṅgakkhaṇe, arahantānaṃ asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca nuppajjissati).</p>
+
+<p rend="title">(4) Paccuppannātītavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="153"><hi rend="paranum">153</hi><hi rend="dot">.</hi> Yassa dukkhasaccaṃ uppajjati tassa samudayasaccaṃ nirujjhitthāti? Āmantā.</p>
+
+<p rend="bodytext">Yassa vā pana…pe….</p>
+
+<p rend="bodytext">(Paccuppannaatītā <note>paccuppannenātītā (syā.)</note> pucchā uppādavārepi uppādanirodhavārepi yassakampi yatthakampi yassayatthakampi anulomampi paccanīkampi sadisaṃ, asammohantena vibhajitabbā).</p>
+
+<p rend="title">(5) Paccuppannānāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="154"><hi rend="paranum">154</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ uppajjati tassa samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati, no ca tesaṃ samudayasaccaṃ <pb ed="T" n="1.0347" /> nirujjhissati. Itaresaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati samudayasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa <pb ed="V" n="1.0376" /> vā pana samudayasaccaṃ nirujjhissati tassa dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa <pb ed="M" n="1.0258" /> ca uppādakkhaṇe tesaṃ samudayasaccaṃ nirujjhissati, no ca tesaṃ dukkhasaccaṃ uppajjati. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ samudayasaccañca nirujjhissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ uppajjati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Arahantānaṃ cittassa uppādakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati, no ca tesaṃ maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhissati tassa dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe <pb ed="T" n="1.0348" /> tesaṃ maggasaccaṃ nirujjhissati, no ca tesaṃ dukkhasaccaṃ uppajjati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccañca nirujjhissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext" n="155"><hi rend="paranum">155</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ uppajjati tassa maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ samudayasaccaṃ uppajjati, no ca tesaṃ maggasaccaṃ nirujjhissati. Ye <pb ed="V" n="1.0377" /> maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ samudayasaccañca uppajjati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ nirujjhissati tassa samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ maggasaccaṃ nirujjhissati, no ca tesaṃ samudayasaccaṃ uppajjati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ maggasaccañca nirujjhissati samudayasaccañca uppajjati.</p>
+
+<p rend="subhead">(Kha) anulomaokāso</p>
+
+<p rend="bodytext" n="156"><hi rend="paranum">156</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ uppajjati…pe….</p>
+
+<p rend="subhead">(Ga) anulomapuggalokāsā</p>
+
+<p rend="bodytext" n="157"><hi rend="paranum">157</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="M" n="1.0259" /> yattha dukkhasaccaṃ uppajjati tassa tattha samudayasaccaṃ <pb ed="T" n="1.0349" /> nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccaṃ…pe… itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ…pe….</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ nirujjhissati tassa tattha dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha samudayasaccaṃ nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ uppajjati. Catuvokāraṃ pañcavokāraṃ <pb ed="V" n="1.0378" /> upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha samudayasaccañca nirujjhissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ uppajjati tassa tattha maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha dukkhasaccaṃ uppajjati, no ca tesaṃ tattha maggasaccaṃ nirujjhissati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ <pb ed="T" n="1.0350" /> pavatte cittassa uppādakkhaṇe tesaṃ tattha dukkhasaccañca uppajjati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nirujjhissati tassa tattha dukkhasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha maggasaccaṃ nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ uppajjati. Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha maggasaccañca nirujjhissati dukkhasaccañca uppajjati.</p>
+
+<p rend="bodytext" n="158"><hi rend="paranum">158</hi><hi rend="dot">.</hi> (Ka) yassa yattha samudayasaccaṃ uppajjati tassa tattha maggasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ tattha samudayasaccaṃ uppajjati, no ca <pb ed="M" n="1.0260" /> tesaṃ tattha maggasaccaṃ nirujjhissati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe <pb ed="V" n="1.0379" /> tesaṃ tattha samudayasaccañca uppajjati maggasaccañca nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ nirujjhissati tassa tattha samudayasaccaṃ uppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti <pb ed="T" n="1.0351" /> ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha maggasaccaṃ nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ uppajjati. Ye maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ tattha maggasaccañca nirujjhissati samudayasaccañca uppajjati.</p>
+
+<p rend="subhead">(Gha) paccanīkapuggalo</p>
+
+<p rend="bodytext" n="159"><hi rend="paranum">159</hi><hi rend="dot">.</hi> (Ka) yassa dukkhasaccaṃ nuppajjati tassa samudayasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ samudayasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccañca nuppajjati samudayasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana samudayasaccaṃ na nirujjhissati tassa dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ samudayasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe tesaṃ samudayasaccañca na nirujjhissati dukkhasaccañca <pb ed="T" n="1.0352" /> nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa dukkhasaccaṃ nuppajjati tassa maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa <pb ed="V" n="1.0380" /> bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ dukkhasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ <pb ed="M" n="1.0261" /> cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe aggaphalassa uppādakkhaṇe tesaṃ dukkhasaccañca nuppajjati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Arahantānaṃ cittassa uppādakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe aggaphalassa uppādakkhaṇe tesaṃ maggasaccañca na nirujjhissati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="160"><hi rend="paranum">160</hi><hi rend="dot">.</hi> (Ka) yassa samudayasaccaṃ nuppajjati tassa maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ <pb ed="T" n="1.0353" /> paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ samudayasaccaṃ nuppajjati, no ca tesaṃ maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ samudayasaccañca nuppajjati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana maggasaccaṃ na nirujjhissati tassa samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ <pb ed="V" n="1.0381" /> maggasaccaṃ na nirujjhissati, no ca tesaṃ samudayasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ maggasaccañca na nirujjhissati samudayasaccañca nuppajjati.</p>
+
+<p rend="subhead">(Ṅa) paccanīkaokāso</p>
+
+<p rend="bodytext" n="161"><hi rend="paranum">161</hi><hi rend="dot">.</hi> Yattha dukkhasaccaṃ nuppajjati…pe….</p>
+
+<p rend="subhead">(Ca) paccanīkapuggalokāsā</p>
+
+<p rend="bodytext" n="162"><hi rend="paranum">162</hi><hi rend="dot">.</hi> (Ka) yassa yattha dukkhasaccaṃ nuppajjati tassa tattha samudayasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ nuppajjati, no ca tesaṃ tattha samudayasaccaṃ na nirujjhissati. Aggamaggassa <pb ed="M" n="1.0262" /> bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa <pb ed="T" n="1.0354" /> anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe arūpe aggamaggassa ca phalassa ca uppādakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha dukkhasaccañca nuppajjati samudayasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha samudayasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha samudayasaccaṃ na nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe arūpe aggamaggassa <pb ed="V" n="1.0382" /> ca phalassa ca uppādakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha samudayasaccañca na nirujjhissati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext">(Ka) yassa yattha dukkhasaccaṃ nuppajjati tassa tattha maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe ye caññe maggaṃ paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe maggassa ca phalassa ca uppādakkhaṇe tesaṃ tattha dukkhasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe aggaphalassa <pb ed="T" n="1.0355" /> uppādakkhaṇe asaññasattā <note>apāyā asaññasattā (syā.)</note> cavantānaṃ tesaṃ tattha dukkhasaccañca nuppajjati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha dukkhasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ <note>apāyaṃ asaññasattaṃ (syā.)</note> upapajjantānaṃ tesaṃ tattha maggasaccaṃ na nirujjhissati, no ca tesaṃ tattha dukkhasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe aggaphalassa uppādakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha maggasaccañca na nirujjhissati dukkhasaccañca nuppajjati.</p>
+
+<p rend="bodytext" n="163"><hi rend="paranum">163</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="M" n="1.0263" /> yattha samudayasaccaṃ nuppajjati tassa tattha maggasaccaṃ na nirujjhissatīti?</p>
+
+<p rend="bodytext">Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte <pb ed="V" n="1.0383" /> vattamāne tesaṃ tattha samudayasaccaṃ nuppajjati, no ca tesaṃ tattha maggasaccaṃ na nirujjhissati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca na nirujjhissati.</p>
+
+<p rend="bodytext">(Kha) yassa vā pana yattha maggasaccaṃ <pb ed="T" n="1.0356" /> na nirujjhissati tassa tattha samudayasaccaṃ nuppajjatīti?</p>
+
+<p rend="bodytext">Āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ tattha maggasaccaṃ na nirujjhissati, no ca tesaṃ tattha samudayasaccaṃ nuppajjati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca nuppajjati.</p>
+
+<p rend="title">(6) Atītānāgatavāro</p>
+
+<p rend="subhead">(Ka) anulomapuggalo</p>
+
+<p rend="bodytext" n="164"><hi rend="paranum">164</hi><hi rend="dot">.</hi> Yassa dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ nirujjhissatīti?</p>
+
+<p rend="bodytext">(Yathā nirodhavāre atītānāgatā <note>atītenānāgatā (syā.)</note> pucchā anulomampi paccanīkampi vibhattā evaṃ uppādanirodhavārepi asammohantena vibhajitabbaṃ).</p>
+
+<p rend="centre">Uppādanirodhavāro.</p>
+
+<p rend="centre">Pavattivāro niṭṭhito.</p>
+
+<p rend="title">3. Pariññāvāro</p>
+
+<p rend="title">1. Paccuppannavāro</p>
+
+<p rend="bodytext" n="165"><hi rend="paranum">165</hi><hi rend="dot">.</hi> (Ka) yo <pb ed="V" n="1.0384" /> dukkhasaccaṃ parijānāti so samudayasaccaṃ pajahatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yo vā pana samudayasaccaṃ pajahati so dukkhasaccaṃ parijānātīti? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yo <pb ed="M" n="1.0264" /> dukkhasaccaṃ na parijānāti so samudayasaccaṃ nappajahatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yo vā pana…pe…? Āmantā.</p>
+
+<p rend="title">2. Atītavāro</p>
+
+<p rend="bodytext" n="166"><hi rend="paranum">166</hi><hi rend="dot">.</hi> (Ka) yo <pb ed="T" n="1.0357" /> dukkhasaccaṃ parijānittha so samudayasaccaṃ pajahitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yo vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yo dukkhasaccaṃ na parijānittha so samudayasaccaṃ nappajahitthāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yo vā pana…pe…? Āmantā.</p>
+
+<p rend="title">3. Anāgatavāro</p>
+
+<p rend="bodytext" n="167"><hi rend="paranum">167</hi><hi rend="dot">.</hi> (Ka) yo dukkhasaccaṃ parijānissati so samudayasaccaṃ pajahissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yo vā pana…pe…? Āmantā.</p>
+
+<p rend="bodytext">(Ka) yo <pb ed="V" n="1.0385" /> dukkhasaccaṃ na parijānissati so samudayasaccaṃ nappajahissatīti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) yo vā pana…pe…? Āmantā.</p>
+
+<p rend="title">4. Paccuppannātītavāro</p>
+
+<p rend="bodytext" n="168"><hi rend="paranum">168</hi><hi rend="dot">.</hi> (Ka) yo dukkhasaccaṃ parijānāti so samudayasaccaṃ pajahitthāti? No.</p>
+
+<p rend="bodytext">(Kha) yo vā pana samudayasaccaṃ pajahittha so dukkhasaccaṃ parijānātīti? No.</p>
+
+<p rend="bodytext">(Ka) yo dukkhasaccaṃ na parijānāti so samudayasaccaṃ nappajahitthāti?</p>
+
+<p rend="bodytext">Arahā dukkhasaccaṃ na parijānāti, no ca samudayasaccaṃ nappajahittha. Aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā dukkhasaccañca na parijānanti samudayasaccañca nappajahittha.</p>
+
+<p rend="bodytext">(Kha) yo vā pana samudayasaccaṃ nappajahittha so dukkhasaccaṃ na parijānātīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgī samudayasaccaṃ nappajahittha, no ca dukkhasaccaṃ na parijānāti. Aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā samudayasaccañca nappajahittha dukkhasaccañca na parijānanti.</p>
+
+<p rend="title">5. Paccuppannānāgatavāro</p>
+
+<p rend="bodytext" n="169"><hi rend="paranum">169</hi><hi rend="dot">.</hi> (Ka) yo <pb ed="T" n="1.0358" /> dukkhasaccaṃ parijānāti so samudayasaccaṃ pajahissatīti? No.</p>
+
+<p rend="bodytext">(Kha) yo vā pana samudayasaccaṃ pajahissati so dukkhasaccaṃ parijānātīti? No.</p>
+
+<p rend="bodytext">(Ka) yo <pb ed="M" n="1.0265" /> dukkhasaccaṃ na parijānāti so samudayasaccaṃ nappajahissatīti?</p>
+
+<p rend="bodytext">Ye maggaṃ paṭilabhissanti te dukkhasaccaṃ na parijānanti, no ca samudayasaccaṃ nappajahissanti. Arahā ye ca puthujjanā maggaṃ na paṭilabhissanti <pb ed="V" n="1.0386" /> te dukkhasaccañca na parijānanti samudayasaccañca nappajahissanti.</p>
+
+<p rend="bodytext">(Kha) yo vā pana samudayasaccaṃ nappajahissati so dukkhasaccaṃ na parijānātīti?</p>
+
+<p rend="bodytext">Aggamaggasamaṅgī samudayasaccaṃ nappajahissati, no ca dukkhasaccaṃ na parijānāti. Arahā ye ca puthujjanā maggaṃ na paṭilabhissanti te samudayasaccañca nappajahissanti dukkhasaccañca na parijānanti.</p>
+
+<p rend="title">6. Atītānāgatavāro</p>
+
+<p rend="bodytext" n="170"><hi rend="paranum">170</hi><hi rend="dot">.</hi> (Ka) yo dukkhasaccaṃ parijānittha so samudayasaccaṃ pajahissatīti? No.</p>
+
+<p rend="bodytext">(Kha) yo vā pana samudayasaccaṃ pajahissati so dukkhasaccaṃ parijānitthāti? No.</p>
+
+<p rend="bodytext">(Ka) yo dukkhasaccaṃ na parijānittha so samudayasaccaṃ nappajahissatīti?</p>
+
+<p rend="bodytext">Ye maggaṃ paṭilabhissanti te dukkhasaccaṃ na parijānittha, no ca te samudayasaccaṃ nappajahissanti. Aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te dukkhasaccañca na parijānittha samudayasaccañca nappajahissanti.</p>
+
+<p rend="bodytext">(Kha) yo vā pana samudayasaccaṃ nappajahissati so dukkhasaccaṃ na parijānitthāti?</p>
+
+<p rend="bodytext">Arahā samudayasaccaṃ nappajahissati, no ca dukkhasaccaṃ na parijānittha. Aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te <pb ed="T" n="1.0359" /> samudayasaccañca nappajahissanti dukkhasaccañca na parijānittha.</p>
+
+<p rend="centre">Pariññāvāro.</p>
+
+<p rend="centre">Saccayamakaṃ niṭṭhitaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

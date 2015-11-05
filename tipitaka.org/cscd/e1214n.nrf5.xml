@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Svādayo <pb ed="V" n="0.0027" /></p>
+
+<p rend="bodytext" n="117"><hi rend="paranum">117</hi><hi rend="dot">.</hi> Su savaṇe saka sattimhi khī khayamhi gi saddane,</p>
+
+<p rend="gathalast">Apa-sambhū (ca) pāpuṇane hi gatimhi vū saṃvare;</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Khuddakanikāye</p>
+
+<p rend="book">Dhammapadapāḷi</p>
+
+<p rend="chapter">1. Yamakavaggo</p>
+
+<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Manopubbaṅgamā <pb ed="M" n="0.0013" /><pb ed="V" n="0.0013" /><pb ed="P" n="0.0001" /><pb ed="T" n="0.0015" /> dhammā, manoseṭṭhā manomayā;</p>
+
+<p rend="gatha2">Manasā ce paduṭṭhena, bhāsati vā karoti vā;</p>
+
+<p rend="gathalast">Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.</p>
+
+<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;</p>
+
+<p rend="gatha2">Manasā ce pasannena, bhāsati vā karoti vā;</p>
+
+<p rend="gathalast">Tato naṃ sukhamanveti, chāyāva anapāyinī <note>anupāyinī (ka.)</note>.</p>
+
+<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Akkocchi <pb ed="V" n="0.0014" /> maṃ avadhi maṃ, ajini <note>ajinī (?)</note> maṃ ahāsi me;</p>
+
+<p rend="gathalast">Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.</p>
+
+<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;</p>
+
+<p rend="gathalast">Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.</p>
+
+<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Na <pb ed="M" n="0.0014" /><pb ed="P" n="0.0002" /> hi verena verāni, sammantīdha kudācanaṃ;</p>
+
+<p rend="gathalast">Averena ca sammanti, esa dhammo sanantano.</p>
+
+<p rend="hangnum" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pare <pb ed="T" n="0.0016" /> ca na vijānanti, mayamettha yamāmase;</p>
+
+<p rend="gathalast">Ye ca tattha vijānanti, tato sammanti medhagā.</p>
+
+<p rend="hangnum" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ;</p>
+
+<p rend="gatha2">Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ;</p>
+
+<p rend="gathalast">Taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.</p>
+
+<p rend="hangnum" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ;</p>
+
+<p rend="gatha2">Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ;</p>
+
+<p rend="gathalast">Taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.</p>
+
+<p rend="hangnum" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati;</p>
+
+<p rend="gathalast">Apeto damasaccena, na so kāsāvamarahati.</p>
+
+<p rend="hangnum" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yo ca vantakasāvassa, sīlesu susamāhito;</p>
+
+<p rend="gathalast">Upeto damasaccena, sa ve kāsāvamarahati.</p>
+
+<p rend="hangnum" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Asāre sāramatino, sāre cāsāradassino;</p>
+
+<p rend="gathalast">Te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.</p>
+
+<p rend="hangnum" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sārañca <pb ed="V" n="0.0015" /> sārato ñatvā, asārañca asārato;</p>
+
+<p rend="gathalast">Te sāraṃ adhigacchanti, sammāsaṅkappagocarā.</p>
+
+<p rend="hangnum" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati;</p>
+
+<p rend="gathalast">Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.</p>
+
+<p rend="hangnum" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yathā <pb ed="M" n="0.0015" /><pb ed="P" n="0.0003" /> agāraṃ suchannaṃ, vuṭṭhī na samativijjhati;</p>
+
+<p rend="gathalast">Evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.</p>
+
+<p rend="hangnum" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Idha <pb ed="T" n="0.0017" /> socati pecca socati, pāpakārī ubhayattha socati;</p>
+
+<p rend="gathalast">So socati so vihaññati, disvā kammakiliṭṭhamattano.</p>
+
+<p rend="hangnum" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Idha modati pecca modati, katapuñño ubhayattha modati;</p>
+
+<p rend="gathalast">So modati so pamodati, disvā kammavisuddhimattano.</p>
+
+<p rend="hangnum" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Idha tappati pecca tappati, pāpakārī <note>pāpakāri (?)</note> ubhayattha tappati;</p>
+
+<p rend="gathalast">‘‘Pāpaṃ me kata’’nti tappati, bhiyyo <note>bhīyo (sī.)</note> tappati duggatiṃ gato.</p>
+
+<p rend="hangnum" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Idha nandati pecca nandati, katapuñño ubhayattha nandati;</p>
+
+<p rend="gathalast">‘‘Puññaṃ me kata’’nti nandati, bhiyyo nandati suggatiṃ gato.</p>
+
+<p rend="hangnum" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Bahumpi ce saṃhita <note>sahitaṃ (sī. syā. kaṃ. pī.)</note> bhāsamāno, na takkaro hoti naro pamatto;</p>
+
+<p rend="gathalast">Gopova <pb ed="M" n="0.0016" /> gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.</p>
+
+<p rend="hangnum" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Appampi ce saṃhita bhāsamāno, dhammassa hoti <note>hotī (sī. pī.)</note> anudhammacārī;</p>
+
+<p rend="gatha2">Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;</p>
+
+<p rend="gathalast">Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.</p>
+
+<p rend="centre">Yamakavaggo paṭhamo niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">6. Ratanasuttaṃ</p>
+
+<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yānīdha <pb ed="T" n="0.0005" /> bhūtāni samāgatāni, bhummāni <note>bhūmāni (ka.)</note> vā yāni va antalikkhe;</p>
+
+<p rend="gathalast">Sabbeva bhūtā sumanā bhavantu, athopi sakkacca suṇantu bhāsitaṃ.</p>
+
+<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tasmā <pb ed="M" n="0.0005" /> hi bhūtā nisāmetha sabbe, mettaṃ karotha mānusiyā pajāya;</p>
+
+<p rend="gathalast">Divā ca ratto ca haranti ye baliṃ, tasmā hi ne rakkhatha appamattā.</p>
+
+<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yaṃ kiñci vittaṃ idha vā huraṃ vā, saggesu <pb ed="P" n="0.0004" /> vā yaṃ ratanaṃ paṇītaṃ;</p>
+
+<p rend="gatha2">Na no samaṃ atthi tathāgatena, idampi buddhe ratanaṃ paṇītaṃ;</p>
+
+<p rend="gathalast">Etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Khayaṃ <pb ed="V" n="0.0006" /> virāgaṃ amataṃ paṇītaṃ, yadajjhagā sakyamunī samāhito;</p>
+
+<p rend="gatha2">Na tena dhammena samatthi kiñci, idampi dhamme ratanaṃ paṇītaṃ;</p>
+
+<p rend="gathalast">Etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yaṃ <pb ed="T" n="0.0006" /> buddhaseṭṭho parivaṇṇayī suciṃ, samādhimānantarikaññamāhu;</p>
+
+<p rend="gatha2">Samādhinā tena samo na vijjati, idampi dhamme ratanaṃ paṇītaṃ;</p>
+
+<p rend="gathalast">Etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ye puggalā aṭṭha sataṃ pasatthā, cattāri etāni yugāni honti;</p>
+
+<p rend="gatha2">Te dakkhiṇeyyā sugatassa sāvakā, etesu dinnāni mahapphalāni;</p>
+
+<p rend="gathalast">Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ye suppayuttā manasā daḷhena, nikkāmino gotamasāsanamhi;</p>
+
+<p rend="gatha2">Te pattipattā amataṃ vigayha, laddhā mudhā nibbutiṃ <note>nibbuti (ka.)</note> bhuñjamānā;</p>
+
+<p rend="gathalast">Idampi <pb ed="M" n="0.0006" /> saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yathindakhīlo pathavissito <note>paṭhavissito (ka. sī.), pathaviṃsito (ka. si. syā. kaṃ. pī.)</note> siyā, catubbhi vātehi asampakampiyo;</p>
+
+<p rend="gatha2">Tathūpamaṃ sappurisaṃ vadāmi, yo <pb ed="T" n="0.0007" /> ariyasaccāni avecca passati;</p>
+
+<p rend="gathalast">Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ye ariyasaccāni vibhāvayanti, gambhīrapaññena sudesitāni;</p>
+
+<p rend="gatha2">Kiñcāpi te honti bhusaṃ pamattā, na te bhavaṃ aṭṭhamamādiyanti;</p>
+
+<p rend="gathalast">Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sahāvassa <pb ed="P" n="0.0005" /> dassanasampadāya <note>sahāvasaddassanasampadāya (ka.)</note>, tayassu dhammā jahitā bhavanti;</p>
+
+<p rend="gathalast">Sakkāyadiṭṭhī vicikicchitañca, sīlabbataṃ vāpi yadatthi kiñci.</p>
+
+<p rend="hangnum" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Catūhapāyehi ca vippamutto, chaccābhiṭhānāni <note>cha cābhiṭhānāni (sī. syā.)</note> abhabba kātuṃ <note>abhabbo kātuṃ (sī.)</note>;</p>
+
+<p rend="gathalast">Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Kiñcāpi <pb ed="V" n="0.0007" /> so kamma <note>kammaṃ (sī. syā. kaṃ. pī.)</note> karoti pāpakaṃ, kāyena vācā uda cetasā vā;</p>
+
+<p rend="gatha2">Abhabba <note>abhabbo (bahūsu)</note> so tassa paṭicchadāya <note>paṭicchādāya (sī.)</note>, abhabbatā <pb ed="T" n="0.0008" /> diṭṭhapadassa vuttā;</p>
+
+<p rend="gathalast">Idampi <pb ed="M" n="0.0007" /> saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Vanappagumbe yatha <note>yathā (sī. syā.)</note> phussitagge, gimhānamāse paṭhamasmiṃ <note>paṭhamasmi (?)</note> gimhe;</p>
+
+<p rend="gatha2">Tathūpamaṃ dhammavaraṃ adesayi <note>adesayī (sī.)</note>, nibbānagāmiṃ paramaṃ hitāya;</p>
+
+<p rend="gathalast">Idampi buddhe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Varo varaññū varado varāharo, anuttaro dhammavaraṃ adesayi;</p>
+
+<p rend="gathalast">Idampi buddhe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Khīṇaṃ purāṇaṃ nava natthi sambhavaṃ, virattacittāyatike bhavasmiṃ;</p>
+
+<p rend="gatha2">Te khīṇabījā avirūḷhichandā, nibbanti dhīrā yathāyaṃ <note>yathayaṃ (ka.)</note> padīpo;</p>
+
+<p rend="gathalast">Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.</p>
+
+<p rend="hangnum" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yānīdha bhūtāni samāgatāni, bhummāni <pb ed="T" n="0.0009" /> vā yāni va antalikkhe;</p>
+
+<p rend="gathalast">Tathāgataṃ devamanussapūjitaṃ, buddhaṃ namassāma suvatthi hotu.</p>
+
+<p rend="hangnum" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yānīdha bhūtāni samāgatāni, bhummāni vā yāni va antalikkhe;</p>
+
+<p rend="gathalast">Tathāgataṃ devamanussapūjitaṃ, dhammaṃ <pb ed="P" n="0.0006" /> namassāma suvatthi hotu.</p>
+
+<p rend="hangnum" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yānīdha <pb ed="M" n="0.0008" /> bhūtāni samāgatāni, bhummāni vā yāni va antalikkhe;</p>
+
+<p rend="gathalast">Tathāgataṃ devamanussapūjitaṃ, saṅghaṃ namassāma suvatthi hotūti.</p>
+
+<p rend="centre">Ratanasuttaṃ niṭṭhitaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

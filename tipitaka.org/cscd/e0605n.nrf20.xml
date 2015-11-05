@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Byāpetādiyamakagāthā</p>
+
+<p rend="hangnum" n="110"><hi rend="paranum">110</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ekantameva saparatthaparo mahesi,</p>
+
+<p rend="gatha2">Ekantameva dasapāramitābalena;</p>
+
+<p rend="gatha3">Ekantameva hatamārabalena tena,</p>
+
+<p rend="gathalast">Ekantameva suvisuddhamalattha bodhiṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">(13) 3. Gilānavaggo</p>
+
+<p rend="bodytext" n="124-130"><hi rend="paranum">124-130</hi><hi rend="dot">.</hi> Tatiyo <pb ed="V" n="3.0041" /><pb ed="M" n="3.0043" /> vaggo uttānatthoyeva.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

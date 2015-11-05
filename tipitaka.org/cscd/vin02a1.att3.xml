@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">8. Sattādhikaraṇasamathā</p>
+
+<p rend="bodytext" n="655"><hi rend="paranum">655</hi><hi rend="dot">.</hi> Adhikaraṇasamathesu <pb ed="P" n="4.0899" /><pb ed="V" n="0.0161" /> – <hi rend="bold">sattā</hi>ti tesaṃ dhammānaṃ saṅkhyāparicchedo. Catubbidhaṃ adhikaraṇaṃ samenti vūpasamentīti <hi rend="bold">adhikaraṇasamathā</hi>. Tesaṃ vitthāro khandhake ca parivāre ca vutto, tassatthaṃ tattheva vaṇṇayissāma. Sesaṃ sabbattha uttānamevāti.</p>
+
+<p rend="centre">Samantapāsādikāya vinayasaṃvaṇṇanāya</p>
+
+<p rend="centre">Bhikkhuvibhaṅgavaṇṇanā niṭṭhitā.</p>
+
+<p rend="gatha1">Anantarāyena yathā, niṭṭhitā vaṇṇanā ayaṃ;</p>
+
+<p rend="gathalast">Anantarāyena tathā, santiṃ pappontu pāṇino.</p>
+
+<p rend="gatha1">Ciraṃ tiṭṭhatu saddhammo, kāle vassaṃ ciraṃ pajaṃ;</p>
+
+<p rend="gathalast">Tappetu devo dhammena, rājā rakkhatu medaninti.</p>
+
+<p rend="centre">Mahāvibhaṅgo niṭṭhito.</p>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="book">Bhikkhunīvibhaṅgavaṇṇanā</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

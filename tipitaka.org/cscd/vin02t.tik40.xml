@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Dutiyagāthāsaṅgaṇikavaṇṇanā</p>
+
+<p rend="bodytext" n="359"><hi rend="paranum">359</hi><hi rend="dot">.</hi> Mantaggahaṇanti <pb ed="V" n="3.0446" /> aññamaññaṃ saṃsandanaṃ. Anu anu sandhānaṃ anusandhitanti bhāvasādhano <hi rend="bold">anusandhita</hi>saddoti āha <hi rend="bold">‘‘anusandhitanti kathānusandhī’’</hi>ti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

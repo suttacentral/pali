@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Akkharuttarikayamakagāthā</p>
+
+<p rend="hangnum" n="105"><hi rend="paranum">105</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Nonānino nanūnāni nanenāni nanānino,</p>
+
+<p rend="gathalast">Nunnānenāni nūna na nānanaṃ nānanena no.</p>
+
+<p rend="hangnum" n="106"><hi rend="paranum">106</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sāre surāsure sārī rasasārasarissaro,</p>
+
+<p rend="gathalast">Rasasārarase sāri surāsurasarassire.</p>
+
+<p rend="hangnum" n="107"><hi rend="paranum">107</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Devānaṃ nandano devo devadeva na nandi no,</p>
+
+<p rend="gathalast">Vedadīnena vedana vedi vedana vedino.</p>
+
+<p rend="hangnum" n="108"><hi rend="paranum">108</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Devāsane nisinno so devadevo sasāsane,</p>
+
+<p rend="gathalast">Nisinnānaṃ sadevānaṃ desesi dassanāsanaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

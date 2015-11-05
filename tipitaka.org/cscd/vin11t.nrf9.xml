@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Bhikkhunivibhaṅgo</p>
+
+<p rend="bodytext" n="1964"><hi rend="paranum">1964</hi><hi rend="dot">.</hi> Evaṃ <pb ed="M" n="2.0031" /> bhikkhuvibhaṅgapāḷiyā, aṭṭhakathāya ca āgataṃ vinicchayasāraṃ nātisaṅkhepavitthāranayena <pb ed="V" n="2.0026" /> dassetvā idāni tadanantarāya bhikkhunivibhaṅgapāḷiyā, tadaṭṭhakathāya ca āgatavinicchayasāraṃ dassetumārabhanto āha <hi rend="bold">‘‘bhikkhunīna’’</hi>ntiādi. <hi rend="bold">Tasmiṃ apī</hi>ti ettha <hi rend="bold">api</hi>-saddo vuttāpekkhāyaṃ. <hi rend="bold">‘‘Samāsenā’’</hi>ti idaṃ ganthavasena saṅkhipanaṃ sandhāya vuttaṃ. <hi rend="bold">‘‘Kiñcimatta’’</hi>nti idaṃ atthavasenāti veditabbaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

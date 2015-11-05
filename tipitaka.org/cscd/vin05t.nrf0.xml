@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Vinayapiṭake</p>
+
+<p rend="book">Vinayasaṅgaha-aṭṭhakathā</p>
+
+<p rend="chapter">Ganthārambhakathā</p>
+
+<p rend="gatha1">Vatthuttayaṃ <pb ed="M" n="0.0001" /><pb ed="V" n="0.0001" /> namassitvā, saraṇaṃ sabbapāṇinaṃ;</p>
+
+<p rend="gathalast">Vinaye pāṭavatthāya, yogāvacarabhikkhunaṃ.</p>
+
+<p rend="gatha1">Vippakiṇṇamanekattha, pāḷimuttavinicchayaṃ;</p>
+
+<p rend="gathalast">Samāharitvā ekattha, dassayissamanākulaṃ.</p>
+
+<p rend="centre">Tatrāyaṃ mātikā –</p>
+
+<p rend="gatha1">‘‘Divāseyyā parikkhāro, bhesajjakaraṇampi ca;</p>
+
+<p rend="gathalast">Parittaṃ paṭisanthāro, viññatti kulasaṅgaho.</p>
+
+<p rend="gatha1">‘‘Macchamaṃsaṃ <pb ed="V" n="0.0002" /> anāmāsaṃ, adhiṭṭhānavikappanaṃ;</p>
+
+<p rend="gathalast">Cīvarenavināvāso, bhaṇḍassa paṭisāmanaṃ.</p>
+
+<p rend="gatha1">‘‘Kayavikkayasamāpatti, rūpiyādipaṭiggaho;</p>
+
+<p rend="gathalast">Dānavissāsaggāhehi, lābhassa pariṇāmanaṃ.</p>
+
+<p rend="gatha1">‘‘Pathavī bhūtagāmo ca, duvidhaṃ sahaseyyakaṃ;</p>
+
+<p rend="gathalast">Vihāre saṅghike seyyaṃ, santharitvāna pakkamo.</p>
+
+<p rend="gatha1">‘‘Kālikānipi cattāri, kappiyā catubhūmiyo;</p>
+
+<p rend="gathalast">Khādanīyādipaṭiggāho, paṭikkhepapavāraṇā.</p>
+
+<p rend="gatha1">‘‘Pabbajjā nissayo sīmā, uposathapavāraṇaṃ;</p>
+
+<p rend="gathalast">Vassūpanāyikā vattaṃ, catupaccayabhājanaṃ.</p>
+
+<p rend="gatha1">‘‘Kathinaṃ garubhaṇḍāni, codanādivinicchayo;</p>
+
+<p rend="gathalast">Garukāpattivuṭṭhānaṃ, kammākammaṃ pakiṇṇaka’’nti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

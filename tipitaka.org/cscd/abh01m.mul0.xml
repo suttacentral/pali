@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Abhidhammapiṭake</p>
+
+<p rend="book">Dhammasaṅgaṇīpāḷi</p>
+
+<p rend="chapter">Mātikā</p>
+
+<p rend="subhead">1. Tikamātikā</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> (Ka) kusalā <pb ed="T" n="0.0001" /><pb ed="M" n="0.0001" /><pb ed="P" n="0.0001" /><pb ed="V" n="0.0001" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) akusalā dhammā.</p>
+
+<p rend="bodytext">(Ga) abyākatā dhammā.</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> (Ka) sukhāya <pb ed="V" n="0.0002" /> vedanāya sampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) dukkhāya vedanāya sampayuttā dhammā.</p>
+
+<p rend="bodytext">(Ga) adukkhamasukhāya vedanāya sampayuttā dhammā.</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> (Ka) vipākā dhammā.</p>
+
+<p rend="bodytext">(Kha) vipākadhammadhammā.</p>
+
+<p rend="bodytext">(Ga) nevavipākanavipākadhammadhammā.</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> (Ka) upādiṇṇupādāniyā <note>upādinnupādāniyā (syā.)</note> dhammā.</p>
+
+<p rend="bodytext">(Kha) anupādiṇṇupādāniyā dhammā.</p>
+
+<p rend="bodytext">(Ga) anupādiṇṇaanupādāniyā <note>anupādinnānupādāniyā (syā.)</note> dhammā.</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> (Ka) saṃkiliṭṭhasaṃkilesikā dhammā.</p>
+
+<p rend="bodytext">(Kha) asaṃkiliṭṭhasaṃkilesikā dhammā.</p>
+
+<p rend="bodytext">(Ga) asaṃkiliṭṭhaasaṃkilesikā <note>asaṃkiliṭṭhāsaṃkilesikā (syā.)</note> dhammā.</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> (Ka) savitakkasavicārā <pb ed="M" n="0.0002" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) avitakkavicāramattā dhammā.</p>
+
+<p rend="bodytext">(Ga) avitakkaavicārā <note>avitakkāvicārā (syā.)</note> dhammā.</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> (Ka) pītisahagatā dhammā.</p>
+
+<p rend="bodytext">(Kha) sukhasahagatā dhammā.</p>
+
+<p rend="bodytext">(Ga) upekkhāsahagatā dhammā.</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> (Ka) dassanena pahātabbā dhammā.</p>
+
+<p rend="bodytext">(Kha) bhāvanāya pahātabbā dhammā.</p>
+
+<p rend="bodytext">(Ga) neva dassanena na bhāvanāya pahātabbā dhammā.</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> (Ka) dassanena pahātabbahetukā dhammā.</p>
+
+<p rend="bodytext">(Kha) bhāvanāya pahātabbahetukā dhammā.</p>
+
+<p rend="bodytext">(Ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā.</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> (Ka) ācayagāmino <pb ed="P" n="0.0002" /><pb ed="V" n="0.0003" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) apacayagāmino dhammā.</p>
+
+<p rend="bodytext">(Ga) nevācayagāmināpacayagāmino <note>nevācayagāmino nāpacayagāmino (syā.)</note> dhammā.</p>
+
+<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> (Ka) sekkhā dhammā.</p>
+
+<p rend="bodytext">(Kha) asekkhā dhammā.</p>
+
+<p rend="bodytext">(Ga) nevasekkhanāsekkhā <note>nevasekkhānāsekkhā (sī. syā.)</note> dhammā.</p>
+
+<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> (Ka) parittā dhammā.</p>
+
+<p rend="bodytext">(Kha) mahaggatā dhammā.</p>
+
+<p rend="bodytext">(Ga) appamāṇā dhammā.</p>
+
+<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> (Ka) parittārammaṇā dhammā.</p>
+
+<p rend="bodytext">(Kha) mahaggatārammaṇā <pb ed="T" n="0.0002" /> dhammā.</p>
+
+<p rend="bodytext">(Ga) appamāṇārammaṇā dhammā.</p>
+
+<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> (Ka) hīnā <pb ed="M" n="0.0003" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) majjhimā dhammā.</p>
+
+<p rend="bodytext">(Ga) paṇītā dhammā.</p>
+
+<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> (Ka) micchattaniyatā dhammā.</p>
+
+<p rend="bodytext">(Kha) sammattaniyatā dhammā.</p>
+
+<p rend="bodytext">(Ga) aniyatā dhammā.</p>
+
+<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> (Ka) maggārammaṇā dhammā.</p>
+
+<p rend="bodytext">(Kha) maggahetukā dhammā.</p>
+
+<p rend="bodytext">(Ga) maggādhipatino dhammā.</p>
+
+<p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> (Ka) uppannā dhammā.</p>
+
+<p rend="bodytext">(Kha) anuppannā dhammā.</p>
+
+<p rend="bodytext">(Ga) uppādino dhammā.</p>
+
+<p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> (Ka) atītā <pb ed="V" n="0.0004" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) anāgatā dhammā.</p>
+
+<p rend="bodytext">(Ga) paccuppannā dhammā.</p>
+
+<p rend="bodytext" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi> (Ka) atītārammaṇā dhammā.</p>
+
+<p rend="bodytext">(Kha) anāgatārammaṇā dhammā.</p>
+
+<p rend="bodytext">(Ga) paccuppannārammaṇā dhammā.</p>
+
+<p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> (Ka) ajjhattā dhammā.</p>
+
+<p rend="bodytext">(Kha) bahiddhā dhammā.</p>
+
+<p rend="bodytext">(Ga) ajjhattabahiddhā dhammā.</p>
+
+<p rend="bodytext" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi> (Ka) ajjhattārammaṇā dhammā.</p>
+
+<p rend="bodytext">(Kha) bahiddhārammaṇā dhammā.</p>
+
+<p rend="bodytext">(Ga) ajjhattabahiddhārammaṇā dhammā.</p>
+
+<p rend="bodytext" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi> (Ka) sanidassanasappaṭighā dhammā.</p>
+
+<p rend="bodytext">(Kha) anidassanasappaṭighā dhammā.</p>
+
+<p rend="bodytext">(Ga) anidassanaappaṭighā <note>anidassanāppaṭighā (syā.)</note> dhammā.</p>
+
+<p rend="centre">Tikamātikā.</p>
+
+<p rend="title">2. Dukamātikā</p>
+
+<p rend="subhead">Hetugocchakaṃ</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> (Ka) hetū <pb ed="M" n="0.0004" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) na hetū dhammā.</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> (Ka) sahetukā <pb ed="V" n="0.0005" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) ahetukā dhammā.</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> (Ka) hetusampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) hetuvippayuttā dhammā.</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> (Ka) hetū ceva dhammā sahetukā ca.</p>
+
+<p rend="bodytext">(Kha) sahetukā ceva dhammā na ca hetū.</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> (Ka) hetū ceva dhammā hetusampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) hetusampayuttā ceva dhammā na ca hetū.</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> (Ka) na hetū kho pana dhammā sahetukāpi.</p>
+
+<p rend="bodytext">(Kha) ahetukāpi.</p>
+
+<p rend="centre">Hetugocchakaṃ.</p>
+
+<p rend="subhead">Cūḷantaradukaṃ</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> (Ka) sappaccayā dhammā.</p>
+
+<p rend="bodytext">(Kha) appaccayā dhammā.</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> (Ka) saṅkhatā dhammā.</p>
+
+<p rend="bodytext">(Kha) asaṅkhatā dhammā.</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> (Ka) sanidassanā <pb ed="P" n="0.0003" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) anidassanā dhammā.</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> (Ka) sappaṭighā <pb ed="V" n="0.0006" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) appaṭighā dhammā.</p>
+
+<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> (Ka) rūpino <pb ed="M" n="0.0005" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) arūpino dhammā.</p>
+
+<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> (Ka) lokiyā dhammā <pb ed="T" n="0.0003" />.</p>
+
+<p rend="bodytext">(Kha) lokuttarā dhammā.</p>
+
+<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> (Ka) kenaci viññeyyā dhammā.</p>
+
+<p rend="bodytext">(Kha) kenaci na viññeyyā dhammā.</p>
+
+<p rend="centre">Cūḷantaradukaṃ.</p>
+
+<p rend="subhead">Āsavagocchakaṃ</p>
+
+<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> (Ka) āsavā dhammā.</p>
+
+<p rend="bodytext">(Kha) no āsavā dhammā.</p>
+
+<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> (Ka) sāsavā dhammā.</p>
+
+<p rend="bodytext">(Kha) anāsavā dhammā.</p>
+
+<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> (Ka) āsavasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) āsavavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> (Ka) āsavā ceva dhammā sāsavā ca.</p>
+
+<p rend="bodytext">(Kha) sāsavā ceva dhammā no ca āsavā.</p>
+
+<p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> (Ka) āsavā <pb ed="V" n="0.0007" /> ceva dhammā āsavasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) āsavasampayuttā ceva dhammā no ca āsavā.</p>
+
+<p rend="bodytext" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi> (Ka) āsavavippayuttā kho pana dhammā sāsavāpi.</p>
+
+<p rend="bodytext">(Kha) anāsavāpi.</p>
+
+<p rend="centre">Āsavagocchakaṃ.</p>
+
+<p rend="subhead">Saṃyojanagocchakaṃ</p>
+
+<p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> (Ka) saṃyojanā dhammā.</p>
+
+<p rend="bodytext">(Kha) no saṃyojanā dhammā.</p>
+
+<p rend="bodytext" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi> (Ka) saṃyojaniyā <pb ed="M" n="0.0006" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) asaṃyojaniyā dhammā.</p>
+
+<p rend="bodytext" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi> (Ka) saṃyojanasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) saṃyojanavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="23"><hi rend="paranum">23</hi><hi rend="dot">.</hi> (Ka) saṃyojanā ceva dhammā saṃyojaniyā ca.</p>
+
+<p rend="bodytext">(Kha) saṃyojaniyā ceva dhammā no ca saṃyojanā.</p>
+
+<p rend="bodytext" n="24"><hi rend="paranum">24</hi><hi rend="dot">.</hi> (Ka) saṃyojanā ceva dhammā saṃyojanasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) saṃyojanasampayuttā ceva dhammā no ca saṃyojanā.</p>
+
+<p rend="bodytext" n="25"><hi rend="paranum">25</hi><hi rend="dot">.</hi> (Ka) saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi.</p>
+
+<p rend="bodytext">(Kha) asaṃyojaniyāpi.</p>
+
+<p rend="centre">Saṃyojanagocchakaṃ.</p>
+
+<p rend="subhead">Ganthagocchakaṃ</p>
+
+<p rend="bodytext" n="26"><hi rend="paranum">26</hi><hi rend="dot">.</hi> (Ka) ganthā <pb ed="V" n="0.0008" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) no ganthā dhammā.</p>
+
+<p rend="bodytext" n="27"><hi rend="paranum">27</hi><hi rend="dot">.</hi> (Ka) ganthaniyā dhammā.</p>
+
+<p rend="bodytext">(Kha) aganthaniyā dhammā.</p>
+
+<p rend="bodytext" n="28"><hi rend="paranum">28</hi><hi rend="dot">.</hi> (Ka) ganthasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) ganthavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="29"><hi rend="paranum">29</hi><hi rend="dot">.</hi> (Ka) ganthā ceva dhammā ganthaniyā ca.</p>
+
+<p rend="bodytext">(Kha) ganthaniyā ceva dhammā no ca ganthā.</p>
+
+<p rend="bodytext" n="30"><hi rend="paranum">30</hi><hi rend="dot">.</hi> (Ka) ganthā ceva dhammā <pb ed="T" n="0.0004" /> ganthasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) ganthasampayuttā ceva dhammā no ca ganthā.</p>
+
+<p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> (Ka) ganthavippayuttā <pb ed="P" n="0.0004" /><pb ed="M" n="0.0007" /> kho pana dhammā ganthaniyāpi.</p>
+
+<p rend="bodytext">(Kha) aganthaniyāpi.</p>
+
+<p rend="centre">Ganthagocchakaṃ.</p>
+
+<p rend="subhead">Oghagocchakaṃ</p>
+
+<p rend="bodytext" n="32"><hi rend="paranum">32</hi><hi rend="dot">.</hi> (Ka) oghā dhammā.</p>
+
+<p rend="bodytext">(Kha) no oghā dhammā.</p>
+
+<p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> (Ka) oghaniyā dhammā.</p>
+
+<p rend="bodytext">(Kha) anoghaniyā dhammā.</p>
+
+<p rend="bodytext" n="34"><hi rend="paranum">34</hi><hi rend="dot">.</hi> (Ka) oghasampayuttā <pb ed="V" n="0.0009" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) oghavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="35"><hi rend="paranum">35</hi><hi rend="dot">.</hi> (Ka) oghā ceva dhammā oghaniyā ca.</p>
+
+<p rend="bodytext">(Kha) oghaniyā ceva dhammā no ca oghā.</p>
+
+<p rend="bodytext" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi> (Ka) oghā ceva dhammā oghasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) oghasampayuttā ceva dhammā no ca oghā.</p>
+
+<p rend="bodytext" n="37"><hi rend="paranum">37</hi><hi rend="dot">.</hi> (Ka) oghavippayuttā kho pana dhammā oghaniyāpi.</p>
+
+<p rend="bodytext">(Kha) anoghaniyāpi.</p>
+
+<p rend="centre">Oghagocchakaṃ.</p>
+
+<p rend="subhead">Yogagocchakaṃ</p>
+
+<p rend="bodytext" n="38"><hi rend="paranum">38</hi><hi rend="dot">.</hi> (Ka) yogā dhammā.</p>
+
+<p rend="bodytext">(Kha) no yogā dhammā.</p>
+
+<p rend="bodytext" n="39"><hi rend="paranum">39</hi><hi rend="dot">.</hi> (Ka) yoganiyā dhammā.</p>
+
+<p rend="bodytext">(Kha) ayoganiyā dhammā.</p>
+
+<p rend="bodytext" n="40"><hi rend="paranum">40</hi><hi rend="dot">.</hi> (Ka) yogasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) yogavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi> (Ka) yogā <pb ed="M" n="0.0008" /> ceva dhammā yoganiyā ca.</p>
+
+<p rend="bodytext">(Kha) yoganiyā ceva dhammā no ca yogā.</p>
+
+<p rend="bodytext" n="42"><hi rend="paranum">42</hi><hi rend="dot">.</hi> (Ka) yogā <pb ed="V" n="0.0010" /> ceva dhammā yogasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) yogasampayuttā ceva dhammā no ca yogā.</p>
+
+<p rend="bodytext" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi> (Ka) yogavippayuttā kho pana dhammā yoganiyāpi.</p>
+
+<p rend="bodytext">(Kha) ayoganiyāpi.</p>
+
+<p rend="centre">Yogagocchakaṃ.</p>
+
+<p rend="subhead">Nīvaraṇagocchakaṃ</p>
+
+<p rend="bodytext" n="44"><hi rend="paranum">44</hi><hi rend="dot">.</hi> (Ka) nīvaraṇā dhammā.</p>
+
+<p rend="bodytext">(Kha) no nīvaraṇā dhammā.</p>
+
+<p rend="bodytext" n="45"><hi rend="paranum">45</hi><hi rend="dot">.</hi> (Ka) nīvaraṇiyā dhammā.</p>
+
+<p rend="bodytext">(Kha) anīvaraṇiyā dhammā.</p>
+
+<p rend="bodytext" n="46"><hi rend="paranum">46</hi><hi rend="dot">.</hi> (Ka) nīvaraṇasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) nīvaraṇavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="47"><hi rend="paranum">47</hi><hi rend="dot">.</hi> (Ka) nīvaraṇā ceva dhammā nīvaraṇiyā ca.</p>
+
+<p rend="bodytext">(Kha) nīvaraṇiyā ceva dhammā no ca nīvaraṇā.</p>
+
+<p rend="bodytext" n="48"><hi rend="paranum">48</hi><hi rend="dot">.</hi> (Ka) nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā.</p>
+
+<p rend="bodytext" n="49"><hi rend="paranum">49</hi><hi rend="dot">.</hi> (Ka) nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi.</p>
+
+<p rend="bodytext">(Kha) anīvaraṇiyāpi <pb ed="T" n="0.0005" />.</p>
+
+<p rend="centre">Nīvaraṇagocchakaṃ.</p>
+
+<p rend="subhead">Parāmāsagocchakaṃ</p>
+
+<p rend="bodytext" n="50"><hi rend="paranum">50</hi><hi rend="dot">.</hi> (Ka) parāmāsā <pb ed="M" n="0.0009" /><pb ed="P" n="0.0005" /><pb ed="V" n="0.0011" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) no parāmāsā dhammā.</p>
+
+<p rend="bodytext" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi> (Ka) parāmaṭṭhā dhammā.</p>
+
+<p rend="bodytext">(Kha) aparāmaṭṭhā dhammā.</p>
+
+<p rend="bodytext" n="52"><hi rend="paranum">52</hi><hi rend="dot">.</hi> (Ka) parāmāsasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) parāmāsavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi> (Ka) parāmāsā ceva dhammā parāmaṭṭhā ca.</p>
+
+<p rend="bodytext">(Kha) parāmaṭṭhā ceva dhammā no ca parāmāsā.</p>
+
+<p rend="bodytext" n="54"><hi rend="paranum">54</hi><hi rend="dot">.</hi> (Ka) parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi.</p>
+
+<p rend="bodytext">(Kha) aparāmaṭṭhāpi.</p>
+
+<p rend="centre">Parāmāsagocchakaṃ.</p>
+
+<p rend="subhead">Mahantaradukaṃ</p>
+
+<p rend="bodytext" n="55"><hi rend="paranum">55</hi><hi rend="dot">.</hi> (Ka) sārammaṇā dhammā.</p>
+
+<p rend="bodytext">(Kha) anārammaṇā dhammā.</p>
+
+<p rend="bodytext" n="56"><hi rend="paranum">56</hi><hi rend="dot">.</hi> (Ka) cittā dhammā.</p>
+
+<p rend="bodytext">(Kha) no cittā dhammā.</p>
+
+<p rend="bodytext" n="57"><hi rend="paranum">57</hi><hi rend="dot">.</hi> (Ka) cetasikā dhammā.</p>
+
+<p rend="bodytext">(Kha) acetasikā dhammā.</p>
+
+<p rend="bodytext" n="58"><hi rend="paranum">58</hi><hi rend="dot">.</hi> (Ka) cittasampayuttā <pb ed="V" n="0.0012" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) cittavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="59"><hi rend="paranum">59</hi><hi rend="dot">.</hi> (Ka) cittasaṃsaṭṭhā dhammā.</p>
+
+<p rend="bodytext">(Kha) cittavisaṃsaṭṭhā dhammā.</p>
+
+<p rend="bodytext" n="60"><hi rend="paranum">60</hi><hi rend="dot">.</hi> (Ka) cittasamuṭṭhānā dhammā.</p>
+
+<p rend="bodytext">(Kha) no cittasamuṭṭhānā dhammā.</p>
+
+<p rend="bodytext" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi> (Ka) cittasahabhuno <pb ed="M" n="0.0010" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) no cittasahabhuno dhammā.</p>
+
+<p rend="bodytext" n="62"><hi rend="paranum">62</hi><hi rend="dot">.</hi> (Ka) cittānuparivattino dhammā.</p>
+
+<p rend="bodytext">(Kha) no cittānuparivattino dhammā.</p>
+
+<p rend="bodytext" n="63"><hi rend="paranum">63</hi><hi rend="dot">.</hi> (Ka) cittasaṃsaṭṭhasamuṭṭhānā dhammā.</p>
+
+<p rend="bodytext">(Kha) no cittasaṃsaṭṭhasamuṭṭhānā dhammā.</p>
+
+<p rend="bodytext" n="64"><hi rend="paranum">64</hi><hi rend="dot">.</hi> (Ka) cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā.</p>
+
+<p rend="bodytext">(Kha) no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā.</p>
+
+<p rend="bodytext" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi> (Ka) cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā.</p>
+
+<p rend="bodytext">(Kha) no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā.</p>
+
+<p rend="bodytext" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi> (Ka) ajjhattikā dhammā.</p>
+
+<p rend="bodytext">(Kha) bāhirā dhammā.</p>
+
+<p rend="bodytext" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi> (Ka) upādā dhammā.</p>
+
+<p rend="bodytext">(Kha) no upādā dhammā.</p>
+
+<p rend="bodytext" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi> (Ka) upādiṇṇā <pb ed="V" n="0.0013" /><note>upādinnā (sī. syā.)</note> dhammā.</p>
+
+<p rend="bodytext">(Kha) anupādiṇṇā dhammā.</p>
+
+<p rend="centre">Mahantaradukaṃ.</p>
+
+<p rend="subhead">Upādānagocchakaṃ</p>
+
+<p rend="bodytext" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi> (Ka) upādānā <pb ed="T" n="0.0006" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) no upādānā dhammā.</p>
+
+<p rend="bodytext" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi> (Ka) upādāniyā dhammā.</p>
+
+<p rend="bodytext">(Kha) anupādāniyā dhammā.</p>
+
+<p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> (Ka) upādānasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) upādānavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi> (Ka) upādānā ceva dhammā upādāniyā ca.</p>
+
+<p rend="bodytext">(Kha) upādāniyā ceva dhammā no ca upādānā.</p>
+
+<p rend="bodytext" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi> (Ka) upādānā <pb ed="M" n="0.0011" /> ceva dhammā upādānasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) upādānasampayuttā ceva dhammā no ca upādānā.</p>
+
+<p rend="bodytext" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi> (Ka) upādānavippayuttā <pb ed="P" n="0.0006" /> kho pana dhammā upādāniyāpi.</p>
+
+<p rend="bodytext">(Kha) anupādāniyāpi.</p>
+
+<p rend="centre">Upādānagocchakaṃ.</p>
+
+<p rend="subhead">Kilesagocchakaṃ</p>
+
+<p rend="bodytext" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi> (Ka) kilesā <pb ed="V" n="0.0014" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) no kilesā dhammā.</p>
+
+<p rend="bodytext" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi> (Ka) saṃkilesikā dhammā.</p>
+
+<p rend="bodytext">(Kha) asaṃkilesikā dhammā.</p>
+
+<p rend="bodytext" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi> (Ka) saṃkiliṭṭhā dhammā.</p>
+
+<p rend="bodytext">(Kha) asaṃkiliṭṭhā dhammā.</p>
+
+<p rend="bodytext" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi> (Ka) kilesasampayuttā dhammā.</p>
+
+<p rend="bodytext">(Kha) kilesavippayuttā dhammā.</p>
+
+<p rend="bodytext" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi> (Ka) kilesā ceva dhammā saṃkilesikā ca.</p>
+
+<p rend="bodytext">(Kha) saṃkilesikā ceva dhammā no ca kilesā.</p>
+
+<p rend="bodytext" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi> (Ka) kilesā ceva dhammā saṃkiliṭṭhā ca.</p>
+
+<p rend="bodytext">(Kha) saṃkiliṭṭhā ceva dhammā no ca kilesā.</p>
+
+<p rend="bodytext" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi> (Ka) kilesā ceva dhammā kilesasampayuttā ca.</p>
+
+<p rend="bodytext">(Kha) kilesasampayuttā ceva dhammā no ca kilesā.</p>
+
+<p rend="bodytext" n="82"><hi rend="paranum">82</hi><hi rend="dot">.</hi> (Ka) kilesavippayuttā kho pana dhammā saṃkilesikāpi.</p>
+
+<p rend="bodytext">(Kha) asaṃkilesikāpi.</p>
+
+<p rend="centre">Kilesagocchakaṃ.</p>
+
+<p rend="subhead">Piṭṭhidukaṃ</p>
+
+<p rend="bodytext" n="83"><hi rend="paranum">83</hi><hi rend="dot">.</hi> (Ka) dassanena <pb ed="M" n="0.0012" /><pb ed="V" n="0.0015" /> pahātabbā dhammā.</p>
+
+<p rend="bodytext">(Kha) na dassanena pahātabbā dhammā.</p>
+
+<p rend="bodytext" n="84"><hi rend="paranum">84</hi><hi rend="dot">.</hi> (Ka) bhāvanāya pahātabbā dhammā.</p>
+
+<p rend="bodytext">(Kha) na bhāvanāya pahātabbā dhammā.</p>
+
+<p rend="bodytext" n="85"><hi rend="paranum">85</hi><hi rend="dot">.</hi> (Ka) dassanena pahātabbahetukā dhammā.</p>
+
+<p rend="bodytext">(Kha) na dassanena pahātabbahetukā dhammā.</p>
+
+<p rend="bodytext" n="86"><hi rend="paranum">86</hi><hi rend="dot">.</hi> (Ka) bhāvanāya pahātabbahetukā dhammā.</p>
+
+<p rend="bodytext">(Kha) na bhāvanāya pahātabbahetukā dhammā.</p>
+
+<p rend="bodytext" n="87"><hi rend="paranum">87</hi><hi rend="dot">.</hi> (Ka) savitakkā dhammā.</p>
+
+<p rend="bodytext">(Kha) avitakkā dhammā.</p>
+
+<p rend="bodytext" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi> (Ka) savicārā dhammā.</p>
+
+<p rend="bodytext">(Kha) avicārā dhammā.</p>
+
+<p rend="bodytext" n="89"><hi rend="paranum">89</hi><hi rend="dot">.</hi> (Ka) sappītikā <pb ed="T" n="0.0007" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) appītikā dhammā.</p>
+
+<p rend="bodytext" n="90"><hi rend="paranum">90</hi><hi rend="dot">.</hi> (Ka) pītisahagatā dhammā.</p>
+
+<p rend="bodytext">(Kha) na pītisahagatā dhammā.</p>
+
+<p rend="bodytext" n="91"><hi rend="paranum">91</hi><hi rend="dot">.</hi> (Ka) sukhasahagatā dhammā.</p>
+
+<p rend="bodytext">(Kha) na sukhasahagatā dhammā.</p>
+
+<p rend="bodytext" n="92"><hi rend="paranum">92</hi><hi rend="dot">.</hi> (Ka) upekkhāsahagatā dhammā.</p>
+
+<p rend="bodytext">(Kha) na upekkhāsahagatā dhammā.</p>
+
+<p rend="bodytext" n="93"><hi rend="paranum">93</hi><hi rend="dot">.</hi> (Ka) kāmāvacarā <pb ed="V" n="0.0016" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) na kāmāvacarā dhammā.</p>
+
+<p rend="bodytext" n="94"><hi rend="paranum">94</hi><hi rend="dot">.</hi> (Ka) rūpāvacarā dhammā.</p>
+
+<p rend="bodytext">(Kha) na rūpāvacarā dhammā.</p>
+
+<p rend="bodytext" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi> (Ka) arūpāvacarā dhammā.</p>
+
+<p rend="bodytext">(Kha) na arūpāvacarā dhammā.</p>
+
+<p rend="bodytext" n="96"><hi rend="paranum">96</hi><hi rend="dot">.</hi> (Ka) pariyāpannā <pb ed="M" n="0.0013" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) apariyāpannā dhammā.</p>
+
+<p rend="bodytext" n="97"><hi rend="paranum">97</hi><hi rend="dot">.</hi> (Ka) niyyānikā dhammā.</p>
+
+<p rend="bodytext">(Kha) aniyyānikā dhammā.</p>
+
+<p rend="bodytext" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi> (Ka) niyatā <pb ed="P" n="0.0007" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) aniyatā dhammā.</p>
+
+<p rend="bodytext" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi> (Ka) sauttarā dhammā.</p>
+
+<p rend="bodytext">(Kha) anuttarā dhammā.</p>
+
+<p rend="bodytext" n="100"><hi rend="paranum">100</hi><hi rend="dot">.</hi> (Ka) saraṇā dhammā.</p>
+
+<p rend="bodytext">(Kha) araṇā dhammā.</p>
+
+<p rend="centre">Piṭṭhidukaṃ.</p>
+
+<p rend="centre">Abhidhammadukamātikā.</p>
+
+<p rend="subhead">Suttantikadukamātikā</p>
+
+<p rend="bodytext" n="101"><hi rend="paranum">101</hi><hi rend="dot">.</hi> (Ka) vijjābhāgino <pb ed="V" n="0.0017" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) avijjābhāgino dhammā.</p>
+
+<p rend="bodytext" n="102"><hi rend="paranum">102</hi><hi rend="dot">.</hi> (Ka) vijjūpamā dhammā.</p>
+
+<p rend="bodytext">(Kha) vajirūpamā dhammā.</p>
+
+<p rend="bodytext" n="103"><hi rend="paranum">103</hi><hi rend="dot">.</hi> (Ka) bālā dhammā.</p>
+
+<p rend="bodytext">(Kha) paṇḍitā dhammā.</p>
+
+<p rend="bodytext" n="104"><hi rend="paranum">104</hi><hi rend="dot">.</hi> (Ka) kaṇhā dhammā.</p>
+
+<p rend="bodytext">(Kha) sukkā dhammā.</p>
+
+<p rend="bodytext" n="105"><hi rend="paranum">105</hi><hi rend="dot">.</hi> (Ka) tapanīyā dhammā.</p>
+
+<p rend="bodytext">(Kha) atapanīyā dhammā.</p>
+
+<p rend="bodytext" n="106"><hi rend="paranum">106</hi><hi rend="dot">.</hi> (Ka) adhivacanā dhammā.</p>
+
+<p rend="bodytext">(Kha) adhivacanapathā dhammā.</p>
+
+<p rend="bodytext" n="107"><hi rend="paranum">107</hi><hi rend="dot">.</hi> (Ka) nirutti <pb ed="M" n="0.0014" /> dhammā.</p>
+
+<p rend="bodytext">(Kha) niruttipathā dhammā.</p>
+
+<p rend="bodytext" n="108"><hi rend="paranum">108</hi><hi rend="dot">.</hi> (Ka) paññatti dhammā.</p>
+
+<p rend="bodytext">(Kha) paññattipathā dhammā.</p>
+
+<p rend="bodytext" n="109"><hi rend="paranum">109</hi><hi rend="dot">.</hi> (Ka) nāmañca.</p>
+
+<p rend="bodytext">(Kha) rūpañca.</p>
+
+<p rend="bodytext" n="110"><hi rend="paranum">110</hi><hi rend="dot">.</hi> (Ka) avijjā ca.</p>
+
+<p rend="bodytext">(Kha) bhavataṇhā ca.</p>
+
+<p rend="bodytext" n="111"><hi rend="paranum">111</hi><hi rend="dot">.</hi> (Ka) bhavadiṭṭhi <pb ed="V" n="0.0018" /> ca.</p>
+
+<p rend="bodytext">(Kha) vibhavadiṭṭhi ca.</p>
+
+<p rend="bodytext" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi> (Ka) sassatadiṭṭhi ca.</p>
+
+<p rend="bodytext">(Kha) ucchedadiṭṭhi ca.</p>
+
+<p rend="bodytext" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi> (Ka) antavā diṭṭhi ca.</p>
+
+<p rend="bodytext">(Kha) anantavā diṭṭhi ca.</p>
+
+<p rend="bodytext" n="114"><hi rend="paranum">114</hi><hi rend="dot">.</hi> (Ka) pubbantānudiṭṭhi ca.</p>
+
+<p rend="bodytext">(Kha) aparantānudiṭṭhi ca.</p>
+
+<p rend="bodytext" n="115"><hi rend="paranum">115</hi><hi rend="dot">.</hi> (Ka) ahirikañca.</p>
+
+<p rend="bodytext">(Kha) anottappañca.</p>
+
+<p rend="bodytext" n="116"><hi rend="paranum">116</hi><hi rend="dot">.</hi> (Ka) hirī ca.</p>
+
+<p rend="bodytext">(Kha) ottappañca.</p>
+
+<p rend="bodytext" n="117"><hi rend="paranum">117</hi><hi rend="dot">.</hi> (Ka) dovacassatā ca.</p>
+
+<p rend="bodytext">(Kha) pāpamittatā ca.</p>
+
+<p rend="bodytext" n="118"><hi rend="paranum">118</hi><hi rend="dot">.</hi> (Ka) sovacassatā ca.</p>
+
+<p rend="bodytext">(Kha) kalyāṇamittatā ca.</p>
+
+<p rend="bodytext" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi> (Ka) āpattikusalatā ca.</p>
+
+<p rend="bodytext">(Kha) āpattivuṭṭhānakusalatā ca.</p>
+
+<p rend="bodytext" n="120"><hi rend="paranum">120</hi><hi rend="dot">.</hi> (Ka) samāpattikusalatā ca.</p>
+
+<p rend="bodytext">(Kha) samāpattivuṭṭhānakusalatā ca.</p>
+
+<p rend="bodytext" n="121"><hi rend="paranum">121</hi><hi rend="dot">.</hi> (Ka) dhātukusalatā <pb ed="M" n="0.0015" /> ca.</p>
+
+<p rend="bodytext">(Kha) manasikārakusalatā <pb ed="T" n="0.0008" /> ca.</p>
+
+<p rend="bodytext" n="122"><hi rend="paranum">122</hi><hi rend="dot">.</hi> (Ka) āyatanakusalatā <pb ed="V" n="0.0019" /> ca.</p>
+
+<p rend="bodytext">(Kha) paṭiccasamuppādakusalatā ca.</p>
+
+<p rend="bodytext" n="123"><hi rend="paranum">123</hi><hi rend="dot">.</hi> (Ka) ṭhānakusalatā ca.</p>
+
+<p rend="bodytext">(Kha) aṭṭhānakusalatā ca.</p>
+
+<p rend="bodytext" n="124"><hi rend="paranum">124</hi><hi rend="dot">.</hi> (Ka) ajjavo ca.</p>
+
+<p rend="bodytext">(Kha) maddavo ca.</p>
+
+<p rend="bodytext" n="125"><hi rend="paranum">125</hi><hi rend="dot">.</hi> (Ka) khanti ca.</p>
+
+<p rend="bodytext">(Kha) soraccañca.</p>
+
+<p rend="bodytext" n="126"><hi rend="paranum">126</hi><hi rend="dot">.</hi> (Ka) sākhalyañca.</p>
+
+<p rend="bodytext">(Kha) paṭisanthāro ca <note>paṭisandhāro ca (ka.)</note>.</p>
+
+<p rend="bodytext" n="127"><hi rend="paranum">127</hi><hi rend="dot">.</hi> (Ka) indriyesu aguttadvāratā ca.</p>
+
+<p rend="bodytext">(Kha) bhojane amattaññutā ca.</p>
+
+<p rend="bodytext" n="128"><hi rend="paranum">128</hi><hi rend="dot">.</hi> (Ka) indriyesu guttadvāratā ca.</p>
+
+<p rend="bodytext">(Kha) bhojane mattaññutā ca.</p>
+
+<p rend="bodytext" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi> (Ka) muṭṭhasaccañca.</p>
+
+<p rend="bodytext">(Kha) asampajaññañca.</p>
+
+<p rend="bodytext" n="130"><hi rend="paranum">130</hi><hi rend="dot">.</hi> (Ka) sati ca.</p>
+
+<p rend="bodytext">(Kha) sampajaññañca.</p>
+
+<p rend="bodytext" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi> (Ka) paṭisaṅkhānabalañca.</p>
+
+<p rend="bodytext">(Kha) bhāvanābalañca.</p>
+
+<p rend="bodytext" n="132"><hi rend="paranum">132</hi><hi rend="dot">.</hi> (Ka) samatho <pb ed="P" n="0.0008" /> ca.</p>
+
+<p rend="bodytext">(Kha) vipassanā ca.</p>
+
+<p rend="bodytext" n="133"><hi rend="paranum">133</hi><hi rend="dot">.</hi> (Ka) samathanimittañca <pb ed="V" n="0.0020" />.</p>
+
+<p rend="bodytext">(Kha) paggāhanimittañca.</p>
+
+<p rend="bodytext" n="134"><hi rend="paranum">134</hi><hi rend="dot">.</hi> (Ka) paggāho <pb ed="M" n="0.0016" /> ca.</p>
+
+<p rend="bodytext">(Kha) avikkhepo ca.</p>
+
+<p rend="bodytext" n="135"><hi rend="paranum">135</hi><hi rend="dot">.</hi> (Ka) sīlavipatti ca.</p>
+
+<p rend="bodytext">(Kha) diṭṭhivipatti ca.</p>
+
+<p rend="bodytext" n="136"><hi rend="paranum">136</hi><hi rend="dot">.</hi> (Ka) sīlasampadā ca.</p>
+
+<p rend="bodytext">(Kha) diṭṭhisampadā ca.</p>
+
+<p rend="bodytext" n="137"><hi rend="paranum">137</hi><hi rend="dot">.</hi> (Ka) sīlavisuddhi ca.</p>
+
+<p rend="bodytext">(Kha) diṭṭhivisuddhi ca.</p>
+
+<p rend="bodytext" n="138"><hi rend="paranum">138</hi><hi rend="dot">.</hi> (Ka) diṭṭhivisuddhi kho pana.</p>
+
+<p rend="bodytext">(Kha) yathādiṭṭhissa ca padhānaṃ.</p>
+
+<p rend="bodytext" n="139"><hi rend="paranum">139</hi><hi rend="dot">.</hi> (Ka) saṃvego ca saṃvejaniyesu ṭhānesu.</p>
+
+<p rend="bodytext">(Kha) saṃviggassa ca yoniso padhānaṃ.</p>
+
+<p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> (Ka) asantuṭṭhitā ca kusalesu dhammesu.</p>
+
+<p rend="bodytext">(Kha) appaṭivānitā ca padhānasmiṃ.</p>
+
+<p rend="bodytext" n="141"><hi rend="paranum">141</hi><hi rend="dot">.</hi> (Ka) vijjā ca.</p>
+
+<p rend="bodytext">(Kha) vimutti ca.</p>
+
+<p rend="bodytext" n="142"><hi rend="paranum">142</hi><hi rend="dot">.</hi> (Ka) khaye ñāṇaṃ.</p>
+
+<p rend="bodytext">(Kha) anuppāde ñāṇanti.</p>
+
+<p rend="centre">Suttantikadukamātikā <note>suttantamātikā (syā.)</note>.</p>
+
+<p rend="centre">Mātikā niṭṭhitā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

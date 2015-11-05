@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Dhammacakkapavattanadīpanīgāthā</p>
+
+<p rend="hangnum" n="174"><hi rend="paranum">174</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sammāsambodhiñānaṃ hatasakalamalaṃ suddhato cātisuddhaṃ,</p>
+
+<p rend="gatha2">Addhā laddhā suladdhaṃ vatamiti satataṃ cintayanto subodhiṃ;</p>
+
+<p rend="gatha3">Sattāhaṃ sattamevaṃ vividhaphalasukhaṃ vitināmesi kālaṃ,</p>
+
+<p rend="gathalast">Brahmenāyācito so isipatanavane vattayī dhammacakkaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

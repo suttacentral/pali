@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Suttantapiṭake</p>
+
+<p rend="book">Dīghanikāye</p>
+
+<p rend="chapter">Sīlakkhandhavaggasutta</p>
+
+<p rend="title">Saṃgāyanassa pucchā vissajjanā</p>
+
+<p rend="bodytext"><hi rend="bold">Pucchā –</hi> paṭhamamahādhammasaṃgītikāle <pb ed="M" n="0.0001" /> āvuso dhammasaṃgāhakā mahākassapādayo mahātheravarā paṭhamaṃ vinayaṃ saṃgāyitvā tadanantaraṃ kaṃ nāma pāvacanaṃ saṃgāyiṃsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Vissajjanā –</hi> paṭhamamahādhammasaṃgītiyaṃ bhante dhammasaṃgāhakā mahākassapādayo mahātheravarā paṭhamaṃ vinayaṃ saṃgāyitvā tadanantaraṃ dhammaṃ saṃgāyiṃsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Pucchā –</hi> dhammo <pb ed="M" n="0.0002" /> nāma āvuso suttantābhidhammavasena duvidho, tattha kataraṃ dhammaṃ paṭhamaṃ saṃgāyiṃsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Vissajjanā –</hi> dvīsu bhante dhammesu suttantābhidhammapiṭakesu paṭhamaṃ suttantaṃ piṭakaṃ dhammaṃ saṃgāyiṃsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Pucchā –</hi> suttantapiṭake <pb ed="M" n="0.0003" />pi āvuso dīghamajjhimasaṃyuttaaṅguttarakhuddakanikāyavasena pañca nikāyā, tesu paṭhamaṃ kataraṃ nikāyaṃ saṃgāyiṃsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Vissajjanā –</hi> pañcasu bhante nikāyesu paṭhamaṃ dīghanikāyaṃ saṃgāyiṃsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Pucchā –</hi> dīghanikāyepi āvuso tayo vaggā catuttiṃsā ca suttāni, tesu kataraṃ vaggaṃ katarañca suttaṃ paṭhamaṃ saṃgāyiṃsu.</p>
+
+<p rend="bodytext"><hi rend="bold">Vissajjanā –</hi> dīghanikāyepi bhante tīsu vaggesu paṭhamaṃ sīlakkhandhavaggaṃ, catuttiṃsatiyā ca suttesu paṭhamaṃ brahmajālasuttaṃ saṃgāyiṃsu.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

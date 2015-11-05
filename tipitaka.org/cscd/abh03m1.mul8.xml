@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">8. Aṭṭhamanayo</p>
+
+<p rend="title">8. Vippayuttenasampayuttapadaniddeso</p>
+
+<p rend="bodytext" n="317"><hi rend="paranum">317</hi><hi rend="dot">.</hi> Rūpakkhandhena <pb ed="T" n="0.0073" /><pb ed="P" n="0.0066" /><pb ed="M" n="0.0058" /><pb ed="V" n="0.0060" /> ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti? Natthi.</p>
+
+<p rend="bodytext" n="318"><hi rend="paranum">318</hi><hi rend="dot">.</hi> Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye dhammā… viññāṇakkhandhena ye dhammā…pe… saraṇehi dhammehi ye dhammā… araṇehi dhammehi ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti? Natthi.</p>
+
+<p rend="gatha1">Dhammāyatanaṃ dhammadhātu, atha jīvitaṃ nāmarūpaṃ;</p>
+
+<p rend="gathalast">Saḷāyatanaṃ jātijarāmataṃ, dve ca tike na labbhare.</p>
+
+<p rend="gatha1">Paṭhamantare satta ca, gocchake dasa aparante;</p>
+
+<p rend="gatha2">Cuddasa cha ca matthake, iccete sattacattālīsa dhammā;</p>
+
+<p rend="gathalast">Samucchede na labbhanti, moghapucchakena cāti.</p>
+
+<p rend="centre">Vippayuttenasampayuttapadaniddeso aṭṭhamo.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

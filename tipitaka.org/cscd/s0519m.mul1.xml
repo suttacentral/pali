@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">2. Uddesavāro</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Tattha katame soḷasa hārā? Desanā vicayo yutti padaṭṭhāno lakkhaṇo catubyūho āvaṭṭo vibhatti parivattano vevacano paññatti <pb ed="M" n="0.0002" /> otaraṇo sodhano adhiṭṭhāno parikkhāro samāropano iti.</p>
+
+<p rend="subhead">Tassānugīti</p>
+
+<p rend="gatha1">Desanā <pb ed="P" n="0.0002" /> vicayo yutti, padaṭṭhāno ca lakkhaṇo;</p>
+
+<p rend="gathalast">Catubyūho ca āvaṭṭo, vibhatti parivattano.</p>
+
+<p rend="gatha1">Vevacano ca paññatti, otaraṇo ca sodhano;</p>
+
+<p rend="gathalast">Adhiṭṭhāno parikkhāro, samāropano soḷaso <note>soḷasa (sī.)</note>.</p>
+
+<p rend="gatha1">Ete soḷasa hārā, pakittitā atthato asaṃkiṇṇā;</p>
+
+<p rend="gathalast">Etesañceva bhavati, vitthāratayā nayavibhattīti.</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Tattha katame pañca nayā? Nandiyāvaṭṭo tipukkhalo sīhavikkīḷito disālocano aṅkuso iti.</p>
+
+<p rend="subhead">Tassānugīti</p>
+
+<p rend="gatha1">Paṭhamo nandiyāvaṭṭo, dutiyo ca tipukkhalo;</p>
+
+<p rend="gathalast">Sīhavikkīḷito nāma, tatiyo nayalañjako <note>nayalañchako (sī.)</note>.</p>
+
+<p rend="gatha1">Disālocanamāhaṃsu <pb ed="V" n="0.0003" />, catutthaṃ nayamuttamaṃ;</p>
+
+<p rend="gathalast">Pañcamo aṅkuso nāma, sabbe pañca nayā gatāti.</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> Tattha katamāni aṭṭhārasa mūlapadāni? Nava padāni kusalāni nava padāni akusalāni. Tattha katamāni nava padāni akusalāni, taṇhā avijjā lobho doso moho subhasaññā sukhasaññā niccasaññā attasaññāti, imāni nava padāni akusalāni, yattha sabbo akusalapakkho saṅgahaṃ samosaraṇaṃ gacchati.</p>
+
+<p rend="bodytext">Tattha katamāni nava padāni kusalāni? Samatho vipassanā alobho adoso amoho asubhasaññā dukkhasaññā aniccasaññā anattasaññāti, imāni nava padāni kusalāni, yattha sabbo kusalapakkho saṅgahaṃ samosaraṇaṃ gacchati.</p>
+
+<p rend="subhead">Tatridaṃ uddānaṃ</p>
+
+<p rend="gatha1">Taṇhā <pb ed="M" n="0.0003" /> ca avijjāpi ca, lobho doso tatheva moho ca;</p>
+
+<p rend="gathalast">Caturo ca vipallāsā, kilesabhūmī nava padāni.</p>
+
+<p rend="gatha1">Samatho <pb ed="P" n="0.0003" /> ca vipassanā ca, kusalāni ca yāni tīṇi mūlāni;</p>
+
+<p rend="gathalast">Caturo satipaṭṭhānā, indriyabhūmī nava padāni.</p>
+
+<p rend="gatha1">Navahi ca padehi kusalā, navahi ca yujjanti akusalapakkhā;</p>
+
+<p rend="gathalast">Ete kho mūlapadā, bhavanti aṭṭhārasa padānīti.</p>
+
+<p rend="centre">Uddesavāro.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

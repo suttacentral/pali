@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">9. Mettasuttaṃ</p>
+
+<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Karaṇīyamatthakusalena <pb ed="P" n="0.0008" />, yantasantaṃ padaṃ abhisamecca;</p>
+
+<p rend="gathalast">Sakko ujū ca suhujū <note>sūjū (sī.)</note> ca, suvaco cassa mudu anatimānī.</p>
+
+<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Santussako <pb ed="M" n="0.0011" /> ca subharo ca, appakicco ca sallahukavutti;</p>
+
+<p rend="gathalast">Santindriyo ca nipako ca, appagabbho kulesvananugiddho.</p>
+
+<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Na ca khuddamācare kiñci, yena viññū pare upavadeyyuṃ;</p>
+
+<p rend="gathalast">Sukhinova khemino hontu, sabbasattā <note>sabbe sattā (sī. syā.)</note> bhavantu sukhitattā.</p>
+
+<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ye keci pāṇabhūtatthi, tasā vā thāvarā vanavasesā;</p>
+
+<p rend="gathalast">Dīghā vā yeva mahantā <note>mahanta (?)</note>, majjhimā rassakā aṇukathūlā.</p>
+
+<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Diṭṭhā vā yeva adiṭṭhā <note>adiṭṭha (?)</note>, ye va <note>ye ca (sī. syā. kaṃ. pī.)</note> dūre vasanti avidūre;</p>
+
+<p rend="gathalast">Bhūtā va <note>vā (syā. kaṃ. pī. ka.)</note> sambhavesī va <note>vā (sī. syā. kaṃ. pī.)</note>, sabbasattā bhavantu sukhitattā.</p>
+
+<p rend="hangnum" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Na paro paraṃ nikubbetha, nātimaññetha katthaci na kañci <note>naṃ kañci (sī. pī.), naṃ kiñci (syā.), na kiñci (ka.)</note>;</p>
+
+<p rend="gathalast">Byārosanā paṭighasaññā, nāññamaññassa dukkhamiccheyya.</p>
+
+<p rend="hangnum" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Mātā <pb ed="V" n="0.0012" /> yathā niyaṃ puttamāyusā ekaputtamanurakkhe;</p>
+
+<p rend="gathalast">Evampi sabbabhūtesu, mānasaṃ bhāvaye aparimāṇaṃ.</p>
+
+<p rend="hangnum" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Mettañca <pb ed="T" n="0.0014" /> sabbalokasmi, mānasaṃ bhāvaye aparimāṇaṃ;</p>
+
+<p rend="gathalast">Uddhaṃ adho ca tiriyañca, asambādhaṃ averamasapattaṃ.</p>
+
+<p rend="hangnum" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tiṭṭhaṃ caraṃ nisinno va <note>vā (sī. syā. kaṃ. pī.)</note>, sayāno yāvatāssa vitamiddho <note>vigatamiddho (bahūsu)</note>;</p>
+
+<p rend="gathalast">Etaṃ satiṃ adhiṭṭheyya, brahmametaṃ vihāramidhamāhu.</p>
+
+<p rend="hangnum" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Diṭṭhiñca <pb ed="P" n="0.0009" /> anupaggamma, sīlavā dassanena sampanno;</p>
+
+<p rend="gathalast">Kāmesu vinaya <note>vineyya (sī.)</note> gedhaṃ, na hi jātuggabbhaseyya puna retīti.</p>
+
+<p rend="centre">Mettasuttaṃ niṭṭhitaṃ.</p>
+
+<p rend="centre">Khuddakapāṭhapāḷi niṭṭhitā.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

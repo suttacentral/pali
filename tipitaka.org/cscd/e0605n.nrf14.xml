@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Pādabyāsamahāyamakagāthā</p>
+
+<p rend="hangnum" n="97"><hi rend="paranum">97</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sakāmadātā vinayāmanatagū,</p>
+
+<p rend="gatha2">Sakāmadātā vinayāmanantagū;</p>
+
+<p rend="gatha3">Sakāmadātā vinayāmanantagū,</p>
+
+<p rend="gathalast">Sakāmadātā vinayāmanantagū.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

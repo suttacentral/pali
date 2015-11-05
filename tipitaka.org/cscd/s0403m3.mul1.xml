@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">2. Anusayavaggo</p>
+
+<p rend="subhead">1. Paṭhamaanusayasuttaṃ</p>
+
+<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> ‘‘Sattime <pb ed="V" n="2.0161" />, bhikkhave, anusayā. Katame satta? Kāmarāgānusayo, paṭighānusayo <pb ed="T" n="4.0009" />, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo <pb ed="M" n="2.0402" />, avijjānusayo. Ime kho, bhikkhave, satta anusayā’’ti. Paṭhamaṃ.</p>
+
+<p rend="subhead">2. Dutiyaanusayasuttaṃ</p>
+
+<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> ‘‘Sattannaṃ, bhikkhave, anusayānaṃ pahānāya samucchedāya brahmacariyaṃ vussati. Katamesaṃ sattannaṃ? Kāmarāgānusayassa pahānāya samucchedāya brahmacariyaṃ vussati, paṭighānusayassa…pe… diṭṭhānusayassa… vicikicchānusayassa… mānānusayassa… bhavarāgānusayassa… avijjānusayassa pahānāya samucchedāya brahmacariyaṃ vussati. Imesaṃ kho, bhikkhave, sattannaṃ anusayānaṃ pahānāya samucchedāya brahmacariyaṃ vussati.</p>
+
+<p rend="bodytext">‘‘Yato ca kho, bhikkhave, bhikkhuno kāmarāgānusayo pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo. Paṭighānusayo…pe… diṭṭhānusayo… vicikicchānusayo… mānānusayo… bhavarāgānusayo… avijjānusayo pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo. Ayaṃ vuccati, bhikkhave, bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’’ti. Dutiyaṃ.</p>
+
+<p rend="subhead">3. Kulasuttaṃ</p>
+
+<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> ‘‘Sattahi <pb ed="P" n="4.0010" />, bhikkhave, aṅgehi samannāgataṃ kulaṃ anupagantvā vā nālaṃ upagantuṃ, upagantvā <pb ed="V" n="2.0162" /> vā nālaṃ upanisīdituṃ. Katamehi sattahi? Na manāpena paccuṭṭhenti, na manāpena abhivādenti, na manāpena āsanaṃ denti, santamassa pariguhanti, bahukampi thokaṃ denti, paṇītampi lūkhaṃ denti, asakkaccaṃ denti no sakkaccaṃ. Imehi kho, bhikkhave, sattahi aṅgehi samannāgataṃ kulaṃ anupagantvā vā nālaṃ upagantuṃ, upagantvā vā <pb ed="T" n="4.0010" /> nālaṃ upanisīdituṃ.</p>
+
+<p rend="bodytext">‘‘Sattahi, bhikkhave, aṅgehi samannāgataṃ kulaṃ anupagantvā vā alaṃ upagantuṃ, upagantvā vā alaṃ upanisīdituṃ. Katamehi sattahi? Manāpena paccuṭṭhenti, manāpena abhivādenti, manāpena āsanaṃ denti, santamassa na pariguhanti, bahukampi bahukaṃ denti, paṇītampi paṇītaṃ denti, sakkaccaṃ denti no asakkaccaṃ. Imehi kho, bhikkhave, sattahi aṅgehi samannāgataṃ kulaṃ anupagantvā vā alaṃ upagantuṃ, upagantvā vā alaṃ upanisīditu’’nti. Tatiyaṃ.</p>
+
+<p rend="subhead">4. Puggalasuttaṃ</p>
+
+<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> ‘‘Sattime <pb ed="M" n="2.0403" />, bhikkhave, puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassa. Katame satta? Ubhatobhāgavimutto, paññāvimutto, kāyasakkhī, diṭṭhippatto <note>diṭṭhappatto (ka.)</note>, saddhāvimutto, dhammānusārī, saddhānusārī. Ime <pb ed="P" n="4.0011" /> kho, bhikkhave, satta puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassā’’ti. Catutthaṃ.</p>
+
+<p rend="subhead">5. Udakūpamāsuttaṃ</p>
+
+<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> ‘‘Sattime, bhikkhave, udakūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame satta? <note>pu. pa. 203; kathā. 852</note> Idha, bhikkhave, ekacco puggalo sakiṃ nimuggo nimuggova hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā nimujjati; idha pana, bhikkhave, ekacco puggalo ummujjitvā ṭhito hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā vipassati viloketi; idha pana, bhikkhave, ekacco puggalo ummujjitvā patarati; idha pana, bhikkhave, ekacco <pb ed="V" n="2.0163" /> puggalo ummujjitvā patigādhappatto hoti; idha <pb ed="T" n="4.0011" /> pana, bhikkhave, ekacco puggalo ummujjitvā tiṇṇo hoti pāraṅgato <note>pāragato (sī. syā. kaṃ.)</note> thale tiṭṭhati brāhmaṇo.</p>
+
+<p rend="bodytext">‘‘Kathañca, bhikkhave, puggalo sakiṃ nimuggo nimuggova hoti? Idha bhikkhave, ekacco puggalo samannāgato hoti ekantakāḷakehi akusalehi dhammehi. Evaṃ kho, bhikkhave, puggalo sakiṃ nimuggo nimuggova hoti.</p>
+
+<p rend="bodytext">‘‘Kathañca, bhikkhave, puggalo ummujjitvā nimujjati? Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī…pe… sādhu ottappaṃ… sādhu vīriyaṃ <note>viriyaṃ (sī. syā. kaṃ. pī.)</note> … sādhu paññā kusalesu dhammesūti. Tassa sā saddhā neva tiṭṭhati no vaḍḍhati hāyatiyeva, tassa sā hirī…pe… tassa taṃ ottappaṃ… tassa taṃ vīriyaṃ… tassa sā paññā neva tiṭṭhati no vaḍḍhati hāyatiyeva. Evaṃ kho, bhikkhave, puggalo ummujjitvā nimujjati.</p>
+
+<p rend="bodytext">‘‘Kathañca <pb ed="M" n="2.0404" />, bhikkhave, puggalo ummujjitvā ṭhito hoti? Idha <pb ed="P" n="4.0012" />, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī…pe… sādhu ottappaṃ… sādhu vīriyaṃ… sādhu paññā kusalesu dhammesūti. Tassa sā saddhā neva hāyati no vaḍḍhati ṭhitā hoti. Tassa sā hirī…pe… tassa taṃ ottappaṃ… tassa taṃ vīriyaṃ… tassa sā paññā neva hāyati no vaḍḍhati ṭhitā hoti. Evaṃ kho, bhikkhave, puggalo ummujjitvā ṭhito hoti.</p>
+
+<p rend="bodytext">‘‘Kathañca, bhikkhave, puggalo ummujjitvā vipassati viloketi? Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī…pe… sādhu ottappaṃ… sādhu vīriyaṃ… sādhu paññā kusalesu dhammesūti. So tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno <pb ed="T" n="4.0012" /> hoti avinipātadhammo niyato sambodhiparāyaṇo. Evaṃ kho, bhikkhave, puggalo ummujjitvā vipassati viloketi.</p>
+
+<p rend="bodytext">‘‘Kathañca, bhikkhave, puggalo ummujjitvā patarati? Idha, bhikkhave, ekacco puggalo ummujjati <pb ed="V" n="2.0164" /> sādhu saddhā kusalesu dhammesu, sādhu hirī…pe… sādhu ottappaṃ… sādhu vīriyaṃ… sādhu paññā kusalesu dhammesūti. So tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī hoti, sakideva <note>sakiṃdeva (ka.)</note> imaṃ lokaṃ āgantvā dukkhassantaṃ karoti <note>dukkhassantakaro hoti (ka.)</note>. Evaṃ kho, bhikkhave, puggalo ummujjitvā patarati.</p>
+
+<p rend="bodytext">‘‘Kathañca, bhikkhave, puggalo ummujjitvā patigādhappatto hoti? Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī…pe… sādhu ottappaṃ… sādhu vīriyaṃ… sādhu paññā kusalesu dhammesūti. So pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā lokā. Evaṃ kho, bhikkhave, puggalo ummujjitvā patigādhappatto hoti.</p>
+
+<p rend="bodytext">‘‘Kathañca, bhikkhave, puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo. Idha <pb ed="P" n="4.0013" />, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī…pe… sādhu ottappaṃ… sādhu vīriyaṃ… sādhu paññā <pb ed="M" n="2.0405" /> kusalesu dhammesūti. So āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Evaṃ kho, bhikkhave, puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.</p>
+
+<p rend="bodytext">‘‘Ime kho, bhikkhave, satta udakūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Pañcamaṃ.</p>
+
+<p rend="subhead">6. Aniccānupassīsuttaṃ</p>
+
+<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> ‘‘Sattime <pb ed="T" n="4.0013" />, bhikkhave, puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassa. Katame satta? Idha, bhikkhave, ekacco puggalo sabbasaṅkhāresu aniccānupassī viharati, aniccasaññī, aniccapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno. So āsavānaṃ khayā…pe… sacchikatvā <pb ed="V" n="2.0165" /> upasampajja viharati. Ayaṃ, bhikkhave, paṭhamo puggalo āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa.</p>
+
+<p rend="bodytext">‘‘Puna caparaṃ, bhikkhave, idhekacco puggalo sabbasaṅkhāresu aniccānupassī viharati, aniccasaññī, aniccapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno. Tassa apubbaṃ acarimaṃ āsavapariyādānañca hoti jīvitapariyādānañca. Ayaṃ, bhikkhave, dutiyo puggalo āhuneyyo…pe… anuttaraṃ puññakkhettaṃ lokassa.</p>
+
+<p rend="bodytext">‘‘Puna caparaṃ, bhikkhave, idhekacco puggalo sabbasaṅkhāresu aniccānupassī viharati, aniccasaññī, aniccapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno. So pañcannaṃ orambhāgiyānaṃ <pb ed="P" n="4.0014" /> saṃyojanānaṃ parikkhayā antarāparinibbāyī hoti…pe… upahaccaparinibbāyī hoti…pe… asaṅkhāraparinibbāyī hoti…pe… sasaṅkhāraparinibbāyī hoti…pe… uddhaṃsoto hoti akaniṭṭhagāmī. Ayaṃ, bhikkhave, sattamo puggalo āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa. Ime kho, bhikkhave, satta puggalā āhuneyyā <pb ed="T" n="4.0014" /> pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassā’’ti. Chaṭṭhaṃ.</p>
+
+<p rend="subhead">7. Dukkhānupassīsuttaṃ</p>
+
+<p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> Sattime <pb ed="M" n="2.0406" />, bhikkhave, puggalā āhuneyyā…pe… anuttaraṃ puññakkhettaṃ lokassa. Katame satta? Idha, bhikkhave, ekacco puggalo sabbasaṅkhāresu dukkhānupassī viharati…pe…. Sattamaṃ.</p>
+
+<p rend="subhead">8. Anattānupassīsuttaṃ</p>
+
+<p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> Sabbesu dhammesu anattānupassī viharati…pe…. Aṭṭhamaṃ.</p>
+
+<p rend="subhead">9. Nibbānasuttaṃ</p>
+
+<p rend="bodytext" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi><note>kathā. 547-548</note> ‘‘Nibbāne <pb ed="V" n="2.0166" /> sukhānupassī viharati sukhasaññī sukhapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno. So āsavānaṃ khayā…pe… sacchikatvā upasampajja viharati. Ayaṃ bhikkhave, paṭhamo puggalo āhuneyyo…pe… puññakkhettaṃ lokassa.</p>
+
+<p rend="bodytext">‘‘Puna caparaṃ, bhikkhave, idhekacco puggalo nibbāne sukhānupassī viharati sukhasaññī sukhapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno. Tassa apubbaṃ acarimaṃ āsavapariyādānañca hoti jīvitapariyādānañca. Ayaṃ, bhikkhave, dutiyo puggalo āhuneyyo…pe… anuttaraṃ puññakkhettaṃ lokassa.</p>
+
+<p rend="bodytext">‘‘Puna caparaṃ, bhikkhave, idhekacco puggalo nibbāne sukhānupassī viharati sukhasaññī sukhapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno. So pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā antarāparinibbāyī hoti…pe… upahaccaparinibbāyī <pb ed="P" n="4.0015" /> hoti…pe… asaṅkhāraparinibbāyī hoti…pe… sasaṅkhāraparinibbāyī hoti…pe… uddhaṃsoto hoti akaniṭṭhagāmī. Ayaṃ, bhikkhave, sattamo puggalo āhuneyyo…pe… anuttaraṃ puññakkhettaṃ lokassa <pb ed="T" n="4.0015" />. Ime kho, bhikkhave, satta puggalā āhuneyyā…pe… anuttaraṃ puññakkhettaṃ lokassā’’ti. Navamaṃ.</p>
+
+<p rend="subhead">10. Niddasavatthusuttaṃ</p>
+
+<p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> ‘‘Sattimāni <pb ed="M" n="2.0407" />, bhikkhave, niddasavatthūni. Katamāni satta? Idha, bhikkhave, bhikkhu sikkhāsamādāne tibbacchando hoti āyatiñca sikkhāsamādāne avigatapemo <note>adhigatapemo (syā.) a. ni. 7.42; dī. ni. 3.331</note>, dhammanisantiyā tibbacchando hoti āyatiñca dhammanisantiyā avigatapemo, icchāvinaye tibbacchando hoti āyatiñca icchāvinaye avigatapemo, paṭisallāne tibbacchando hoti āyatiñca paṭisallāne avigatapemo, vīriyārambhe <note>vīriyārabbhe (ka.)</note> tibbacchando hoti āyatiñca vīriyārambhe avigatapemo, satinepakke tibbacchando hoti āyatiñca satinepakke avigatapemo, diṭṭhipaṭivedhe <pb ed="V" n="2.0167" /> tibbacchando hoti āyatiñca diṭṭhipaṭivedhe avigatapemo. Imāni kho, bhikkhave, satta niddasavatthūnī’’ti. Dasamaṃ.</p>
+
+<p rend="centre">Anusayavaggo dutiyo.</p>
+
+<p rend="bodytext">Tassuddānaṃ –</p>
+
+<p rend="gatha1">Duve anusayā kulaṃ, puggalaṃ udakūpamaṃ;</p>
+
+<p rend="gathalast">Aniccaṃ dukkhaṃ anattā ca, nibbānaṃ niddasavatthu cāti.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

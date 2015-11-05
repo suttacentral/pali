@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">5. Bhāvāvabodha-pañcamapariccheda</p>
+
+<p rend="hangnum" n="338"><hi rend="paranum">338</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Paṭibhānavatā loka, vohāra’manusārinā;</p>
+
+<p rend="gathalast">Tato’citya samullāsa, vedinā kavinā paraṃ.</p>
+
+<p rend="hangnum" n="339"><hi rend="paranum">339</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ṭhāyisambandhino bhāva, vibhāvā sā’nubhāvakā;</p>
+
+<p rend="gathalast">Sambajjhanti nibandhā te, rasa’ssādāya sādhunaṃ.</p>
+
+<p rend="title">Bhāvaadhippāya</p>
+
+<p rend="hangnum" n="340"><hi rend="paranum">340</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Citta vutti visesā tu, bhāvayanti rase yato;</p>
+
+<p rend="gathalast">Ratyādayo tato bhāva, saddena parikittitā.</p>
+
+<p rend="title">Ṭhāyībhāvaadhippāya</p>
+
+<p rend="hangnum" n="341"><hi rend="paranum">341</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Virodhinā’ññabhāvena, yo bhāvo na tirohito;</p>
+
+<p rend="gathalast">Sīlena tiṭṭhati’cceso, <hi rend="bold">‘ṭhāyībhāvo’</hi>ti saddito.</p>
+
+<p rend="title">Ṭhāyībhāvappabhedauddesa</p>
+
+<p rend="hangnum" n="342"><hi rend="paranum">342</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Rati, hasso, ca soko, ca,</p>
+
+<p rend="gatha2">Kodhu, ssāhā, bhayaṃ,pi ca;</p>
+
+<p rend="gathalast">Jigucchā, vimhayo, ceva, samo ca nava <hi rend="bold">ṭhāyino.</hi></p>
+
+<p rend="title">Byabhicārībhāvaadhippāya</p>
+
+<p rend="hangnum" n="343"><hi rend="paranum">343</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tirobhāvā, vibhāvā’di, visesanā’bhimukhyato;</p>
+
+<p rend="gathalast">Ye te caranti sīlena, te honti <hi rend="bold">byabhicārino.</hi></p>
+
+<p rend="title">Byabhicāribhāvapabheda</p>
+
+<p rend="hangnum" n="344"><hi rend="paranum">344</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Nibbedo <pb ed="M" n="0.0187" />, takka, saṅkā, sama,</p>
+
+<p rend="gatha2">Dhiti, jaḷatā, dīnatu, ggā, lasattaṃ,</p>
+
+<p rend="gatha3">Suttaṃ, tāso, gilānu, ssuka, harisa,</p>
+
+<p rend="gatha2">Sati, ssā, visādā, bahitthā <note>bahiddhā (ka.)</note>;</p>
+
+<p rend="gatha3">Cintā, gabbā, pamāro, marisa, mada,</p>
+
+<p rend="gatha2">Matu, mmāda, mohā, vibodho,</p>
+
+<p rend="gatha3">Niddā, vegā, sabilaṃ, maraṇa,</p>
+
+<p rend="gathalast">Capalatā <note>sacapalā (ka.)</note>, byādhi, <hi rend="bold">tettiṃsa</hi> mete.</p>
+
+<p rend="title">Sattikabhāvaadhippāya</p>
+
+<p rend="hangnum" n="345"><hi rend="paranum">345</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Samāhita’tta’ppabhavaṃ, <hi rend="bold">sattaṃ</hi><note>satvaṃ (ka.)</note> teno’papāditā;</p>
+
+<p rend="gathalast"><hi rend="bold">Sattikā</hi><note>sātvikā (ka.)</note> pya’nubhāvatte, visuṃ <hi rend="bold">bhāvā</hi> bhavanti te.</p>
+
+<p rend="title">Sattikabhāvappabheda</p>
+
+<p rend="hangnum" n="346"><hi rend="paranum">346</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Thambho, paḷaya, romañcā, tathā seda, ssu, vepathu;</p>
+
+<p rend="gathalast">Vevaṇṇiyaṃ, visaratā, bhāvā’ṭṭhe’te tu sattikā.</p>
+
+<p rend="hangnum" n="347"><hi rend="paranum">347</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yadā ratyādayo bhāvā, ṭhitisīlā na honti ce;</p>
+
+<p rend="gathalast">Tadā sabbepi te bhāvā, bhavanti byabhicārino.</p>
+
+<p rend="hangnum" n="348"><hi rend="paranum">348</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"><hi rend="bold">Vibhāvo</hi> kāraṇaṃ tesu, ppattiyu’ddīpane tathā;</p>
+
+<p rend="gatha2">Yo siyā bodhako tesaṃ,</p>
+
+<p rend="gathalast"><hi rend="bold">Anubhāvo’</hi>ya mīrito.</p>
+
+<p rend="hangnum" n="349"><hi rend="paranum">349</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Nekahetuṃ manovutti, visesañca vibhāvituṃ;</p>
+
+<p rend="gathalast">Bhāvaṃ vibhāvā’nubhāvā, vaṇṇiyā bandhane phuṭaṃ.</p>
+
+<p rend="hangnum" n="350"><hi rend="paranum">350</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Savibhāvā’nubhāvehi, bhāvā te te yathārahaṃ;</p>
+
+<p rend="gathalast">Vaṇṇanīyā yatho’cityaṃ, lokarūpā’nugāminā.</p>
+
+<p rend="hangnum" n="351"><hi rend="paranum">351</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Citta <pb ed="M" n="0.0188" /> vutti visesattā, mānasā sattikā’ṅgato;</p>
+
+<p rend="gathalast">Bahi nissaṭa sedādi, anubhāvehi vaṇṇiyā.</p>
+
+<p rend="title">Rasaadhippāya</p>
+
+<p rend="hangnum" n="352"><hi rend="paranum">352</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sāmājikāna mānando, yo bandhatthā’nusārinaṃ;</p>
+
+<p rend="gathalast">Rasīyatīti taññūhi, <hi rend="bold">raso</hi> nāmā’ya’mīrito.</p>
+
+<p rend="title">Rasappabheda</p>
+
+<p rend="hangnum" n="353"><hi rend="paranum">353</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Savibhāvā, nubhāvehi, sattika,byabhicāribhi;</p>
+
+<p rend="gathalast">Assādiyatta mānīya, māno ṭhāye’va so raso.</p>
+
+<p rend="hangnum" n="354"><hi rend="paranum">354</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Siṅgāra,hassa,karuṇā, rudda,vīra,bhayānakā;</p>
+
+<p rend="gathalast">Bībhaccha,bbhuta,santā, ca, rasā ṭhāyīna nukkamā.</p>
+
+<p rend="hangnum" n="355"><hi rend="paranum">355</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Dukkharūpe’ya’ mānando, kathaṃ nu karuṇādike?</p>
+
+<p rend="gatha2"><hi rend="bold">Siyā sotūnamānando,</hi></p>
+
+<p rend="gathalast"><hi rend="bold">Soko vessantarassa hi.</hi></p>
+
+<p rend="title">Ṭhāyībhāva niddesa ratiṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="356"><hi rend="paranum">356</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ramma,desa, kalā, kāla, vesādi, paṭisevanā;</p>
+
+<p rend="gathalast">Yuvāna’ññoññarattānaṃ, pamodo <hi rend="bold">rati</hi> ruccate.</p>
+
+<p rend="hangnum" n="357"><hi rend="paranum">357</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Yutyā bhāvānubhāvā te, nibandhā posayanti naṃ;</p>
+
+<p rend="gathalast">Sopya’yoga, vippayoga, sambhogānaṃ vasā <hi rend="bold">tidhā.</hi></p>
+
+<p rend="title">Hassaṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="358"><hi rend="paranum">358</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Vikārā’katiādīhi, attano tha parassa vā;</p>
+
+<p rend="gatha2">Hasso niddā, samā’lasya, mucchādi,byabhicāribhi;</p>
+
+<p rend="gathalast">Paripose siyā hasso, bhiyyo’tthipabhutīnaṃ so.</p>
+
+<p rend="title">Hassappabheda</p>
+
+<p rend="hangnum" n="359"><hi rend="paranum">359</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sita miha vikāsi nayanaṃ,</p>
+
+<p rend="gatha2">Kiñcā’lakkhiya dijaṃ tu taṃ <hi rend="bold">hasitaṃ;</hi></p>
+
+<p rend="gathalast">Madhurassaraṃ <hi rend="bold">vihasitaṃ,</hi> aṃsasirokampa<hi rend="bold">mupahasitaṃ.</hi></p>
+
+<p rend="hangnum" n="360"><hi rend="paranum">360</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"><hi rend="bold">Apahasitaṃ</hi><pb ed="M" n="0.0189" /> sajala’kkhi, vikkhittaṅgaṃ bhavatya’<hi rend="bold">tihasitaṃ;</hi></p>
+
+<p rend="gatha2">Dve dve kathitā ce’saṃ,</p>
+
+<p rend="gathalast">Jeṭṭhe <note>majjhe’dhameti ettha majjhe adhameti padacchedo</note> majjhe’dhame ca kamaso.</p>
+
+<p rend="title">Karuṇaṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="361"><hi rend="paranum">361</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sokarūpo tu <hi rend="bold">karuṇo,</hi> niṭṭhappatti’ṭṭha nāsato;</p>
+
+<p rend="gatha2">Tatthā’<hi rend="bold">nubhāvā</hi> rudita, paḷaya,tthambhakādayo;</p>
+
+<p rend="gathalast">Visādā,lasya,maraṇa, cintā’dī <hi rend="bold">byabhicārino.</hi></p>
+
+<p rend="title">Ruddaṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="362"><hi rend="paranum">362</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Kodho macchariyā’dīhi, pose tāsa, madādibhi;</p>
+
+<p rend="gathalast">Nayanā’ruṇatādīhi, <hi rend="bold">ruddo</hi> nāma raso bhave.</p>
+
+<p rend="title">Vīraṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="363"><hi rend="paranum">363</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Patāpa, vikkamā’dīhu, ssāho <hi rend="bold">‘vīro’</hi>ti saññito;</p>
+
+<p rend="gatha2">Raṇa,dāna,dayāyogā, vīro’yaṃ <hi rend="bold">tividho</hi> bhave;</p>
+
+<p rend="gathalast">Tevā’<hi rend="bold">nubhāvā</hi> dhiti,ma, tyā’dayo <hi rend="bold">byabhicārino.</hi></p>
+
+<p rend="title">Bhayaṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="364"><hi rend="paranum">364</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Vikārā,sani,sattā’di, bhayu’kkaṃso <hi rend="bold">bhayānako;</hi></p>
+
+<p rend="gathalast">Sedā’dayo <hi rend="bold">nubhāve’</hi>ttha, tāsā’dī <hi rend="bold">byabhicārino.</hi></p>
+
+<p rend="title">Jigucchāṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="365"><hi rend="paranum">365</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Jigucchā rudhirā’dīhi, pūtyā’dīhi virāgato;</p>
+
+<p rend="gatha2"><hi rend="bold">Bībhaccho</hi> khobhanu’bbegī, kamena karuṇāyuto;</p>
+
+<p rend="gathalast">Nāsā vikūṇanādīhi, saṅkādīhi’ssa posanaṃ.</p>
+
+<p rend="title">Vimhayaṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="366"><hi rend="paranum">366</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ati loka padatthehi, vimhayo’yaṃ raso’<hi rend="bold">bbhuto;</hi></p>
+
+<p rend="gatha2">Tassā’<hi rend="bold">nubhāvā</hi> seda,ssu, sādhuvādā’dayo siyuṃ;</p>
+
+<p rend="gathalast">Tāsā,vega,dhiti,ppaññā, honte’ttha <hi rend="bold">byabhicārino.</hi></p>
+
+<p rend="title">Samaṭṭhāyībhāva</p>
+
+<p rend="hangnum" n="367"><hi rend="paranum">367</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ṭhāyībhāvo samo mettā, dayā,modā’di sambhavo;</p>
+
+<p rend="gathalast">Bhāvādīhi ta’dukkaṃso, <hi rend="bold">santo</hi> santa nisevito.</p>
+
+<p rend="centre">Iti saṅgharakkhita mahāsāmiviracite subodhālaṅkāre</p>
+
+<p rend="centre">Rasabhāvā’vabodho nāma</p>
+
+<p rend="centre">Pañcamo paricchedo.</p>
+
+<p rend="centre">Subodhālaṅkāro samatto.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

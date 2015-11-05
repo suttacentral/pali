@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">(25) 5. Duccaritavaggo</p>
+
+<p rend="subhead">1. Paṭhamaduccaritasuttavaṇṇanā</p>
+
+<p rend="bodytext" n="241"><hi rend="paranum">241</hi><hi rend="dot">.</hi> Pañcamassa <pb ed="V" n="3.0086" /><pb ed="P" n="3.0333" /> paṭhame <hi rend="bold">duccarite sucarite</hi>ti idaṃ abhedato vuttaṃ, <hi rend="bold">kāyaduccarite</hi>tiādi kāyadvārādīnaṃ vasena bhedato. <hi rend="bold">Saddhammā</hi>ti dasakusalakammapathadhammato. <hi rend="bold">Asaddhamme</hi>ti akusalakammapathasaṅkhāte assaddhamme.</p>
+
+<p rend="subhead">9. Sivathikasuttavaṇṇanā</p>
+
+<p rend="bodytext" n="249"><hi rend="paranum">249</hi><hi rend="dot">.</hi> Navame <hi rend="bold">sivathikāyā</hi>ti susāne. <hi rend="bold">Ārodanā</hi>ti ārodanaṭṭhānaṃ. <hi rend="bold">Asucinā</hi>ti jigucchanīyena.</p>
+
+<p rend="subhead">10. Puggalappasādasuttavaṇṇanā</p>
+
+<p rend="bodytext" n="250"><hi rend="paranum">250</hi><hi rend="dot">.</hi> Dasame <hi rend="bold">puggalappasāde</hi>ti ekapuggalasmiṃ uppannappasāde. <hi rend="bold">Ante nisīdāpetī</hi>ti bhikkhūnaṃ āsanapariyante nisīdāpeti. Sesaṃ sabbattha uttānatthamevāti.</p>
+
+<p rend="centre">Duccaritavaggo pañcamo.</p>
+
+<p rend="centre">Pañcamapaṇṇāsakaṃ niṭṭhitaṃ.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

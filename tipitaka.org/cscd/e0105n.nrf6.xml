@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Mahāyānikanayavicāraṇā</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> Puna so tāvattakenāpi asantuṭṭho ācariyaṃ avamaññanto evamāha – ‘‘mahāyānanikāyassa padhānācariyabhūtānaṃ <hi rend="bold">assa ghosa-nāgajjunānaṃ</hi> nayaṃ vā, nāmamattampi vā tesaṃ na jānāti maññe buddhaghoso’’ti. Taṃ pana ativiya adhammikaṃ niratthakañca niggahavacanamattameva. Na hi nikāyantarikānaṃ vādanayānaṃ attano aṭṭhakathāyaṃ appakāsanena so te na jānātīti sakkā vattuṃ. Nanu ācariyena āgamaṭṭhakathāsu ganthārambheyeva –</p>
+
+<p rend="gatha1">‘‘Samayaṃ avilomento, therānaṃ theravaṃsapadīpānaṃ;</p>
+
+<p rend="gathalast">Sunipuṇavinicchayānaṃ, mahāvihāre nivāsina’’nti ca,</p>
+
+<p rend="bodytext">Idhāpi visuddhimagge –</p>
+
+<p rend="gatha1">‘‘Mahāvihāravāsīnaṃ, desanānayanissitaṃ;</p>
+
+<p rend="gathalast">Visuddhimaggaṃ bhāsissa’’nti <note>visuddhi. 1.2</note> ca,</p>
+
+<p rend="indent">‘‘Tassā atthasaṃvaṇṇanaṃ karontena vibhajjavādimaṇḍalaṃ otaritvā ācariye anabbhācikkhantena sakasamayaṃ avokkamantena parasamayaṃ anāyūhantena suttaṃ appaṭibāhantena vinayaṃ anulomentena mahāpadese olokentena dhammaṃ dīpentena atthaṃ saṅgāhentena tamevatthaṃ punarāvattetvā aparehipi pariyāyantarehi niddisantena ca yasmā atthasaṃvaṇṇanā kātabbā hotī’’ti <note>visuddhi. 2.581</note> ca,</p>
+
+<p rend="gatha1">‘‘Sāsanaṃ panidaṃ nānā-desanānayamaṇḍitaṃ;</p>
+
+<p rend="gatha2">Pubbācariyamaggo ca, abbocchinno pavattati;</p>
+
+<p rend="gatha3">Yasmā tasmā tadubhayaṃ, sannissāyatthavaṇṇanaṃ;</p>
+
+<p rend="gathalast">Ārabhissāmi etassā’’ti <note>visuddhi. 2.581</note> ca,</p>
+
+<p rend="bodytext">Paṭiññaṃ <pb ed="M" n="0.0017" /> katvā yathāpaṭiññātappakāreneva aṭṭhakathāyo katā. Evametāsaṃ karaṇe kāraṇampettha pakāsetabbaṃ, tasmā dāni tampakāsanatthaṃ sammāsambuddhassa parinibbutikālato paṭṭhāya yāva ācariyabuddhaghosassa kālo, tāva sāsanappavattikkamampi vakkhāma.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

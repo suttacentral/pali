@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Vejjācariya kaṇḍa</p>
+
+<p rend="hangnum" n="286"><hi rend="paranum">286</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Āyubedakatābhyāso <pb ed="M" n="0.0173" />, sabbesaṃ piyadassano;</p>
+
+<p rend="gathalast">Ariyasīlaguṇopeto, esa vejjo vidhīyate.</p>
+
+<p rend="hangnum" n="287"><hi rend="paranum">287</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Nānāganthajānanañca, sudiṭṭhakammasampadā;</p>
+
+<p rend="gathalast">Dakkhatā hatthasīghatā, pasādasūrasattitā.</p>
+
+<p rend="hangnum" n="288"><hi rend="paranum">288</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sābhāvikataṅkhaṇika-ñāṇasubhāsitāpi ca;</p>
+
+<p rend="gathalast">Ussāho dabbo sabbatā, vejjācerassa lakkhaṇaṃ;</p>
+
+<p rend="hangnum" n="289"><hi rend="paranum">289</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Kiliṭṭhavatthaṃ <pb ed="M" n="0.0174" /> kodho ca, atimānañca gammatā;</p>
+
+<p rend="gathalast">Animantitagamanaṃ, ete pañca vivajjiyā.</p>
+
+<p rend="hangnum" n="290"><hi rend="paranum">290</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Diṭṭhakammatā <pb ed="M" n="0.0175" /> socañca, dakkhatā viditāgamo;</p>
+
+<p rend="gathalast">Cattāro subhisakkassa, suguṇā viññunā matā.</p>
+
+<p rend="hangnum" n="291"><hi rend="paranum">291</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Rujāya jayalakkhaṇaṃ, raso ca bhesajjampi ca;</p>
+
+<p rend="gathalast">Tilakkhaṇabhedo ceva, viññeyyo bhisakkena ve.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

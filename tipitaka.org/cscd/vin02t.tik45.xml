@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Aparadutiyagāthāsaṅgaṇikaṃ</p>
+
+<p rend="subhead">Kāyikādiāpattivaṇṇanā</p>
+
+<p rend="bodytext" n="474"><hi rend="paranum">474</hi><hi rend="dot">.</hi> Vinaye garukā <hi rend="bold">vinayagarukā</hi>. Kiñcāpi idaṃ dvīsu gāthāsu āgataṃ, aññehi pana missetvā vuttabhāvato nānākaraṇaṃ paccetabbaṃ.</p>
+
+<p rend="subhead">Desanāgāminiyādivaṇṇanā</p>
+
+<p rend="bodytext" n="475"><hi rend="paranum">475</hi><hi rend="dot">.</hi><hi rend="bold">Dve saṃvāsakabhūmiyo</hi>ti ettha <hi rend="bold">bhūmī</hi>ti avatthā. Aṅgahīnatā kāraṇavekallavasenapi veditabbāti āha <hi rend="bold">‘‘apicetthā’’</hi>tiādi. <hi rend="bold">Esa nayo</hi>ti ‘‘apicetthā’’tiādinā vuttanayo. <hi rend="bold">Vanappatiṃ chindantassa pārājika</hi>nti adinnādāne vanappatikathāya āgataṃ parasantakaṃ sandhāya vuttaṃ. <hi rend="bold">Vissaṭṭhichaḍḍane</hi>ti sukkavissaṭṭhiyā mocane. <hi rend="bold">Dukkaṭā katā</hi>ti dukkaṭaṃ vuttaṃ. <hi rend="bold">Paṭhamasikkhāpadamhiyevā</hi>ti bhikkhunovādakavaggassa paṭhamasikkhāpadeyeva. Āmakadhaññaṃ viññāpetvā bhuñjantiyā pubbapayoge dukkaṭaṃ, ajjhohāre pācittiyaṃ.</p>
+
+<p rend="subhead">Pācittiyavaṇṇanā</p>
+
+<p rend="bodytext" n="476"><hi rend="paranum">476</hi><hi rend="dot">.</hi><hi rend="bold">Abbhuṇhasīlo</hi>ti <pb ed="V" n="3.0449" /> abhinavasīlo.</p>
+
+<p rend="bodytext" n="478"><hi rend="paranum">478</hi><hi rend="dot">.</hi><hi rend="bold">Asuttaka</hi>nti suttavirahitaṃ, suttato apanītaṃ natthīti attho.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

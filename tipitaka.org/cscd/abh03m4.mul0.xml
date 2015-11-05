@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Abhidhammapiṭake</p>
+
+<p rend="book">Yamakapāḷi (paṭhamo bhāgo)</p>
+
+<p rend="chapter">1. Mūlayamakaṃ</p>
+
+<p rend="subhead">(Ka) uddeso</p>
+
+<p rend="subhead">1. Mūlavāro</p>
+
+<p rend="subhead">1. Kusalā dhammā</p>
+
+<p rend="subhead">(1) Mūlanayo</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="T" n="1.0001" /><pb ed="V" n="1.0001" /><pb ed="M" n="1.0001" /> keci kusalā dhammā, sabbe te kusalamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlā, sabbe te dhammā kusalā?</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0002" /> keci kusalā dhammā, sabbe te kusalamūlena ekamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena ekamūlā, sabbe te dhammā kusalā?</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> (Ka) ye keci kusalamūlena ekamūlā dhammā, sabbe te kusalamūlena aññamaññamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena aññamaññamūlā, sabbe te dhammā kusalā?</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlamūlā, sabbe te dhammā kusalā?</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena ekamūlamūlā, sabbe te dhammā kusalā?</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> (Ka) ye keci kusalamūlena ekamūlamūlā dhammā, sabbe te kusalamūlena aññamaññamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena aññamaññamūlamūlā, sabbe te dhammā kusalā?</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="M" n="1.0002" /> keci kusalā dhammā, sabbe te kusalamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlakā, sabbe te <pb ed="T" n="1.0002" /> dhammā kusalā?</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena ekamūlakā, sabbe te dhammā kusalā?</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0003" /> keci kusalamūlena ekamūlakā dhammā, sabbe te kusalamūlena aññamaññamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena aññamaññamūlakā, sabbe te dhammā kusalā?</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlamūlakā, sabbe te dhammā kusalā?</p>
+
+<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena ekamūlamūlakā, sabbe te dhammā kusalā?</p>
+
+<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> (Ka) ye keci kusalamūlena ekamūlamūlakā dhammā, sabbe te kusalamūlena aññamaññamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena aññamaññamūlamūlakā, sabbe te dhammā kusalā?</p>
+
+<p rend="title">2. Akusalā dhammā (1) mūlanayo</p>
+
+<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> (Ka) ye keci akusalamūlena ekamūlā dhammā, sabbe te akusalamūlena aññamaññamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlā, sabbe te dhammā akusalā?</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0004" /> keci akusalā dhammā, sabbe te akusalamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlamūlā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="M" n="1.0003" /> keci akusalā dhammā, sabbe te akusalamūlena ekamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlamūlā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> (Ka) ye keci akusalamūlena ekamūlamūlā dhammā <pb ed="T" n="1.0003" />, sabbe te akusalamūlena aññamaññamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlamūlā, sabbe te dhammā akusalā?</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlakā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlakā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi> (Ka) ye keci akusalamūlena ekamūlakā dhammā, sabbe te akusalamūlena aññamaññamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlakā, sabbe te dhammā akusalā?</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlamūlakā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="23"><hi rend="paranum">23</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0005" /> keci akusalā dhammā, sabbe te akusalamūlena ekamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlamūlakā, sabbe te dhammā akusalā?</p>
+
+<p rend="bodytext" n="24"><hi rend="paranum">24</hi><hi rend="dot">.</hi> (Ka) ye keci akusalamūlena ekamūlamūlakā dhammā, sabbe te akusalamūlena aññamaññamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlamūlakā, sabbe te dhammā akusalā?</p>
+
+<p rend="title">3. Abyākatā dhammā (1) mūlanayo</p>
+
+<p rend="bodytext" n="25"><hi rend="paranum">25</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="26"><hi rend="paranum">26</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="M" n="1.0004" /> keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="27"><hi rend="paranum">27</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatamūlena ekamūlā dhammā, sabbe te abyākatamūlena aññamaññamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlā, sabbe <pb ed="T" n="1.0004" /> te dhammā abyākatā?</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="28"><hi rend="paranum">28</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlamūlā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="29"><hi rend="paranum">29</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0006" /> keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlamūlā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="30"><hi rend="paranum">30</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatamūlena ekamūlamūlā dhammā, sabbe te abyākatamūlena aññamaññamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlamūlā, sabbe te dhammā abyākatā?</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlakā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="32"><hi rend="paranum">32</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlakā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatamūlena ekamūlakā dhammā, sabbe te abyākatamūlena aññamaññamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlakā, sabbe te dhammā abyākatā?</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="34"><hi rend="paranum">34</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlamūlakā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="35"><hi rend="paranum">35</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlamūlakā, sabbe te dhammā abyākatā?</p>
+
+<p rend="bodytext" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0007" /><pb ed="M" n="1.0005" /> keci abyākatamūlena ekamūlamūlakā dhammā, sabbe te abyākatamūlena aññamaññamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlamūlakā, sabbe te dhammā abyākatā?</p>
+
+<p rend="title">4. Nāmā dhammā (1) mūlanayo</p>
+
+<p rend="bodytext" n="37"><hi rend="paranum">37</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="T" n="1.0005" /> keci nāmā dhammā, sabbe te nāmamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="38"><hi rend="paranum">38</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="39"><hi rend="paranum">39</hi><hi rend="dot">.</hi> (Ka) ye keci nāmamūlena ekamūlā dhammā, sabbe te nāmamūlena aññamaññamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena aññamaññamūlā, sabbe te dhammā nāmā?</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="40"><hi rend="paranum">40</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlamūlā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlamūlā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="42"><hi rend="paranum">42</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0008" /> keci nāmamūlena ekamūlamūlā dhammā, sabbe te nāmamūlena aññamaññamūlamūlā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena aññamaññamūlamūlā, sabbe te dhammā nāmā?</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlakā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="44"><hi rend="paranum">44</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlakā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="45"><hi rend="paranum">45</hi><hi rend="dot">.</hi> (Ka) ye keci nāmamūlena ekamūlakā dhammā, sabbe te nāmamūlena aññamaññamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena aññamaññamūlakā, sabbe te dhammā nāmā?</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="46"><hi rend="paranum">46</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="M" n="1.0006" /> keci nāmā dhammā, sabbe te nāmamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlamūlakā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="47"><hi rend="paranum">47</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlamūlakā, sabbe te dhammā nāmā?</p>
+
+<p rend="bodytext" n="48"><hi rend="paranum">48</hi><hi rend="dot">.</hi> (Ka) ye keci nāmamūlena ekamūlamūlakā <pb ed="T" n="1.0006" /> dhammā, sabbe te nāmamūlena aññamaññamūlamūlakā?</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena aññamaññamūlamūlakā, sabbe te dhammā nāmā?</p>
+
+<p rend="centre">Mūlavārauddeso.</p>
+
+<p rend="title">2-10. Hetuvārādi</p>
+
+<p rend="bodytext" n="49"><hi rend="paranum">49</hi><hi rend="dot">.</hi> Ye <pb ed="V" n="1.0009" /> keci kusalā dhammā, sabbe te kusalahetū…pe… kusalanidānā…pe… kusalasambhavā…pe… kusalappabhavā…pe… kusalasamuṭṭhānā…pe… kusalāhārā…pe… kusalārammaṇā…pe… kusalapaccayā…pe… kusalasamudayā…pe….</p>
+
+<p rend="gatha1">Mūlaṃ hetu nidānañca, sambhavo pabhavena ca;</p>
+
+<p rend="gathalast">Samuṭṭhānāhārārammaṇā <note>samuṭṭhānāhārārammaṇaṃ (ka.)</note>, paccayo samudayena cāti.</p>
+
+<p rend="centre">Uddesavāro niṭṭhito.</p>
+
+<p rend="subhead">(Kha) niddeso</p>
+
+<p rend="title">1. Mūlavāro</p>
+
+<p rend="title">1. Kusalā dhammā (1) mūlanayo</p>
+
+<p rend="bodytext" n="50"><hi rend="paranum">50</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlāti? Tīṇeva kusalamūlāni. Avasesā kusalā dhammā na kusalamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlā, sabbe te dhammā kusalāti? Āmantā.</p>
+
+<p rend="bodytext" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena ekamūlā, sabbe te dhammā kusalāti <pb ed="M" n="1.0007" />?</p>
+
+<p rend="bodytext">Kusalasamuṭṭhānaṃ <pb ed="V" n="1.0010" /> rūpaṃ kusalamūlena ekamūlaṃ, na kusalaṃ. Kusalaṃ kusalamūlena ekamūlañceva kusalañca.</p>
+
+<p rend="bodytext" n="52"><hi rend="paranum">52</hi><hi rend="dot">.</hi> (Ka) ye keci kusalamūlena ekamūlā dhammā, sabbe te kusalamūlena aññamaññamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti kusalamūlāni ekamūlāni ceva aññamaññamūlāni ca. Avasesā kusalamūlasahajātā dhammā kusalamūlena ekamūlā, na ca aññamaññamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena <pb ed="T" n="1.0007" /> aññamaññamūlā, sabbe te dhammā kusalāti? Āmantā.</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlamūlāti? Tīṇeva kusalamūlamūlāni. Avasesā kusalā dhammā na kusalamūlamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlamūlā, sabbe te dhammā kusalāti? Āmantā.</p>
+
+<p rend="bodytext" n="54"><hi rend="paranum">54</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlamūlāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena ekamūlamūlā, sabbe te dhammā kusalāti?</p>
+
+<p rend="bodytext">Kusalasamuṭṭhānaṃ rūpaṃ kusalamūlena ekamūlamūlaṃ, na kusalaṃ. Kusalaṃ kusalamūlena ekamūlamūlañceva kusalañca.</p>
+
+<p rend="bodytext" n="55"><hi rend="paranum">55</hi><hi rend="dot">.</hi> (Ka) ye keci kusalamūlena ekamūlamūlā dhammā, sabbe te kusalamūlena aññamaññamūlamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti kusalamūlāni ekamūlamūlāni ceva aññamaññamūlamūlāni ca. Avasesā kusalamūlasahajātā dhammā kusalamūlena ekamūlamūlā, na ca aññamaññamūlamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena aññamaññamūlamūlā, sabbe te dhammā kusalāti? Āmantā.</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="56"><hi rend="paranum">56</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0011" /> keci kusalā dhammā, sabbe te kusalamūlakāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlakā, sabbe te dhammā kusalāti?</p>
+
+<p rend="bodytext">Kusalasamuṭṭhānaṃ rūpaṃ kusalamūlakaṃ na kusalaṃ. Kusalaṃ kusalamūlakañceva kusalañca.</p>
+
+<p rend="bodytext" n="57"><hi rend="paranum">57</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlakāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena ekamūlakā, sabbe te dhammā kusalāti?</p>
+
+<p rend="bodytext">Kusalasamuṭṭhānaṃ rūpaṃ kusalamūlena ekamūlakaṃ, na kusalaṃ. Kusalaṃ kusalamūlena ekamūlakañceva kusalañca.</p>
+
+<p rend="bodytext" n="58"><hi rend="paranum">58</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="M" n="1.0008" /> keci kusalamūlena ekamūlakā dhammā, sabbe <pb ed="T" n="1.0008" /> te kusalamūlena aññamaññamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti kusalamūlāni ekamūlakāni ceva aññamaññamūlakāni ca. Avasesā kusalamūlasahajātā dhammā kusalamūlena ekamūlakā, na ca aññamaññamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena aññamaññamūlakā, sabbe te dhammā kusalāti? Āmantā.</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="59"><hi rend="paranum">59</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlamūlakāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlamūlakā, sabbe te dhammā kusalāti?</p>
+
+<p rend="bodytext">Kusalasamuṭṭhānaṃ rūpaṃ kusalamūlamūlakaṃ na kusalaṃ. Kusalaṃ kusalamūlamūlakañceva kusalañca.</p>
+
+<p rend="bodytext" n="60"><hi rend="paranum">60</hi><hi rend="dot">.</hi> (Ka) ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlamūlakāti? Āmantā.</p>
+
+<p rend="bodytext">(Kha) ye <pb ed="V" n="1.0012" /> vā pana kusalamūlena ekamūlamūlakā, sabbe te dhammā kusalāti?</p>
+
+<p rend="bodytext">Kusalasamuṭṭhānaṃ rūpaṃ kusalamūlena ekamūlamūlakaṃ, na kusalaṃ. Kusalaṃ kusalamūlena ekamūlamūlakañceva kusalañca.</p>
+
+<p rend="bodytext" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi> (Ka) ye keci kusalamūlena ekamūlamūlakā dhammā, sabbe te kusalamūlena aññamaññamūlamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti kusalamūlāni ekamūlamūlakāni ceva aññamaññamūlamūlakāni ca. Avasesā kusalamūlasahajātā dhammā kusalamūlena ekamūlamūlakā, na ca aññamaññamūlamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana kusalamūlena aññamaññamūlamūlakā, sabbe te dhammā kusalāti? Āmantā.</p>
+
+<p rend="title">2. Akusalā dhammā (1) mūlanayo</p>
+
+<p rend="bodytext" n="62"><hi rend="paranum">62</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlāti?</p>
+
+<p rend="bodytext">Tīṇeva akusalamūlāni. Avasesā akusalā dhammā na akusalamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana <pb ed="T" n="1.0009" /> akusalamūlā, sabbe te dhammā akusalāti? Āmantā.</p>
+
+<p rend="bodytext" n="63"><hi rend="paranum">63</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlāti?</p>
+
+<p rend="bodytext">Ahetukaṃ akusalaṃ akusalamūlena na ekamūlaṃ. Sahetukaṃ akusalaṃ akusalamūlena ekamūlaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlā, sabbe te dhammā akusalāti?</p>
+
+<p rend="bodytext">Akusalasamuṭṭhānaṃ rūpaṃ akusalamūlena <pb ed="M" n="1.0009" /> ekamūlaṃ, na akusalaṃ. Akusalaṃ akusalamūlena ekamūlañceva akusalañca.</p>
+
+<p rend="bodytext" n="64"><hi rend="paranum">64</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0013" /> keci akusalamūlena ekamūlā dhammā, sabbe te akusalamūlena aññamaññamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti akusalamūlāni ekamūlāni ceva aññamaññamūlāni ca. Avasesā akusalamūlasahajātā dhammā akusalamūlena ekamūlā, na ca aññamaññamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlā, sabbe te dhammā akusalāti? Āmantā.</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlamūlāti?</p>
+
+<p rend="bodytext">Tīṇeva akusalamūlamūlāni. Avasesā akusalā dhammā na akusalamūlamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlamūlā, sabbe te dhammā akusalāti? Āmantā.</p>
+
+<p rend="bodytext" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlamūlāti?</p>
+
+<p rend="bodytext">Ahetukaṃ akusalaṃ akusalamūlena na ekamūlamūlaṃ. Sahetukaṃ akusalaṃ akusalamūlena ekamūlamūlaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlamūlā, sabbe te dhammā akusalāti?</p>
+
+<p rend="bodytext">Akusalasamuṭṭhānaṃ rūpaṃ akusalamūlena ekamūlamūlaṃ, na akusalaṃ. Akusalaṃ akusalamūlena ekamūlamūlañceva akusalañca.</p>
+
+<p rend="bodytext" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi> (Ka) ye keci akusalamūlena ekamūlamūlā dhammā, sabbe te akusalamūlena <pb ed="T" n="1.0010" /> aññamaññamūlamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti akusalamūlāni ekamūlamūlāni ceva aññamaññamūlamūlāni ca. Avasesā akusalamūlasahajātā dhammā akusalamūlena ekamūlamūlā, na ca aññamaññamūlamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlamūlā, sabbe te dhammā akusalāti? Āmantā.</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0014" /> keci akusalā dhammā, sabbe te akusalamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ akusalaṃ na akusalamūlakaṃ. Sahetukaṃ akusalaṃ akusalamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlakā, sabbe te dhammā akusalāti?</p>
+
+<p rend="bodytext">Akusalasamuṭṭhānaṃ rūpaṃ akusalamūlakaṃ na akusalaṃ. Akusalaṃ akusalamūlakañceva akusalañca.</p>
+
+<p rend="bodytext" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="M" n="1.0010" /> keci akusalā dhammā, sabbe te akusalamūlena ekamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ akusalaṃ akusalamūlena na ekamūlakaṃ. Sahetukaṃ akusalaṃ akusalamūlena ekamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlakā, sabbe te dhammā akusalāti?</p>
+
+<p rend="bodytext">Akusalasamuṭṭhānaṃ rūpaṃ akusalamūlena ekamūlakaṃ, na akusalaṃ. Akusalaṃ akusalamūlena ekamūlakañceva akusalañca.</p>
+
+<p rend="bodytext" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi> (Ka) ye keci akusalamūlena ekamūlakā dhammā, sabbe te akusalamūlena aññamaññamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti akusalamūlāni ekamūlakāni ceva aññamaññamūlakāni ca. Avasesā akusalamūlasahajātā dhammā akusalamūlena ekamūlakā na ca aññamaññamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlakā, sabbe te dhammā akusalāti? Āmantā.</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ <pb ed="T" n="1.0011" /> akusalaṃ na akusalamūlamūlakaṃ. Sahetukaṃ akusalaṃ akusalamūlamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye <pb ed="V" n="1.0015" /> vā pana akusalamūlamūlakā, sabbe te dhammā akusalāti?</p>
+
+<p rend="bodytext">Akusalasamuṭṭhānaṃ rūpaṃ akusalamūlamūlakaṃ na akusalaṃ. Akusalaṃ akusalamūlamūlakañceva akusalañca.</p>
+
+<p rend="bodytext" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi> (Ka) ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ akusalaṃ akusalamūlena na ekamūlamūlakaṃ. Sahetukaṃ akusalaṃ akusalamūlena ekamūlamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena ekamūlamūlakā, sabbe te dhammā akusalāti?</p>
+
+<p rend="bodytext">Akusalasamuṭṭhānaṃ rūpaṃ akusalamūlena ekamūlamūlakaṃ, na akusalaṃ. Akusalaṃ akusalamūlena ekamūlamūlakañceva akusalañca.</p>
+
+<p rend="bodytext" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi> (Ka) ye keci akusalamūlena ekamūlamūlakā dhammā, sabbe te akusalamūlena aññamaññamūlamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti akusalamūlāni ekamūlamūlakāni ceva aññamaññamūlamūlakāni ca. Avasesā akusalamūlasahajātā dhammā akusalamūlena ekamūlamūlakā, na ca aññamaññamūlamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana akusalamūlena aññamaññamūlamūlakā, sabbe te dhammā akusalāti? Āmantā.</p>
+
+<p rend="title">3. Abyākatā dhammā (1) mūlanayo</p>
+
+<p rend="bodytext" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="M" n="1.0011" /> keci abyākatā dhammā, sabbe te abyākatamūlāti?</p>
+
+<p rend="bodytext">Tīṇeva abyākatamūlāni. Avasesā abyākatā dhammā na abyākatamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="bodytext" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0016" /> keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlāti?</p>
+
+<p rend="bodytext">Ahetukaṃ abyākataṃ abyākatamūlena na ekamūlaṃ. Sahetukaṃ abyākataṃ abyākatamūlena <pb ed="T" n="1.0012" /> ekamūlaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="bodytext" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatamūlena ekamūlā dhammā, sabbe te abyākatamūlena aññamaññamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti abyākatamūlāni ekamūlāni ceva aññamaññamūlāni ca. Avasesā abyākatamūlasahajātā dhammā abyākatamūlena ekamūlā, na ca aññamaññamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlamūlāti?</p>
+
+<p rend="bodytext">Tīṇeva abyākatamūlamūlāni. Avasesā abyākatā dhammā na abyākatamūlamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlamūlā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="bodytext" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlamūlāti?</p>
+
+<p rend="bodytext">Ahetukaṃ abyākataṃ abyākatamūlena na ekamūlamūlaṃ. Sahetukaṃ abyākataṃ abyākatamūlena ekamūlamūlaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlamūlā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="bodytext" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatamūlena ekamūlamūlā dhammā, sabbe te abyākatamūlena aññamaññamūlamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti abyākatamūlāni ekamūlamūlāni ceva aññamaññamūlamūlāni ca. Avasesā abyākatamūlasahajātā <pb ed="V" n="1.0017" /> dhammā abyākatamūlena ekamūlamūlā, na ca aññamaññamūlamūlā <pb ed="M" n="1.0012" />.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlamūlā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="T" n="1.0013" /> keci abyākatā dhammā, sabbe te abyākatamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ abyākataṃ na abyākatamūlakaṃ. Sahetukaṃ abyākataṃ abyākatamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlakā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="bodytext" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ abyākataṃ abyākatamūlena na ekamūlakaṃ. Sahetukaṃ abyākataṃ abyākatamūlena ekamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlakā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="bodytext" n="82"><hi rend="paranum">82</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatamūlena ekamūlakā dhammā, sabbe te abyākatamūlena aññamaññamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti abyākatamūlāni ekamūlakāni ceva aññamaññamūlakāni ca. Avasesā abyākatamūlasahajātā dhammā abyākatamūlena ekamūlakā, na ca aññamaññamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlakā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="83"><hi rend="paranum">83</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0018" /> keci abyākatā dhammā, sabbe te abyākatamūlamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ abyākataṃ na abyākatamūlamūlakaṃ. Sahetukaṃ abyākataṃ abyākatamūlamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlamūlakā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="bodytext" n="84"><hi rend="paranum">84</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ abyākataṃ abyākatamūlena na ekamūlamūlakaṃ. Sahetukaṃ abyākataṃ abyākatamūlena ekamūlamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena ekamūlamūlakā, sabbe te dhammā abyākatāti <pb ed="T" n="1.0014" />? Āmantā.</p>
+
+<p rend="bodytext" n="85"><hi rend="paranum">85</hi><hi rend="dot">.</hi> (Ka) ye keci abyākatamūlena ekamūlamūlakā dhammā, sabbe te abyākatamūlena aññamaññamūlamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti abyākatamūlāni ekamūlamūlakāni ceva aññamaññamūlamūlakāni ca. Avasesā <pb ed="M" n="1.0013" /> abyākatamūlasahajātā dhammā abyākatamūlena ekamūlamūlakā, na ca aññamaññamūlamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana abyākatamūlena aññamaññamūlamūlakā, sabbe te dhammā abyākatāti? Āmantā.</p>
+
+<p rend="title">4. Nāmā dhammā (1) mūlanayo</p>
+
+<p rend="bodytext" n="86"><hi rend="paranum">86</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0019" /> keci nāmā dhammā, sabbe te nāmamūlāti?</p>
+
+<p rend="bodytext">Naveva nāmamūlāni. Avasesā nāmā dhammā na nāmamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlā, sabbe te dhammā nāmāti? Āmantā.</p>
+
+<p rend="bodytext" n="87"><hi rend="paranum">87</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlāti?</p>
+
+<p rend="bodytext">Ahetukaṃ nāmaṃ nāmamūlena na ekamūlaṃ. Sahetukaṃ nāmaṃ nāmamūlena ekamūlaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlā, sabbe te dhammā nāmāti?</p>
+
+<p rend="bodytext">Nāmasamuṭṭhānaṃ rūpaṃ nāmamūlena ekamūlaṃ, na nāmaṃ. Nāmaṃ nāmamūlena ekamūlañceva nāmañca.</p>
+
+<p rend="bodytext" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi> (Ka) ye keci nāmamūlena ekamūlā dhammā, sabbe te nāmamūlena aññamaññamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti nāmamūlāni ekamūlāni ceva aññamaññamūlāni ca. Avasesā nāmamūlasahajātā dhammā nāmamūlena ekamūlā, na ca aññamaññamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena aññamaññamūlā, sabbe te dhammā nāmāti? Āmantā.</p>
+
+<p rend="subhead">(2) Mūlamūlanayo</p>
+
+<p rend="bodytext" n="89"><hi rend="paranum">89</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="T" n="1.0015" /> keci nāmā dhammā, sabbe te nāmamūlamūlāti?</p>
+
+<p rend="bodytext">Naveva nāmamūlamūlāni. Avasesā nāmā dhammā na nāmamūlamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlamūlā, sabbe te dhammā nāmāti? Āmantā.</p>
+
+<p rend="bodytext" n="90"><hi rend="paranum">90</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlamūlāti?</p>
+
+<p rend="bodytext">Ahetukaṃ <pb ed="V" n="1.0020" /> nāmaṃ nāmamūlena na ekamūlamūlaṃ. Sahetukaṃ nāmaṃ nāmamūlena ekamūlamūlaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlamūlā, sabbe te dhammā nāmāti?</p>
+
+<p rend="bodytext">Nāmasamuṭṭhānaṃ rūpaṃ nāmamūlena ekamūlamūlaṃ, na nāmaṃ. Nāmaṃ nāmamūlena ekamūlamūlañceva nāmañca.</p>
+
+<p rend="bodytext" n="91"><hi rend="paranum">91</hi><hi rend="dot">.</hi> (Ka) ye keci nāmamūlena ekamūlamūlā dhammā, sabbe te nāmamūlena aññamaññamūlamūlāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti nāmamūlāni ekamūlamūlāni <pb ed="M" n="1.0014" /> ceva aññamaññamūlamūlāni ca. Avasesā nāmamūlasahajātā dhammā nāmamūlena ekamūlamūlā, na ca aññamaññamūlamūlā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena aññamaññamūlamūlā, sabbe te dhammā nāmāti? Āmantā.</p>
+
+<p rend="subhead">(3) Mūlakanayo</p>
+
+<p rend="bodytext" n="92"><hi rend="paranum">92</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ nāmaṃ na nāmamūlakaṃ. Sahetukaṃ nāmaṃ nāmamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlakā, sabbe te dhammā nāmāti?</p>
+
+<p rend="bodytext">Nāmasamuṭṭhānaṃ rūpaṃ nāmamūlakaṃ, na nāmaṃ. Nāmaṃ nāmamūlakañceva nāmañca.</p>
+
+<p rend="bodytext" n="93"><hi rend="paranum">93</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ nāmaṃ nāmamūlena na ekamūlakaṃ. Sahetukaṃ nāmaṃ nāmamūlena ekamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlakā, sabbe te dhammā nāmāti?</p>
+
+<p rend="bodytext">Nāmasamuṭṭhānaṃ rūpaṃ <pb ed="T" n="1.0016" /> nāmamūlena ekamūlakaṃ, na nāmaṃ. Nāmaṃ nāmamūlena ekamūlakañceva nāmañca.</p>
+
+<p rend="bodytext" n="94"><hi rend="paranum">94</hi><hi rend="dot">.</hi> (Ka) ye <pb ed="V" n="1.0021" /> keci nāmamūlena ekamūlakā dhammā, sabbe te nāmamūlena aññamaññamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti nāmamūlāni ekamūlakāni ceva aññamaññamūlakāni ca. Avasesā nāmamūlasahajātā dhammā nāmamūlena ekamūlakā, na ca aññamaññamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena aññamaññamūlakā, sabbe te dhammā nāmāti? Āmantā.</p>
+
+<p rend="subhead">(4) Mūlamūlakanayo</p>
+
+<p rend="bodytext" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ nāmaṃ na nāmamūlamūlakaṃ. Sahetukaṃ nāmaṃ nāmamūlamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlamūlakā, sabbe te dhammā nāmāti?</p>
+
+<p rend="bodytext">Nāmasamuṭṭhānaṃ rūpaṃ nāmamūlamūlakaṃ, na nāmaṃ. Nāmaṃ nāmamūlamūlakañceva nāmañca.</p>
+
+<p rend="bodytext" n="96"><hi rend="paranum">96</hi><hi rend="dot">.</hi> (Ka) ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlamūlakāti?</p>
+
+<p rend="bodytext">Ahetukaṃ nāmaṃ nāmamūlena na ekamūlamūlakaṃ. Sahetukaṃ nāmaṃ nāmamūlena ekamūlamūlakaṃ.</p>
+
+<p rend="bodytext">(Kha) ye vā pana nāmamūlena ekamūlamūlakā, sabbe te dhammā nāmāti?</p>
+
+<p rend="bodytext">Nāmasamuṭṭhānaṃ rūpaṃ nāmamūlena ekamūlamūlakaṃ, na nāmaṃ. Nāmaṃ nāmamūlena ekamūlamūlakañceva nāmañca.</p>
+
+<p rend="bodytext" n="97"><hi rend="paranum">97</hi><hi rend="dot">.</hi> (Ka) ye keci nāmamūlena ekamūlamūlakā dhammā, sabbe te nāmamūlena aññamaññamūlamūlakāti?</p>
+
+<p rend="bodytext">Mūlāni yāni ekato uppajjanti nāmamūlāni <pb ed="M" n="1.0015" /> ekamūlamūlakāni ceva aññamaññamūlamūlakāni ca. Avasesā nāmamūlasahajātā dhammā nāmamūlena ekamūlamūlakā, na ca aññamaññamūlamūlakā.</p>
+
+<p rend="bodytext">(Kha) ye <pb ed="V" n="1.0022" /> vā pana nāmamūlena aññamaññamūlamūlakā, sabbe te dhammā nāmāti?</p>
+
+<p rend="bodytext">Āmantā.</p>
+
+<p rend="centre">Mūlavāraniddeso.</p>
+
+<p rend="title">2-10. Hetuvārādi</p>
+
+<p rend="bodytext" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi> Ye <pb ed="T" n="1.0017" /> keci kusalā dhammā, sabbe te kusalahetūti…?</p>
+
+<p rend="bodytext">Tayo eva kusalahetū, avasesā kusalā dhammā na kusalahetū…pe… kusalanidānā… kusalasambhavā… kusalappabhavā… kusalasamuṭṭhānā… kusalāhārā… kusalārammaṇā… kusalapaccayā… kusalasamudayā….</p>
+
+<p rend="bodytext" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi> Ye keci akusalā dhammā… ye keci abyākatā dhammā… ye keci nāmā dhammā, sabbe te nāmahetū ti… nāmanidānā… nāmasambhavā… nāmappabhavā… nāmasamuṭṭhānā… nāmāhārā… nāmārammaṇā… nāmapaccayā… nāmasamudayā….</p>
+
+<p rend="gatha1">Mūlaṃ hetu nidānañca, sambhavo pabhavena ca;</p>
+
+<p rend="gathalast">Samuṭṭhānāhārārammaṇā, paccayo samudayena cāti.</p>
+
+<p rend="centre">Niddesavāro niṭṭhito.</p>
+
+<p rend="centre">Mūlayamakapāḷi niṭṭhitā.</p>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

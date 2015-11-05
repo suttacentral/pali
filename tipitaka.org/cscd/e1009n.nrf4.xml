@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Āsīsa</p>
+
+<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Bahussuto <pb ed="M" n="0.0037" /> ca medhāvī,</p>
+
+<p rend="gatha2">Sīlesuca samāhito;</p>
+
+<p rend="gatha3">Cetosamathānuyutto,</p>
+
+<p rend="gathalast">Api muddhani tiṭṭhatu.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

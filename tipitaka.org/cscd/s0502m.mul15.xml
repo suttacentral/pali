@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">16. Piyavaggo</p>
+
+<p rend="hangnum" n="209"><hi rend="paranum">209</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ayoge <pb ed="V" n="0.0040" /> yuñjamattānaṃ, yogasmiñca ayojayaṃ;</p>
+
+<p rend="gathalast">Atthaṃ hitvā piyaggāhī, pihetattānuyoginaṃ.</p>
+
+<p rend="hangnum" n="210"><hi rend="paranum">210</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Mā <pb ed="P" n="0.0032" /> piyehi samāgañchi, appiyehi kudācanaṃ;</p>
+
+<p rend="gathalast">Piyānaṃ adassanaṃ dukkhaṃ, appiyānañca dassanaṃ.</p>
+
+<p rend="hangnum" n="211"><hi rend="paranum">211</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tasmā piyaṃ na kayirātha, piyāpāyo hi pāpako;</p>
+
+<p rend="gathalast">Ganthā tesaṃ na vijjanti, yesaṃ natthi piyāppiyaṃ.</p>
+
+<p rend="hangnum" n="212"><hi rend="paranum">212</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Piyato jāyatī soko, piyato jāyatī <note>jāyate (ka.)</note> bhayaṃ;</p>
+
+<p rend="gathalast">Piyato vippamuttassa, natthi soko kuto bhayaṃ.</p>
+
+<p rend="hangnum" n="213"><hi rend="paranum">213</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Pemato <pb ed="M" n="0.0045" /> jāyatī soko, pemato jāyatī bhayaṃ;</p>
+
+<p rend="gathalast">Pemato vippamuttassa, natthi soko kuto bhayaṃ.</p>
+
+<p rend="hangnum" n="214"><hi rend="paranum">214</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ;</p>
+
+<p rend="gathalast">Ratiyā vippamuttassa, natthi soko kuto bhayaṃ.</p>
+
+<p rend="hangnum" n="215"><hi rend="paranum">215</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Kāmato jāyatī soko, kāmato jāyatī bhayaṃ;</p>
+
+<p rend="gathalast">Kāmato <pb ed="T" n="0.0044" /> vippamuttassa, natthi soko kuto bhayaṃ.</p>
+
+<p rend="hangnum" n="216"><hi rend="paranum">216</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Taṇhāya jāyatī <note>jāyate (ka.)</note> soko, taṇhāya jāyatī bhayaṃ;</p>
+
+<p rend="gathalast">Taṇhāya vippamuttassa, natthi soko kuto bhayaṃ.</p>
+
+<p rend="hangnum" n="217"><hi rend="paranum">217</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Sīladassanasampannaṃ <pb ed="V" n="0.0041" />, dhammaṭṭhaṃ saccavedinaṃ;</p>
+
+<p rend="gathalast">Attano kamma kubbānaṃ, taṃ jano kurute piyaṃ.</p>
+
+<p rend="hangnum" n="218"><hi rend="paranum">218</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Chandajāto anakkhāte, manasā ca phuṭo siyā;</p>
+
+<p rend="gathalast">Kāmesu ca appaṭibaddhacitto <note>appaṭibandhacitto (ka.)</note>, uddhaṃsototi vuccati.</p>
+
+<p rend="hangnum" n="219"><hi rend="paranum">219</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Cirappavāsiṃ purisaṃ, dūrato sotthimāgataṃ;</p>
+
+<p rend="gathalast">Ñātimittā suhajjā ca, abhinandanti āgataṃ.</p>
+
+<p rend="hangnum" n="220"><hi rend="paranum">220</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Tatheva <pb ed="P" n="0.0033" /> katapuññampi, asmā lokā paraṃ gataṃ;</p>
+
+<p rend="gathalast">Puññāni paṭigaṇhanti, piyaṃ ñātīva āgataṃ.</p>
+
+<p rend="centre">Piyavaggo soḷasamo niṭṭhito.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>

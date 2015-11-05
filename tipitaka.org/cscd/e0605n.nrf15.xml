@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">Abyāpetādyantayamakagāthā</p>
+
+<p rend="hangnum" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi></p>
+
+<p rend="gatha1"> Raveraverorabhimārabherave,</p>
+
+<p rend="gatha2">Raveraveriva bherave rave;</p>
+
+<p rend="gatha3">Rave rave sūditagārave rave,</p>
+
+<p rend="gathalast">Raveravedesi jinorave rave.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>
